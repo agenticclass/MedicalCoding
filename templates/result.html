@@ -20,59 +20,158 @@
                     </div>
                 </div>
 
-                <!-- Coding Suggestions -->
+                <!-- Error Message -->
+                {% if error %}
+                <div class="mb-8">
+                    <div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative" role="alert">
+                        <strong class="font-bold">Error: </strong>
+                        <span class="block sm:inline">{{ error }}</span>
+                    </div>
+                </div>
+                {% endif %}
+
+                <!-- Analysis Results -->
+                {% if not error %}
                 <div class="space-y-8">
-                    <!-- ICD-10 Codes -->
-                    <div>
-                        <h2 class="text-xl font-semibold text-gray-700 mb-4">ICD-10 Codes</h2>
-                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                            {% for code in result.choices[0].message.content.split('\n') %}
-                                {% if 'ICD-10' in code %}
-                                <div class="bg-gray-50 p-4 rounded-lg">
-                                    <div class="text-gray-700">{{ code }}</div>
-                                </div>
-                                {% endif %}
-                            {% endfor %}
-                        </div>
+                    <!-- Document Type Badge -->
+                    <div class="flex justify-between items-center">
+                        <span class="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium
+                            {% if doc_type == 'medical_coding' %}
+                                bg-blue-100 text-blue-800
+                            {% elif doc_type == 'authorization' %}
+                                bg-green-100 text-green-800
+                            {% elif doc_type == 'claim_attachment' %}
+                                bg-purple-100 text-purple-800
+                            {% elif doc_type == 'claim_status' %}
+                                bg-yellow-100 text-yellow-800
+                            {% endif %}
+                        ">
+                            {{ doc_type | replace('_', ' ') | title }}
+                        </span>
                     </div>
+                {% endif %}
 
-                    <!-- CPT Codes -->
-                    <div>
-                        <h2 class="text-xl font-semibold text-gray-700 mb-4">CPT Codes</h2>
-                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                            {% for code in result.choices[0].message.content.split('\n') %}
-                                {% if 'CPT' in code %}
+                    <!-- Analysis Sections -->
+                    {% if doc_type == 'medical_coding' %}
+                        <!-- Medical Coding Analysis -->
+                        <div class="space-y-6">
+                            <!-- ICD-10 Codes -->
+                            <div>
+                                <h2 class="text-xl font-semibold text-gray-700 mb-4">ICD-10 Codes</h2>
                                 <div class="bg-gray-50 p-4 rounded-lg">
-                                    <div class="text-gray-700">{{ code }}</div>
+                                    <pre class="text-gray-700 whitespace-pre-wrap">{{ result.choices[0].message.content.split('1. ICD-10 Codes:')[1].split('2. CPT/HCPCS Codes:')[0] if '1. ICD-10 Codes:' in result.choices[0].message.content else 'No ICD-10 codes provided' }}</pre>
                                 </div>
-                                {% endif %}
-                            {% endfor %}
-                        </div>
-                    </div>
+                            </div>
 
-                    <!-- HCPCS Codes -->
-                    <div>
-                        <h2 class="text-xl font-semibold text-gray-700 mb-4">HCPCS Codes</h2>
-                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                            {% for code in result.choices[0].message.content.split('\n') %}
-                                {% if 'HCPCS' in code %}
+                            <!-- CPT/HCPCS Codes -->
+                            <div>
+                                <h2 class="text-xl font-semibold text-gray-700 mb-4">CPT/HCPCS Codes</h2>
                                 <div class="bg-gray-50 p-4 rounded-lg">
-                                    <div class="text-gray-700">{{ code }}</div>
+                                    <pre class="text-gray-700 whitespace-pre-wrap">{{ result.choices[0].message.content.split('2. CPT/HCPCS Codes:')[1].split('3. Quality Measures Impact:')[0] if '2. CPT/HCPCS Codes:' in result.choices[0].message.content else 'No CPT/HCPCS codes provided' }}</pre>
                                 </div>
-                                {% endif %}
-                            {% endfor %}
-                        </div>
-                    </div>
+                            </div>
 
-                    <!-- Rationale -->
-                    <div>
-                        <h2 class="text-xl font-semibold text-gray-700 mb-4">Coding Rationale</h2>
-                        <div class="bg-gray-50 p-4 rounded-lg">
-                            <pre class="text-gray-700 whitespace-pre-wrap">
-                                {{ result.choices[0].message.content.split('Coding rationale:')[1] if 'Coding rationale:' in result.choices[0].message.content else 'No rationale provided' }}
-                            </pre>
+                            <!-- Quality Measures -->
+                            <div>
+                                <h2 class="text-xl font-semibold text-gray-700 mb-4">Quality Measures Impact</h2>
+                                <div class="bg-gray-50 p-4 rounded-lg">
+                                    <pre class="text-gray-700 whitespace-pre-wrap">{{ result.choices[0].message.content.split('3. Quality Measures Impact:')[1].split('4. CMI Impact Analysis:')[0] if '3. Quality Measures Impact:' in result.choices[0].message.content else 'No quality measures provided' }}</pre>
+                                </div>
+                            </div>
+
+                            <!-- CMI Impact -->
+                            <div>
+                                <h2 class="text-xl font-semibold text-gray-700 mb-4">CMI Impact Analysis</h2>
+                                <div class="bg-gray-50 p-4 rounded-lg">
+                                    <pre class="text-gray-700 whitespace-pre-wrap">{{ result.choices[0].message.content.split('4. CMI Impact Analysis:')[1] if '4. CMI Impact Analysis:' in result.choices[0].message.content else 'No CMI impact analysis provided' }}</pre>
+                                </div>
+                            </div>
                         </div>
-                    </div>
+
+                    {% elif doc_type == 'authorization' %}
+                        <!-- Authorization Analysis -->
+                        <div class="space-y-6">
+                            <!-- Authorization Recommendation -->
+                            <div>
+                                <h2 class="text-xl font-semibold text-gray-700 mb-4">Authorization Recommendation</h2>
+                                <div class="bg-gray-50 p-4 rounded-lg">
+                                    <pre class="text-gray-700 whitespace-pre-wrap">{{ result.choices[0].message.content.split('1. Authorization Recommendation:')[1].split('2. Medical Necessity Analysis:')[0] if '1. Authorization Recommendation:' in result.choices[0].message.content else 'No recommendation provided' }}</pre>
+                                </div>
+                            </div>
+
+                            <!-- Medical Necessity -->
+                            <div>
+                                <h2 class="text-xl font-semibold text-gray-700 mb-4">Medical Necessity Analysis</h2>
+                                <div class="bg-gray-50 p-4 rounded-lg">
+                                    <pre class="text-gray-700 whitespace-pre-wrap">{{ result.choices[0].message.content.split('2. Medical Necessity Analysis:')[1].split('3. Policy Compliance:')[0] if '2. Medical Necessity Analysis:' in result.choices[0].message.content else 'No medical necessity analysis provided' }}</pre>
+                                </div>
+                            </div>
+
+                            <!-- Policy Compliance -->
+                            <div>
+                                <h2 class="text-xl font-semibold text-gray-700 mb-4">Policy Compliance</h2>
+                                <div class="bg-gray-50 p-4 rounded-lg">
+                                    <pre class="text-gray-700 whitespace-pre-wrap">{{ result.choices[0].message.content.split('3. Policy Compliance:')[1] if '3. Policy Compliance:' in result.choices[0].message.content else 'No policy compliance information provided' }}</pre>
+                                </div>
+                            </div>
+                        </div>
+
+                    {% elif doc_type == 'claim_attachment' %}
+                        <!-- Claim Attachment Analysis -->
+                        <div class="space-y-6">
+                            <!-- Documentation Assessment -->
+                            <div>
+                                <h2 class="text-xl font-semibold text-gray-700 mb-4">Documentation Assessment</h2>
+                                <div class="bg-gray-50 p-4 rounded-lg">
+                                    <pre class="text-gray-700 whitespace-pre-wrap">{{ result.choices[0].message.content.split('1. Documentation Assessment:')[1].split('2. Medical Necessity Validation:')[0] if '1. Documentation Assessment:' in result.choices[0].message.content else 'No documentation assessment provided' }}</pre>
+                                </div>
+                            </div>
+
+                            <!-- Medical Necessity -->
+                            <div>
+                                <h2 class="text-xl font-semibold text-gray-700 mb-4">Medical Necessity Validation</h2>
+                                <div class="bg-gray-50 p-4 rounded-lg">
+                                    <pre class="text-gray-700 whitespace-pre-wrap">{{ result.choices[0].message.content.split('2. Medical Necessity Validation:')[1].split('3. Coding Support Analysis:')[0] if '2. Medical Necessity Validation:' in result.choices[0].message.content else 'No medical necessity validation provided' }}</pre>
+                                </div>
+                            </div>
+
+                            <!-- Coding Support -->
+                            <div>
+                                <h2 class="text-xl font-semibold text-gray-700 mb-4">Coding Support Analysis</h2>
+                                <div class="bg-gray-50 p-4 rounded-lg">
+                                    <pre class="text-gray-700 whitespace-pre-wrap">{{ result.choices[0].message.content.split('3. Coding Support Analysis:')[1] if '3. Coding Support Analysis:' in result.choices[0].message.content else 'No coding support analysis provided' }}</pre>
+                                </div>
+                            </div>
+                        </div>
+
+                    {% elif doc_type == 'claim_status' %}
+                        <!-- Claim Status Analysis -->
+                        <div class="space-y-6">
+                            <!-- Status Assessment -->
+                            <div>
+                                <h2 class="text-xl font-semibold text-gray-700 mb-4">Status Assessment</h2>
+                                <div class="bg-gray-50 p-4 rounded-lg">
+                                    <pre class="text-gray-700 whitespace-pre-wrap">{{ result.choices[0].message.content.split('1. Status Assessment:')[1].split('2. Documentation Requirements:')[0] if '1. Status Assessment:' in result.choices[0].message.content else 'No status assessment provided' }}</pre>
+                                </div>
+                            </div>
+
+                            <!-- Documentation Requirements -->
+                            <div>
+                                <h2 class="text-xl font-semibold text-gray-700 mb-4">Documentation Requirements</h2>
+                                <div class="bg-gray-50 p-4 rounded-lg">
+                                    <pre class="text-gray-700 whitespace-pre-wrap">{{ result.choices[0].message.content.split('2. Documentation Requirements:')[1].split('3. Next Steps:')[0] if '2. Documentation Requirements:' in result.choices[0].message.content else 'No documentation requirements provided' }}</pre>
+                                </div>
+                            </div>
+
+                            <!-- Next Steps -->
+                            <div>
+                                <h2 class="text-xl font-semibold text-gray-700 mb-4">Next Steps</h2>
+                                <div class="bg-gray-50 p-4 rounded-lg">
+                                    <pre class="text-gray-700 whitespace-pre-wrap">{{ result.choices[0].message.content.split('3. Next Steps:')[1] if '3. Next Steps:' in result.choices[0].message.content else 'No next steps provided' }}</pre>
+                                </div>
+                            </div>
+                        </div>
+                    {% endif %}
                 </div>
 
                 <!-- Back Button -->

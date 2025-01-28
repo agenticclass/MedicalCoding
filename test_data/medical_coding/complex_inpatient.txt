@@ -1,0 +1,94 @@
+Inpatient Progress Notes
+
+Patient Name: John Doe
+MRN: 987654321
+Admission Date: 02/10/2024
+Service: Internal Medicine
+
+Chief Complaint: Shortness of breath, chest pain, and fever
+
+History of Present Illness:
+65-year-old male with history of COPD and CHF presents with 3 days of worsening shortness of breath, productive cough with yellow sputum, chest pain, and fever of 101.5°F. Patient reports increased use of rescue inhaler without relief. Associated symptoms include orthopnea requiring 3 pillows and bilateral lower extremity edema.
+
+Past Medical History:
+1. COPD (chronic bronchitis type)
+2. Congestive Heart Failure (EF 35%)
+3. Type 2 Diabetes Mellitus
+4. Hypertension
+5. Coronary Artery Disease s/p CABG 2020
+
+Hospital Course:
+
+Day 1:
+- Admitted for acute COPD exacerbation with concurrent acute on chronic systolic heart failure
+- CXR shows pulmonary edema and right lower lobe infiltrate
+- Started on IV Solumedrol, duonebs, and broad-spectrum antibiotics
+- BNP elevated at 1200
+- Troponin series negative
+- COVID-19 test negative
+- Blood cultures pending
+
+Day 2:
+- Respiratory status improved with treatment
+- Blood cultures growing Streptococcus pneumoniae
+- Antibiotics narrowed to Ceftriaxone
+- Echo shows worsened EF at 25%
+- Cardiology consultation obtained
+- Lasix adjusted for volume management
+
+Day 3:
+- Developed acute kidney injury (Cr 1.8, baseline 1.0)
+- Nephrology consultation obtained
+- Lasix held, IV fluids started
+- Continued antibiotics and steroids
+- Central line placed for medication administration
+
+Day 4:
+- Respiratory status stabilized
+- Kidney function improving
+- Transitioned to oral antibiotics
+- Physical therapy evaluation completed
+- Nutrition consultation for diabetic diet
+
+Procedures Performed:
+1. Central venous line placement (02/13/2024)
+2. Chest X-ray x3
+3. Echocardiogram
+4. Continuous pulse oximetry monitoring
+
+Consultations:
+1. Cardiology
+2. Pulmonology
+3. Nephrology
+4. Physical Therapy
+5. Nutrition
+
+Discharge Planning:
+- Anticipated discharge in 2-3 days
+- Will require home oxygen
+- Home health services to be arranged
+- Follow-up appointments with PCP, Cardiology, and Pulmonology
+
+Current Medications:
+1. Ceftriaxone 1g IV daily
+2. Methylprednisolone 40mg IV q8h
+3. Albuterol/Ipratropium nebulizer q4h
+4. Metformin 1000mg BID (held)
+5. Lisinopril 20mg daily
+6. Carvedilol 12.5mg BID
+7. Aspirin 81mg daily
+
+Vital Signs:
+T: 99.8°F  HR: 88  BP: 132/78  RR: 20  O2 Sat: 94% on 2L NC
+
+Labs:
+- WBC: 12.5
+- Hgb: 11.2
+- Plt: 245
+- Na: 138
+- K: 4.2
+- Cl: 102
+- CO2: 28
+- BUN: 32
+- Cr: 1.8
+- Glucose: 165

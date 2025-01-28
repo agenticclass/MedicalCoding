@@ -1,0 +1,109 @@
+Claim Status Report
+Date Generated: 02/15/2024 14:30 EST
+
+Claim Information:
+Claim Number: CLM987654321
+Date of Service: 02/01/2024 - 02/03/2024
+Submission Date: 02/05/2024
+Type: Institutional (UB-04)
+Status: Pending Additional Information
+
+Patient Information:
+Name: Sarah Johnson
+Member ID: BCBS789456123
+Group Number: GRP123456
+Plan Type: PPO
+
+Provider Information:
+Name: Eastside Medical Center
+NPI: 1234567890
+Tax ID: 98-7654321
+Network Status: In-Network
+
+Claim Details:
+Total Charges: $12,450.00
+Patient Responsibility: Pending
+Insurance Responsibility: Pending
+
+Service Lines:
+1. Revenue Code: 0450
+   CPT/HCPCS: 99285
+   Units: 1
+   Charges: $2,800.00
+   Status: Under Review
+
+2. Revenue Code: 0301
+   CPT/HCPCS: 99223
+   Units: 1
+   Charges: $1,250.00
+   Status: Additional Information Required
+
+3. Revenue Code: 0301
+   CPT/HCPCS: 99232
+   Units: 2
+   Charges: $1,600.00
+   Status: Under Review
+
+4. Revenue Code: 0305
+   CPT/HCPCS: 99238
+   Units: 1
+   Charges: $800.00
+   Status: Under Review
+
+5. Revenue Code: 0730
+   CPT/HCPCS: Multiple
+   Units: Various
+   Charges: $6,000.00
+   Status: Documentation Required
+
+Processing History:
+02/05/2024 10:15 - Claim Received
+02/06/2024 08:30 - Initial Processing Started
+02/07/2024 14:20 - Medical Review Required
+02/10/2024 09:45 - Additional Documentation Requested
+02/15/2024 14:30 - Awaiting Documentation
+
+Required Additional Information:
+1. Clinical Documentation:
+   - Emergency Department Records
+   - Complete History & Physical
+   - Progress Notes for all dates of service
+
+2. Medical Necessity Support:
+   - Clinical indicators for emergency services
+   - Documentation supporting level of care
+   - Treatment plan and outcomes
+
+3. Coding Verification:
+   - Emergency department E/M level documentation
+   - Time-based service documentation
+   - Supporting documentation for procedures
+
+Payer Messages:
+1. "Medical records needed to support emergency department level of service"
+2. "Documentation required for inpatient admission necessity"
+3. "Please submit complete progress notes for all dates"
+
+Claim Edits:
+1. Edit Code: M127 - Missing patient history documentation
+2. Edit Code: M133 - Insufficient documentation for E/M level
+3. Edit Code: M144 - Additional medical necessity support needed
+
+Next Steps:
+1. Submit requested documentation within 30 days
+2. Include claim number on all submissions
+3. Send to medical review department
+4. Monitor claim status for updates
+
+Contact Information:
+Claims Department: 1-800-555-1234
+Provider Services: 1-800-555-5678
+Medical Review: 1-800-555-9012
+
+Electronic Submission:
+Payer ID: 12345
+Clearinghouse: Change Healthcare
+Portal: provider.bcbs.com
+
+Timely Filing Deadline: 05/01/2024
+Appeal Rights Deadline: 180 days from determination

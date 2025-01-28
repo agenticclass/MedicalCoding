@@ -13,13 +13,28 @@
             <h2 class="text-xl text-gray-600 mb-8">Medical Coding Generative AI Assistant</h2>
             
             <form action="/analyze" method="post" class="space-y-6">
-                <div>
-                    <label for="documentation" class="block text-sm font-medium text-gray-700">
-                        Enter Medical Documentation
-                    </label>
-                    <textarea id="documentation" name="documentation" rows="8"
-                        class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500"
-                        placeholder="Paste medical documentation here..." required></textarea>
+                <div class="space-y-4">
+                    <div>
+                        <label for="doc_type" class="block text-sm font-medium text-gray-700">
+                            Document Type
+                        </label>
+                        <select id="doc_type" name="doc_type"
+                            class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500">
+                            <option value="medical_coding">Medical Coding</option>
+                            <option value="authorization">Prior Authorization</option>
+                            <option value="claim_attachment">Claim Attachment</option>
+                            <option value="claim_status">Claim Status</option>
+                        </select>
+                    </div>
+
+                    <div>
+                        <label for="documentation" class="block text-sm font-medium text-gray-700">
+                            Enter Documentation
+                        </label>
+                        <textarea id="documentation" name="documentation" rows="8"
+                            class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500"
+                            placeholder="Paste documentation here..." required></textarea>
+                    </div>
                 </div>
 
                 <div class="flex justify-end">
@@ -32,22 +47,68 @@
 
             <div class="mt-8">
                 <h3 class="text-lg font-medium text-gray-700 mb-4">Sample Test Cases</h3>
-                <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-                    <a href="#" class="test-case p-4 rounded-lg bg-gray-50 hover:bg-gray-100">
-                        <h4 class="font-medium text-gray-700">Case 1</h4>
-                        <p class="text-sm text-gray-500">Chest pain & myocardial infarction</p>
-                    </a>
-                    <a href="#" class="test-case p-4 rounded-lg bg-gray-50 hover:bg-gray-100">
-                        <h4 class="font-medium text-gray-700">Case 2</h4>
-                        <p class="text-sm text-gray-500">Diabetes follow-up</p>
-                    </a>
-                    <a href="#" class="test-case p-4 rounded-lg bg-gray-50 hover:bg-gray-100">
-                        <h4 class="font-medium text-gray-700">Case 3</h4>
-                        <p class="text-sm text-gray-500">Low back pain & epidural injection</p>
-                    </a>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+                    <div class="space-y-4">
+                        <h4 class="font-medium text-gray-700">Prior Authorization</h4>
+                        <a href="#" class="test-case block p-4 rounded-lg bg-gray-50 hover:bg-gray-100" 
+                           data-type="authorization" data-file="test_data/authorization/prior_auth_request.txt">
+                            <p class="text-sm text-gray-500">Total Knee Arthroplasty Authorization</p>
+                        </a>
+                    </div>
+
+                    <div class="space-y-4">
+                        <h4 class="font-medium text-gray-700">Medical Coding</h4>
+                        <a href="#" class="test-case block p-4 rounded-lg bg-gray-50 hover:bg-gray-100"
+                           data-type="medical_coding" data-file="test_data/medical_coding/complex_inpatient.txt">
+                            <p class="text-sm text-gray-500">Complex Inpatient Case</p>
+                        </a>
+                    </div>
+
+                    <div class="space-y-4">
+                        <h4 class="font-medium text-gray-700">Claim Attachment</h4>
+                        <a href="#" class="test-case block p-4 rounded-lg bg-gray-50 hover:bg-gray-100"
+                           data-type="claim_attachment" data-file="test_data/claim_attachment/clinical_documentation.txt">
+                            <p class="text-sm text-gray-500">DKA Clinical Documentation</p>
+                        </a>
+                    </div>
+
+                    <div class="space-y-4">
+                        <h4 class="font-medium text-gray-700">Claim Status</h4>
+                        <a href="#" class="test-case block p-4 rounded-lg bg-gray-50 hover:bg-gray-100"
+                           data-type="claim_status" data-file="test_data/claim_status/claim_tracking.txt">
+                            <p class="text-sm text-gray-500">Inpatient Claim Status</p>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const testCases = document.querySelectorAll('.test-case');
+            const docTypeSelect = document.getElementById('doc_type');
+            const documentationTextarea = document.getElementById('documentation');
+
+            testCases.forEach(testCase => {
+                testCase.addEventListener('click', async function(e) {
+                    e.preventDefault();
+                    
+                    const fileUrl = this.dataset.file;
+                    const docType = this.dataset.type;
+                    
+                    try {
+                        const response = await fetch(fileUrl);
+                        const content = await response.text();
+                        
+                        documentationTextarea.value = content;
+                        docTypeSelect.value = docType;
+                    } catch (error) {
+                        console.error('Error loading test case:', error);
+                    }
+                });
+            });
+        });
+    </script>
 </body>
 </html>

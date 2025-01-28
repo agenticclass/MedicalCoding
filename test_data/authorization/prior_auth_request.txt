@@ -1,0 +1,56 @@
+Prior Authorization Request
+
+Patient Information:
+Name: Jane Smith
+DOB: 04/15/1975
+Insurance ID: INS123456789
+Plan: Blue Cross Blue Shield PPO
+
+Requesting Provider:
+Name: Dr. Robert Johnson
+NPI: 1234567890
+Specialty: Orthopedic Surgery
+Contact: (555) 123-4567
+
+Service Request:
+Procedure: Total Knee Arthroplasty (TKA)
+CPT Code: 27447
+ICD-10: M17.11 (Unilateral primary osteoarthritis, right knee)
+Requested Date: 03/15/2024
+Place of Service: Hospital Outpatient
+Facility: Memorial Hospital
+
+Clinical Information:
+1. Conservative Treatment History:
+   - Physical therapy x 12 weeks
+   - NSAIDs trial x 3 months
+   - Corticosteroid injections x 2
+   - Activity modification x 6 months
+
+2. Imaging Results:
+   - X-ray (01/15/2024): Severe joint space narrowing, osteophytes
+   - MRI (01/20/2024): Complete loss of cartilage, meniscal tear
+
+3. Physical Examination:
+   - ROM: Flexion limited to 95 degrees
+   - Pain with weight bearing
+   - Crepitus
+   - Mild effusion
+   - Failed conservative management
+
+4. Functional Limitations:
+   - Unable to climb stairs without assistance
+   - Walking limited to 1 block
+   - Difficulty with ADLs
+   - Pain interfering with sleep
+
+5. Medical History:
+   - Hypertension (controlled)
+   - Osteoporosis
+   - No contraindications to surgery
+
+Supporting Documentation:
+- Recent progress notes attached
+- Imaging reports attached
+- Physical therapy notes attached
+- Failed conservative treatment documentation
