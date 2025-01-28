@@ -1,0 +1,69 @@
+History and Physical
+
+Identifying Information:
+58-year-old male presenting to ED with chest pain
+
+Chief Complaint:
+Chest pain radiating to left arm for 2 hours
+
+History of Present Illness:
+Mr. John Doe is a 58-year-old male with known coronary artery disease who presents to the emergency department with acute onset of substernal chest pain radiating to his left arm. The pain began approximately 2 hours ago while he was watching television. He describes the pain as pressure-like, rating it 8/10 in intensity. The pain is associated with nausea, diaphoresis, and mild shortness of breath. He denies any relief with rest. He has taken 3 sublingual nitroglycerin tablets without significant improvement.
+
+Past Medical History:
+- Coronary artery disease (diagnosed 2018)
+- Hypertension
+- Hyperlipidemia
+
+Medications:
+- Lisinopril 10mg daily
+- Atorvastatin 40mg daily
+- Aspirin 81mg daily
+
+Allergies:
+No known drug allergies
+
+Family History:
+Father: Myocardial infarction at age 62
+Mother: Hypertension
+
+Social History:
+- Smokes 1 pack per day for 30 years
+- Occasional alcohol use
+- Works as an accountant
+
+Review of Systems:
+General: Negative for fever, chills
+Cardiac: Positive for chest pain
+Respiratory: Mild shortness of breath
+GI: Positive for nausea
+Neuro: Negative for dizziness, syncope
+
+Physical Examination:
+Vital Signs:
+- BP: 145/90 mmHg
+- HR: 110 bpm
+- RR: 22/min
+- Temp: 98.6°F
+- O2 Sat: 96% on room air
+
+General: Appears uncomfortable, diaphoretic
+Cardiac: Tachycardic, regular rhythm, S1S2 normal, no murmurs
+Lungs: Clear to auscultation bilaterally
+Extremities: No edema, pulses 2+ bilaterally
+
+Assessment and Plan:
+1. Acute ST-elevation myocardial infarction (STEMI), inferior wall
+   - Admit to CCU
+   - Start ACS protocol
+   - STAT cardiology consult
+   - Prep for PCI
+
+2. Hypertension
+   - Continue current antihypertensive regimen
+
+3. Hyperlipidemia
+   - Continue statin therapy
+   - Follow-up lipids in 6 weeks
+
+4. Tobacco use disorder
+   - Smoking cessation counseling

@@ -1,0 +1,153 @@
+URL: https://akasa.com/blog/prior-authorization-process-questions/
+
+15 Common Questions About the Prior Authorization Process | AKASA
+Blog
+15 Common Questions About the Prior Authorization ProcessPrior authorizations are time-consuming, costly, and a burden to physicians and revenue cycle staff. But with new AI-powered solutions, they don’t have to be.
+AKASA January 16, 2025
+The Gist
+Prior authorization requests are a complex, time-consuming, and costly function of the revenue cycle. They’re also increasing in volume, with 83% of physicians reporting an uptick in the past five years. In the past, health systems hired more specialists to work prior authorizations, but today, staffing shortages have made that an unviable option. However, by building the right workflow and deploying AI-powered solutions, providers are accelerating the prior authorization process — and revenue — for their organizations.
+Blog Contents
+1. What is prior authorization?
+2. What is the prior authorization process?
+3. Why do insurance companies require prior authorization?
+4. What is the prior authorization process for prescription medications?
+5. Who is responsible for getting prior authorization?
+6. How many prior authorizations do providers conduct each week?
+7. How much time do prior authorizations take?
+8. How long does it take for prior authorization to be approved?
+9. How long does prior authorization take for prescription medications?
+10. How long does prior authorization take for sur
+11. Why are days out important for the prior authorization process?
+12. Why are prior authorizations denied?
+13. What happens if prior authorization is denied?
+14. What are the challenges of prior authorization?
+15. How can health systems speed up prior authorization?
+Prior authorization is a necessary function of healthcare revenue cycle management. But like most things in healthcare, it’s neither simple nor straightforward.
+Rather, they’re costly, time-consuming, require multiple touchpoints and follow-up, and, with ever-changing payer rules, they’re becoming more complex and burdensome for providers and already overwhelmed staff.
+The volume of prior authorization requests is also on the rise.
+According to a 2021 report by the American Hospital Association (AMA), 84% of physicians say that prior authorizations for prescription medications and medical services have increased over the past five years.
+Although prior authorization is a cost control measure, delays in approvals often prevent patients from getting effective, appropriate, and safe care, which leads to poor outcomes, adverse events, and higher costs in the long run.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+Here we explore some of the most common questions about the prior authorization process and offer new solutions that make it more efficient and faster.
+1. What is prior authorization?
+Prior authorization, which is also referred to as pre-authorization, pre-certification, predetermination, or prior approval, is a process required by payers for patients to get approval for healthcare services or medications before they receive them.
+It enables the payer to determine if the services and medications are medically necessary and whether or not they’ll cover them.
+Payers determine the standards for prior authorization using medical guidelines, cost, utilization, and other factors.
+2. What is the prior authorization process?
+The prior authorization process requires the provider — and sometimes the patient — to submit administrative and clinical information to the payer.
+The provider may need to complete a prior authorization form or call the payer to explain their recommendation and the need for healthcare services.
+Physicians, nurses, pharmacists, and others at the insurance company then review the prior authorization request and make a determination as to whether the services or medication will be approved or denied.
+If the prior authorization is denied, a provider can recommend an alternative service or medication that is covered.
+Sometimes, the payer may require that a patient try an alternate, more affordable service or prescription medication to determine if the patient has results, or if they will need a more costly treatment.
+Every payer has its own prior authorization process, and the laws governing prior authorization vary from state to state.
+3. Why do insurance companies require prior authorization?
+Payers require prior authorization to determine medical necessity and use it as a cost-cutting measure.
+In the case of prescription medication, prior authorizations are designed to improve outcomes and ensure patients receive effective, appropriate care, and first try less costly, or generic, medications.
+Prior authorizations allow payers to save money in cases where another medication is equally effective and covered.
+4. What is the prior authorization process for prescription medications?
+Once a provider orders a prescription medication for a patient and the pharmacy receives it, the pharmacist will be notified of the need for prior authorization.
+The pharmacist will then contact the provider, and the provider’s office will initiate the process and gather all of the necessary information. Oftentimes, the providers must call the payer, which can be time-consuming and take several follow-up calls.
+Gaps can occur along the way too. For example, providers and pharmacists may fail to submit the prior authorization, have trouble contacting the payer, or run into technological issues (portals are down, faxes didn’t go through, etc.).
+Patients are often less likely to adhere to the treatment when delays occur.
+Prior authorizations also ensure patients have not been prescribed the same medication from multiple providers and, as a result, avoid adverse side effects.
+5. Who is responsible for getting prior authorization?
+The referring physician or the facility is responsible for obtaining prior authorization approvals.
+For patients using out-of-network providers, however, they are responsible for initiating and facilitating the process.
+6. How many prior authorizations do providers conduct each week?
+Health systems are inundated by prior authorization requests.
+A survey by the AMA found that providers complete 41 prior authorizations per physician every week.
+7. How much time do prior authorizations take?
+Physicians and their staff spend nearly two business days a week working on prior authorization requests, and 88% of physicians say the burden associated with them is high or extremely high,  according to the AMA.
+Plus, 40% have staff who are dedicated to working on prior authorization.
+Not only does the prior authorization process create challenges for providers, but it impacts care.
+In fact, 93% of physicians report delays in care while they waited for payers to approve prior authorization requests, and 82% said they resulted in patients abandoning treatment.
+Even more concerning — 34% of physicians say prior authorization has resulted in a serious adverse patient event.
+While prior authorization is supposed to be a cost-cutting measure by payers, delayed care, a hospital stay, adverse events, and poor patient outcomes only drive up costs further.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+8. How long does it take for prior authorization to be approved?
+Prior authorization requests can take anywhere from a day to a week or more to be approved.
+A 2018 survey by the AMA found 65% of physicians waited a day, and 27% waited at least three days.
+One study, however, found that prior authorization can take up to 15 days for general healthcare services and up to three days for urgent care.
+More than 550 health finance leaders recently ranked prior authorization as the second most time-consuming task in the revenue cycle.
+9. How long does prior authorization take for prescription medications?
+Prior authorizations for prescription medications usually take a few days, but could take longer depending on the payer.
+10. How long does prior authorization take for surgery?
+The amount of time it takes to obtain prior authorization for surgery can vary depending on the payer and whether it’s an emergency situation or not.
+11. Why are days out important for the prior authorization process?
+Most large health systems measure and monitor their progress on working prior authorizations with days out, or the number of days until the test or procedure is scheduled.
+In addition to working services that are 1 to 2 weeks away, there is usually one staff member who is working prior authorizations for same-day or next-day emergency services.
+Regardless of how automated their system is, however, revenue cycle staff often must pick up the phone to get the authorization.
+In addition to days out, revenue cycle leaders are also tracking overrides, cancellations, and postponed appointments
+Days out is important because it allows a health system to give patients all of the information they need, confirm their appointments, and make sure they understand what their copays and out-of-pocket costs will be. If prior authorization isn’t obtained in a timely manner, appointments may have to be rescheduled. In emergent cases, the procedure takes place, and staff cross their fingers that the authorization will come in that day.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+12. Why are prior authorizations denied?
+Prior authorization denials often occur because they lack complete and accurate information and codes, but they can also occur when requests aren’t straightforward.
+For example, the request can be denied if:
+A procedure is added at the last minute
+An additional service is added when care is delivered
+Unexpected services occur, such as during surgery
+The person submitting the authorization doesn’t know that multiple codes that are associated with the procedure need to be added.
+Denials, however, can be prevented by having a cheat sheet of services and codes that revenue cycle staff can easily pull from and add to the prior authorization.
+13. What happens if prior authorization is denied?
+If a prior authorization request is denied by the payer, the patient or provider may ask to have the decision reviewed and appealed.
+14. What are the challenges of prior authorization?
+In recent years, the prior authorization process has become more complicated and challenging.
+According to a 2021 poll by the Medical Group Management Association (MGMA), there are:
+Inconsistencies across payers on requirements
+Vague or opaque requirements
+Frequent updates on the requirements
+Slow responses from payers for approvals
+An increase in claim denials and requirements for peer-to-peer reviews
+Prior authorizations are time-consuming and take providers away from caring for their patients.
+Some experts say they’re solely designed to cut costs.
+In fact, in a 2019 study in the journal Medical Economics, Matthew Mintz, MD, FACP, stated, “The process is made, in my opinion, purposefully burdensome so that the physician or patient will simply give up, and use a cheaper alternative.”
+Prior authorization also hasn’t been without controversy.
+A recent report from the U.S. Department of Health and Human Services (HHS) Office of the Inspector General (OIG) found that among the prior authorization requests that Medicare Advantage Organizations (MAOs) denied, 13% were for services that would have been covered under original Medicare.
+The denials were attributed to the use of clinical guidelines that weren’t contained in Medicare coverage rules and managed care plans that requested additional, unnecessary documentation.
+There has been some reform at the state and national levels to provide more standardization for prior authorizations, change how determinations are made, and make payers accountable, but more needs to be done.
+The AMA states that the number of medical services and prescription medications that require prior authorization should be reduced, and when it is used, should use a standardized, automated process.
+15. How can health systems speed up prior authorization?
+While some providers have attempted to speed up the prior authorization process by bringing on staff, the staffing crisis has made that nearly impossible.
+Also, revenue cycle leaders may not have visibility into productivity and time to complete tasks, and having overwhelmed staff can lead to mistakes, denials, and write-offs.
+According to AKASA research and client data, it takes more than 12 minutes to submit an authorization request and check the status.
+Fortunately, prior authorization doesn’t have to be time-consuming, impact patient care, or require additional staff.
+For starters, providers should have a prior authorization workflow built on communication.
+Once that is in place, they should consider an AI-powered solution that can address the complexities of prior authorization.
+Our Authorization Management solution provides a fully automated solution that determines if prior authorization is required, gathers the necessary information and clinical documentation, submits the authorization request to payers, checks on the status of those requests, and documents the results. On top of this, we offer Authorization Advisor, which sits on top of your EHR and allows your team to work through the entire auth process faster and more accurately than before.
+Authorization Management eases staff burden, increases the amount of resolved prior authorizations, drives reimbursement, and enables timely patient care.
+To learn more about how AKASA can improve your prior authorization process, set up a demo today.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

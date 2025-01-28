@@ -1,0 +1,104 @@
+URL: https://akasa.com/blog/trends-himss-2022/3
+
+9 Trends from HIMSS 2022 | AKASA
+Blog
+9 Trends from HIMSS 2022Insights from the 2022 HIMSS Global Health Conference & Exhibition in Chicago from AKASA's senior product manager.
+AKASA June 17, 2022
+The Gist
+What was it like to attend HIMSS '22? What trends emerged from all of the events and conversations? David Khavari, senior product manager, applications at AKASA, shares a personal account of the conference.
+Blog Contents
+Telehealth and telemental health
+Workforce challenges, including burnout
+Remote patient monitoring
+Interoperability
+Consumerism
+Prior auth regulations
+Command centers
+Miscellaneous points of interest
+Unlocking value with automation
+A World Unto Itself
+It’s difficult to communicate the sheer magnitude of the 2022 HIMSS Global Health Conference & Exhibition in Chicago. On my first day, I stepped into a colossal, warehouse-like room packed to the gills with vendor displays and buzzing with activity. The room simply refused to end. A world unto itself, it must’ve been possible to walk half a mile in a straight line. I later read that 29,000 people attended this conference, which, apparently, is fewer than normal. The amount of activity and investment in American healthcare — and healthcare globally — is truly staggering.
+It’s easy to lose focus in such a bustling milieu. It can be unclear which ideas and technologies are truly valuable and which are tempting illusions that ultimately destroy rather than accrue value. So much of life and business comes down to one thing: accurately assessing and understanding true value.
+To that end, I took an informal survey of HIMSS attendees on the biggest trends and coolest things they’ve seen in healthcare recently. In this post, I’ll share some insights and points of interest from that. I’ll also share my thoughts on value in healthcare.
+HIMSS Healthcare Trends
+What’s going on in healthcare right now? Let’s take a look.
+1. Telehealth and telemental health
+I heard this one repeatedly. Reimbursement for telehealth changed with COVID, and utilization is now 38x what it was pre-pandemic. It’s unclear how CMS reimbursement — and commercial payers often follow their lead — will change now that United States case counts have dropped. Still, it seems telehealth will persist and grow in the long term, even if there is a short to medium-term dip as in-person services reemerge.
+2. Workforce challenges, including burnout
+This was another popular theme. About 90% of nurses are considering leaving the profession in the next year and pandemic healthcare workers reportedly experienced similar rates of “moral injury” to military veterans deployed to combat zones after September 11, 2001. Even beyond patient care, administrative professions can see churn rates in excess of 20% annually. It’s hard to overstate the seriousness of this problem.
+At AKASA, we’re quite familiar with that set of problems. In fact, we’ve developed a report you may find useful called No Resignation: Solving Today’s Greatest Staffing Challenges in the Healthcare Revenue Cycle. Have a look and let me know what you think!
+3. Remote patient monitoring
+The pandemic drove many changes in healthcare, and this is a noteworthy one. With more people — especially more vulnerable individuals who require more intensive care — opting to stay home, remote patient monitoring can enable early interventions and better outcomes.
+4. Interoperability
+As a product leader, interoperability — basically data sharing — is a trend I love because it unlocks major innovation opportunities. Insurers and technology companies are taking positive steps here, but I honestly believe that without regulatory intervention, this will be a long road. With regulatory intervention, which seems increasingly likely to happen, it’ll probably be a slightly shorter (but still long) road. Expect several years before major changes.
+5. Consumerism
+Businesses across healthcare have been increasingly waking up to a profound realization: customers are people too. Yes, health plan members post on TikTok. Physicians use Instagram. Corporate professionals watch Netflix. People’s expectations do not magically change from one area of life to another.
+This means that experience matters for every product and service that exists, but especially for a service as critical as healthcare. There are significant trends toward letting patients own and access their data and enjoy more seamless access to care.
+6. Prior auth regulations
+Prior authorization doesn’t work well today, and everybody knows it. It looks like regulatory changes could force payers to create standardized APIs to cover an array of prior auth-related use cases. This could create compelling efficiencies for both providers and payers. This issue is nuanced, and I recommend Brendan Keeler’s article, which covers the topic in some depth.
+And read about the 3 most important prior authorization processes to automate.
+7. Command centers
+Imagine a screen that looks like a mix of an EKG display and a monitor that probably could exist somewhere inside the Millenium Falcon. Now imagine that it includes an array of real-time statistics like bed utilization, ICU capacity, inpatient cardiovascular patient risk levels, and more. This is increasingly happening in healthcare, and it’s an exciting development.
+8. Miscellaneous points of interest
+One of the good things about attending in-person events is the random info you pick up. Here are a few of the many things I came across that are inspiring or just downright awesome.
+There is now a 3D imaging system with sub-10 micron granularity that might be used to evaluate subtle changes to the brain in early-stage clinical trials.
+Binah.ai is developing technology to read vital signs using smartphone video.
+Pharmacovigilance is seeing some fascinating entrepreneurial innovation in Europe.
+There is a burgeoning health tech scene in Africa, and Nigeria more specifically.
+9. Unlocking value with automation
+At HIMSS, I spoke about how providers can realize ROI with automation, which was another extremely hot topic. Given the tremendous workforce challenges in healthcare right now, it makes sense to take a hard look at how and where to apply automation for maximal results.
+Also, take a look at takeaways on this topic from another HIMSS ’22 session: How Automation Can Improve the Patient Financial Experience.
+Broadly speaking, there are three forms of automation at large in healthcare today, and they’re good for different things. In ascending order of sophistication, they are:
+Traditional Robotic Process Automation (RPA or “bots”)
+RPA works well for static and linear workflows. But as we all know, healthcare is constantly in flux. RPA-based automation breaks on dynamic use cases and needs to be fixed manually. For every dollar spent on RPA, $3.41 is spent to keep it working.
+Intelligent RPA (RPA and AI)
+When you add in artificial intelligence (AI), including the subfield of machine learning, automation starts to scale. Intelligent automation can handle more use cases than traditional RPA, as it can make decisions. However, it requires manual model retraining and one-off quality assurance. Unfortunately, like traditional RPA, it breaks easily, but models can also silently diverge into wild inaccuracy.
+Unified Automation® (RPA, AI, and Expert-in-the-Loop)
+The third and most sophisticated type of automation incorporates AI and human expertise. With AKASA’s Unified Automation platform, algorithms learn from, fall back to, and are quality assured by humans. If the AI runs into an outlier, it triages it to AKASA’s internal team of revenue cycle experts (the experts-in-the-loop) who fix the issue. Our technology learns from their actions and gets better the next time it encounters a similar situation. This form of automation thrives on change because algorithms and humans work together to solve problems and adapt (a true example of Licklider’s Human-Computer Symbiosis).
+To keep it simple, here’s when to use each of the above:
+If your workflow won’t change and doesn’t involve a decision, use RPA.
+If your workflow won’t change and does involve decisions, use Intelligent RPA.
+If your workflow will change and involves decisions, use Unified Automation.
+A word of caution: many use cases in healthcare look like one of the first two but are actually the third. Epic or Cerner upgrade? If you have RPA or Intelligent RPA, congratulations: your whole workflow just detonated.
+Unified Automation’s algorithms have a confidence score that drops when the workflow changes, allowing AKASA to route work to revenue cycle experts who can adapt to the new reality. We monitor what they do, then pipe that back into our algorithms, which gradually gain confidence and increasingly take over the work from humans until the next change occurs.
+The end result is self-healing automation that you don’t have to staff people to fix. You can automate mundane, time-consuming tasks and allow your staff to focus on the more complex, value-generating, and even patient-facing tasks.
+Want to learn more about how automation can improve your processes? Request a demo.
+Parting Thoughts
+A wise mentor once told me that strategy is not about what we can do; it’s about what we should do. Driven healthcare executives may be tempted to take on too many initiatives in a desire to get better results. The truth is, though, we all have finite time and, more importantly, finite energy. I recommend that you and I use our shots on goal wisely.
+Do a few ultra-valuable things well rather than many not-that-valuable things haphazardly. Project selection is often driven by political expedience rather than true value. I suggest going after the biggest, most important trends with one or two technology initiatives each per year. Start with bite-sized pieces, then build from there.
+I hope some of the ideas I’ve shared here empower you to make healthcare better, even if the difference is slight because healthcare matters to everyone. Thanks for reading, and please share this post with others who may find it useful.
+You may also like
+Blog
+Nov 29, 2022 A Facial Focus on Health: My Movember Experience and Commitment to Making a Difference in Men’s Health
+Nearly 20 years ago, two gentlemen and a small group of their friends in Australia decided to bring awareness...
+READ MORE
+Blog
+Nov 13, 2023 Becker’s Hospital Review Podcast: An Interview with AKASA Co-Founders
+On a recent episode of the Becker’s Hospital Review Podcast, Scott Becker sat down with AKASA co-founders, Malinka Walaliyadde...
+READ MORE
+Blog
+Aug 9, 2024 Senior Software Engineer Armaghan Behlum on Why He Joined AKASA
+It’s been nearly two years since I left Verily, an Alphabet company focused on using advanced technology to improve...
+READ MORE
+Blog
+Jun 17, 2022 9 Trends from HIMSS 2022
+A World Unto Itself It’s difficult to communicate the sheer magnitude of the 2022 HIMSS Global Health Conference &...
+READ MORE
+Blog
+Jul 27, 2022 10 Questions for Military Spouses at AKASA
+There are more than seven million military spouses in the United States, between active duty and surviving spouses of...
+READ MORE
+Blog
+Jul 10, 2024 10 Questions for Amy Raymond, Head of Revenue Cycle Operations at AKASA
+As a part of our People of AKASA series, we’re interviewing the folks behind the brand. From engineering to...
+READ MORE
+Blog
+Dec 5, 2024 Using Machine Learning to Enable Autonomous Medical Coding
+It’s no secret that the healthcare industry is complex. Medical coding, the act of transcribing each medical condition into...
+READ MORE
+Blog
+Jul 25, 2022 10 Questions for Sanjay Siddhanti, Director of Engineering at AKASA
+As a part of our People of AKASA series, we’re interviewing the folks behind the brand. From engineering to...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

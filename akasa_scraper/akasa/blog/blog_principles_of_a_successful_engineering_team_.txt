@@ -1,0 +1,79 @@
+URL: https://akasa.com/blog/principles-of-a-successful-engineering-team/
+
+The Principles of a Successful Engineering Team | AKASA
+Blog
+The Principles of a Successful Engineering TeamHealthcare operations automation is complex, and so is running an engineering team. AKASA's VP of engineering shares how to run a top-notch engineering team.
+Andy AtwalAugust 09, 2022
+The Gist
+AKASA's team of talented, research-driven engineers are building automation capable of navigating the complex world of healthcare operations. This kind of undertaking requires more than raw talent—it requires a solid foundation of principles on which a successful engineering team can grow. Hear from Andy Atwal, AKASA's VP of engineering and co-founder, on his approach to running a successful engineering team.
+Blog Contents
+Fostering the Right Values
+Embracing the Power of Disagreement
+Making Culture a Team Sport
+Engineering Your Success
+When you wade through thought leadership on what makes a great engineering team, you’ll likely find articles about aligning your engineers with company goals, the importance of hiring the right engineers, setting productivity and quality standards, and so on.
+There’s nothing wrong with the aforementioned topics — talented engineers, goal alignment, and productivity are all important to engineering success as a whole. But, when I think about what makes our engineering team at AKASA™ so successful, I find myself reflecting on a few different areas.
+Fostering the Right Values
+Values act as a guiding light for your company and engineering team. Values tell your team:
+“This is how we’re going to reach our goals in a way we can be proud of.”
+If your company has values in place, make sure your engineering team is aware of them. If you don’t have overarching company values, work as a team to create values that embody who you want to be, and how you want your team to carry themselves.
+At AKASA, we have multiple guiding values that we live and breathe every day — each equal in importance. They can mean different things to different people. But the reason why we chose them for AKASA was that, at the highest level, they mean that each one of us is actively thinking about one another, helping and supporting each other, and contributing in ways where the whole is greater than the sum of its parts.
+The three that resonate the most with me are:
+Lead with Empathy: AKASA happens to be an automation company, but we aren’t robots and neither are our customers. People come first. Always.
+Empower Yourself and Others: Proactively seek out mentorship and be generous with your time and knowledge when others ask for it.
+Play the Team: Yes, it’s about being a team player in the traditional sense, but it’s also a reflection of how we strategically deploy our teams and resources to drive outsized impact.
+These three values, in particular, play a pivotal role in how we as an engineering team operate.
+Embracing the Power of Disagreement
+A “yes person” might boost an ego, but they bring nothing in the way of meaningful progress and success. It’s important that your engineering team feels empowered to disagree — otherwise, you’re left with the path of least resistance, stale ideas, and nobody pushing the team. Disagreement is crucial and healthy.
+But you need to foster healthy disagreement in a productive way that gives each party a safe space to communicate their thoughts, ideas, and viewpoints.
+This approach results in two major gains:
+Both parties get to see the problem from another perspective, paving the way for learning and growth. Empathy is key when operating as a team, as you learn to become cognizant of how your actions and ideas impact others. And, in the end, you learn to carefully analyze your ideas through the lens of others, resulting in more fleshed-out ideas and decisions.
+Next, the company ultimately wins, as the answer agreed upon was reached through open debate and careful thought. That empathy and polite debate had led to our team committing to the management principle of “disagree and commit.” In other words, they have learned to work together toward the outcome of the debate, even if it wasn’t their first choice. And your team can do the same.
+Making Culture a Team Sport
+There’s no single owner of culture. Everyone is responsible. It takes an entire team to build a healthy and productive culture, from the top to the bottom.
+Whether you follow some of our values or craft your own, it’s up to your entire engineering team to shepherd those values. Include your values as a part of onboarding, making it clear how they play into the company. Also, celebrate them at every opportunity, giving praise to those who do a great job exemplifying one value or another.
+Make it known to your engineers that management is available for any questions around handling difficult situations. Turn your managers into mentors, equipping them with the resources they need to help your engineering team embody your company values — while having productive and respectful disagreements and debates. Our company embraces transparency and learning and makes it clear to everyone that they’re free to seek knowledge and help anytime.
+Engineering Your Success
+If you want to succeed as an engineering team, you need a zero-tolerance policy for any behavior that counters these principles. Whether you’re in a 1:1, a pod sprint meeting, or a learning series, I personally expect all of our engineers (and colleagues from different teams) to respect and give one another space to share thoughts and ideas in a collaborative manner.
+A strong engineering team ultimately means a strong foundation for companies in the tech space, companies like AKASA. Without a strong engineering team, your product development grinds to a halt, customer requests aren’t met, and your company as a whole suffers.
+Success can’t happen without a strong engineering culture and foundation.
+By focusing on engineering success, you’re focusing on company success. Give your engineering team the values and resources they need to succeed, and your company as a whole will thank you for it.
+If you’re interested in being a part of our successful engineering team, we’re always hiring. Take a look at our current job openings and apply today.
+WRITTEN BY
+Andy Atwal
+Andy Atwal is the vice president of engineering and co-founder of AKASA. Prior to AKASA, Atwal served in senior product management and operations roles and was the founding software engineer at Counsyl, a health technology company that offers DNA screening for diseases that can impact women, men, and their children. He has a degree in computer science from UC Berkeley.
+You may also like
+Blog
+Feb 20, 2024 How the AKASA Engineering Team Created an Automation Solution for Database Migrations
+AKASA builds products and tools to improve the various components of revenue cycle management (medical billing) for hospital systems....
+READ MORE
+Blog
+May 1, 2023 ChatGPT and Healthcare: Exciting Potential That Needs To Be Channeled
+Recently I heard that as a fun exercise, the security officer at one of our healthcare clients tried asking...
+READ MORE
+Blog
+Jun 12, 2023 Overcoming the Top 3 Challenges Holding Back Healthcare Innovation
+Healthcare is notoriously slow at adapting and incorporating new technologies into day-to-day operations. Healthcare lags behind as one of...
+READ MORE
+Blog
+Jan 16, 2025 7 IT Mistakes You’re Making With Your RCM Automation Partner
+The right revenue cycle management (RCM) automation is capable of helping healthcare organizations overcome a litany of issues —...
+READ MORE
+Blog
+Jan 16, 2025 Questions Healthcare IT Teams Should Ask About Revenue Cycle Automation
+RCM leaders at your organization are discussing automation. Period. The healthcare revenue cycle is fighting non-stop battles. Staffing challenges...
+READ MORE
+Blog
+Jan 16, 2025 9 Healthcare Technology Trends To Watch
+Keeping track of the rapid changes in healthcare technology is no small task. The industry has seen numerous healthcare...
+READ MORE
+Blog
+Nov 30, 2022 The Gradient Podcast: An Interview on AI and Healthcare With AKASA CTO and Co-Founder Varun Ganapathi
+On a recent episode of the Gradient Podcast, host Daniel Bashir sat down with AKASA CTO and co-founder, Varun...
+READ MORE
+Blog
+Nov 29, 2022 A Facial Focus on Health: My Movember Experience and Commitment to Making a Difference in Men’s Health
+Nearly 20 years ago, two gentlemen and a small group of their friends in Australia decided to bring awareness...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

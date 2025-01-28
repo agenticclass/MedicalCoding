@@ -1,0 +1,34 @@
+URL: https://akasa.com/press/denials-area-of-focus-revenue-cycle-automation/
+
+Denials Management Emerges as Area of Focus For Revenue Cycle Automation | AKASA
+Press
+Denials Management Emerges as Area of Focus For Revenue Cycle Automation
+South San Francisco, Calif. — Sept. 26, 2023 — AKASA, the leading developer of AI for healthcare operations, released new survey results showing denials management as an emerging area of focus for automation in the revenue cycle.
+Of those not currently automating any component of denials management, 44% indicated they plan to do so by the end of 2023, while another 32% said they had plans to do so in 2024. The remaining 24% have no current plans to apply automation to denials management.
+Previous research commissioned by AKASA showed that 78% of health systems and hospitals are already applying automation to their revenue cycle operations generally.
+“Most organizations start their automation efforts with discrete tasks, such as claim status checks,” noted Amy Raymond, VP of deployments and revenue cycle operations at AKASA. “As early automation efforts demonstrate success, denials management is a natural next area of focus for two reasons. The first is that AI and machine-learning-based automation is capable of handling more complex workflows than ever before — thanks to breakthroughs driven by generative AI models. The second reason is that denials management is an increasingly significant pain point for providers.”
+Denials management has been cited as the most time-consuming revenue cycle automation task and is recognized as also requiring more subject-matter expertise than other areas of the revenue cycle, according to additional research previously reported by AKASA.
+“We’ve been trying to fix the broken denials process for decades, without success,” said Raymond. “Throwing more people at the problem isn’t working. Basic automation like RPA isn’t working. Advanced AI-powered automation is the only effective tool for the healthcare industry to improve these intricate workflows.”
+Source: Commissioned by AKASA, the survey fielded responses from more than 350 chief financial officers and revenue cycle leaders at hospitals and health systems across the United States through the Healthcare Financial Management Association’s (HFMA) Pulse Survey program.
+About AKASA
+AKASA is the leading developer of AI for healthcare operations. AKASA scales human intelligence with leading-edge AI and ML to deliver comprehensive automation for complex workflows. The result is an integrated solution that reduces operating costs, frees up staff to do the work they love, and helps health systems allocate resources to where they matter most.
+WRITTEN BY
+Tiffany Smith
+Tiffany Smith is the editorial director at AKASA. A former magazine editor, she has more than 25 years of experience in content, across healthcare, higher education, and finance, among others.
+You May Also Like
+Press
+Sep 26, 2023 Denials Management Emerges as Area of Focus For Revenue Cycle Automation
+South San Francisco, Calif. — Sept. 26, 2023 — AKASA, the leading developer of AI for healthcare operations, released...
+READ MORE
+Press
+Dec 16, 2022 Nearly 40% of Americans Confused by Medical Bills
+Survey finds uncertainty around what patients are being billed for as most frustrating; providers and insurers can take steps...
+READ MORE
+Press
+Nov 15, 2022 Limited Vendor Support, Lack of Best Practices Hamper ROI Measurement for RCM Automation
+New survey of more than 550 healthcare financial leaders finds wide variability in how, when, and what is measured...
+READ MORE
+Press
+Sep 15, 2022 Survey: Cost-to-Collect Nearly .25% Lower for Hospitals and Health Systems That Leverage Automation in the Revenue Cycle
+Nearly 40% of organizations say their cost-to-collect has increased over past year South San Francisco, Calif. – September 15,...
+READ MORE

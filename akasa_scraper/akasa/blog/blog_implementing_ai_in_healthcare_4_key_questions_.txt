@@ -1,0 +1,108 @@
+URL: https://akasa.com/blog/implementing-ai-in-healthcare-4-key-questions/
+
+4 Questions to Ask Before Implementing AI in Healthcare Revenue Cycle Operations | AKASA
+Blog
+4 Questions to Ask Before Implementing AI in Healthcare Revenue Cycle OperationsAutomation and healthcare AI can help you streamline your healthcare revenue cycle operations. But it's important you ask the right questions before you take the plunge.
+AKASA December 05, 2024
+The Gist
+As the revenue cycle becomes more complex and automated, artificial intelligence (AI), and more recently, generative AI, along with machine learning (ML) solutions offer the most scalable, sustainable way forward. To implement AI in healthcare, CFOs and revenue cycle leaders should systematically think through the current pain points in the revenue cycle and then determine which applications of AI would have the biggest impact.
+Blog Contents
+The High Stakes for Finding the Right Automation Solution
+1. What Are the Main Pain Points in My Current Revenue Cycle?
+2. What Existing Processes and Tools Could Be Replaced With AI?
+3. What Specific Use Cases Would an AI Implementation Help Me Handle?
+4. What Level of Human Expertise and Judgment Will My AI Provider Offer?
+The revenue cycle is evolving into a set of automated processes. Hospitals and health systems that once relied on complex staff workflows for tasks like determining patient eligibility and attaining prior authorization are now automating these functions.
+An AKASA-commissioned survey of 400 healthcare executives found that 78% of them were implementing revenue cycle automation of any type in 2021, compared to 66% in 2020 — a 12% year-over-year increase.
+And 98% of healthcare leaders anticipate using AI in RCM by 2023, according to a survey from Change Healthcare.
+The specific form of automation (e.g, AI and ML versus older alternatives) that each healthcare organization selects will determine how much their revenue cycle benefits from the change.
+The High Stakes for Finding the Right Automation Solution
+The spectrum of possible outcomes is broad, ranging from digital transformation via AI to costly setbacks due to brittle robotic process automation (RPA). Implementing AI in healthcare is, ultimately, the only sustainable way to boost operational efficiency while navigating the unique financial pressures and patient care challenges of the COVID-19 pandemic.
+As ongoing coronavirus cases necessitate additional staffing and fewer elective procedures across the healthcare industry, hospitals will likely continue to see diminished margins through at least the end of 2021, according to Fitch Ratings. But implementing AI in healthcare helps providers adapt to this new reality in ways RPA can’t.
+The right AI technology will reduce the costs of operations by understanding the unique complexity of revenue cycle tasks and adjusting to any relevant changes — all while working directly within the same billing and EHR systems healthcare workers already use.
+So how can you find and start implementing such a platform? One that fits your particular needs.
+Before you go down the automation path for your revenue cycle, you need to figure out where you need help and what your options are. The right automation partner can help you answer these questions.
+~ Amy Raymond, VP of revenue cycle operations at AKASA
+Start by asking these four questions about AI adoption within your specific organization:
+1. What Are the Main Pain Points in My Current Revenue Cycle?
+Examine where your team members are struggling. Are they:
+Spending lots of time reworking claims?
+Correcting and resubmitting just a single claim can cost anywhere from $25 to over $100, per estimates from the Medical Group Management Association and Change Research. Accordingly, even relatively small practices can lose tens of thousands of dollars annually to rework.
+​​Wasting time and expensive resources on low complexity, repetitive tasks?
+Do an audit of your team. Where do you have the most employees who are spending the most time and the most money to solve a problem? AI-based automation can have a quick and dramatic effect by focusing on the mundane, simple tasks within the revenue cycle. This allows you to shift your team to more complex tasks where their expertise is needed, letting them work top of license.
+Having trouble getting prior authorizations?
+More than two-thirds of physicians admit not knowing if a prescription medication requires prior authorization. Delays in this process jeopardize continuity of care. Plus, prior authorization issues overall are a leading cause of denials.
+Adapting to increased patient high payment responsibility?
+Enrollment in high deductible health plans grew 43% from 2014 to 2019, and with it has come a similar rise in patient responsibility for payments. Providers must modernize their systems with options that drive more consistent patient behaviors in paying for services.
+I thought a lot about the broader impacts as well. Once we have this advanced technology, what would be the broader impact on clinical documentation improvement in general? Clinical documentation is one of the biggest reasons for doctor and medical staff burnout. They need to type all the time, throwing whatever the patient says into the system. If we could make the documentation process easier, that would be a big win for healthcare staff.
+~ Hak Kim, AI Technology Lead at AKASA
+Identifying such pain points will help inform the initial processes and tools that the right AI tool will supplement or replace outright.
+2. What Existing Processes and Tools Could Be Replaced With AI?
+A true AI algorithm is versatile. It’s capable of performing advanced tasks, like decision-making and natural language processing, when acting on large amounts of healthcare data. Machine learning (ML) extends its power even further by improving without direct human intervention.
+As such, the combination of healthcare AI and ML algorithms can likely replace what you currently rely on, whether that’s:
+Manual claim status inquiries
+Each one of these takes nine minutes to complete, leaving staff constantly playing catchup as outstanding claims pile up in accounts receivable.
+Bolt-on EHR solutions
+Add-ons to EHRs — like an electronic enterprise master patient index or a patient insurance eligibility verification tool — can be costly, not to mention years out of date. They can be overall net negatives for staff productivity.
+Fragile RPA bots
+RPA often comes up short because it can’t adapt to even minor changes in payer portals and other pages. A button that changes location can easily break an RPA bot, requiring expensive, consultant-aided remediation.
+AI and machine learning represent a profound transformation of RCM automation. This technology can complete essential tasks (ranging in complexity from clearing a repetitive edit for missing information to navigating and resolving a registration-related denial) in a fraction of the time of a human or an RPA bot. It’s also built to last, with algorithms that continuously learn from real behaviors and adapt to inevitable system changes.
+~ Amy Raymond, VP of revenue cycle operations at AKASA
+3. What Specific Use Cases Would an AI Implementation Help Me Handle?
+“I usually recommend that organizations start by automating the smaller tasks first. Then grow into larger, more complex tasks from there.” Amy Raymond, head of revenue cycle operations at AKASA
+Now that you have a sense of what general challenges AI techniques might address, as well as the particular tools and processes it could replace, it’s time to think about what AI can add to your operations.
+Because AI is so flexible, it can scale to a wide range of healthcare revenue cycle use cases, from the foundational to the more complex.
+“I usually recommend that organizations start by automating the smaller tasks first,” says Raymond. “Then grow into larger, more complex tasks from there.”
+Think about starting with:
+Insurance card-driven eligibility
+An AI application can automatically scan insurance cards and use their data to check eligibility, avoiding tedious patient data entry and possible rework.
+Prior authorization
+With AI and machine learning, prior authorization requirements get identified accurately and early on, reducing the chance of denials.
+Denial management
+Speaking of which, an AI system makes it easier to rework claims and get back revenue that might have otherwise been lost. Over half of claims are never reworked, so AI provides major room for improvement here.
+Read more about how claims denials are at an all-time high.
+No-response follow-ups
+An AI platform automatically checks claims that haven’t received a response and then dynamically determines next steps and routes that claim to the correct queue or location to receive the level of attention needed.
+From there, you can expand AI innovation to numerous other healthcare industry tasks, including but not limited to case management, utilization review, price estimation, and coding.
+4. What Level of Human Expertise and Judgment Will My AI Provider Offer?
+Revenue cycle management is full of edge cases. The inherent complexity of keeping up with evolving workflows, changes across payer infrastructure, and shifting regulations means that any AI solution should be backed by an expert support team who can resolve any complicated issues quickly.
+That team should include specialized engineers who are well versed in healthcare, hold advanced degrees in ML and AI, publish in peer-reviewed academic journals, and present at top industry conferences.
+A reputable AI vendor will also have individuals on staff with advanced knowledge in the revenue cycle. While AI and ML handle most claims automatically, an expert-in-the-loop platform (like AKASA is based on) means that any outliers can be flagged, sorted out by humans, and used to train the system for next time.
+This combination of implementing generative AI in healthcare and relying on human experts is the backbone of the AKASA platform, a unique approach that delivers truly resilient automation and increased peace of mind for healthcare revenue cycle operations.
+The AKASA platform expands on the capabilities of traditional automation by using GenAI and ML, coupled with human experts-in-the-loop. The combination of advanced AI and ML allows our automation to get smarter with each task it completes. If it encounters a new case or problem, our dedicated team of revenue cycle experts complete the work and train the AI. The work’s always done, and the automation gets faster over time.
+Schedule your free demo to learn more about how AKASA can help your organization today.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

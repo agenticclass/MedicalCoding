@@ -1,0 +1,56 @@
+URL: https://akasa.com/engineering/#team
+
+Engineering careers at AKASA | AKASA
+careers
+ENGINEERING
+Engineering at AKASAWe research, build, and implement solutions that improve the financial complexities of healthcare.
+VIEW OPEN JOBS
+Impact
+Team
+Mission
+Employee Stories
+Videos
+Have an impact
+Join our team and help fix healthcareHave you ever been surprised by a medical bill? Most Americans have.
+The revenue cycle (commonly referred to as medical billing) is the invisible financial infrastructure of healthcare. It’s also incredibly complicated. At AKASA, we’re using advanced technology (including generative AI, large language models, and machine learning) to help fix that.
+We’re one of the first companies to deploy GenAI for practical use cases within the industry. Leading health systems across the country use our solutions every day and see incredible results.
+And this is just the beginning.
+VIEW OPEN JOBS
+Our team
+Machine learning
+Productizing R&D to learn complex tasks from human experts.
+Core platform
+Building a GenAI-powered platform trained on health system data.
+Product engineering
+Delivering full-service, innovative solutions for our clients.
+Building bonds beyond code
+Setting new standards for healthcare technology Our offerings are built on the AKASA Platform, which integrates our proprietary generative AI technology and deep revenue cycle expertise to deliver exceptional impact for hospitals, health systems, and the patients they serve. We're the only AI company whose technology is trained on a health system’s own clinical data, enabling us to better understand an organization's specific nuances.
+LEARN MORE ABOUT AKASA
+AKASA is hiring
+The engineering team embraces a work-from-anywhere attitude, where everyone is welcome.
+VIEW OPEN JOBS
+Engineering talent at AKASA
+Working at AKASA offers me a profound sense of purpose and fulfillment. I find immense satisfaction in knowing that our innovations directly contribute to enhancing the overall patient care experience. I’ve grown immensely as an engineer. I’m constantly presented with opportunities to expand my technical expertise and problem-solving skills. The collaborative atmosphere here at AKASA has been instrumental in my development; working with and learning from other talented and hard-working engineers offers me invaluable insights and new perspectives.
+Aalique Grahame
+—
+Software Engineer
+Engineering videos
+Addressing Baumol's cost disease in healthcare with machine learning
+How machine learning and human-in-the-loop approaches are expanding the capabilities of automation
+Published research
+Pushing the Limits of Medical Codes Prediction from Clinical Notes by MachinesAccepted to MLHC 2021
+READ PAPER ON ARVIX
+READ BLOG
+Payer Response Prediction from Claims Date With Deep LearningAccepted to ICML2020
+READ PAPER ON ARVIX
+READ BLOG
+Engineering blog posts
+BLOG
+How the AKASA Engineering Team Created an Automation Solution for Database MigrationsStreamlining Postgres migrations for increased developer proficiency.
+READ MORE
+The Principles of a Successful Engineering Team
+READ MORE
+The Gradient Podcast: An Interview on AI and Healthcare With AKASA CTO and Co-Founder Varun Ganapathi
+READ MORE
+Join our team. Expand what's possible.
+VIEW OPEN ROLES

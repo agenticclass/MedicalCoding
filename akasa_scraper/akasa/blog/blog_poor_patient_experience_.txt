@@ -1,0 +1,84 @@
+URL: https://akasa.com/blog/poor-patient-experience/
+
+Unpaid Claims? Poor Patient Experience Might Be To Blame | AKASA
+Blog
+Unpaid Claims? Poor Patient Experience Might Be To BlameUnpaid claims cost health systems millions every year. Why? Poor patient experiences are seeing some bills wind up in the trash.
+AKASA January 13, 2025
+The Gist
+Hospitals and healthcare systems know the importance of improving the patient experience. But healthcare operations continues to be marked by frustration, stress, and confusion — so much so that more than a third of consumers won’t pay their bills, a recent survey found. Experts say that as organizations continue to look for ways to improve cost to collect, operations must evolve to put patients first.
+Blog Contents
+Poor Patient Financial Experiences Are Stressful
+Consumers Want Certainty
+Changing Laws to Better Inform Patients
+To Improve the Patient Financial Experience, Put Patients First
+Hospitals and health systems in the U.S. have been hyper-focused on improving the patient experience in recent years — and for good reason. A positive experience is directly tied to an organization’s reputation and ratings. It increases utilization, improves loyalty and retention, and, as a result, boosts their bottom line.
+In fact, according to a report by Deloitte, hospitals with “excellent” HCAHPS patient ratings between 2008 and 2014 had a net margin of 4.7%, compared to 1.8% for those with “low ratings.”
+Yet improving the patient financial experience in healthcare is one area that continues to lag behind other industries. So much so that consumers are throwing their hands up — and some are even throwing their bills in the trash.
+That’s what a recent survey conducted by Cedar found.
+The survey, which included more than 1,500 consumers, showed 41% are unsatisfied with their provider billing experiences, and 37% won’t pay their bills if they can’t understand the administrative experience.
+Between health insurance premiums, high deductible plans, and the cost of care, patients are shouldering more of the financial burden of healthcare than they ever have.
+What’s more, many patients are finding themselves with out-of-pocket expenses for unexpected care or expensive procedures that could leave them in debt or even bankrupt their families. According to a study in JAMA, collection agencies held $140 billion in unpaid medical debt in 2020.
+For far too long, patients have been neglected by the billing experience. The mindset has never been to help curb the financial epidemic. But if organizations want to thrive in 2022 and beyond, the revenue cycle must evolve to be a patient advocacy organization.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+Poor Patient Financial Experiences Are Stressful
+The Cedar survey also found that medical bills are a significant source of anxiety and frustration for consumers, with 55% saying it’s stressful to pay a medical bill.
+Plus, 33% said they want more clarity on what they owe and why, including insurance coverage and denials, and 25% want better ways to get their questions answered faster.
+Patients have been in the dark for far too long and are now demanding that healthcare be on par with other consumer experiences. Healthcare revenue cycle leaders must change their approaches to ensure patients understand their benefits and bills, get a correct bill the first time, every time, and have the best financial experience possible.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+Consumers Want Certainty
+Surprise medical bills and a lack of price transparency also contribute to poor patient financial experiences. And they are two main areas where consumers think healthcare should improve.
+Nearly 80% of respondents of the Cedar survey said that if they’re given a guaranteed price, they would be willing to pay for out-of-pocket costs before or at the time of the visit.
+Providing patients with price estimates and time to ask questions and inquire about resources reduces patient frustration and prevents delayed or rescheduled appointments which impact an organization’s revenue.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+Yet surprise medical bills aren’t only frustrating for patients but for providers looking to prevent them from happening in the first place.
+In fact, according to a recent AKASA survey, financial leaders at hospitals and health systems cited the following four barriers to preventing surprise medical bills:
+Changing Laws to Better Inform Patients
+There have been recent policy changes designed to improve healthcare consumerism and advocacy.
+The No Surprises Act, which took effect in January 2022, protects patients by restricting excessive out-of-pocket costs caused when consumers are unknowingly treated by out-of-network providers.
+There have also been inroads to provide price transparency.
+Last January, CMS started to require all U.S. hospitals provide pricing information for 300 “shoppable services,” so that healthcare consumers can shop and compare prices and estimate their costs before going to the hospital.
+Yet a recent study out of the Johns Hopkins Bloomberg School of Public Health found that 55% of U.S. hospitals have not been compliant.
+The new rules are a step in the right direction, but medical billing errors and high-deductible health plans continue to leave consumers confused about their financial responsibility.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+To Improve the Patient Financial Experience, Put Patients First
+As hospitals and healthcare systems continue to grapple with slim profit margins, workforce shortages, rising denials, and a high cost-to-collect, they must prioritize the patient financial experience and re-think the revenue cycle as a front-end function rather than a back-end process.
+Through AI-enabled automation, revenue cycle teams can focus on the most challenging tasks, such as obtaining authorizations, understanding cost estimates, and managing denials.
+Automation helps prevent surprise medical bills and takes a lot of the tedious work off the plates of revenue cycle specialists, freeing them up to become patient advocates. With more time in their days, they can provide financial counseling and improve the patient experience, while also improving their organization’s bottom line.
+With improved accuracy and efficiency, healthcare organizations can ensure patients receive the full benefits for which they are eligible, get a correct medical bill the first time, every time, and avoid surprise medical bills.
+The AKASA platform brings together generative AI (GenAI), large language models (LLMs), and human RCM expertise to fuel scalable and antifragile revenue cycle management automation that is continuously improving.
+Schedule a demo to learn how AKASA can help your organization’s revenue cycle become more efficient, patient-focused, and transparent.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

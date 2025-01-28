@@ -1,0 +1,172 @@
+URL: https://akasa.com/blog/beckers-podcast-may22/
+
+Becker’s: Interview with AKASA Co-Founders
+Blog
+Becker’s Hospital Review Podcast: An Interview with AKASA Co-FoundersHow is AI-powered automation being used in the revenue cycle and does it have other use cases in healthcare? AKASA weighs in.
+AKASA November 13, 2023
+The Gist
+AKASA co-founders Malinka Walaliyadde and Ben Beadle-Ryby recently appeared on the Becker’s Hospital Review Podcast to talk about healthcare workforce shortages, AI and automation in the revenue cycle, and what the future holds for AKASA.
+Blog Contents
+About the Participants
+Introductions
+Automation: Accuracy and Efficiency at a Lower Cost
+How AKASA Works With Health Systems in the United States
+Automation: Service at Scale
+Comprehensive Automation for Complex Workflows
+Is Automation Right for All Health Systems?
+Where AKASA Is Headed in 2022 — and Beyond
+On a recent episode of the Becker’s Hospital Review Podcast, Scott Becker sat down with AKASA co-founders, Malinka Walaliyadde and Ben Beadle-Ryby to talk about the current challenges hospitals and health systems in the United States are facing, how AI and automation drives efficiencies in the revenue cycle, and how AKASA partners with their clients — and where they’re headed next.
+This podcast is one of the top 5 most listened to shows on the Becker’s Healthcare podcast.
+In this episode, Becker, Walaliyadde, and Beadle-Ryby talk about:
+3:00 Automation ensures accuracy and efficiency in the healthcare revenue cycle — and at a lower cost — allowing staff to work at the top of their skillset.
+5:00 Automation addresses healthcare staffing shortages.
+7:34 How AKASA works with health systems in the U.S.
+10:23 The analogy of automation to cloud computing.
+12:47 Addressing complex workflows and multiple revenue buckets with a comprehensive automation solution.
+14:40 The best types and sizes of health systems well-suited for automation.
+16:43 Where AKASA is headed in 2022 — and beyond.
+18:15 The potential for AI-enabled automation to be applied to other areas of healthcare.
+About the Participants
+Scott Becker previously served on the McGuireWoods LLP Board of Partners and served for nearly 15 years as chairman of the firm’s national Healthcare department. He is the founder and the publisher of Beckers Healthcare and Beckers Hospital Review and its related events and publications, also producing the Becker Group Business News, the Becker Private Equity Podcast, and the Becker Business Podcast. Becker is a Harvard Law School graduate and a University of Illinois undergraduate business school graduate in finance and accounting. He is also the author of four books and a CPA.
+Malinka Walaliyadde is the CEO and co-founder of AKASA, the leading developer of AI for healthcare operations. Prior to AKASA, Walaliyadde was a partner at Andreessen Horowitz (a16z), a $16.5B venture capital firm based in Silicon Valley. At Andreessen Horowitz, he helped start and build their healthcare investment team, which focused on investments at the intersection of software and healthcare; he worked on almost 20 investments totaling over $250M in deal value. Walaliyadde previously worked at Corning Life Sciences, Counsyl, and on the healthcare team at Deloitte. Walaliyadde has previously been named to the Forbes 30 under 30 list and holds a bachelor’s degree in materials science and engineering, graduating cum laude with honors from Cornell University.
+Ben Beadle-Ryby is senior vice president and co-founder of AKASA. Beadle-Ryby has nearly 15 years of experience as a healthcare economist, specializing in technology and consulting solutions to address financial challenges for hospitals and health systems. Prior to AKASA, Beadle-Ryby was a partner at the Advisory Board Company and at Optum, leading revenue cycle consulting growth and delivery. During his career, he has worked with more than 200 provider organizations across the country, delivering long-term operational improvements. Beadle-Ryby has a degree in mathematical economics from Colorado College.
+Introductions
+Becker:
+This is Scott Becker with the Becker’s Healthcare Podcast, thrilled today to be joined by two founders of AKASA — brilliant folks in automation, the AI space, and the revenue cycle.
+We’re talking to Malinka Walaliyadde and Ben Beadle-Ryby. Ben always has to make sure I’m pronouncing his name correctly, but I’m working on it, Ben.
+Could the two of you take one moment to introduce yourself and then maybe start talking about how AI is impacting the revenue cycle, what you are seeing, what is automation’s promise for the revenue cycle and so forth?
+Malinka, do you want to first introduce yourself, and then I’ll ask Ben to do that too? Then I’ll jump into what are you seeing with artificial intelligence, automation, and the revenue cycle?
+Walaliyadde:
+Absolutely. Thank you, Scott. Very excited to be here. So I’m the co-founder and CEO at AKASA.
+Prior to AKASA, I was working at a venture capital firm called Andreessen Horowitz, they also go by a16z. They manage over $116.5 billion dollars in asset management out of Silicon Valley. I helped them start the healthcare investment team years ago. We built that into one of the largest investing operations there. I worked on about $250 million worth of investments across several companies. These are tech-enabled providers, payers, biotech, and healthcare technology companies.
+What became very clear to me is that the fundamental blocker to innovation in American healthcare is not additional innovation required on the care side, but more innovation that was required on the back-end of care, which I think is still vastly underserved by modern technologists.
+Malinka Walaliyadde, CEO and co-founder at AKASA
+So many of these challenges took up my time at a16z, and realized how we could use modern AI and machine learning technologies to solve them, and then got together with my co-founders to start AKASA.
+Beadle-Ryby:
+Thanks so much for having us on, Scott. I really appreciate it. As Malinka mentioned, we started the company together. My background has been in healthcare, working with providers. I started my career working with hospitals and health systems, specifically focused on the revenue cycle, finance operations, and sort of the back office activities that are happening in healthcare.
+The better part of my career was spent in consulting, focusing on people, process, and technology.
+As we came together, we saw this huge opportunity to deliver significant efficiencies to healthcare, to improve the overall accuracy of healthcare, and help elevate people to be operating at their top of license around healthcare through automation.
+And so that’s how we formed AKASA and what we’re pursuing together. I’ll turn it over to Malinka to get started on what we see in the revenue cycle.
+Automation: Accuracy and Efficiency at a Lower Cost
+Becker:
+And Malinka, jump in now. The tradition of revenue cycle, with huge pools of people in a back office working through all kinds of claims, so many pieces and tasks related to claims, people did it either here, or they outsourced it, offshore or different ways they were doing it, but very labor-intensive. How do you work toward automating some of that, what is the promise of the automation, and what are you seeing?
+Walaliyadde:
+Thank you, Scott. And you’re describing that environment exactly as how we see it when we work with the health systems. When we work with the health systems on optimizing and automating the revenue cycle operations, many of them, especially today, are just overwhelmed by the amount of work that their teams have to do.
+Their teams just cannot get to all the work they need to. In many cases, it’s a very difficult, job, right? It can be a lot of monotonous work that their teams don’t really enjoy doing. What AI has evolved into, is really allowing us to automate these operations on the back-end that traditional, older technologies really could not do.
+What we’re able to do is work with the revenue cycle leaders and say, what if you could get to 100% of the work you need to do without really needing to hire another giant set of folks?
+What if you could do all the work, get to it faster, more accurately, and at lower cost while using AI to its full potential?
+Malinka Walaliyadde, CEO and co-founder at AKASA
+And that’s what we’re able to deliver to our customers, and ultimately what Ben was saying, it enables existing workers to really get away from the really laborious, monotonous work, and work at the top of their license, work on the most interesting work, and let computers do the work computers should be doing.
+So that, at a high level, is how we work with our customers, and the type of work we’ve been able to do with them.
+Becker:
+Ben, let me just guide on that for a second, because this staffing of these big revenue cycle pools of people, I see this in traditional revenue cycle companies and health systems: huge staffs in revenue cycle. That was always a challenge, but OK. But now, you can’t even hire people to fill these bullpens of staff. Ben, where does automation fit into this? I mean, I hear about the incredible amount of tasks that the automated revenue cycle can do versus the individuals. And how individuals can oversee it. What do you see there?
+Beadle-Ryby:
+Scott, I’m so glad you asked. This is a conversation we are having on a daily basis, quite frankly, with health system CEOs and CFOs and in recognition of the labor market today.
+Unemployment is around 2.2% and finding staff to handle the massive set of work that needs to be done is a challenge in and of itself.
+Many organizations are immediately turning to automation just to give them additional coverage and bandwidth, help them to work through the volumes of work that exist across those different functions within the revenue cycle.
+Ben Beadle-Ryby, SVP of Sales and Customer Success and Co-founder at AKASA
+Beyond that, long term, organizations are starting to say, how can we leverage automation to be smarter in how we support our patients in the revenue cycle? Can we have automation performing a lot of the back-office activities that are kind of mundane, repetitive work? And then can we put some of our staff out in front of the patient? Can we create a better patient financial experience by creating more adept patient financial counselors, or financial navigators? Automation really enables all of those pieces.
+And then lastly, for almost every health system out there, they are operating on razor-thin margins. Many groups were challenged even more so during the pandemic, as they saw some of their volumes decline, and so have been put under cost pressures where automation can enable them to do more work more efficiently and lower their overall cost structure.
+So a lot of benefits there related to supporting staffing, getting out to patients, and reducing overall costs.
+How AKASA Works With Health Systems in the United States
+Becker:
+People talk a lot about revenue cycle and automation in the revenue cycle. You hear so much of people saying the applications of artificial intelligence to healthcare are a lot of hype, but not as much being applied. Not as much of what you’re seeing actually works. Talk about some of the health systems you’re working with because I know in your area of the world, there aren’t concerns about hype. There’s actually a ton going on. It’s working and moving in the right direction. Can you mention a couple of systems you work with, who you work with, just to give people a sense of this?
+Walaliyadde:
+Happy to, but let me actually touch on one additional point, when Ben was speaking, when he was talking about how difficult it is to staff some of these things.
+There’s an interesting new challenge that’s happening now that people are terming “The Great Resignation,” where, as staff got used to working from home, it has been very difficult to get them to come back to offices and work in person. Because they’re able to find many of the industries outside of healthcare that are completely fine with them continuing to work from home, but many folks in healthcare are not.
+So what is happening is staff are resigning at a much greater rate than they’re used to, which is making it even more difficult to staff these roles. This is what makes AI and automation even more important.
+That actually leads into the question you just asked. In the past, there’s been a lot of AI approaches and technology searching for a problem. And AI tools were built without trying to solve for the specific problem in mind. That, I think, has contributed to a lot of the hype where people focused on just the technology versus their specific problems to be solved. And, honestly, people haven’t seen much of an impact.
+What has happened recently, and especially what we’re driving, is solving very practical, day-to-day problems that health systems actually have. Like the ones in revenue cycle.
+So to give you a sense of the types of work, the scope of work that we do, our customers today represent over $100 billion dollars in NPR, almost 10% of all U.S. healthcare system spend, which is being able to grow extremely rapidly because our solution is delivering really great value to our customers.
+For example, here in California, Sutter Health, in the midwest, Nebraska Methodist Health System, and many, many others like that. It’s been just fantastic to work with these groups, as we solve real problems together with AI.
+Becker:
+The beauty of an AI-driven solution is that you try to stay up with incredible software engineering and incredible people that interface with the company.
+You were able to do this ride, and it’s scalable because the hope is it’s software-driven, and it can be scaled. It’s not people-driven, where for every single additional thing a hospital wants to do, they’ve got to add on 10 more people. This is much more scalable for a system — or it should be.
+Automation: Service at Scale
+Walaliyadde:
+There’s an interesting analogy here to a revolution that has happened in the core technology world around cloud computing. What we’re trying to enable health systems to do, what we’re trying to bring to this world, is this idea of cloud operations, where you’re having mostly software do the work with some augmentation from people, versus having people drive all the work.
+If you go back to the early 2000s and you look at the core technology world, in order for anyone to run software, they needed to buy their own servers and computers. And it was expensive to build out the infrastructure.
+Every single person did it themselves; it’s very labor-intensive to do all of that; it’s very expensive to start in that.
+So what happened in the last 10 or 15 years, is the advent of cloud computing, where the idea is, instead of every individual company needing to buy their own servers, and manage their own software infrastructure, they can have a third party do all of that for them, at scale, with mostly software instead of having people drive everything.
+That’s AWS cloud computing, Google cloud computing, Microsoft Azure cloud computing. All of these have become giant businesses because they are providing immense amounts of value to any individual technology company because they provide this infrastructure as a service.
+We’re trying to bring that same quality to the health system world, where instead of every health system having to very laboriously build their own giant teams to manage all of this, they can have much more efficient teams internally focusing on the important stuff. And they can have a third party servicing them, providing much of the very core operational things as a service at scale.
+Comprehensive Automation for Complex Workflows
+Becker:
+Let me ask you this question, and Ben, maybe you can answer this. Health systems have all kinds of different revenues they’re billing for. They have core hospital inpatient revenues, outpatient revenues, and professional services revenues. How much does the system at AKASA which you folks do, how does it relate to these different types of revenue buckets and can it be trained or built to work with different revenue buckets?
+Beadle-Ryby:
+This is really an astute point you’re getting at, Scott. There are different nuances to each and every one of those revenue buckets for these health systems, and they are all critically important to their bottom line. But they all have specific approaches that need to be made.
+You talked earlier about there’s a lot of hype around AI and automation. What we found is a lot of the legacy solutions in this space really struggled to be able to accommodate those different nuances because they are rules-based systems that are built on if/then statements and they’re not dynamic in nature.
+They can’t accommodate all of the different nuances of revenue categories, facilities, and locations. What is really amazing about advanced machine learning is that it inputs data that drives outputs. It has the ability to accommodate and learn how to adapt to each and every one of those categories.
+What we built at AKASA is called Unified Automation®, and that platform enables us to serve our health systems across the entirety of those revenue sources, across the entirety of their different facilities and patient types.
+That is the type of comprehensive automation that is required to address complex workflows in order to achieve some of those efficiencies we described earlier. So it’s really critical to account for that.
+Is Automation Right for All Health Systems?
+Becker:
+When you look at prioritizing this year, where is your growth? Is it large systems? Is it small systems? Is there a perfect size for an automation system? I think you don’t want to be working in very small practices. Is it most adaptable to mid-size to large systems? Where do you sort of look at this from a business and growth perspective, and where you can make the most difference for a system? But if you’re a small surgery center and they have three people doing billing, it’s probably not as big a deal as it is for a system like Sutter Health, where there are probably thousands of people working in billing. Where’s the right sweet spot for a company to really adapt to AI and the revenue cycle?
+Beadle-Ryby:
+Thank you for asking. We have been incredibly fortunate at AKASA to be working with some of the most prestigious customers across the country. At this stage, we’re working with hospitals and health system clients that provide care in all 50 states, they represent more than 450 hospitals. That does range from large national providers and large regional providers, all the way down to large medical groups.
+Generally speaking, AI and automation are positioned to thrive for those larger-scale entities that require many staff to perform the high volumes of work that they have.
+But what is beautiful about our system is we can customize and tailor our approach to any provider — really at any size — if they’re looking to generate efficiency. We have the ability to address this across the board. The most value is ultimately delivered with those largest health systems in the country.
+Where AKASA Is Headed in 2022 — and Beyond
+Becker:
+And that makes sense. Malinka, where do you go from here? What are your priorities this year and into 2022? What are the big couple of priorities for the company?
+Walaliyadde:
+There are two broad priorities for the company. One is internal, company-facing. The other is expansion, external-facing.
+From an internal-facing perspective, we have seen enormous business momentum across this year and last. We are growing extremely rapidly, hiring at a very fast clip. The thing that keeps me, and I think many of our co-founders, up is how do we onboard these people well? How do we train them incredibly well so that we’re attracting great talent, they’re getting trained up incredibly well, and bringing value to our customers? How do we do all of this as we scale extremely well?
+That’s something we think about a lot: delivering a really good experience to our employees as we scale and while everyone is still remote.
+From an external perspective, what we think about is our technology platform, which is the most advanced, expert-in-the-loop automation platform in healthcare and is being applied to many areas outside of the revenue cycle.
+Those are some exciting discussions that we’re having with a number of different parties. So that’s what we think about a lot in terms of investing our time, making sure we do it in a very thoughtful and methodical way.
+Becker:
+You’ve had so much success applying AI to the revenue cycle. Revenue cycle is such a big area. Is the core strategy to go very, very deep in revenue cycle? If you’re doing services right now for a $100 billion dollars in systems worth of revenue, would you rather do it where you’re doing it for 500 hospitals? Is it more important to get 1,500 hospitals that you’re doing this for? Or 2,000 hospitals? Or is it more important to say, a finite client base of 500 or 1,000 is fine? How do we do more for that 500 to 1,000, meaning some work in adjacencies and so forth? How transferrable is the work in AI to a couple of other key areas?
+Walaliyadde:
+Excellent question. It’s absolutely what we think about a lot. To have the impact we want to have at scale, we have to do both. The real question is, how do we do it in a way that’s thoughtful, where we’re not stretched too thin? How do we invest appropriately into both areas where we’re both expanding across revenue cycle, and going deeper, to your point, as well as getting to these new areas?
+Beadle-Ryby:
+We are hoping that we have the opportunity to pursue both of these, and we feel really privileged to have our customers turning to us and asking us for more.
+Saying hey, we want you to go deeper in the revenue cycle, and deliver more value to us there. But then, the areas outside of the revenue cycle that have some broader use cases and applications, including the supply chain, some of the HR servicing for the organizations, and some IT applications management.
+There are opportunities for us to go very deep in terrain like the revenue cycle, but a demand from our clients in the broader market to say, where else can this be applied?
+So, Scott, we want to be very thoughtful in how we pursue those areas in how we deliver additional value. But our ultimate calling is how can we deliver greater value and meet the needs of our health system clients? It will likely be through both of those avenues as we look to 2022 and beyond.
+Becker:
+Fantastic. It’s a really fascinating set of questions and so many things that you can discuss around those issues.
+Malinka and Ben, I want to thank you for joining us today. You had mentioned that AKASA has done some great internal research reports and sort of the pros and cons of other issues with artificial intelligence and so forth. Malinka, are those also available on the AKASA website? Where can people find some of those internal reports that you folks have done?
+Walaliyadde:
+Yes, they are more than welcome to go to AKASA.com and we regularly publish deep research from the data we’re getting from our health systems.
+We’re building benchmarks and best practices that people can learn from.
+Most recently, we put out a research report on the average time it takes to complete different revenue cycle tasks. How long does it take across the industry to complete eligibility tasks or claim status checks? These are numbers every revenue cycle leader we know wants. They want to understand: what is the industry benchmark for this?
+Given our huge distribution now, over $100 billion dollars in customer NPR, we have really great insight, where down to the second, we can give you averages of how long it takes. What this does, is it enables revenue cycle leaders to set the right goals for themselves. So, research reports like that and others are available on AKASA.com. Thank you, Scott.
+Becker:
+Malinka, Ben, thank you again for joining us on the Becker’s Healthcare Podcast. I always learn a ton.
+Want to learn more about AKASA and how we can help improve your organization’s operations? Request a demo.
+You may also like
+Blog
+Nov 29, 2022 A Facial Focus on Health: My Movember Experience and Commitment to Making a Difference in Men’s Health
+Nearly 20 years ago, two gentlemen and a small group of their friends in Australia decided to bring awareness...
+READ MORE
+Blog
+Nov 13, 2023 Becker’s Hospital Review Podcast: An Interview with AKASA Co-Founders
+On a recent episode of the Becker’s Hospital Review Podcast, Scott Becker sat down with AKASA co-founders, Malinka Walaliyadde...
+READ MORE
+Blog
+Aug 9, 2024 Senior Software Engineer Armaghan Behlum on Why He Joined AKASA
+It’s been nearly two years since I left Verily, an Alphabet company focused on using advanced technology to improve...
+READ MORE
+Blog
+Jun 17, 2022 9 Trends from HIMSS 2022
+A World Unto Itself It’s difficult to communicate the sheer magnitude of the 2022 HIMSS Global Health Conference &...
+READ MORE
+Blog
+Jul 27, 2022 10 Questions for Military Spouses at AKASA
+There are more than seven million military spouses in the United States, between active duty and surviving spouses of...
+READ MORE
+Blog
+Jul 10, 2024 10 Questions for Amy Raymond, Head of Revenue Cycle Operations at AKASA
+As a part of our People of AKASA series, we’re interviewing the folks behind the brand. From engineering to...
+READ MORE
+Blog
+Dec 5, 2024 Using Machine Learning to Enable Autonomous Medical Coding
+It’s no secret that the healthcare industry is complex. Medical coding, the act of transcribing each medical condition into...
+READ MORE
+Blog
+Jul 25, 2022 10 Questions for Sanjay Siddhanti, Director of Engineering at AKASA
+As a part of our People of AKASA series, we’re interviewing the folks behind the brand. From engineering to...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

@@ -1,0 +1,159 @@
+URL: https://akasa.com/blog/it-mistakes-with-rcm-automation-partners/
+
+7 IT Mistakes You’re Making With Your RCM Automation Partner | AKASA
+Blog
+7 IT Mistakes You’re Making With Your RCM Automation PartnerIT plays a critical role in RCM automation and AI implementation success, yet many organizations fail to involve them. Avoid these five mistakes and find RCM technology success today.
+AKASA January 16, 2025
+The Gist
+For healthcare IT leaders working with an external technology or automation partner — or looking to work with one in the future — it’s important to understand what makes or breaks such a collaboration. You need to be thoughtful about creating a strong relationship to maximize the return on your technology investment.
+A fruitful relationship goes far beyond simply deploying a new automation solution. It also involves building trust with your partner, establishing a shared vision and goal, and ensuring open and ongoing communication, among other things. Having a misaligned strategy or being unclear about expectations, on the other hand, can prove costly and cause roadblocks down the line. But luckily, there are strategies to avoid some of the common mistakes healthcare IT leaders make when working with a technology vendor.
+Blog Contents
+Mistake #1: Building Automation In-House
+Mistake #2: Thinking All Automation is Equal
+Mistake #3: Forgetting to Define Clear and Common Goals for Automation
+Mistake #4: Getting the Wrong People in the Room
+Mistake #5: Misaligning on Expectations and Resources
+Mistake #6: Measuring ROI Incorrectly
+Mistake #7: Neglecting to Consider Scaling Automation
+The Biggest Mistake: Choosing the Wrong Automation Partner
+The right revenue cycle management (RCM) automation is capable of helping healthcare organizations overcome a litany of issues — staffing challenges, rising healthcare demands, increased prior auth hoops, and more. And it’s becoming increasingly popular.
+Despite the power and potential of RCM automation, you can make several IT-related mistakes with your automation partner. These mistakes can hold back the potential of even the best automation. When operating on razor-thin margins, every penny counts — including money spent on automation.
+Healthcare IT teams have a mountain of challenges facing them regarding RCM automation. IT has to understand what the automation is actually doing, what systems a vendor needs access to, if their portals are compatible, how upgrades are handled, and so on. There are so many considerations, and so many areas where things can fall apart. It’s critical IT is heavily involved in the RCM automation process from day one.
+~ Shankar Rao, Engineering Manager for Client Solutions at AKASA
+But by identifying these common mistakes, you can take steps to prevent costly mishaps — whether you’re shopping for a vendor or already working with one. Recognize the following challenges, create a plan, and set yourself up for smooth sailing with your RCM automation partner.
+Mistake #1: Building Automation In-House
+General automation is more accessible than ever, for both those interested in purchasing it and those curious about building it themselves. While building your own automation for simple tasks (like managing a spreadsheet or handling simple calculations) is entirely possible, healthcare RCM automation presents several unique challenges.
+RCM workflows are complex, with many possible challenges and complications. This makes it difficult to automate, as unexpected challenges can easily break most forms of automation.
+Payers and portals frequently update, often resulting in changes to workflows. Again, this causes many types of automation to stop working and require maintenance.
+Security is paramount in healthcare. Building an in-house automation solution that meets HIPAA, HITRUST, and other standards is no small feat. (And updates to these standards result in the same complications as the first two points.)
+The advanced automation required for RCM workflows is expensive and requires extensive technical expertise. Due to the aforementioned frequent updates and changes, coupled with advanced RCM automation, and you’re left with large amounts of IT time and money dedicated solely to managing the automation.
+The right expertise is hard to find. Building flexible and robust automation, based on the latest in AI and ML technology, requires software engineering skills that can be hard to find in a health system. The average base salary for an ML engineer salary is more than $150,000. When budgets in healthcare are tight, that number can be challenging to justify.
+Building automation in-house sounds enticing, and even if the immediate costs come out lower, you’re looking at the neverending struggle of trying to maintain the automation.
+How to avoid this issue
+Instead of building automation in-house, seek out RCM automation experts. A qualified RCM automation vendor is capable of taking this technical burden off your team, backing the automation with expertise, and freeing your team up to focus on cybersecurity, tools and systems, and other internal priorities.
+Leverage your IT expertise and drive home the time commitment and cost that comes with building and managing in-house automation.
+Plus, with the majority of your team spending time on automation, who will stay on top of cybersecurity, managing the network, handling individual issues with workstations, etc.? Healthcare IT has so many crucial tasks on its plate. It’s a matter of prioitizing needs.
+Mistake #2: Thinking All Automation is Equal
+There are numerous types of automation, from robotic process automation (RPA) to AI-based automation and more. Further muddying the waters are the 260+ RCM companies currently offering one form of automation or another. Beyond these vendors, there are countless general automation companies offering industry-agnostic solutions.
+In short: It’s easy to feel both confused and overwhelmed by the vast RCM automation industry.
+Because there are so many automation solutions available, many healthcare organizations make the mistake of looking at price over expertise. As previously mentioned, RCM workflows are complex and require complex automation. Despite this, many generalist automation providers sell solutions for RCM. But what works for HR or supply chains and so on, won’t necessarily work for RCM.
+It’s also important to understand the different types of automation. Many automation vendors — both RCM-specific vendors and automation generalists — use traditional RPA. Traditional RPA is great for linear tasks, but breaks when it hits an outlier. In other words, traditional RPA will run into trouble anytime a form is updated, a workflow changes, a payer updates eligibility requirements, and so on.
+How to avoid this issue
+When vetting automation vendors, ask them about their automation technology and background. Does the vendor specialize in healthcare/healthcare RCM? Are they a generalist who sells to numerous industries? Do they use dated approaches?
+Ideally, find a vendor that’s specialized in healthcare RCM and leveraging advanced automation. This ensures the automation is tailor-fit for RCM workflows, not other industries, and that the vendor can offer in-depth insights on where your organization can scale the automation.
+For example, AKASA uses generative AI (GenAI) and large language models (LLMs), with support from a dedicated team of in-house RCM experts. This allows us to deliver resilient automation capable of navigating complex RCM workflows. And if it hits a snag, our team of in-house experts trains the AI while ensuring the work’s done — all without laying additional IT burden on your team.
+Mistake #3: Forgetting to Define Clear and Common Goals for Automation
+If your automation partner isn’t aware of and on the same page as you in regards to your short and long-term goals — and how they align with the general direction and future vision of your healthcare organization — you’ll never truly get the most out of your collaboration.
+Aligning on overall RCM goals is important, but it’s important to understand how a vendor will interact with you from an IT perspective. How will automation work with your current programs and platforms? How will an outside vendor collaborate with your team? Both at the onset and in the future?
+Neglecting to set clear and specific common goals for your automation project leads to misunderstandings and may result in outcomes that don’t meet your needs or contribute toward achieving your goals.
+Read more about how to maximize success on your RCM automation investment.
+Let’s imagine your partner is strictly helping you automate your revenue cycle. They still require a high-level overview of your operational goals, strategy, and the larger vision you’re working toward at your health system. How does IT integrate with all of it?
+This insight will help your technology partner understand the role their specific automation solution plays in the bigger picture of your objectives. If you and your partner aren’t aligned on this, your partnership might be frustrating and even counterproductive.
+How to avoid this issue
+To avoid this mistake, define from the onset what pain points you need the new automation solution to solve, what its role is within your IT strategy and organization at large, and the goals you’re looking to achieve.
+Make sure you align internally first across IT and other collaborative departments so you can clearly communicate with your external partner.
+As you kick off and work with your automation partner, create an action plan and strategy with the specific goals and milestones you want to accomplish together and have all key stakeholders sign off on them. This way, you avoid confusion about what success looks like later on, or when evaluating your combined efforts’ results.
+Mistake #4: Getting the Wrong People in the Room
+Often, CFOs or other C-level executives initiate the process of bringing in an external vendor for automation. It’s usually the same executives who also vet and kick things off with the chosen vendor.
+This makes sense from a high-level business standpoint, but it’s essential to involve other key stakeholders, including the CIO and IT leaders, in the process. Who better than IT to determine if the automation solution is compatible with current systems, EHR platforms, etc.?
+By leaving IT and other impacted staff, such as RCM, out of the loop during discussions with your prospective automation partner, you’re increasing the odds of:
+Miscommunication between you and your vendor
+Incomplete planning for automation implementation
+Misaligned expectations and goals
+A rocky implementation and onboarding process
+No matter the vendor, all RCM automation has some level of technical implementation process. While some vendors handle most or all of the implementation, you’ll likely have to provide certain system access for the automation to function. Involving IT early on allows them to prepare for this, reducing implementation time.
+If a vendor requires software installation, IT involvement is critical. If IT isn’t involved until after signing with an automation partner, they’ll have to scramble and figure out what’s required. This can result in technical issues after a contract is signed, slowing down implementation, preventing you from streamlining operations, and even realizing certain automation functions aren’t compatible with your infrastructure.
+How to avoid this issue
+Before vetting RCM automation partners, meet with department heads and identify essential internal stakeholders and decision-makers. When considering essential stakeholders, think about anyone impacted by the automation and anyone that has helpful insight.
+IT must be included in all automation decisions, as they’re essential to providing system access and determining compatibility between the automation and your various systems. Your IT specialists can also carefully vet the tech partner’s cybersecurity. If a vendor isn’t following industry-standard security practices, they’re putting your organization and all the patient data in it at risk.
+Health systems need to bring in their IT team early into vendor discussions. Having the network owner in the room from the beginning opens a critical line of communication. As a CIO or CTO, you may make the decisions. But the health IT team or network owner literally holds the keys to the kingdom. To cut down time on formal review, approval, and clearance requests, having key staff present can speed your implementation processes up dramatically.
+~ Shankar Rao, Engineering Manager for Client Solutions at AKASA
+Mistake #5: Misaligning on Expectations and Resources
+As previously mentioned, it’s important for IT to be involved during vetting and onboarding so they can evaluate things like what access is required by the vendor. Unfortunately, it’s not uncommon for both parties to fall short in communicating expectations and necessary resources, resulting in implementation troubles and disappointing results down the road.
+For example, beyond the aforementioned system access requirements, some vendors require more involvement from your IT department than others. (The same goes for your other teams, including RCM.) If the vendor expects you to install software on hundreds of computers or update certain security measures, and you lack the IT staff to do so in a timely manner, implementation will take longer.
+Similarly, how the vendor handles support will greatly impact the required resources on your end. If they have a ticket system, you still need staff available to flag the issue in your system. Suppose the vendor provides little or no support and leaves the onus of fixing problems on your team. In that case, you again need sufficient IT resources to make this happen. Otherwise, you’re left with broken automation and RCM processes piling up.
+How to avoid this issue
+With your IT leaders involved in the vetting process, ask your prospective vendors the right questions to look for red flags and eliminate the wrong fits before signing.
+Does implementation involve the installation of software? (If so, who handles this?)
+What kind of system access is required?
+How do you handle support in the event the automation breaks?
+Is there any lift for our team when support’s required?
+How are EHR, payer, and other automation updates handled?
+Here are red flags to look for when working with RCM automation vendors
+When questioning prospective vendors, clearly define what’s needed and from whom — on both your end and from the vendor — at each stage of the implementation process and beyond. If you’re already underway with your partner, have a realignment discussion to either set you back on track or ensure it stays that way.
+Lastly, when deciding on an automation vendor, pay close attention to how they answer those questions. If the burden of support falls largely on your team, they require extensive and invasive installations, and so on, it might be time to continue shopping around.
+For example, our process at AKASA asks as little of you as possible. If something breaks, our engineers fix the issue while our team of in-house RCM experts complete the work, training the AI simultaneously. And implementation itself requires no installation of any automation software, leaving your IT staff free to focus on providing system access and limited maintenance.
+We have a very limited IT staff and have been behind the IT ball for quite some time. They got on board with this pretty easily. The lift for them was nowhere near what they even expected it to be via the AKASA team. Very well spelled out, ‘I need X, Y, Z from you guys.’ You really don’t have to have a robust IT team to make this work.
+~ Heather Schneider, CFO at Penn Highlands Healthcare
+Read more about what Penn Highlands Healthcare learned from implementing automation.
+Mistake #6: Measuring ROI Incorrectly
+Automation isn’t free, and proving automation’s value to a healthcare organization’s bottom line is paramount to its success. Yet financial leaders and healthcare IT leads alike have struggled to pin down automation ROI.
+Many healthcare organizations treat ROI as a cost replacement metric, looking at hard financial measurements. This works for many investments but not for RCM automation.
+Automation delivers benefits well beyond hard financial metrics, benefits that are difficult to measure. Further complicating matters — automation’s benefits change over time as it scales and improves. And current approaches to ROI don’t take into account automation’s ability to deliver value during market shifts.
+While financial execs have a big stake in solving automation ROI, IT is integral as well. ROI is inherently metric-driven, and there’s nobody better than IT to help capture the right metrics. But your vendor needs to be onboard as well, otherwise the process falls apart.
+How to avoid this issue
+Automation ROI is complex and requires a multifaceted approach. But you can set yourself up for success as early as initial conversations with prospective RCM automation partners.
+Get stakeholder alignment on which metrics are critical for your RCM automation.
+Make sure you and your team are involved in this process, as IT is often left out. Your team can more easily identify which metrics you’re currently capturing, and if any additional tools or software are necessary for capturing additional metrics.
+Identify metrics your RCM automation vendor has to capture, or can help capture.
+During talks with prospective technology partners bring up your non-negotiable metrics and ask how they can help you capture metrics and share data.
+This still leaves the matter of accurately determining ROI for RCM automation. Current approaches to ROI simply don’t work. To counter this, we partnered with the Health Management Academy to survey executives from more than 40 leading healthcare systems in the United States.
+The end result is a new approach to ROI for RCM automation called the Total Value framework. It combines soft and hard ROI with critical influencers of an automation solution’s capabilities. Then, these elements are mapped to a timeline with select metrics called out for the first three years of automation.
+Learn more about this new approach to ROI and start accurately capturing your automation performance today.
+Mistake #7: Neglecting to Consider Scaling Automation
+It’s easy to think of automation as a one-and-done solution. Unlike a new printer or piece of cybersecurity software, automation is malleable, capable of scaling and expanding into other areas — if the vendor and your own systems are set up for it.
+Unfortunately, some organizations secure RCM automation without considering the potential of scaling into other workflows. The role of RCM leaders in conversations around scaling is clear, but it’s essential that IT is involved here as well.
+For example, say you pursue RCM automation with prior auth in mind. The prospect of scaling automation into other tasks isn’t brought up by either party, implementation takes place, and everything is going well.
+What happens when RCM leaders want to scale into other revenue cycle processes and realize your current systems can’t handle this? Maybe your EHR platform isn’t able to surface the right information, or your patient intake process isn’t capturing the right data in digital format to feed into the prospective automation.
+How to avoid this issue
+If you think you may want to expand to automate more and more tasks within a given area, make sure you have that conversation early on with the vendor. This will help them align with your future vision and ensure they are the best partner for you.
+Think back to the point about having the right stakeholders in the room. Involve RCM leaders and other C-suite execs, but ensure IT is represented as well — they’re the ones who will ask the right questions to ensure scalability is both possible and not hugely inconvenient down the road.
+Additionally, when kicking off your automation journey, consider starting small and expanding over time. Automate one critical workflow or process, then evaluate its success and build from there.
+By identifying and automating a few key workflows first, you’ll be able to scale and automate more and more processes with your vendor over time. Starting small also gives you the chance to ensure your systems are operating properly and, most importantly, securely.
+Give your partner the opportunity to create some initial wins that showcase the ability of their solution. From there, you can work with your internal team and the vendor to target additional areas that would benefit from automation.
+For example, Methodist Health System, a leading provider of care based in Nebraska, has adopted this strategy when working with AKASA and implementing our revenue cycle solution.
+We first started working with Methodist on automating claims status. As our machine learning technology was exposed to more data, its confidence levels increased, and the their team trusted our experts to collaborate on more edge cases and include more payers.
+Start off with the simpler use cases and get some quick wins.
+~ Jeff Francis, Vice President of Finance and CFO at Methodist Health System
+Read more of his advice on automation best practices.
+The Biggest Mistake: Choosing the Wrong RCM Partner
+The right RCM solutions partner is exactly that — a partner. But many RCM technology vendors fall short. Overpromises, poor communication, limited capabilities, and more RCM vendor shortcomings lead to poor results and a negative experience.
+AKASA is an RCM partner you can trust, leveraging the latest in GenAI and LLMs to deliver a solution that learns and scales with your organization. Our platform is backed by a team of dedicated RCM experts who step in and complete the work anytime the AI hits a snag — teaching the automation what to do the next time it encounters is.
+Because our company is built on a foundation of Silicon Valley engineering and healthcare RCM expertise, we’re able to help you automate where it makes sense, from both an engineering and revenue cycle standpoint.
+Anything and everything can go wrong in healthcare IT. Take one worry off your plate and choose the right RCM partner.
+Request a demo today to see how we can help you streamline your RCM processes with none of the IT headaches.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Feb 20, 2024 How the AKASA Engineering Team Created an Automation Solution for Database Migrations
+AKASA builds products and tools to improve the various components of revenue cycle management (medical billing) for hospital systems....
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

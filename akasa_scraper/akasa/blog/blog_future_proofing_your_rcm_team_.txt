@@ -1,0 +1,65 @@
+URL: https://akasa.com/blog/future-proofing-your-rcm-team/
+
+Future-Proofing Your RCM Team | AKASA
+Blog
+Future-Proofing Your RCM TeamBest practices and use cases for generative AI
+Becker's Hospital Review November 18, 2024
+The Gist
+Hospitals are turning to generative AI (GenAI) to tackle rising administrative burdens, staffing shortages, and evolving payer strategies. This recap of a Becker’s Healthcare webinar highlights how Johns Hopkins Medicine is using AKASA’s AI-driven tools to streamline authorization processes, reduce manual work, and focus on complex cases. Key insights include how GenAI automates tasks like coding, denial appeals, and clinical documentation improvement, boosting accuracy and productivity. Learn practical tips for adopting GenAI, selecting the right vendor, and staying ahead in this ever-evolving field. Explore how GenAI is transforming revenue cycle teams and shaping the future of healthcare operations.
+Blog Contents
+1. The rev cycle is ripe for improvements that boost accuracy and productivity
+2. GenAI's underlying technology powers multiple rev cycle automation use cases
+3. Johns Hopkins Medicine is leveraging AKASA to navigate this new AI space
+4. To identify the right vendor and solution, organizations can use these pointers
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of their revenue cycle using artificial intelligence (AI).
+For especially complex processes, such as managing prior authorization, many are looking to generative AI (GenAI).
+During a May Becker’s Hospital Review webinar sponsored by AKASA, Amy Raymond, senior vice president for revenue cycle operations and deployments at AKASA, moderated a discussion with Joel Hammer, director for revenue cycle operations and innovation at Johns Hopkins Medicine in Baltimore, about practical considerations for successfully adopting GenAI within the revenue cycle.
+Four key takeaways were:
+1. The rev cycle is ripe for improvements that boost accuracy and productivity.
+Such advances are essential, given payers’ evolving AI-powered capabilities to deny pre-authorization requests and reimbursement claims and the need for providers to counter this trend by filing comprehensive, error-proof documentation on first go. Amid staffing shortages and rising labor costs, the higher administrative burden this implies for rev cycle teams requires automation that can perform tasks that require human intelligence.
+2. GenAI’s underlying technology powers multiple rev cycle automation use cases.
+When trained on contextual healthcare data, the large language models (LLMs) that GenAI is based on can quickly scan clinical records, extract meaning from them and embed that information in predictive models that make recommendations. This output expedites work that previously required human reading, interpretation and decision-making.
+Use cases in which rev cycle teams can use GenAI in their day-to-day work — with the assumption that a human still needs to validate the result before submission — include coding, clinical documentation improvement, medical necessity justification, letter drafting, claim attachments, denial appeals and producing estimates of a patient’s likelihood of payment.
+“By unlocking the clinical record and allowing a connection across the clinical and financial portions of the patient’s record, LLMs create a very impactful space in the revenue cycle,” Amy Raymond said.
+3. Johns Hopkins Medicine is leveraging AKASA to navigate this new AI space.
+The organization is using AKASA’s GenAI solution to optimize processes related to authorization initiation and status checks on authorization requests and claim submissions.
+“It eliminates the need for our staff to have to go to payer portals to submit authorizations, check on statuses and whatnot,” Mr. Hammer said. “That streamlines that process and allows our team to focus on some of the more complex cases or areas that can’t be automated.”
+4. To identify the right vendor and solution, organizations can use these pointers.
+The first step is to realize that implementing GenAI is different from implementing “regular” rules-based automation. GenAI is a more advanced technology that requires having the right governance in place and being matched to the right projects. Having a lot of conversations with different vendors and asking probing questions can help organizations orient themselves to the type of solution they need, but also find the vendors that have a growth mindset.
+“This is such an ever-changing landscape,” Mr. Hammer concluded. “You need to find that vendor that recognizes that the products that are offered now may become obsolete within the next couple of years, is willing to grow with you and has that forward-thinking mindset.
+This article originally appeared on the Becker’s Healthcare website.
+You may also like
+Blog
+Dec 1, 2024 Generative AI and the Revenue Cycle: Best Practices From Stanford Health Care and AKASA
+Generative AI, a subset of artificial intelligence, is used extensively in consumer-facing industries such as retail, travel, and hospitality....
+READ MORE
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

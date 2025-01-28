@@ -1,0 +1,100 @@
+URL: https://akasa.com/blog/penn-highlands-akasa/
+
+Penn Highlands and AKASA: Finding RCM Resilience | AKASA
+Blog
+Penn Highlands Healthcare and AKASA: Finding Revenue Cycle Resilience With AutomationHow did a rural healthcare provider, struggling to find staff and dealing with increased claims, get relief in the midst of the coronavirus pandemic? Automation.
+AKASA November 03, 2022
+The Gist
+Penn Highlands Healthcare found itself in a difficult position. A large provider of rural care in Pennsylvania, they had trouble finding candidates to hire but also needed to deliver care to their community — all while the pandemic exploded and drove up healthcare demands. They knew automation was the key and eventually landed on AKASA. What did they learn from their journey, and how can you find similar resilience in the unpredictable world of healthcare RCM?
+Blog Contents
+Penn Highland’s Automation Journey
+4 RCM Automation Lessons Learned
+Finding the Right Automation Partner
+Penn Highlands Healthcare (PHH) is a rural provider with eight hospitals, serving the people of 26 counties across Northwestern/Central and Southwestern Pennsylvania and bringing in roughly $850M NPR. Like the rest of the industry, staffing challenges are nothing new to them. But, in light of the coronavirus pandemic, PHH found themselves facing an even greater challenge:
+Their staff numbers were dwindling, while healthcare demands were rapidly increasing.
+Heather Schneider, CFO at PHH, and Wynne Campbell, director of customer engagements at AKASA, recently spoke at the Three Rivers AAHAM Fall Conference. Schneider discussed the struggles PHH faced and how automation helped improve their operations — but also changed how they worked moving forward.
+Penn Highlands’ Automation Journey
+Penn Highlands Healthcare was ahead of the curve, looking into automation before the pandemic.
+Staffing challenges are an issue for providers around the country, but especially so for rural providers like PHH. Leadership at PHH knew they needed to support their staff, and with a small local talent pool, automation just made sense.
+The work queues are going to be there, with or without people to fill seats and do the work. We needed to embrace technology like automation to be able to keep our revenue cycle functioning.
+— Heather Schneider, CFO at Penn Highlands Healthcare
+On top of their staffing challenges, Schneider and her team realized there was likely a better way to use the people they already had.
+We knew we had employees that were doing very manual stuff. Literally, click, click, click, click, just to move it into this bucket. And it was so time-consuming. We counted about 16 FTEs that were doing nothing but that. It just seemed absolutely ridiculous to us because we knew we needed them to do the harder work, the follow-up, the back-end stuff.
+— Heather Schneider, CFO at Penn Highlands Healthcare
+Then, without warning, PHH’s facilities began filling with COVID-19 patients, accelerating their search for an automation vendor. They spoke with numerous vendors, each promising different things, and each falling into the same trap — telling PHH what they needed, rather than asking them what it is they want.
+Until they were introduced to AKASA in late 2020.
+Finding Resilience With AKASA
+Penn Highlands Healthcare knew they had staffing issues and could better utilize their team. With this in mind, they had three goals when they started their automation journey with us:
+1. Automate every revenue cycle process possible
+2. Use staff for more difficult projects that truly need a human touch
+3. Bring all revenue cycle functions being performed by outsourcing vendors back in-house due to quality control issues
+We began our collaboration with charge retrieval and claim batching. What made PHH’s case unique is that these tasks are specific to GE Centricity. With these two workflow automations live, PHH is now able to focus on other areas, knowing their claims will go out the door quicker.
+With both of these products live and AKASA handling mundane claims-related tasks, PHH is now able to shift its focus elsewhere. And best of all, they’re able to utilize their team better.
+We went from 14 charge entry people down to eight when we put in the automation. Those people went and worked claims on the back end and are much happier now. And are actually still with us. I think we might have lost them over time, especially through the pandemic.
+— Heather Schneider, CFO at Penn Highlands Healthcare
+Next, AKASA and PHH are collaborating on automating prior authorization, which should be live in the next few months. After that, PHH would like to automate OA23 denials — denials stemming from a specific CARC code in Cerner Millennium’s workflow.
+In the meantime, they are already seeing value from automation and looking forward to what’s next.
+We could now get claims out the door faster. All this manual, manual, manual intervention was really delaying us. Bills were delayed at one point for like eight months going out. It was ridiculous. [AKASA] really helped a lot.
+— Heather Schneider, CFO at Penn Highlands Healthcare
+4 RCM Automation Lessons Learned
+Penn Highlands Healthcare’s collaboration with AKASA was their first big foray into healthcare RCM automation. As is the case with all first-time journeys, there were lessons learned. When asked about main takeaways, Schneider called out a few she’d share with healthcare leaders interested in pursuing automation.
+1. Be patient
+Patience is key. The implementation process takes time, as your automation vendor has to learn your workflows and systems. And, in the case of AKASA, we often make tweaks to the automation on our end to ensure it works as efficiently as possible.
+Once automation is live, additional patience is required. Just as it takes time to implement automation, it takes time for the automation to become efficient within your workflows.
+2. Identify the right opportunities
+In order to set your operations up for automation success, you need to figure out what challenges you’re trying to solve.
+If you know that you have a pain point with a certain workflow and it isn’t something that’s repeatable, that could be a candidate for automation.
+If it’s something that requires a lot of human decision-making and each instance is unique, automation may not be the right solution. In that case, you automate something else and then reallocate some of your personnel to be able to handle the decision-making workflow.
+What are your ultimate goals for automation? You might select different workflows to automate if you want to replace FTEs versus looking to increase net revenue collection.
+At AKASA, we started with a very prescriptive roadmap of saying, ‘this is where we’re going to go next as a company.’ But we quickly realized that’s not helpful to our customers. Now we ask: ‘Where are your pain points? How can we help you?’. Let’s figure out how automation can solve a healthcare provider’s challenges and what workflows can be more efficient.
+— Wynne Campbell, Director of Customer Engagements at AKASA
+3. Start small, then scale
+It’s easy to forget automation is a project — not just a new member of your team or a piece of tech. Like any other project, you don’t want to take on too much at once. Instead, automate the smaller, simpler tasks.
+Starting small gives you a lower-risk start with your vendor, and gives your team time to adjust to the automation and learn from trial and error as the automation scales to other workflows.
+It’s also a good idea to start with the lowest-hanging fruit. In the case of PHH, charge capture was an area where AKASA could deliver quick value and help RCM staff deliver more value through other tasks.
+4. Use employees strategically, post-automation
+Once automation is deployed, you have the opportunity to be more strategic with your staff.
+The RCM team at PHH shrunk during the pandemic, yet they managed to move their existing staff into more technical, business office positions because of the leeway automation provided. Because they elevated their people, taking them off manual tasks and letting them work on more complex and interesting work, PHH was able to retain more of its RCM staff.
+Finding the Right Automation Partner
+Automation can help you find revenue cycle resilience, whether in the midst of a pandemic or faced with an understaffed RCM team — or both. But, the right automation vendor makes all the difference. Schneider and her team at PHH spoke with countless automation vendors before landing on AKASA.
+Just as we’ve helped PHH do more with less, we can help you elevate your existing staff and create an even more efficient revenue cycle at your organization — no matter the size of your organization and teams.
+We have a very limited IT staff and have been behind the IT ball for quite some time. They got on board with this pretty easily. The lift for them was nowhere near what they even expected it to be via the AKASA team. Very well spelled out, ‘I need X, Y, Z from you guys.’ You really don’t have to have a robust IT team to make this work.
+— Heather Schneider, CFO at Penn Highlands Healthcare
+Our unique approach to automation, Unified Automation®, builds on traditional RPA with AI and machine learning (ML) — all supported by our dedicated team of healthcare RCM experts. This combination allows us to deliver end-to-end automation, no matter your workflows, EHR, or bolt-on systems. If our automation encounters an issue it hasn’t seen, our experts step in and do the work, all while our automation watches and learns.
+The future is often uncertain, making it difficult to know what a fully-staffed team looks like, how the most efficient processes flow, and which vendors will deliver the support you need. We’ve helped the team at PHH and look forward to fulfilling their goal of automating every piece of the revenue cycle possible. And we can help you too.
+Schedule a consultation with one of AKASA’s RCM experts and see how AKASA can help you find resilience today.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

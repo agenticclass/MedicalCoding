@@ -1,0 +1,32 @@
+URL: https://akasa.com/press/five-ways-covid-19-is-impacting-revenue-cycle-operations-at-health-systems-and-hospitals-according-to-survey/
+
+Five Ways COVID-19 is Impacting Revenue Cycle Operations at Health Systems and Hospitals, According to Survey | AKASA
+Press
+Five Ways COVID-19 is Impacting Revenue Cycle Operations at Health Systems and Hospitals, According to Survey
+Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, released results of a national survey designed to assess the impact of COVID-19 on revenue cycle operations at health systems and hospitals across the U.S. The survey was commissioned by Alpha Health and conducted through the Healthcare Financial Management Association’s (HFMA) Pulse Survey program. The survey was fielded between May 19, 2020 and June 22, 2020 among 587 chief financial officers and revenue cycle leaders at hospitals and health systems across the United States. The survey has a confidence level of 95 percent with a margin of error of plus or minus 5 percent.
+While the healthcare industry works to better understand COVID-19 both clinically and administratively, the survey results show that revenue cycle teams at healthcare organizations face a number of challenges, including:
+Erratic and unpredictable claim volumes
+Increased workloads due to confusion over codes and requirements for COVID-19 claims
+Overstaffing due to decreased claim volumes
+Staff productivity falling due to a rapid and unplanned shift to remote work
+Decrease in staff capacity due to lay-offs, furloughs and other staff reductions
+“COVID-19 has disrupted all facets of life and work, and health systems and hospitals have had to adjust quickly to new realities,” said Malinka Walaliyadde, co-founder and CEO of Alpha Health. “As health systems continue to experience volatility in claims volume, they will need to take quick action to identify gaps in claims-handling capacity, and update operational and staffing practices accordingly. Many revenue cycle leaders may look to automation to build in greater resiliency and flexibility to their revenue cycle operations going forward. These efforts will be critical to ensure the short- and long-term health of their organizations, their employees, and the communities they serve.”
+Survey respondents were asked, “Which of the following impacts has COVID-19 had on your revenue cycle operations?” Respondents were allowed to select more than one option.
+Work/claim volumes have been erratic and unpredictable
+50.5%
+An increase in workloads due to confusion over codes and requirements for COVID-19 related claims
+37.0%
+Overstaffed due to decreases in claim volumes
+35.8%
+Decreases in staff productivity due to rapid and unplanned move to working remotely
+34.7%
+Decreases in staff productivity due to lay-offs, furloughs and other staff reductions
+32.0%
+Understaffed due to an increase in claim volumes
+4.2%
+Decreases in staff productivity due to several members of the team being sick with COVID-19
+2.9%
+Due to COVID-19, the American Hospital Association (AHA) estimates $120.5 billion in total financial losses from July 2020 through December, or an average of $20.1 billion per month. These estimates are in addition to the $202.6 billion in losses the AHA estimated between March 2020 and June 2020, bringing the total projected losses to hospitals and health systems in 2020 to at least $323.1 billion. These financial losses put increasing pressures on revenue cycle teams at health systems to process claims as efficiently and effectively as possible to protect revenues and manage costs.
+About Alpha Health
+At Alpha Health we believe every dollar spent on healthcare matters because healthcare matters to everyone. The first Unified Automation company for healthcare, Alpha Health uses the same machine learning approaches that made driverless cars possible to provide health systems with a single solution for revenue cycle management (RCM). Alpha Health’s proprietary Unified Automation technology operates within a healthcare system’s existing electronic health record and revenue cycle infrastructure. Alpha Health’s Unified Automation brings together the best of people, data and technology to efficiently, accurately and autonomously navigate the complex state of medical reimbursement in the United States. This enables health systems to reduce their cost of care and be better stewards of the healthcare dollar. Alpha Health is based in the heart of Silicon Valley. Learn more at www.AKASA.com.
+# # #

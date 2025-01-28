@@ -1,0 +1,82 @@
+URL: https://akasa.com/blog/the-evolution-of-a-revenue-cycle-kpi
+
+The Evolution of a Revenue Cycle KPI | AKASA
+Blog
+The Evolution of a Revenue Cycle KPIHealthcare revenue cycle departments exist for a number of reasons, from ensuring hospitals get paid to delivering the best patient experience possible. This makes it difficult to pin down the most important KPIs for the healthcare revenue cycle. Is there a single KPI more important than the rest, or are KPIs as a whole evolving?
+Christian CarlsonJanuary 22, 2025
+The Gist
+Two AKASA experts with deep revenue cycle expertise discuss the holy grail metric to measure RCM performance. They advocate for new metric called first pass claims payment (FPCP): the percentage of claims that are paid at 100% of expected rate on the first submission.
+Blog Contents
+The Goal of Revenue Cycle Operations
+Creating A New Metric: First Pass Claims
+A Holistic View of RCM
+A New Approach to Revenue Cycle Performance
+Varun Ganapathi, Ph.D., is an AKASA co-founder, our chief technology officer, and one of the smartest people we know.
+Constantly seeking to enhance his understanding of revenue cycle management (RCM) operations, Varun turned to us long-time revenue cycle professionals with a question: “What is the one metric or key performance indicator (KPI) that best measures the performance of the revenue cycle function?”
+We responded with a litany of different KPIs that we have always used to gauge effectiveness: accounts receivable (A/R) days, cost to collect, denial write-offs, cash as a percentage of net patient revenue (NPR), point of service (POS) cash collections, etc.
+Ganapathi, who is not burdened with 25-plus years in this industry, said two things:
+1. there needs to be a single metric that measures performance
+2. no wonder healthcare is so messed up!
+So that brings us to the question: what is the holy grail metric to measure revenue cycle performance?
+Cost to collect
+Cash as a percentage of NPR
+Denial rate
+A/R days
+Is there a clear answer?
+The Goal of Revenue Cycle Management
+Let’s start by asking ourselves: what is the goal of the revenue cycle function? In short, it is to get accurately paid for the service that was delivered in a reasonable timeframe. We see that timeframe to be no more than 60 days post-service for the primary payer.
+In order to meet that goal, we need to have claims paid the first time they are submitted. Historically, we have had a metric of clean claims rate (CCR).
+Creating A New Metric: First Pass Claims Payment
+As defined by HFMA in its MAP keys program, CCR is calculated by dividing the number of claims that pass all edits, thus requiring no manual intervention, by the total number of claims accepted into the claims processing tool for billing.
+Today, we see forward-thinking providers tracking and improving on CCR in combination with first pass yield. We think it’s time for the industry to develop a new metric to refer directly to the percentage of claims that are paid completely and accurately on the first submission.
+We’re calling this new metric first pass claims payment (FPCP): the percentage of claims that are paid at 100% of expected rate on the first submission.
+A Holistic View of RCM
+Since the FPCP metric is the rate at which encounters are paid 100 percent accurately, in compliance with the provider’s payer contracts, and after submitting the claim the first time, then other metrics become subsets of this new metric — this includes denials, AR days, and cash as a percentage of NPR. Receiving the maximum reimbursement the first time a claim is submitted is crucial to achieving desired operating margins.
+FPCP incorporates volumes of other metrics, but it can be dangerous to focus on just one metric at the expense of everything else. Similar to physics, where you have equal and opposite forces, you need opposing metrics to give you a holistic view of your revenue cycle operations.
+The other side of the equation is the level of effort needed to have a claim paid accurately on the first submission, which contributes to the cost to collect. So the FPCP rate and the cost to collect together serve as the two best metrics to provide a holistic view of revenue cycle performance.
+For the past 25 years, the methodologies recommended to improve revenue cycle performance and the associated KPIs have stayed largely unchanged.
+These methodologies have been a blend of technology, process, and people working in an ever-increasing number of queues. These approaches result in constant manual effort that makes it nearly impossible to be 100 percent accurate with FPCP. It’s time to evolve how the industry measures effective revenue cycle operations, and this will require an evolution in our approaches as well.
+A New Approach to Revenue Cycle Performance
+At AKASA, we look at the challenges of revenue cycle management and focus on how to solve these old problems in new ways. We know that technology is central to making RCM more efficient. We also know that healthcare is a uniquely complex and dynamic field, necessitating a flexible solution with continuous learning built in. Understanding these nuances, we purpose-built the AKASA platform specifically for RCM in healthcare. The AKASA platform is powered by generative AI (GenAI) and large language models (LLMs), and backed by a team of in-house revenue cycle experts-in-the-loop.
+Through the AKASA platform, we can streamline RCM workflows across the board, from auth to claims to medical coding. The AKASA platform can integrate with any EHR and easily scale, allowing virtually any health system or provider to benefit from our technology.
+Our solution works 24/7 using the processes learned from staff and even streamlines some full functions. If complexities arise, our in-house team of RCM experts are notified to triage the problem. They resolve it in real-time while our solution learns from the actions they take. RCM operations continue uninterrupted. Continuous learning is built in, providing peace of mind, always.
+The AKASA platform greatly reduces the amount of low-value and high-volume repetitive tasks revenue cycle teams have to manage manually. This frees up staff to work at their top of license and drive greater improvements in overall revenue cycle performance at a significantly reduced cost.
+Our platform provides revenue cycle leaders with the infrastructure they need to enable their teams to successfully achieve consistently high rates of first pass claims payment.
+WRITTEN BY
+Christian Carlson
+Christian Carlson is a managing director at AKASA. He has more than 25 years of senior leadership experience in the healthcare, IT, and consulting arena within the revenue cycle, operations management, clinical, and digital health verticals. Carlson is responsible for helping institutions apply evidence-based improvement strategies, with a concentration in improving financial performance, impacting revenue and cash flow, and supporting overall margin enhancement. Previously, he was a partner at the Advisory Board and vice president at McKesson.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

@@ -1,0 +1,84 @@
+URL: https://akasa.com/blog/a-blueprint-for-modernizing-your-denial-management-strategy/
+
+How to make denial management really work | AKASA
+Blog
+A Blueprint for Modernizing Your Denial Management StrategyA proper denials management strategy can go a long way toward streamlining your healthcare operations as a whole. An automated denials management strategy is even better. But, first, you need the right kind of automation.
+AKASA September 23, 2022
+The Gist
+Navigating the complexity of denial management requires a sophisticated automation solution. Only artificial intelligence (AI) and machine learning (ML) can deliver the intelligent automation that maps to the uniquely complicated scenarios that revenue staff will encounter when managing denials.
+Blog Contents
+3 Ways the Average Denial Management
+Tips for Modern, AI-Driven Denial Management
+Denial management in the healthcare revenue cycle is an inherently complex task — one that, at first glance, might seem difficult to automate at all. When a payer denies a claim from a provider, the possible reasons why are seemingly infinite, spanning everything from a lack of prior authorization to a payer-side system change. Those who have tried to combat this with robotic process automation (RPA) bots have found that there are too many complexities and decision points, leading the automation to break down quickly and frequently.
+Ideally, a streamlined denial management process would ensure timely root cause analysis of each denial, and then empower revenue cycle management staff to rework each corresponding claim denial systematically. But the sheer variety of possible causes and the immense effort required to investigate them means many healthcare organizations can’t keep up and lose the battle with the payer — leaving revenue on the table.
+Although just 5% to 10% of all claims get denied, in many cases, 50% of them never get reworked, according to the American Academy of Family Physicians.
+Read more about why denials are at an all-time high.
+The silver lining to this revenue cycle storm cloud is that a better approach to denial management is possible through AI and ML, which overcome the common shortcomings of the typical denial management strategy.
+“Revenue cycle management is poised for innovation and real solutions that will approach denials proactively, faster, and more accurately than ever before,” says Grant Messick, head of customer success at AKASA.
+3 Ways the Average Denial Management Strategy Falls Short
+Managing denials, something already challenging, is worsened by a combination of brittle, aging tools and processes that don’t map to the work at hand.
+1. Time-consuming manual activities
+AKASA has estimated that each denial appeal submission consumes more than 10 minutes of healthcare organization staff time on average. Even technical appeal resolutions by the back office take more than 8 minutes to complete.
+To learn more about these benchmarks and others, read AKASA’s report: New Productivity Benchmarks for the Healthcare Revenue Cycle.
+Scaled to the number of claims that a provider regularly submits and the usual denial rate, these numbers underscore the considerable costs and limitations of manual RCM activities.
+Until the late 2010s, one-third of providers didn’t use any automation for denial management in particular, per HIMSS Analytics. In 2018 alone, providers also made more than 170 million manual inquiries via phone, fax, or email about claim statuses — a microcosm of the persistently manual nature of related parts of the revenue cycle.
+2. Expensive rules-based RPA engines
+Given the problem with manual denial prevention, the solution seems obvious: Automate everything.
+But automation alone isn’t the answer, as not all forms of automation are equally suited to today’s complex medical billing and reimbursement tasks.
+RPA bots are a case in point. While nominally automated, in reality, they require extensive manual preparation and remediation to handle revenue tasks and are uniquely unequipped for denied claim management. Even a workflow involving just 12 denial codes and similar numbers of upstream issues and possible responses can require hundreds of scripted RPA rules, any of which can break instantly if a payer changes anything.
+But new technology brings new hope.
+What excites me about machine learning is that we can finally move the meter on issues that have plagued our industry for decades. Complex, hairy workflows like denials, claim edits, credit balances, and financial clearance finally have a chance at automation, thanks to machine learning.
+Grant Messick VP of Customer Success at AKASA
+3. Overstretched or siloed staff
+The business office has been a tough place to work within a health system, over the past 10–20 years. After undergoing a whirlwind of change, time-intensive implementations, centralization, and cost-cutting, many of the industry’s best billers are looking elsewhere, and many of the newer hires are willing to take higher-paying hourly jobs outside of healthcare.
+At the end of the day, denials require some of the most experienced and high-performing back-office staff, and this is becoming a limited resource pool.
+Tips for Modern, AI-Driven Denial Management
+Better denial management starts with a better technology base, one rooted in AI and ML that can continuously adapt to complexity and change.
+Here are a few tips for getting the most mileage from an AI-driven denial management strategy.
+Tip #1: Be proactive, not reactive, in managing denials
+The traditional approach to denial management has been to enter charges, send out bills, and wait for responses. Instead, look for an AI and ML platform that offers a more proactive alternative, with the ability to:
+Predict denials to help avoid costly rework. Providers can see probabilities for individual denial codes, plus estimated response dates.
+Determine eligibility directly off of insurance cards to prevent the errors during patient access that drive so many denials
+Identify and obtain prior authorization so that patients can obtain care with full reimbursement.
+Tip #2: Choose adaptive automation
+RPA and older solutions like EHR bolt-ons don’t work well, primarily because they don’t adapt. Denial management workflows feature significant variety and constant change in the underlying systems, both of which can overwhelm a brittle rules-based engine that has to account for hundreds of possibilities.
+AI and ML don’t have these weaknesses. A denial management system built on them will observe, learn, and then perform relevant processes, all within the same billing and EHR systems that human staff already use.
+Tip #3: Don’t forget the human element
+The high variability and complexity of denials management make it a seemingly odd candidate for full automation. While those characteristics do trip up approaches like RPA, they can be more easily handled by resilient AI and ML engines, in part because the latter have a human in the loop to assist with edge cases.
+AI and ML offer a unique opportunity to observe and learn from the many edge cases within the revenue cycle. This is core to the Unified Automation™ platform from AKASA. Instead of the technology breaking when it encounters an outlier, the unique expert-in-the-loop process triages them to human experts who solve the issue and train the AI. By doing so, it’s creating a blueprint that the AI and ML components can learn from for future instances.
+Unified Automation simplifies denials for any organization. Schedule a demo to learn more.
+You may also like
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Dec 5, 2024 How to Address the Challenges of Eligibility Denials
+Real-time eligibility (RTE), patient eligibility verification that allows medical staff to electronically verify patients’ insurance coverage for medical treatment,...
+READ MORE
+Blog
+Aug 16, 2023 Claims Automation AI: The Ticket to Cleaner Claims and a More Efficient Revenue Cycle
+Claims management has long been a concern for healthcare providers and revenue cycle teams. Denials, prior authorization requirements, and...
+READ MORE
+Blog
+Jan 13, 2025 What Is Denial Management in Healthcare?
+Increased complexity, delayed reimbursement timelines, and more work for staff are all common outcomes of denied claims in healthcare...
+READ MORE
+Blog
+Sep 23, 2022 A Blueprint for Modernizing Your Denial Management Strategy
+Denial management in the healthcare revenue cycle is an inherently complex task — one that, at first glance, might...
+READ MORE
+Blog
+Dec 5, 2024 How AI-Powered RCM Solutions Can Fix Hospital Bad Debt
+With high health insurance premiums, deductibles, and cost of care, patients are shouldering more of the financial burden of...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

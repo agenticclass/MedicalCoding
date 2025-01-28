@@ -1,0 +1,156 @@
+URL: https://akasa.com/blog/work-medical-billing-denials-more-effectively/
+
+9 Ways To Work Medical Billing Denials More Effectively | AKASA
+Blog
+9 Ways To Work Medical Billing Denials More EffectivelyFrom better reporting to efficient routing to cross-functional work groups, learn how your denials process can be improved.
+AKASA November 12, 2024
+The Gist
+Denials are complex, time-consuming, and require the most subject matter expertise of all revenue cycle tasks. And they’re increasing. Revenue cycle leaders are struggling to make a dent in these workflows. Here are proven best practices for working denials more efficiently, with advice on reporting, triaging, communicating, and automating. Plus, a blueprint for developing a denials work group — a critical need for every organization.
+Blog Contents
+1. Get the Right Reporting in Place
+2. Solve Problems Holistically
+3. Route Denials Efficiently
+4. Pinpoint the Right People
+5. Identify Trends
+6. Involve Patients
+7. Track and Update Missing Details
+8. Develop a Denials Work Group
+9. Automate Everything That Can Be Automated
+How AKASA Can Help With Denials Management
+Denials aren’t getting any better.
+Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried improving processes. We’ve tried throwing more staff at denials. It’s not working.
+About 12% of all claims are still denied, and nearly 50% of providers reported an increase in denial rate over the previous year.
+We’ve been trying to fix the broken denials process of healthcare for decades — without success. Something needs to change.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments at AKASA
+Denials are a significant problem for medical billing teams. If you want to see improvement, you need to examine your workflows holistically. Where are the bottlenecks, and how can they be better?
+What happens when denials keep getting kicked back by payers to your billing team? Here are ways to better work your denied claims.
+1. Get the Right Reporting in Place
+How is your denials reporting? Sounds basic, but that’s actually where many organizations struggle.
+You need solid analytics to even understand your denials. This will help you understand what types of denials you’re seeing, identify their root cause, and analyze the impact in volume. Ensure you have reporting by payer, type of denial, denial codes, remark codes, age, and dollar.
+It may be a canned report in your EHR. For example, Epic provides some dashboarding that could help. But you might have to work with your analytics team to set it up properly and get what you want.
+With the correct reporting, you can start knocking out the root causes of those denials. Instead of one at a time and death by a thousand cuts.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments at AKASA
+2. Solve Problems Holistically
+Is there something you can fix in one fell swoop? A group of similar denials that can all be knocked out together? Appoint one person to solve the problem, work the denials, and then create a plan so that these issues don’t happen again.
+Involve your managed care department when you have larger, more widespread issues or what looks to be behavior that is against your contract terms. Don’t just send the same appeal letter 500 times. Get managed care involved on a more comprehensive approach for claims that are being treated a certain way with a certain payer.
+3. Route Denials Efficiently
+Make sure you have your EHR set up to route your denials as effectively as possible. The last thing you want is them all dumped in one spot and have no ability to filter or focus. Have a way to easily identify and prioritize your denials and get them to the right people.
+Effective strategies could be grouping them by:
+Denial types
+People on your team who specialize in that type of denial and can work them well
+High-dollar claims
+Time-sensitive claims
+Even if you have one person working denials, automatically separating them by denial type is very helpful for productivity. That could be by missing document requests, eligibility denials, etc. It allows your team to focus on resolving them and creating specific appeals in a streamlined manner.
+The best strategy and the most urgent claims really depend on your organization’s mix of payers and issues. Create a prioritization process so that you have the ability to see what’s going on. Then work those things down from the priority list.
+4. Pinpoint the Right People
+Denials are complex. They are the most time-consuming task in the revenue cycle and require the most subject matter expertise.
+Getting the right people on the right claims quickly is one of the most essential strategies for working medical billing denials more effectively.
+There are often types of denials that are more complicated to solve or need more industry knowledge or system experience. You want your most skilled people doing those things.
+Don’t set someone up for failure by putting a new person on complex clinical or medical necessity denials. Slot your staff accordingly. By doing that, you’re also providing a career path for them (with a specialty in a specific type of denials), or you’re providing leveling so they can work up into more complex work.
+5. Identify Trends
+As your team is working these denials, it’s important to track why they’re being denied. What are the common issues? This can help you pinpoint areas to fix and communicate across the organization.
+Here are the most common causes for initial payer denials, based on an HFMA survey of 350+ healthcare leaders commissioned by AKASA:
+Errors in patient access/registration (i.e., eligibility or missing prior authorization)
+Lack of documentation to support medical necessity
+Missing or incorrect patient information
+Physician documentation issues
+Utilization management
+Coding errors
+Duplicate claims
+Untimely filing
+6. Involve Patients
+Denials sometimes require communicating with patients, like when there’s coordination of benefits or coverage issues. Sending out a letter or picking up the phone to get the patient looped in and supportive of the process will help the appeals process move faster.
+It’s also a way to strengthen the relationship with that patient and show how you can advocate for them. Share what you know about the claim, why the payer rejected it, and what needs to be done.
+You can often stay on the phone with the patient, call the payer with them, and get issues resolved then and there. Based on the claim’s dollar amount, that extra time can be worth it.
+The purpose of the healthcare revenue cycle is to effectively bring in the financing needed to take care of patients. But often, that gets lost as teams focus on A/R days and cost-to-collect. We need a patient-first mentality, focusing on patients, advocating for them, and providing the best possible financial experience.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments at AKASA
+7. Track and Update Missing Details
+A lot of times, you’ll get denials simply because things aren’t updated timely in your system or you lose track of details. You may have a new provider and are missing their information or enrollments at the time of billing. But you still have to file the claim to submit within timely filing limits.
+Keeping track of what you’re waiting on and any timelines is crucial — unfortunately, it’s usually through queues in your system and manual reporting. Then, once you have any missing pieces, you can go back and update all of the records and send all of those denials out together.
+8. Develop a Denials Work Group
+Poor communication is the downfall of revenue cycle teams.
+Teams often work in silos. There are different leaders, and everyone has different productivity requirements, KPIs, and priorities. It’s easy to get defensive and blame other teams. Collaboration has improved in recent years, but lack of communication can be a major struggle.
+I was recently on a patient access panel at a conference. One of the presenters joked: ‘Anything wrong is because we did it wrong.’ In the revenue cycle, everyone points fingers. Everyone has someone they’re trying to get information from. Patient access is trying to get details from the patient and information from the physician to do the auth. Coders are waiting for the documentation to get entered, for HIM to release the chart, and for the doctor to sign the chart. When you’re in the business office, there’s only so much you can do when you’re in the business office. You’re not populating any of the information; you’re just working with what you’ve been given and trying to get it paid. If we want to see real change, all of this finger-pointing needs to stop. We need to work together.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments at AKASA
+If you want to improve your denials management — and the revenue cycle overall — you need to develop a cross-functional denials work group.
+The group’s goals would be to solve denials management broadly and holistically across the revenue cycle. Stopping issues before they start. How the system works together is sometimes part of the problem. Different people own different parts of the system and its operations. So, you need to pull those multidisciplinary teams together.
+Depending on how your revenue cycle is organized, participants could include representatives from:
+Patient access
+Mid-cycle (coding/CDI, revenue integrity, chargemaster)
+Business office
+Analytics/IT/EHR support
+Clinical
+Compliance
+You can also invite a physician representative so that they’re aware of the impact of their work and actions.
+The agenda would include:
+Denial trends
+What’s causing those denials
+How different actions/processes across teams are problematic and could result in a denial
+What can be done to fix these issues
+Having a cross-functional denials work group helps create a positive feedback loop and hopefully prevents things from triggering denials. One-off communication is not good enough. It has to be an actual group that sits down and works through these issues without finger-pointing.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments at AKASA
+Here are some strategies for having a successful denials work group:
+Meet at least monthly, so your actions stay timely
+Circulate pre-reads
+Do any necessary groundwork and reporting to discover why something is happening
+Bring reporting from external vendors (automation, etc.) to support some of those discussions
+Come prepared to talk about what happened and how issues are being resolved
+Create focus groups to tackle pressing problems
+Schedule actual in-person or virtual meetings as you need real conversations — emails back and forth don’t count
+These groups aren’t about pointing out specific denials and telling another team to fix them. They need to be a collaborative effort of education, process updates, follow-through, feedback, and accountability. It can be uncomfortable, but it also leads to open conversations around ensuring all root causes are solved and denials are prevented.
+Capacity or skill set should determine who needs to address a problem. Sometimes, it’s a whole new process for treating a patient when they walk in the door. Other times, it’s an administrative, functional, or operational solution. The cause may have nothing to do with you, but maybe you can change how the system handles something. This is why a cross-functional effort is critical.
+Not every denial can be solved this way. It might be a unique issue with a payer. But a lot of times, unfortunately, the revenue cycle is a coal mine of, ‘Oh, this must have changed. We now need to change our front end.’ Things need to be addressed sooner. And it’s critical for that communication to take place.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments at AKASA
+9. Automate Everything That Can Be Automated
+About 78% of health systems and hospitals are already applying automation to their revenue cycle operations. But, only a third of organizations are currently automating their denials management.
+That’s about to change.
+Of those not currently automating any component of their denials processes, 76% indicated they plan to do so in the next year. It’s time.
+Most organizations start their automation efforts with discrete tasks, such as claim status checks. As early automation efforts demonstrate success, denials management is a natural next area of focus for two reasons. The first is that AI and machine-learning-based automation can handle more complex workflows than ever before — thanks to breakthroughs driven by generative AI models. The second reason is that denials management is an increasingly significant pain point for providers.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments at AKASA
+Historically, basic automation technology like robotic process automation (RPA) hasn’t been able to make improvements in the complexities of denials management. But new advanced automation — grounded in AI and large language models (LLMs) is finally able to make meaningful headway.
+There are largely two types of denials. The first are extremely complex cases where you have extremely experienced billers to handle them or even get a physician on the phone for peer-to-peer. The second are the simpler ones — but you may have to touch them a thousand times. The latter may involve finding paperwork, applying for things, waiting for information, and checking statuses. And are rife with opportunities for automation — from uploading solicited documentation to verifying eligibility.
+But if you want to see broader denials success with automation, you need to expand your approach. Automating certain tasks in the front end can help solve many denial pain points and even prevent them from happening in the first place — for example, determining and validating if prior auth is required, submitting auth requests, and checking statuses.
+Across the revenue cycle, look for places to weave in automation to remove the simple but still time-consuming tasks from your team’s plate and allow them to focus on more complex and higher-dollar tasks.
+Given healthcare organizations’ current financial challenges, leaders need to figure out how to do more with less. You can’t hire enough people to help with medical billing. Automation has to be part of the solution.
+How AKASA Can Help With Denials Management
+We can help your team work denials more efficiently and effectively. By using the latest in AI-powered automation, plus our team of revenue cycle experts, AKASA delivers comprehensive automation to complex workflows.
+For example, Claim Attachment uses LLMs to automatically respond to payer documentation requests on behalf of healthcare providers.
+Even automating status checks is a great way to effectively manage your denials. By checking claim status, you can identify claims with issues (pending, missing documentation, denied, NCOF, etc.) and prioritize them to be worked. With Claim Status, AKASA helps you automatically obtain up-to-date status information, alleviating the burden on your staff, speeding up claim resolution, and preventing reimbursement delays.
+Preventing denials in the back office starts with the front desk. Authorization Advisor is a new GenAI assistant that helps prior authorization specialists efficiently and comprehensively complete authorization submissions. It improves auth request comprehensiveness by helping your staff attach the right documentation the first time.
+AKASA is built on a foundation of deep healthcare and revenue cycle expertise. We understand the complexities of denials management and how they can be addressed. With better processes, cross-functional collaboration, and the right automation, your denials rates are about to improve — for good.
+Want to make your revenue cycle denial resolution more efficient? Learn how AKASA can help.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

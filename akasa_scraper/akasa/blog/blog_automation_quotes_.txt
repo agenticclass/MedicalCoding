@@ -1,0 +1,100 @@
+URL: https://akasa.com/blog/automation-quotes/
+
+32 of the Best AI and Automation Quotes | AKASA
+Blog
+32 of the Best AI and Automation Quotes To Inspire Healthcare LeadersHealthcare technology is changing rapidly, matched only by the pace at which opinions around it fluctuate. Discover inspiration with these automation and AI quotes from numerous experts.
+AKASA November 12, 2024
+The Gist
+We all need inspiration sometimes. These AI and automation quotes will get you thinking about what the future holds for healthcare technology and operations. From leaders like Bill Gates to experts like Sebastian Thrun, learn what top minds are saying about AI and automation.
+Blog Contents
+Best Automation Quotes
+Best AI Quotes
+What’s Next for Automation?
+Automation technologies, including artificial intelligence (AI) and the newer generative AI (GenAI), are not novel ideas by any means, but they have garnered a lot of attention in recent years as all types of industries have embraced the technologies to be more efficient, save time, and enable scalability. This surge in attention is partly due to increasingly advanced automation capabilities — especially with the rise of GenAI, which can help people work better and faster in ways traditional older technologies couldn’t.
+Most industries are still in the beginning stages of full, widespread adoption of AI, and the potential to transform business and society as a whole is still being realized. But, many industries are implementing AI and GenAI in different forms, from streamlining business processes to transforming digital commerce.
+In healthcare, AI and GenAI in particular, are already being used to detect diseases and cancer at earlier stages, identify at-risk patients, and even help develop new drugs. It’s also helping to improve the financial operations of healthcare by streamlining the revenue cycle, particularly in areas like medical coding and prior authorization.
+In fact, 70% of healthcare organizations told HFMA that they’re actively considering using generative AI, with 60% eyeing it for the revenue cycle.
+And the possibilities are just beginning.
+Whether you’re starting out with automation and artificial intelligence solutions, or have already seen the positive impact these technologies can have on your hospital or healthcare system, these AI and automation quotes from well-known leaders across industries will inspire you on your journey to new heights of business success.
+Best Automation Quotes
+Automation is the embodiment of the old adage, “work smarter, not harder.” But, automation is much more complex than simply flipping an “on” switch and improving your workflows.
+Like AI, automation is rapidly evolving and changing in application and functionality — from improving workflows in the healthcare revenue cycle to bolstering marketing efforts for your organization.
+Draw inspiration from these motivational automation quotes, coming from the top minds in the field:
+1. There’s a lot of automation that can happen that isn’t a replacement of humans, but of mind-numbing behavior.
+~ Stewart Butterfield
+2. “Automation is driving the decline of banal and repetitive tasks.” —Amber Rudd
+3. “You cannot endow even the best machine with initiative.” —Walter Lippmann
+4. ”The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency.” —Bill Gates
+5. “Rather than wringing our hands about robots taking over the world, smart organizations will embrace strategic automation use cases. Strategic decisions will be based on how the technology will free up time to do the types of tasks that humans are uniquely positioned to perform.” —Clara Shih
+6. “Whatever you are studying right now, if you are not getting up to speed on deep learning, neural networks, etc., you lose. We are going through the process where software will automate software, automation will automate automation.” —Mark Cuban
+7. “I couldn’t tell you in any detail how my computer works. I use it with a layer of automation.” — Conrad Wolfram
+8. “Automation is good, so long as you know exactly where to put the machine.” —Eliyahu Goldratt
+9. “Automation is cost-cutting by tightening the corners and not cutting them.” —Haresh Sippy
+10. “You’re either the one that creates the automation or you’re getting automated.” —Tom Preston-Werner
+11. The more we reduce ourselves to machines in the lower things, the more force we shall set free to use in the higher.
+~ Anna Brackett
+12. “Automation does not need to be our enemy. I think machines can make life easier for men, if men do not let the machines dominate them.” —John F. Kennedy
+13. “One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.” — Elbert Hubbard
+14. “I think the automation of vision is a much bigger deal than the invention of perspective.” —Trevor Paglen
+15. “Marketing automation is the technology that propels your business into a new era of relationship based marketing with quantifiable results. When powerful technology meets effective implementation and internal process management, your company will soon find itself on a journey that leads to new heights of business success..” — Jon Miller
+16. “As technology advances, it reverses the characteristics of every situation again and again. The age of automation is going to be the age of ‘do it yourself.’ ” —Marshall McLuhan
+17. “In many cases, jobs that used to be done by people are going to be able to be done through automation. I don’t have an answer to that. That’s one of the more perplexing problems of society.” —John Sculley
+18. “I think one of the most interesting things about automation isn’t on the practical side. I think it’s about creating magic and wonder and moments of splendor.” —Genevieve Bell
+19. “Software is the language of automation.” —Jensen Huang
+20. “Automation and technology would be a great boon if it were creative, if there were more leisure, more opportunity to engage in raising a family, providing guidance to the young, all the stuff we say we need. America will work if we’re all in it together. It’ll work when there’s a shared sense of destiny. It can be done!” —Jerry Brown
+21. “This may be the age of automation, but love is still being made by hand.” —Evan Esar
+Best AI Quotes
+Artificial intelligence is always advancing and changing. Being the case, opinions and thoughts on AI tend to vary—a lot. From philosophical takes on AI to talks of machine learning, here are some of the best AI quotes.
+22. “Nobody phrases it this way, but I think that artificial intelligence is almost a humanities discipline. It’s really an attempt to understand human intelligence and human cognition.” —Sebastian Thrun
+23. “Artificial intelligence would be the ultimate version of Google. The ultimate search engine that would understand everything on the web. It would understand exactly what you wanted, and it would give you the right thing. We’re nowhere near doing that now. However, we can get incrementally closer to that, and that is basically what we work on.” —Larry Page
+24. “Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we’ll augment our intelligence.” —Ginni Rometty
+25. “The key to artificial intelligence has always been the representation.”—Jeff Hawkins
+26. “It’s going to be interesting to see how society deals with artificial intelligence, but it will definitely be cool.” —Colin Angle
+27. “Technology, through automation and artificial intelligence, is definitely one of the most disruptive sources.”—Alain Dehaze
+28. Anything that could give rise to smarter-than-human intelligence — in the form of artificial intelligence, brain-computer interfaces, or neuroscience-based human intelligence enhancement — wins hands down beyond contest as doing the most to change the world. Nothing else is even in the same league.
+~ Eliezer Yudkowsky
+29. “Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower.” —Alan Kay
+30. “Those of us in machine learning are really good at doing well on a test set, but unfortunately deploying a system takes more than doing well on a test set. All of AI…has a proof-of-concept-to-production gap.” —Andrew NG
+31. “Dig into every industry, and you’ll find AI changing the nature of work.”—Daniela Rus
+32. Solutions that employ cutting-edge GenAI, coupled with guiding expertise from industry veterans, are the best answer to help us create the premier revenue cycle management department of the future.
+~ Varun Ganapathi, Chief Technology Officer and Co-Founder at AKASA
+What’s Next for Automation and AI?
+You’ll notice the above quotes are incredibly varied, ranging from views on automation to its application to the future of automation. So, what’s next for this technology?
+Simply put: there’s no surefire way to know. Some industries may find clever ways to automate old roles, while others may use automation to streamline processes not even in motion yet.
+At AKASA, we can say with certainty that we’ll continue pushing technology to the limits, finding new ways to streamline healthcare operations and the revenue cycle and ease the ever-increasing burden placed on American healthcare systems.
+To learn how AKASA can use GenAI to make your healthcare operations more efficient, schedule a free demo today.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

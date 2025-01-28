@@ -1,0 +1,110 @@
+URL: https://akasa.com/blog/himss-automation-patient-experience/
+
+5 Takeaways From HIMSS' Panel on Automation and the Patient Financial Experience | AKASA
+Blog
+5 Takeaways From HIMSS' Panel on Automation and the Patient Financial ExperienceAutomation trends and issues facing the patient financial experience took center stage at the HIMSS conference. See what two industry experts had to say.
+AKASA July 27, 2022
+The Gist
+At the recent HIMSS '22 conference, industry leaders came together to talk about automation and how it can help improve the patient financial experience. From current trends in automation and use cases to how to select the right type and partner, the session offered solutions for hospitals and health systems looking to drive efficiency, reduce cost-to-collect, and shift their focus to their patients.
+Blog Contents
+1. The Patient Financial Burden Is Costly
+2. Automation Is on the Rise, But Not All Types Are Created Equal
+3. Automation Doesn’t Replace Humans
+4. Before Getting Started With Automation, Know Your Pain Points and Set Expectations
+5. Know the Right Questions To Ask Before Identifying an Automation Partner
+Last week, HIMSS Global Health Conference and Exhibition, the annual premier event that brings together thousands of healthcare industry leaders and professionals for education, innovation, and collaboration, was held in Orlando.
+It featured more than 100 speakers tackling topics such as financial sustainability, patient care, artificial intelligence, machine learning, and more.
+On Tuesday, Amy Raymond, vice president of revenue cycle operations at AKASA, together with Jeff Francis, vice president of finance and CFO at Methodist Health System, presented the session, “How Automation Can Improve the Patient Financial Experience.”
+Raymond and Francis talked about patient financials and costly medical bills, the current state of automation, how hospitals and health systems use the technology to elevate their staff, enhance their operations and meet key metrics, as well as how to identify opportunities and the right automation partner.
+Read this Healthcare Finance article to learn how Methodist Health System is working with AKASA to automate their revenue cycle.
+Here are five takeaways from the presentation you need to know.
+1. The Patient Financial Burden Is Costly
+After talking about the challenges facing healthcare revenue cycle leaders today, Raymond discussed how the financial strain on healthcare systems is even more significant on patients.
+In fact, in 2020, Americans held $140 billion in unpaid medical bills, a study in JAMA found.
+“If you think about Americans receiving calls and knocks on the door from debt collectors, it’s more often than not due to the American healthcare system,” she said.
+She went on to talk about the need for hospitals and health systems to shift their focus and operate in a way that maximizes payments from payers and puts patients first through effective cost estimates and financial counseling. With this new way of thinking about RCM, patients:
+Get the full benefits for which they’re eligible, which also allows providers to get the full payment owed to them from payers
+Receive a correct bill — the first time, every time
+Don’t receive surprise medical bills
+Are less likely to cancel or reschedule appointments because prior authorization occurs promptly
+Take advantage of complete price transparency
+Have the best possible patient financial experience
+As leaders, we should be asking ourselves if we are building a team of paper pushers and clock watchers, who can never get through a full work queue and have reactive mindsets when it comes to patients. Or are we committed to building a team of individuals who come to work each day focused on being patient advocates.
+~ Amy Raymond, Vice President of Revenue Cycle Operations at AKASA
+Read more about how poor patient experience may be leading to unpaid claims.
+2. Automation Is on the Rise, But Not All Types Are Created Equal
+Raymond talked about the current state of healthcare and the top challenges for revenue cycle leaders.
+For example, staff turnover rates have hovered between 18% and 20% in the last few years, while wages have steadily increased. This costs health systems time and money every time a staff member resigns.
+Plus, efforts to reduce cost-to-collect have largely plateaued. It may not be sustainable for much longer, as outpatient volumes are expected to increase by 15%, creating more work for an already overwhelmed staff.
+As a result, automation has been on the rise.
+Raymond cited a recent Healthcare Financial Management Association’s (HFMA) survey commissioned by AKASA which found that 78% of health systems are currently using or are in the process of implementing automation in their revenue cycle operations.
+During the session, attendees participated in a real-time poll, which found that 1/3 are currently using automation. Of those, 50% are using both RPA and AI, while the other 50% are using AI and machine learning.
+While automation can help with authorization, cost estimates, denials management, and determining the financial resources a patient will need, understanding the differences among the types of automation is important.
+Not all automation is created equal, but each type of automation can and does have its place.
+~ Amy Raymond, Vice President of Revenue Cycle Operations at AKASA
+For example, while RPA is an effective tool for prior authorization status checks and payment posting, it’s brittle, only works well in static environments, and has limitations.
+“It’s not going to independently think, make decisions, and get smarter, more optimized outcomes,” Raymond said.
+There are also hidden costs with RPA because any change results in hours needed to reprogram it and make it work. In fact, for every dollar spent on RPA, Forrester estimates $3.41 is spent on maintenance.
+Raymond went on to talk about the differences between AI and ML (a subfield of AI)  and the value of AI-based automation, and the human-in-the-loop approach.
+In the same way a self-driving car would stop and hand over control to a human when a new scenario occurs, such as a couch falling out of a vehicle in front of it, AI-enabled automation with a human-in-the-loop approach allows the technology to learn from edge cases and outliers and get smarter.
+“That’s where you can truly have holistic automation that makes a significant difference in your workflow and reduces costs,” Raymond said.
+Here are four ways to better use automation to improve your revenue cycle management.
+3. Automation Doesn’t Replace Humans
+When talking about automation, healthcare revenue cycle leaders often want to know if it reduces staff and how it will impact their staff. Yet Raymond noted that every organization has to make prioritization decisions when it comes to their A/R, especially in today’s environment with high staff turnover.
+The value of automation, therefore, is to expand the capacity of the revenue cycle team, allowing them to level up their skills and work where they’re needed, such as  resolving denials, writing appeals, and working on patient-focused tasks.
+Automation overall results in a decreased cost-to-collect, increase in first pass- claims payment, decrease in your outstanding A/R, and increase in job satisfaction and engagement.
+~ Amy Raymond, Vice President of Revenue Cycle Operations at AKASA
+4. Before Getting Started With Automation, Know Your Pain Points and Set Expectations
+Francis and Raymond talked about the importance of revenue cycle leaders identifying their pain points and the challenges they’re looking to solve — before identifying an automation partner.
+Methodist Health System struggled most with claim status, which was driving up costs, and their most important KPI was cost-to-collect.
+Francis also emphasized that when deploying automation, it’s essential to set expectations and realize that it takes time to see results.
+“Start off with the simpler use cases and get some quick wins,” he suggested.
+Plus, although his team had initial skepticism from their team about implementing automation, they were transparent about the process and allowed the staff to get involved.
+We are getting more rewarding work because we have people working more difficult accounts. What they found out is that they enjoy their jobs more now.
+~ Jeff Francis, Vice President of Finance and CFO at Methodist Health System
+5. Know the Right Questions To Ask Before Identifying an Automation Partner
+For Methodist Health System, automation enabled their revenue cycle team to free up 500 hours a month, increase their clean claims rate, and reduce the cost to collect, which allowed them to put money back into the organization.
+I’ve been in rev cycle for 25 years, and I’ve yet to meet a rev cycle leader who’s really able to touch every account efficiently in their aging.
+~ Amy Raymond, Vice President of Revenue Cycle Operations at AKASA
+For hospitals and health systems looking to automation, Francis suggested they take the time to evaluate the type of automation and how it will affect their implementation. They should also ask:
+Is the partner flexible?
+Can they work with our system?
+Do they address our pain points?
+What are the development times for the new use cases?
+Learn the 9 things to look for when selecting an RCM automation provider.
+An overall key takeaway for the session was that automation will play a vital role for hospitals and health systems looking to improve efficiency, reduce costs, and drive revenue for their organization this year — and beyond.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

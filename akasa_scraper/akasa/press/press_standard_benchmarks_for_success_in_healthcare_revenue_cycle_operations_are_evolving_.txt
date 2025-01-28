@@ -1,0 +1,24 @@
+URL: https://akasa.com/press/standard-benchmarks-for-success-in-healthcare-revenue-cycle-operations-are-evolving/
+
+Standard Benchmarks for Success in Healthcare Revenue Cycle Operations Are Evolving | AKASA
+Press
+Standard Benchmarks for Success in Healthcare Revenue Cycle Operations Are Evolving
+South San Francisco, Calif., July 15, 2021 — AKASA™, the only Unified Automation™ company for healthcare revenue cycle management, today released survey results highlighting how top key performance indicators have evolved in healthcare revenue cycle operations. Benchmarks such as the number of days a claim lingers in accounts receivable, the number of outstanding unpaid patients bills 90+ days past due, and initial denial rate have emerged as the top key performance indicators.
+Of note, the survey found the standard industry benchmark of “cost to collect” as an indicator of revenue cycle operations success surprisingly didn’t rank in the top five most important measures. While “cost to collect” may not be a metric revenue cycle teams prioritize in day-to-day operations, CEOs, CFOs, and other senior executives still consider it a critical metric when examining the overall financial health of their organizations.
+The report found the top five measures of revenue cycle operations success, in order of most to least important, include:
+net days in accounts receivable (in general)
+aged accounts receivable (billed >90 days)
+initial denials rate
+discharged not final billed
+final write-offs rate
+The Top Measures of Success Healthcare Financial Leaders Value Most
+“Healthcare leaders can and should leverage automation to improve the metrics most important to their organization,” said Malinka Walaliyadde, co-founder and CEO of AKASA.
+“Automation of tasks across the revenue cycle will not only ensure higher accuracy and consistency, but also empower your staff to work on the most critical and value-generating activities for health systems. As such, automation efforts yield multiple streams of value that elevate efforts to accelerate revenue capture, which lowers days in account receivables and decreases rates of initial denials.”
+Commissioned by AKASA, the survey fielded responses from more than 350 chief financial officers and revenue cycle leaders at hospitals and health systems across the United States through the Healthcare Financial Management Association’s (HFMA) Pulse Survey program between December 17, 2020 and February 5, 2021. The national survey was designed to assess the adoption of automation in revenue cycle operations at hospitals and health systems across the U.S.
+The final write-offs rate was statistically more important to organizations with higher annual net patient revenue.
+Final Write-Offs Rate More Important to Organizations With
+Higher Annual Net Patient Revenue
+About AKASA
+At AKASA, we believe every dollar spent on healthcare matters because healthcare matters to everyone. The only Unified Automation™ company for healthcare, AKASA uses the same machine learning approaches that made driverless cars possible to provide health systems with a single solution for automating revenue cycle operations. AKASA’s unique expert-in-the-loop approach, Unified Automation, combines modern machine-learning with human judgment and subject matter expertise to provide robust and resilient automation. Unified Automation™ adapts to the highly dynamic nature of revenue cycle operations and has been purpose-built for healthcare. AKASA enables health systems to decrease their cost to collect so they can invest more in patient care and be better stewards of the healthcare dollar. AKASA is based in the heart of Silicon Valley. Learn more at www.AKASA.com.
+For more information on AKASA, please contact:
+AKASA

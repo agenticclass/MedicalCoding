@@ -1,0 +1,120 @@
+URL: https://akasa.com/blog/prior-authorization-trends/
+
+7 Prior Authorization Trends To Know in 2023 | AKASA
+Blog
+7 Prior Authorization Trends Revenue Cycle Leaders Need To KnowPrior authorization requests are on the rise. But new solutions are on the horizon.
+AKASA May 11, 2023
+The Gist
+The healthcare industry is typically slow to adopt new solutions, and the revenue cycle is no exception. Manual, paper-based, and outdated processes are common, particularly with prior authorization. Yet there are several trends taking shape this year that will redefine and improve the prior authorization process, alleviating frustration and administrative burden, improving care and the patient experience, and driving revenue for hospitals, health systems, and providers.
+Blog Contents
+1. Prior Authorization Requests Are on the Rise
+2. Most Prior Authorization Solutions Aren’t Up To Speed
+3. Prior Authorizations Are Negatively Impacting Patient Care
+4. Claims Denials, Often Stemming from Prior Auth, Are on the Rise
+5. Prior Authorization Requests Are a Growing Burden
+6. Prior Authorization Reform Is In the Works
+7. AI-Powered Automation Is Making Prior Authorization Faster and Easier
+Automation: A Trend You Can Count On for 2023 — and Beyond
+While healthcare itself is often in flux, with changing payer rules and patient volumes, healthcare as an industry is typically slower to adopt new solutions. And the revenue cycle is no exception.
+Most revenue cycle processes are paper-based and manual, require multiple touchpoints with payers and patients, and are rife with challenges, waste, and high costs.
+Prior authorization, in particular, is an area of the healthcare revenue cycle that continues to be plagued by time-consuming tasks, inefficiencies, and technology gaps. Making matters worse, prior auth is prone to frequent change — from figuring out what forms to use for an auth to how to submit an auth to a specific payer and so on.
+In recent years, the healthcare industry has made some inroads to improve prior authorization in the way of legislative reforms, new solutions, and innovative technology. But a general lack of standardization around prior auth makes it difficult to streamline.
+Prior authorization has been a significant challenge for hospitals, health systems, and their patients. But it’s also an area of the revenue cycle that has significant potential for improvement via new technology.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA.
+While prior authorization is experiencing growth and change, there are several emerging themes. Learn the ins and outs of the following seven trends, and set yourself up for a smoother prior auth process in 2023 and beyond.
+1. Prior Authorization Requests Are on the Rise
+More than 550 health finance leaders ranked prior authorization as the second most time-consuming task in the revenue cycle.
+A report by Medical Economics also found that among the top challenges facing physicians, prior authorization came in at #3.
+And the number of prior authorizations shows no signs of slowing down.
+In 2021,  84% of physicians said the number of prescription medications and medical services that require prior authorization increased during the last five years.
+Another recent poll from the Medical Group Management Association (MGMA) shows much of the same, with 79% of respondents reporting prior authorization requirements increased over the past year.
+2. Most Prior Authorization Solutions Aren’t Up To Speed
+Payer rules are constantly changing, with some changing multiple times throughout the year. This makes it a challenge to determine whether prior auth is required or not.
+Some payer portals provide prior auth information with a CPT code, but others don’t provide it until a patient’s benefits are verified. This inconsistency forces RCM staff to spend precious time digging for requirements, which vary by payer — and, again, change frequently.
+When it comes to having the right technology in place to determine prior authorization requirements, a significant amount of providers also lack solutions.
+A 2020 survey found that 62% of providers report they don’t have the technology to evaluate whether prior authorization is required without initiating a request.
+Surprisingly, that same survey found only 45% of vendors offer the technology required to evaluate prior auth requirements without first initiating a request.
+3. Prior Authorizations Are Negatively Impacting Patient Care
+Prior authorizations often require multiple touchpoints, making them a common source of delays or downright denial for patient care.
+In fact, a survey of physicians by the American Medical Association (AMA) found:
+93% report delays in care while waiting for payers to approve prior authorization requests
+82% say prior authorizations can sometimes lead to patients abandoning treatment
+34% report prior authorizations have led to a serious adverse event for a patient in their care
+With prior auth volumes increasing, this RCM process as a whole stands to become an even more significant impediment to timely patient care if the right solutions aren’t soon put into place.
+4. Claims Denials, Often Stemming from Prior Auth, Are on the Rise
+The healthcare industry has seen a 20% increase in claim denials in the past five years, and prior authorization accounts for more than 11% of them.
+Prior authorization denials are often the result of incomplete or inaccurate information and codes. Incomplete information and codes can have multiple causes, from inefficiencies between the clinical team and the patient access team to improper use of EHR portals to failure to comply with changing payer rules.
+Denials can also occur when requests aren’t straightforward, such as if a procedure or service is added at the last minute, resulting in a retro authorization.
+Retro authorizations aren’t 100% avoidable, but some automation is capable of predicting which supplemental codes your staff should include when submitting an initial auth request, which can reduce retro auths.
+For example, Authorization Management, from AKASA, is capable of learning which supplemental codes are commonly included with the reason for the initial auth. This allows the automation to include these supplemental codes during the initial auth and reduce the chances of a retro auth.
+5. Prior Authorization Requests Are a Growing Burden
+Payer complexity and ever-changing rules for prior authorization create a significant amount of work and frustration for providers.
+According to AKASA research, submitting and checking the status of a prior authorization request takes 12 minutes and 7 seconds.
+With 41 prior authorizations per physician per week, it’s no surprise that 88% of physicians say the burden associated with prior authorizations is “high” or “extremely high.”
+As prior auth volumes increase, this burden will continue to grow in 2023 and beyond. Most healthcare systems are facing staffing challenges, making it especially important for RCM leaders to develop a plan to streamline prior auth.
+6. Prior Authorization Reform Is In the Works
+We gave the health plans a few years. We worked with them. We even came up with a consensus document on some things we thought we could agree to try to fix this problem. But unfortunately, the health plans didn’t act on those promises, and we see patients really still suffering from the results of this prior authorization problem, so that’s why we’re looking to legislatures and others to solve it.
+~ Jack Resneck Jr., MD, President of the AMA
+While prior auth requirements are ever-complex, and the number of auth requests is on the rise, not all prior auth changes are negative.
+Some states and organizations (like AMA) have made legislative efforts in recent years in an attempt to reduce the burden of prior auth:
+The Centers for Medicare & Medicaid Services (CMS) proposed a new rule in late 2022 that implements electronic prior auth requirements for select payers and enforces a shorter response time for providers awaiting auth.
+In July 2022, the House Ways and Means Committee advanced the Improving Seniors Timely Access to Care Act of 2022. If passed, the legislation would improve the prior authorization process for Medicare Advantage plans, making it streamlined and faster for services and items that are routinely approved.
+Last year, Texas passed a new law — the first of its kind — which allows physicians who have a 90% prior authorization approval rate over a 6-month period prior auth exemption on certain services.
+The American Academy of Family Physicians (AAFP), the Prior Authorization Learning Collaborative of the Value in Healthcare Initiative, and a consensus of leading healthcare organizations have also proposed reform initiatives.
+Gold carding is another approach to a reformed and streamlined prior authorization process in which health plans have adjusted prior auth requirements for providers with a record of high-quality care. Gold carding has mixed reviews thus far. This article states its use has increased from 2022 to 2019, and payers have seen benefits such as reduced provider burden and improved provider satisfaction. Despite the increased usage and positive outcomes, some payers have discontinued the practice or refrained from taking part- citing that the practice is administratively challenging.
+The AMA encourages providers, patients, and employers to share their stories and advocate for change at FixPriorAuth.org.
+7. AI-Powered Automation Is Making Prior Authorization Faster and Easier
+As a manual administrative process, prior authorization is one of the RCM functions best suited for automation.
+A recent report by McKinsey suggests that AI-enabled automation for prior authorization can handle 50 to 75% of manual tasks, boost efficiency, reduce costs, and alleviate physicians, RCM specialists, and payer staff. This allows for more focus on complex cases, care delivery, and improved coordination between physicians, RCM staff, and payers.
+Years ago, prior auth automation was little more than a pipe dream. As luck would have it, modern technology has made it possible to provide holistic prior auth automation.
+Automation: A Trend You Can Count On for 2023 — and Beyond
+Healthcare is an industry constantly in flux, making it impossible to know what the coming years will hold. Yet one thing’s for sure:
+Automation will continue to be increasingly important in streamlining the healthcare revenue cycle.
+Automation’s role in prior auth will see an especially large boost in importance, as prior auth eats more and more valuable staff time. It’s nearly impossible to fully staff for RCM in this climate, and something has to change.
+AKASA Authorization Management is that change.
+Authorization Management uses AI and machine learning (ML), with support from a team of in-house RCM experts, to deliver holistic prior auth automation.
+Our AI continuously learns from the responses and results of submitted prior authorizations, flagging our RCM experts to handle edge cases and train the automation on new complexities, ensuring tasks get done.
+Authorization Management works alongside your existing workflows and applications to optimize your revenue cycle with no disruption to your current workflows. And your staff has no training or new tools to learn.
+Authorization Management is a holistic solution capable of fully automating prior authorization for all providers — from physician groups to multi-billion dollar health systems.
+Our suite of products includes:
+Authorization Initiation
+We determine if prior authorization is required and then submit the request along with the required medical records via the payer portal or fax. We ensure prior authorization requests are complete and accurate which improves timeliness and turnaround times.
+Authorization Status Check
+We obtain the status of each authorization via the payer portals and then add detailed information to the health system’s EMR to drive follow-up workflows.
+Our Authorization Management solution reduces the burden and frees staff from tedious prior authorization tasks to focus on patient-facing activities, resolves more prior authorization requests, ensures reimbursement, and improves care and the patient experience.
+Watch a video of AKASA Authorization Management in action and see for yourself how it can improve your prior authorization process and future-proof your RCM efforts for years to come.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

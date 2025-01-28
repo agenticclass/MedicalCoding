@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MediCodeAI - Medical Coding Assistant</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100">
+    <div class="min-h-screen flex items-center justify-center">
+        <div class="bg-white p-8 rounded-lg shadow-lg w-full max-w-4xl">
+            <h1 class="text-3xl font-bold text-gray-800 mb-6">MediCodeAI</h1>
+            <h2 class="text-xl text-gray-600 mb-8">Medical Coding Generative AI Assistant</h2>
+            
+            <form action="/analyze" method="post" class="space-y-6">
+                <div>
+                    <label for="documentation" class="block text-sm font-medium text-gray-700">
+                        Enter Medical Documentation
+                    </label>
+                    <textarea id="documentation" name="documentation" rows="8"
+                        class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500"
+                        placeholder="Paste medical documentation here..." required></textarea>
+                </div>
+
+                <div class="flex justify-end">
+                    <button type="submit"
+                        class="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                        Analyze Documentation
+                    </button>
+                </div>
+            </form>
+
+            <div class="mt-8">
+                <h3 class="text-lg font-medium text-gray-700 mb-4">Sample Test Cases</h3>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                    <a href="#" class="test-case p-4 rounded-lg bg-gray-50 hover:bg-gray-100">
+                        <h4 class="font-medium text-gray-700">Case 1</h4>
+                        <p class="text-sm text-gray-500">Chest pain & myocardial infarction</p>
+                    </a>
+                    <a href="#" class="test-case p-4 rounded-lg bg-gray-50 hover:bg-gray-100">
+                        <h4 class="font-medium text-gray-700">Case 2</h4>
+                        <p class="text-sm text-gray-500">Diabetes follow-up</p>
+                    </a>
+                    <a href="#" class="test-case p-4 rounded-lg bg-gray-50 hover:bg-gray-100">
+                        <h4 class="font-medium text-gray-700">Case 3</h4>
+                        <p class="text-sm text-gray-500">Low back pain & epidural injection</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

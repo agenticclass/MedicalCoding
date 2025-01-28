@@ -1,0 +1,90 @@
+URL: https://akasa.com/blog/prior-authorization-management/
+
+Your Holistic Prior Authorization Management Solution | AKASA
+Blog
+Authorization Management: Your Holistic Prior Authorization SolutionPrior authorization automation can save $437 million annually, but finding a solution that addresses all of the functions is key.
+AKASA May 17, 2023
+The Gist
+Prior authorization is tedious, time-consuming, and costly — to the tune of nearly $11 per transaction. With a holistic prior authorization solution that addresses prior auth requirements, initiation, and status checks, however, your health system can resolve more requests in a shorter amount of time, free up your staff to work on more valuable tasks, and drive revenue for your organization.
+Blog Contents
+How Much Is Prior Authorization Costing You?
+The Benefits of Authorization Management
+Meet AKASA Authorization Management
+Prior authorization is a vital function of the healthcare revenue cycle. Although it’s seemingly simple and straightforward, in reality, prior auth takes a lot of time and has multiple touch points, which often result in care delays, denials, and increased costs.
+Hospitals and health systems that adopt a holistic prior authorization solution, however, stand to save a significant amount of time and money, improve care and the patient experience, and free up their staff to focus on more valuable tasks.
+When AI and machine learning are leveraged in an automation solution, prior authorization tasks can be managed more effectively and holistically.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+How Much Is Prior Authorization Costing You?
+Although prior authorization is a relatively straightforward daily occurrence, it’s still one of the most time-consuming and costly functions of the healthcare revenue cycle.
+More than 550 health finance leaders ranked prior authorization as the second most time-consuming task in the revenue cycle.
+It takes 12 minutes and 7 seconds to submit a prior authorization request and check the status.
+84% of physicians say prior authorizations have increased over the past five years.
+Providers complete 41 prior authorizations per physician every week.
+Providers spend nearly 2 business days a week working on prior authorizations.
+65% of physicians wait one day for payers to approve auth requests, while another 27% wait at least 3 days.
+Some prior authorizations can take up to 15 days.
+88% of physicians say the burden associated with prior authorizations is high or extremely high.
+40% of providers have staff dedicated to working on requests.
+93% of physicians reported delays in care while they waited for payers to approve prior authorization requests.
+Each manual prior authorization transaction costs $10.95.
+The time and resources that revenue cycle staff unnecessarily waste on prior authorization could be spent on more valuable tasks, patient care, and efforts to improve the patient financial experience.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+As time-consuming as prior auth is, it’s also critical to patient care. When prior authorizations aren’t accurate or complete, delays and denials can occur.
+A report from the Department of Health and Human Services Office of Inspector General (OIG) found that of prior authorization requests that Medicare Advantage Organizations denied, 13% met Medicare coverage rules — services that would have been covered by Original Medicare — and were, in part, due to human error.
+Fortunately, automation can help.
+The Benefits of Authorization Management
+Prior auth may feel like nothing more than a nuisance in the grand scheme of things, but it quickly adds up. Effective prior auth automation has the potential to save an average of 16 minutes per prior auth request — $437 million annually.
+But true, holistic prior authorization automation brings a number of additional benefits:
+Reduces staff burden and frustration, freeing them from tedious prior authorization tasks to focus on patient-facing activities.
+Ensures all clinical and benefits information is initially submitted, decreasing delays, denied requests, and multiple payer follow-ups.
+Reduces claim denials due to missing prior authorizations and drives reimbursement.
+Minimizes reimbursement issues with timely notice of admissions (NOA).
+Prevents care delays and improves patient satisfaction with a faster prior authorization process.
+Looking for a true, holistic prior auth automation solution?
+Meet AKASA Authorization Management
+AKASA Authorization Management uses leading-edge AI and machine learning, backed by a dedicated team of RCM specialists, to navigate complex authorization processes and ever-changing payer portals and rules.
+The AI power Authorization Management continuously learns from the responses and results of submitted prior authorizations, getting faster each time. If there’s an edge case it hasn’t encountered, it flags our RCM experts to handle the case and train the AI on new complexities, ensuring tasks get done on time, all the time.
+Authorization Management works alongside existing workflows and applications, meaning there’s no disruption to current workflows. This holistic solution is capable of fully automating prior authorization for all providers — from physician groups to multi-billion dollar health systems, regardless of the EHR platform.
+Payer changes around preauthorization requirements and increased demand to schedule diagnostic procedures as soon as possible is driving significant volumes for financial clearance. Hiring to handle these volumes can be challenging and isn’t always the most strategic solution. Machine-learning-based technologies, such as AKASA, have been critical to ensuring our teams can provide rapid turnaround for verifying eligibility and covered benefits, and securing an authorization.
+~ Cynde McCall, Director of Patient Access and Health Information at Methodist Health System
+Our suite of prior auth products includes:
+Authorization Determination & Initiation
+We determine if prior auth is required and then submit a request along with any supplemental diagnosis and procedure codes and required medical records. Our process ensures that prior auth requests are thorough and accurate, which improves turnaround time.
+Auth Status Check
+We obtain well-timed auth statuses and return detailed information to drive follow-up workflows. This eases staff burden and frustrations from tedious status checks.
+To learn more about how AKASA Authorization Management can improve your prior authorization process, schedule a demo today.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

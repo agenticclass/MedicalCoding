@@ -1,0 +1,110 @@
+URL: https://akasa.com/blog/prior-authorization-mistakes/
+
+7 Prior Authorization Challenges and How To Overcome Them | AKASA
+Blog
+7 Prior Authorization Challenges and How To Overcome ThemPrior authorization requests are one of the most challenging functions of the healthcare revenue cycle—and increasing in volume. With an AI-powered solution, however, revenue cycle staff can be freed up from the administrative burden, improve their communication with payers, and get more requests approved in a timely manner.
+AKASA January 16, 2025
+The Gist
+Hospitals, health systems, and providers in the United States face a myriad of prior authorization challenges: an increase in requests, lack of transparency, and ever-changing payer rules, to name a few. The right type of AI solution, however, can help ease the burden, save time, and get more requests approved in a timely manner.
+Blog Contents
+1. An Increase in Prior Authorizations and Staff Shortages
+2. Ever-Changing Payer Rules
+3. Lack of Transparency
+4. Tedious Tasks
+5. Administrative Burden and Burnout
+6. Benefits and Eligibility Gaps
+7. Outdated Technology
+Achieve Prior Authorization Success With AI
+Prior authorization is a vital function of the healthcare revenue cycle. While vital, prior auth is also one of the most complicated pieces of the revenue cycle and is rife with challenges.
+The challenges surrounding prior auth wouldn’t be so troublesome were it not for the high volume of auth requests. Providers complete roughly 41 prior auths per physician weekly, spending nearly two business days working on them. Making matters worse, prior auth requests are one of the more time-consuming RCM processes.
+Healthcare organizations are in a tough spot between the increasing volume and complexity of prior auth and ongoing staffing struggles. Streamlining the prior authorization process is key for organizations to deliver the best experience possible and better utilize the time of the staff they have.
+For organizations to stay afloat, revenue cycle teams must rethink their upfront processes for benefits and eligibility and prior authorizations and look to new solutions that will improve efficiency.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+While a number of solutions are available to help with streamlining prior auth processes, there are several challenges you can overcome now to ensure you’re building best practices and getting as much ROI as possible.
+1. An Increase in Prior Authorizations and Staff Shortages
+Prior authorization requests have been on the upswing in recent years and show no signs of slowing down.
+A 2021 AMA report found that 84% of physicians say the number of prescription medications and medical services that require prior authorization has increased during the last five years.
+At the same time, hospitals and health systems are dealing with ongoing staffing shortages.
+A recent survey from AKASA found more than 57% of health systems and hospitals have more than 100 open roles to fill across their operations. And with all these vacant roles, more stress is added onto existing staff.
+Because of staffing problems, it’s difficult to find the time and resources required to train an upscale revenue cycle specialist, and then staff churns. This churn and the pandemic’s onslaught have resulted in healthcare professionals working overtime and extra shifts, and made it even harder to stay on top of tasks like prior auth.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+2. Ever-Changing Payer Rules
+One of the most common prior authorization challenges is payer rules, which payers frequently update throughout the year. On top of this, every patient’s health plan can have different requirements.
+According to a 2021 poll by the Medical Group Management Association (MGMA), there are:
+Requirement inconsistencies across payers
+Vague or opaque requirements
+Frequent updates on the requirements
+Shifting rules and overall payer complexity make it difficult for health systems to stay ahead of what they need to get prior authorization requests approved, which lengthens the time an auth takes and results in more denials.
+3. Lack of Transparency
+In addition to frequently changing payer rules, a lack of transparency from payers is another common headache for providers.
+A 2021 AMA survey found that 62% of physicians report difficulty determining whether medical services require prior authorization.
+For example, some payer portals make it easy to look up required auth information by simply inputting a CPT code for the procedure. Other payers won’t tell you the requirements until you contact them and verify patient benefits, which takes more time for everyone.
+Prior authorization requests also require payers and providers to collaborate. But because their business objectives, processes, and workflows are often not aligned, getting prior authorization requests approved in a timely manner can be challenging.
+4. Tedious Tasks
+Prior authorization is a time-consuming, labor-intensive, and often frustrating process.
+Requests require several steps, and there’s often a lot of back and forth with payers, especially if the initial request isn’t accurate and complete.
+Simply submitting an authorization request and checking the status takes more than 12 minutes.
+Adding to the time prior auth takes is the outdated technology used by many providers and payers. Phone and fax are common in prior auth, which eats up more time than an electronic prior auth, and can result in information gaps.
+Mistakes or errors during the prior auth process can lead to delays and denials which impact the patient, the patient experience, and revenue for the organization.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+5. Administrative Burden and Burnout
+As in many industries, healthcare workers are experiencing severe levels of stress. In fact, 93% of healthcare workers report feeling stressed, and more than three-quarters are exhausted and burned out.
+Rebounding patient volumes and staffing shortages are components of stress and burnout, but the work itself is another factor.
+Increasing payer complexity and the volume of prior authorization, in particular, make it difficult for staff to keep up. When asked about prior auth, 88% of physicians say the burden associated with the process is high or extremely high.
+6. Benefits and Eligibility Gaps
+Prior auth denial isn’t always the result of an issue with coverage, codes, or late submission. Errors and mistakes occurring in the benefits and eligibility processes can result in prior auth denial as well.
+If patient demographic and insurance information is incorrect, outdated, or missing, or the wrong paperwork is used, slowdowns in the prior auth process can occur. In a best-case scenario, the auth is approved, albeit late. But issues with patient info, insurance, and so on can lead to outright denials in some instances.
+7. Outdated Technology
+Prior authorization is time-consuming as is. While solutions for streamlining prior auth exist, many organizations lack the right technology to determine prior auth requirements in a timely manner.
+While only 62% of providers lack the technology to determine auth requirements before initiating a request, only 45% of vendors offer the capabilities to do so in the first place.
+Switching to electronic prior auth transactions would save 17 minutes per prior auth, on average. Despite these major gains, only 26% of prior auths are fully electronic.
+Achieve Prior Authorization Success With AI
+Between staffing challenges and increasing payer complexity, automation is a natural solution to these prior auth challenges. While many prior auth solutions exist, many fall short.
+Most prior auth vendors use robotic process automation (RPA), which is great for linear, repetitive, rule-based linear tasks. But prior auth is anything but linear. With payer rules and portals changing, numerous sources of data, and many potential problem areas that result in denials, this front-end function is complex and challenging. This leaves traditional RPA, on its own, insufficient to fully automate prior auth.
+Until now.
+AKASA Authorization Management uses generative AI (GenAI) and large language models (LLMs) as a foundation and support from a dedicated team of RCM experts. This allows the solution to navigate complex prior auth workflows and deliver resilient, holistic prior auth streamlining.
+If AI and large language models are leveraged, prior authorization tasks can be managed more effectively, gaps are closed, and the process is a more holistic, end-to-end experience.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+AKASA Authorization Management, which includes both Authorization Advisor and Authorization Automation, can help your team do more with less, curb denials, improve the patient experience, and more through its capabilities:
+Holistically address prior auth
+Navigate complex prior auth workflows and ever-changing payer rules and portals
+Search, attach, and submit relevant clinical documentation in auth requests
+Reduce retro auths by adding additional diagnosis and procedure codes that commonly go together in the initial auth
+Cause no interruptions to existing workflows
+Prior authorization may be rife with challenges, but those challenges don’t have to apply to your organization. Simplify prior auth with AKASA Authorization Management and free your team up to focus on more high-value tasks today.
+To learn more about how AKASA Authorization Management can improve your prior authorization process, set up a demo today.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

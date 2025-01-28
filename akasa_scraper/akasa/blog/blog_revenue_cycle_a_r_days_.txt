@@ -1,0 +1,126 @@
+URL: https://akasa.com/blog/revenue-cycle-a-r-days/
+
+How To Improve Revenue Cycle A/R Days | AKASA
+Blog
+How To Improve Revenue Cycle A/R DaysDays in accounts receivable (A/R) is the most critical KPI that healthcare revenue cycle leaders monitor and continually look to improve. Here are 10 expert tips that can help.
+AKASA January 16, 2025
+The Gist
+Lowering A/R days is one of the most essential and burdensome tasks for revenue cycle leaders. It’s a complex metric for a complex process. But there are things you can do to help. From prioritization to organization to collaboration, here are 10 tips that can help increase your efficiency. Technology is also a significant component. With automation, Montage Health saw a 13% decrease in A/R days. What is your A/R goal?
+Blog Contents
+Days in A/R and the Revenue Cycle
+1. Improve Clean Claims
+2. Ensure Data Is Accurate
+3. Prioritize Claims Correctly
+4. Create the Right Workflows
+5. Build the Right Teams
+6. Take a Collaborative Approach
+7. Work Errors and Denials Quickly
+8. Prioritize the Patient Financial Experience
+9. Pay Attention to Payer Requirements
+10. Drive Efficiency With Advanced AI
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently.
+Many are necessary, but days in accounts receivable (A/R) tops the list as the most important measure of revenue cycle success for healthcare chief financial officers and revenue cycle leaders, according to an HFMA survey commissioned by AKASA. With aged accounts receivable (billed >90 days) following close behind.
+Days in A/R and the Revenue Cycle
+What does this metric mean and why is it so important?
+What are days in A/R?
+A/R days are the number of days, on average, it takes a health system to collect on a claim. This serves as a strong measure of the health of the revenue cycle. An efficient department will have claims moving along quickly and smoothly, whereas an unorganized one will be fraught with denials and aging accounts.
+Days in A/R can’t be looked at in a vacuum. If your metrics are too good, it may not be the whole story. For example, you may be taking write-offs too quickly, which can skew the numbers in a positive direction. It’s important to look holistically at all of your metrics.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments at AKASA
+What is the average days in A/R?
+This metric has continued to rise for organizations in the last few years, with the median net A/R days being 47.3, according to the Advisory Board (up from 41 days only a few years ago). A good benchmark for days in A/R is below 30, but the lower, the better.
+Why are days in A/R important?
+The longer it takes to send claims to payers, the longer it takes for claims to process, and the longer it takes to bill patients. And the more accounts age, the less likely they’re paid. In short: longer days in A/R result in losses for the provider and a worse experience for the patient.
+Measuring success through accounts receivable is a complicated ratio, with many elements involved and many areas where things can go wrong. But it offers a great snapshot of a revenue cycle’s overall performance. Improving A/R days is the goal of every leader.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments at AKASA
+Here are ways you can improve your days in A/R.
+1. Improve Clean Claims
+One of the most effective ways to reduce days in A/R is to focus on sending out clean claims. Preventing denial-causing errors from the start will make you more efficient overall.
+If health systems had to focus on one area to improve A/R days, it would be making sure everything is accurate before a claim goes out the door.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments at AKASA
+Errors in patient access/registration are the number one cause of initial claim denials, according to health leaders.
+It’s important to have a comprehensive registration process in place to get as much of a patient’s information as possible and to check eligibility and in-network coverage prior to a patient’s scheduled appointment.
+Ensure the correct payer is added to the patient’s account, and the correct insurance is billed under the correct services. For instance, a patient can have one coverage for most services, but a different one when billing for mental health services.
+Organizations should also check that services are authorized with the appropriate authorization number entered in the EHR. This way, the authorization number is available on the claim once charges are entered.
+What’s even better than tracking clean claims? Tracking first pass claims payment (FPCP): the percentage of claims that are paid at 100% of expected rate on the first submission.
+2. Ensure Data Is Accurate
+Even the most minor details can hold up a claim, increasing your A/R days. It’s important data is continually updated to prevent errors that lead to denials.
+It’s not uncommon for patients to have multiple payers. Patients might have one health insurance for medical, and another for behavioral health, for example. This makes it especially important patient access staff enter the payer information correctly in the medical billing system. If the information is incorrect, the wrong insurance is billed, and errors and denials crop up as a result.
+Physicians’ credentials and contracts should be updated, and all medical notes should be scanned into a patient’s record.
+As part of this, it’s also important the right documents are signed. For example, sterilization forms are a frequent cause of denials because of missing signatures, which results in large sums of lost revenue
+3. Prioritize Claims Correctly
+Each organization will prioritize claims differently, based on unique processes and staffing.
+Some teams work accounts based on age. Get weekly reporting of your A/R to track older bills. Run it based on billing and service dates so you can get a snapshot of how many accounts are in A/R, how long they have been there, and identify issues.
+But focusing solely on age can result in problematic payers getting ignored until it’s too late. If you’re working claims at 20–30 days to avoid them aging out, you’re going to run into accounts with certain payers (like Medicare, for example) that are difficult and time-consuming, resulting in those accounts aging out entirely.
+While age of accounts is important, it’s important that revenue cycle specialists look ahead to see which payers are on the horizon so they can flag the difficult ones and work them earlier.
+You may also want to focus on working claims with the highest yield. This will help reduce days in A/R, but have a more significant impact on improving revenue and lowering cost-to-collect — additional critical metrics for RCM teams.
+It’s important to develop a strategy in which old and new accounts have equal attention, while you look ahead to see which payers are on the horizon so you can flag the difficult ones and work them earlier.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments at AKASA
+4. Create the Right Workflows
+Organizations should consider creating work queues or workflows that identify and flag common denials, such as mom or baby claims.
+Having a process for tracking denials also helps determine the types of work queues to build. If you’re frequently running into denials around mom or baby claims, for example, you know to build workflows that ensure more attention is paid to these types of claims. The same goes for denials linked to certain payers, and so on.
+With the right workflows, claims that are labeled as no claim on file (NCOF) can be identified quickly, and denials can be overturned in a timely manner.
+5. Build the Right Teams
+To ensure you’re devoting resources appropriately, build teams of individuals who have the skills that match their accounts, or have subject matter experts (SMEs) on board to provide insight and guidance for new hires. That may mean having more specialized team members who focus on denials, follow-ups, or even different payers.
+For example, Medicare and Medicaid claims are complex and require people who are billing experts with knowledge of their ever-changing rules and regulations. By hiring experts on these claim types who can train others, you’re setting up future hires for success and ensuring those accounts are handled properly.
+6. Take a Collaborative Approach
+Keeping the lines of communication open and working collaboratively are keys to reducing A/R days. Healthcare revenue cycle teams should have weekly meetings to discuss A/R reports, work together to resolve issues, and strive to submit claims for payment as soon as possible.
+It’s also a good idea to pull reports on denials for individual payers, making it possible to identify and address any frequent problems.
+7. Work Errors and Denials Quickly
+The faster errors are resolved, the quicker claims are paid. Teams should work through errors and denials as soon as they hit the work queues to keep things moving — especially in the event of additional back-and-forth between provider, payer, and even patient.
+If you want to lower days in A/R, target your denials. Denials disproportionately increase this metric because they often involve high dollars or high volume. And they’re usually going to take you an inordinately long amount of time to resolve them.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments at AKASA
+Here are nine ways to work medical billing denials more effectively.
+8. Prioritize the Patient Financial Experience
+A solid financial clearance process can reduce days in A/R, speed up claims processing times, and improve the patient financial experience.
+By discussing price estimates with patients upfront, organizations can determine the amount patients can pay and connect them with a financial counselor who can develop payment plans or determine if the patient qualifies for financial assistance or charity.
+9. Pay Attention to Payer Requirements
+Payers can change their criteria for accepting claims at any time or request additional documentation from providers. This all impacts days in A/R and leads to denials and delays in reviewing appeals. Make sure your team has a way to track changing requirements.
+Claims processing sounds like a linear process, but they’re worked in massive batches. 1,000 claims can get rejected or have claim edits in one day and require staff to work them.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments at AKASA
+10. Drive Efficiency With Advanced AI
+More hospitals and health systems are looking to AI-powered solutions to improve claim processing and cost-effectiveness in revenue cycle operations. And improve vital metrics like days in A/R.
+Why are you touching a claim 10 times if you don’t need to? Stop wasting time on repetitive rote tasks. This is where the right AI can step in to help prioritize your claims and get them completed faster.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+An advanced AI-powered solution, like the AKASA platform, can help you improve revenue outcomes and lower A/R days by:
+Prioritizing problematic accounts
+Effectively working claim denials
+Making sure resubmissions are timely, thorough, and accurate
+Promptly respond to payer follow-up requests, such as additional documentation
+AKASA offers a unique blend of generative AI (GenAI) and large language models (LLMs), backed by the support of an in-house team of RCM experts. This allows us to streamline RCM tasks across the board, from authorization to claims to medical coding.
+Implementing the right technology helped Montage Health see a 13% decrease in A/R days — learn how.
+Want to see similar results in your organization? Find out how AKASA can help.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

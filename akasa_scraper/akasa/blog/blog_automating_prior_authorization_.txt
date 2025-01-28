@@ -1,0 +1,106 @@
+URL: https://akasa.com/blog/automating-prior-authorization/
+
+Automating Prior Authorization | AKASA
+Blog
+Automating Prior Authorization: Everything You Need to KnowKnow what to look for, the right questions to ask, and how to prepare before partnering with a prior auth automation vendor.
+AKASA May 11, 2023
+The Gist
+Prior authorization is a necessary function of the healthcare revenue cycle. But it’s also time-consuming and often leads to costly denials and delays in patient care. With the volume of requests on the rise, automation is a viable solution, easing staff burden, saving time, and improving reimbursement. When creating an RCM automation strategy and evaluating partners, however, there are several factors to consider.
+Blog Contents
+1. Not all automation solutions are the same
+2. Automation alone won’t fix your prior authorization problems
+3. Prior authorization automation still requires people
+4. Your choice of automation vendor matters
+5. Consider other revenue cycle functions
+Automating Prior Authorization With AKASA
+Prior authorization is a critical part of the healthcare revenue cycle and patient access. But because it requires several touchpoints and a lot of back-and-forth with payers, it’s often a burden for already overwhelmed staff.
+Raising the stakes further, mistakes and errors that occur in the prior authorization process can also lead to care delays, increase denials, and drive up costs.
+Prior authorization requests are on the rise. With payer rules constantly changing and healthcare facing staffing challenges, it’s no surprise many organizations are turning to automation.
+According to the 2021 CAQH Index, automation of prior authorizations increased from 21 to 26%. Yet it’s an area that has the lowest adoption rate, with 35% of requests still facilitated in fully-manual processes such as fax and email.
+When automation is deployed for prior authorization, it has the potential to save 16 minutes on average, and roughly $437 million annually, according to the same report.
+Prior auth initiation and checks alone take 12 minutes and 7 seconds on average. Multiply that by the number of prior auths your RCM team works each day. And keep in mind some authorizations take well beyond that. The end result is a large amount of time your team could spend on other revenue-generating tasks.
+Prior auth automation has the potential to save your team more and more time as volumes increase. But implementing automation is more complicated than simply flipping a switch. With the right foundation, you can make an informed decision and get the most value out of your prior auth automation.
+Prior authorization is a very complex area of the revenue cycle to automate, so it requires the right technology and strategy. Otherwise, you’re going to lose out on efficiency, time, and value.
+~Amy Raymond, VP of Revenue Cycle Operations at AKASA
+Deploying automation for prior authorization doesn’t have to be challenging or time-consuming, but there are some factors to consider before making an investment. Here are several things to know before automating prior authorization
+1. Not all automation solutions are the same
+More than three-quarters of health systems are currently using — or are in the process of implementing — automation in their revenue cycle operations.
+Yet not all types of automation are created equal. Each type of automation has its own benefits and use cases.
+Robotic process automation (RPA)
+RPA is best for simple, linear, repetitive, and rule-based tasks.
+When a single element in a process changes, like a login field in a portal or EHR moving or changing color, traditional RPA workflows are prone to breaking. This requires maintenance, either from your team or the provider, resulting in downtime and additional costs. This rigid nature also prevents RPA from scaling.
+Prior authorization is complex, requiring numerous touchpoints, yet many try to use stand-alone RPA to automate it. This typically leads to the hangups mentioned above, resulting in costly maintenance and downtime.
+RPA on its own can’t handle the complexities of prior authorization, the dynamic screens of the payer portals, and navigating to the medical records to get the right information.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+RPA + artificial intelligence (AI)
+RPA, coupled with AI, is capable of more advanced tasks than RPA on its own. For instance, RPA with AI is capable of extracting data from insurance cards or other algorithm-driven data processing tasks.
+While the combination of RPA and AI is more capable than stand-alone RPA, it lacks responsiveness and resiliency. Again, with the complexities of prior auth and the changing nature of portals, RPA with AI is still typically incapable of automating prior auth.
+RPA + machine learning (ML) + “humans in the loop”
+ML is a subset of AI and can modify itself when exposed to more data. In other words, RPA with ML is capable of learning from additional data as it completes more tasks, getting smarter and more efficient over time.
+The human-in-the-loop approach involves placing people in support roles alongside automation. If the automation encounters a new challenge or edge case, the experts step in and complete the work while the automation watches and learns for the next time.
+This type of automation handles unexpected occurrences, is resilient, can take on complex workflows, and allows staff to focus on meaningful, high-value tasks — making it the most robust combination of automation.
+2. Automation alone won’t fix your prior authorization problems
+Automation can alleviate staff burden, increase the number of prior authorizations resolved, and reduce denials and payment delays. But automation isn’t the answer to all your prior authorization woes.
+While automation will help you streamline prior auth, you still need people in the right places to handle any handoffs and non-automated workflows. You also need a solid prior auth workflow and strategy in place to get the most out of your team and automation.
+As you consider automation, examine your current RCM team structure and ask yourself where you can redeploy people. If automation is taking prior auth out of the picture, people currently focusing on prior auth can shift to another area.
+3. Prior authorization automation still requires people
+There’s always a hand-off with automation. This means there’s always a need for people, even post-automation.
+While automation is capable of streamlining the majority of prior auth and saving your team precious time, staff are still needed to follow up on denials and make any necessary phone calls.
+Think of automation as a way to better utilize the people you have. But there will always be a need for people in your RCM processes. As you consider how to redeploy people, examine your current workflows and look for areas where the automation stops and the non-automated workflows begin.
+4. Your choice of automation vendor matters
+The number of RCM automation vendors has grown significantly in recent years. There’s also no shortage of vendors that make big promises while offering inconsistent quality and service.
+A number of RCM vendors are more general automation vendors, offering RPA solutions for a number of industries. Any automation company lacking healthcare RCM experience will struggle to understand your organization’s challenges and, more importantly, lack the knowledge necessary to make informed decisions around effective RCM automation.
+Learn how to evaluate prior auth vendors to find the one that works best for your organization’s unique needs.
+Outside general automation vendors, some prior auth vendors don’t offer holistic automation. Instead, these vendors solve only a part of prior auth, leaving the rest on your staff, like actual auth submission and status checks.
+For example, it’s crucial to have the ability to submit the required clinical documentation with the request, but vendors that only have EDI capabilities won’t be able to send this information.
+5. Consider other revenue cycle functions
+Before implementing prior auth automation, think about other areas of the revenue cycle that tie into prior authorization — insurance verification, eligibility, etc. — and how they fit into your organization.
+When only automating prior authorization, there’s the impact on the rest of the RCM processes to consider. If you remove prior auth from the equation, how does this impact the rest of your RCM efforts?
+Much like thinking about how to redeploy your team, this is the time to step back and examine your RCM organization and processes as a whole. Keep in mind those automation-to-person handoffs and where you’ll need someone.
+It’s important to think about whether you want to automate prior authorization exclusively or everything together so you can get a higher ROI and value from your investment. If you’re only automating a piece, you need to consider the impact removal of the automated task has on the rest of your workflows. Where will you redeploy people for maximum efficiency?
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+Automating Prior Authorization With AKASA
+Implementing RCM automation frees up your staff from tedious and frustrating prior authorization tasks, allowing them to follow up with payers, address pending prior authorizations and denials, and resolve more requests — all of which drive reimbursement for your organization. They’ll also have more time to improve the patient experience, a growing focus throughout the healthcare industry.
+AKASA Authorization Management provides holistic prior auth automation capable of providing the above and more.
+Our solution is built on a foundation of RPA and enhanced using AI and ML, with support from a dedicated team of RCM experts. As a result, Authorization Management is capable of delivering end-to-end prior auth automation, becoming more efficient as it goes. And it doesn’t interrupt existing workflows.
+Authorization Management helps you:
+Ease staff burden: Free your staff from tedious and frustrating prior authorization tasks
+Resolve more prior authorizations: Reduce back and forth with payers by ensuring auth requests are thorough and accurate
+Ensure reimbursement: Reduce payment delays and claim denials due to missing prior authorizations
+Prior authorization is a growing administrative burden, but with Authorization Management, it doesn’t have to be. Watch a two-minute video to see how our prior auth technology works.
+Or, if you’re ready to start the conversation now, schedule a demo with one of our RCM experts today.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

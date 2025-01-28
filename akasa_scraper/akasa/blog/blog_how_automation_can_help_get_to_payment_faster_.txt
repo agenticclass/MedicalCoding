@@ -1,0 +1,112 @@
+URL: https://akasa.com/blog/how-automation-can-help-get-to-payment-faster/
+
+How Automation Can Help Get to Payment Faster | AKASA
+Blog
+Evolution of Revenue Cycle Management: How Automation Can Help Get to Payment FasterHealthcare revenue cycle automation can save precious time for your team, reduce errors, and help you receive payment faster. But first, you need the right foundation.
+AKASA August 09, 2022
+The Gist
+Healthcare in the United States is complex, requiring boosts in speed and efficiency wherever possible. Yet, until recent years, healthcare in the US has felt incredibly dated in its approach. Now, automation and other advancements in technology are beginning to make their way into the revenue cycle and healthcare as a whole. While automation can speed up the revenue cycle process and provide relief for teams, getting started with automation still requires the right foundational work.
+Blog Contents
+The Paper Origins of Revenue Cycle Management
+Automation’s Potential Role in Revenue Cycle Management
+The Evolution of Automation Tools
+Getting Started with Automation
+Selecting an Automation Partner
+What Can Automation Do For RCM?
+The U.S. healthcare system has seen rapid, technology-driven changes in revenue cycle management (RCM) over the last two years. AKASA sought to bring clarity to RCM’s evolution and its relationship with artificial intelligence (AI) and other automation tools during a recent Webinar. The session focused on the challenges of getting to first-pass claims payments.
+Also included was a discussion of how various tools and technologies can be leveraged across the RCM process to get to payment faster while staff focus on higher-level work that requires expertise and judgment, allowing them to work at the top of their skillset, and ultimately run a more productive and effective revenue cycle team.
+“This is an interesting topic for me as I’ve lived and breathed a lot of this evolution over the past 20 years,” said Amy Raymond, Head of Revenue Cycle Operations at AKASA. “And that’s through the eyes of a revenue cycle professional, not an engineer,” Raymond noted.
+To fully understand the revenue cycle management and how automation can fit in, it’s important we step back a few decades.
+The Paper Origins of Revenue Cycle Management
+Revenue cycle operations spent most of the 80s and 90s as manual paper transactions.
+“Back in 1995 at my friend’s dad’s medical billing company, I was sorting correspondence and returned claims, reading the letters the insurance companies had attached and entering them on a spreadsheet to be worked. At the beginning of each day or week, the account managers would go wait in the printer room for their huge stack of greenbar with their aging on it.”
+Almost all of the follow-up work was done over the phone, the work required armies of collectors, and it was, for many, an “age of mass rebills,” Raymond said. “There were so many things done that weren’t the best use of time.”
+The arrival of electronic health records (EHRs) came as “a bit of a shock,” Raymond added. But it helped usher in some integration and what was considered  “automation” at the time, using “Bolt-On” workflow tools and more integrated EHRs with more robust electronic claims filing.
+“Big players like Epic and Cerner began offering everything from scheduling, to RTE, reporting, and accounting,” Raymond said. “There was better functionality through workflow tools and queues. Now our big decision was which tool to choose!”
+As the technology shifted and matured, so did staffing within revenue cycle departments.
+“I don’t know about you, but from where I sat each new type of technology was met with two feelings: one that was excited about how much better we could all be and one that was scared about how many people it would replace,” Raymond explained. “What I think is interesting is that here we are 20 years later and we haven’t decreased staff that much. Revenue cycle leaders are still trying to figure out how to reduce cost to collect and staffing is our most expensive resource.”
+Automation’s Potential Role in Revenue Cycle Management
+Raymond was initially resistant when introduced to specific types of automation years ago.
+“I didn’t understand why I needed to spend more money or purchase another tool,” she said. “If this was the next best thing and in many cases, quite necessary, then why couldn’t my EHR vendor just do it?”
+That resistance gave way as she began understanding each type of automation tool since each has their specific use. That understanding is necessary to select the right product from the right vendor for the job.
+Interestingly, AI is not among the products being implemented in RCM today. “Never trust anyone if they say they are selling AI,” Raymond warned. There are, however, different pieces and subsets of AI available.
+RPA is not AI, it is simply old technology from the early 2000s that does not learn or adapt.
+“It is essentially Excel macros that work best in structured, stationary environments,” Raymond said. “There’s value in applying RPA to basic processes but its limitations can quickly surface when tackling dynamic areas like the revenue cycle because it often breaks, falls into an exception queue, and has to be re-implemented.”
+The result? Hidden costs beyond the purchase of the bot.
+Those hidden costs are so high because humans are responding instead of instead of machine learning (ML), a subfield of AI which actually learns from the inputs. While ML shares many similarities with AI, it differs because its systems can modify itself when exposed to more data.
+In other words, it can teach itself and decide to take better paths while RPA can never do better than it was programmed to do. Meanwhile, ML improves as it is exposed to more and more data.
+The Evolution of Automation Tools
+RCM has gone from manual billing, to processes augmented by staff, to RPA, and subsequently to ML. But where is it now? In AKASA’s view, it’s Unified Automation®, which has an answer to complexities and outliers that ML encounters.
+Unified Automation begins with AI observing existing workflows, capturing data sets before learning these workflows. ML autonomously constructs complex flows or corrects broken flows, eliminating unnecessary work along the way. Finally, the system starts automating tasks and taking on new tasks as it learns over time.
+Unified Automation performs just as staff do. If complexities arise, such as changes to payer protocols, the system immediately flags a TeleOps team of experts who triage and resolve the issue while the system learns the new process.
+While automation can be a boon to your team, it’s not as simple as plugging it in. You need to take the appropriate steps to ensure your automation rollout is smooth, and more importantly, useful.
+Getting Started with Automation
+It will be easier to select a solution that best solves problem areas with an awareness of the different automation solutions. Knowing where to begin and what areas to target can still be difficult. “I recommend a land and expand model of implementation,” Raymond explained, “where you have the big picture problem solved, but can achieve it through a phased approach, starting with the most critical piece.”
+So start with the highest return opportunities and expand outward. Raymond broke it down further into the top four areas that should be prioritized for automation.
+Eligibility driven off of insurance cards, using ML to automate card input
+Prior authorization, using ML to learn requirements, implement checks, and obtain authorizations
+Follow up to no response claims
+Denials management: rebills, appeals, and write offs
+From there, consider longer-term goals and specific, near-term goals to get there. “We all have a goal of reducing cost to collect,” Raymond said. “Talk to a vendor about them.” Specific goals may include:
+Maintaining consistency amidst decrease in volumes, payer shifts
+Increasing accuracy and productivity in account work
+Reducing time to collect and denial write offs
+Increasing payment rates across payers
+Selecting an Automation Partner
+When shopping for vendors, Raymond recommended seeking a cost model that is transparent, that delivers shared savings, and is accompanied by a product that is comprehensive in the work it does and consistent in it’s daily, weekly, monthly, and quarterly performance.
+RPA bots have hidden costs not only due to repairs, but because of productivity lost when they’re down, Raymond explained. “In this regard, putting into place RPA bots is like setting yourself up for future COVID like production crises where you suddenly do not have the coverage that you need and are scrambling for support.”
+COVID, of course, will have to be a consideration for the foreseeable future, making remote implementations a necessary task. “In the past, a lot of us would consider an effective vendor implementation to be on site so that teams of consultants can shadow processes and so forth,” Raymond said. “That has quickly changed of course, and we’ve adapted. Our most recent implementation (for claim status) was 100% remote and accomplished in about three months.”
+Any development process should include steps to validate the work and Raymond recommended the following phases:
+Observe and analyze data to determine the task
+Learn the task during automation development
+Perform and QC the task
+Measure impact on the task
+At the end, client and vendor determine a date for go-live.
+What Can Automation Do For RCM?
+“At the end of the day, automation should not only reduce your costs, it should improve the accuracy of the work completed and improve performance against your key performance indicators,” Raymond explained.
+Automation can ensure that you are multiple days out on verifications, authorizations, and medical necessity and, ultimately, prevent denials for technical reasons. It can accelerate the time to payment. And automation can enable your patient financial experience efforts by engaging your patient’s insurance card and fast-tracking the eligibility and out-of-pocket estimate process.
+Raymond cited other benefits in three areas. With people management, it’s possible to track productivity and match the right staff to the right job; in account management, short time per task, quicker identification of payer trends and issues, and effective and efficient follow-up are tangible, trackable metrics.
+The results are between people and account management columns, where there’s an overall decrease in cost to collect, an increase in first pass claims payment, and increased job satisfaction and engagement.
+Unified Automation is also able to quickly scale up or down. “There’s no way to quickly do this with outsourcing,” Raymond said. “You’d have to hire temps or other vendors and you cannot rapidly onboard them and into your system. Unified Automation is the only way to plug in and scale the additional work.”
+Key Takeaways
+AI and ML are not taking jobs. “We recognize that a robot isn’t going to handle everything,” Raymond said. “I think it’s important to stress that automation, when it works well, allows staff to work at the top of their license and skill set instead of tying them up with busywork.”
+Automation is here to stay. So take time to plan which automation works best for your needs, what type of implementation you can support, and engage with vendors to understand– with a critical eye– what they have to offer.
+Ask vendors about their staffing and expertise. AI experts are in high demand. Do they have them on staff and if so, what are their credentials? “Our entire company receives regular training on both revenue cycle and automation engineering topics to ensure we are on the same page,” Raymond noted. “In addition to PhDs in AI, our engineers have designed revenue cycle platforms.”
+Not all automation is created equal. “We published results from our commissioned HFMA survey that shows 90% of healthcare finance leaders believe tools should be purpose built for revenue cycle operations in healthcare and as a revenue cycle leader myself, I couldn’t agree more,” Raymond said. Ask vendors if their tool or solution is actually built for healthcare revenue cycle or is it an add-on to other purposes?” And while RPA has its place, it’s probably not in the revenue cycle.
+Automation is the answer. There are myriad benefits to staff productivity, cost restructuring, and business continuity, particularly with a resource that can perform continuously, regardless of external variables.
+Request a demo today and see how AKASA can help you get to payment faster, while also giving your team much-needed breathing room.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

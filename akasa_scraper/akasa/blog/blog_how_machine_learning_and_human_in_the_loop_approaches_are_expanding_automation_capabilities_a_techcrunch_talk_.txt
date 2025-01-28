@@ -1,0 +1,154 @@
+URL: https://akasa.com/blog/how-machine-learning-and-human-in-the-loop-approaches-are-expanding-automation-capabilities-a-techcrunch-talk/
+
+How Machine Learning is Expanding Automation Capabilities | AKASA
+Blog
+How Machine Learning and Human-in-the-Loop Approaches Are Expanding Automation Capabilities, a TechCrunch Talk
+Varun Ganapathi, Ph.D.August 08, 2022
+The Gist
+With automation becoming more and more mainstream, it’s essential humans remain in the loop to ensure performance and accuracy. Varun Ganapathi, CTO and co-founder at AKASA, tackles this issue and the future of automation in his TechCrunch talk, “How Machine Learning and Human-in-the-Loop Approaches are Expanding the Capabilities of Automation,” available below.
+Blog Contents
+The Dream of Automation
+When Automation Doesn’t Match Our World
+How Machine Learning Used to Work
+Learning From AI Failures
+What Has Machine Learning Done Lately?
+The Outlier vs. the Immune System
+The Confidence Differential
+Applying Automation to Healthcare With AKASA
+Summary: Moving Forward
+AKASA’s chief technology officer and co-founder, Varun Ganapathi, recently hosted a TechCrunch Sessions talk at the TC Sessions: SaaS 2021 conference. The topic was “How Machine Learning and Human-in-the-Loop Approaches are Expanding the Capabilities of Automation.”
+Varun’s talk delivered important takeaways about why automation efforts fall short in this complex and constantly evolving environment, how exceptions and outliers can actually make automation stronger, and how emerging machine-learning-based technology platforms, combined with human-in-the-loop approaches, are already expanding what is possible to automate across a number of industries.
+Key Takeaways
+The old way of approaching automation doesn’t work for dynamic environments.
+Bots can be brittle and inflexible, causing solutions to break and stop working completely.
+Static environments built around brittle technology don’t work within the dynamic world we live in.
+Employing tons of bots can be like engaging in a game of whack-a-mole, rather than strategically solving for accurate automation efforts.
+Machine learning is enabling life-changing (and sometimes life-saving) advances, such as in cancer and self-driving cars.
+AKASA can solve for outliers with human-in-the-loop Unified Automation®.
+The way AKASA uses human-in-the-loop emulates how people perform work, training the algorithms in how to complete those tasks completely automatically.
+Want to learn more? Read on.
+The Dream of Automation
+The dream of automation is that you can tell a robot or a computer: “do what I mean and deal properly with anything that comes up while you’re doing it.” Then the technology will do what you intended, the way you intended.
+We’ve learned automation doesn’t always work this way. Let’s use the beloved mouse Mickey and his broom. Mickey tells the broom to “clean the house.” Unfortunately, things don’t go as planned.
+This is the same problem with many automation efforts. The reality is that things can go very wrong when unexpected things are encountered. This talk centered on how we can actually prevent this from happening — how we make automation work as well as we wish it could.
+Read more about this topic in Ganapathi’s Forbes article: Optimizing for Outliers Is Critical to Achieving Great Automation.
+When Automation Doesn’t Match Our World
+Automation takes many forms. A commonly used technology is called robotic process automation (RPA).
+RPA is a many-decades-old technology that allows you to control a computer interface by scraping the screen and sending mouse/keyboard commands to it — allowing you to control any application running on a computer. RPA is often proposed as a method of automating many tasks that people need to get done.
+The basic approach to RPA is building a robot (bot) for each problem or path that you want to solve. A human (consultant or engineer) builds a robot to solve a specific problem. This robotic solution takes the place of a sequence of steps. It looks at a screen, takes action, and repeats.
+The problem that often occurs is that a change in the world, such as a modification to a piece of software or UI, can cause bots to break. As we know, technology is ever-evolving, creating dynamic environments. This means that RPA robots often fail.
+The solution that is often proposed is, simply, just don’t change anything. Let the environment remain static. But that’s not the world we live in. We can’t just wait indefinitely to update software. We need to keep changing things.
+Another problem with these bots is that you need to create one for every situation you want to solve. Doing this, you end up with many robots, all completing very small actions that don’t require much skill. It’s like a game of bot whack-a-mole.
+Every day you face the likelihood that one of the bots will break because a piece of software is going to change or something unusual will happen — a dialogue box will pop up or a new sort of input will occur. The result is costly maintenance to keep these bots running. That’s why Forrester says for every dollar spent on RPA, an additional $3.41 is spent on consulting resources.
+In other words, the actual software for RPA is not the majority of the cost. The more considerable cost investment is all of the work that you have to do to keep RPA running all the time. Many organizations don’t account for that ongoing cost.
+How Machine Learning Used to Work
+What we all want is a solution that automates at scale, without breaking all the time. What would be even better is an expanded automation solution that handles much more complex tasks — the kind that are often too difficult to accomplish. Before we can get to that, we need to address how machine learning used to work.
+In the olden days (back in the nineties), artificial intelligence (AI) was built using expert systems. An expert system is essentially a sequence of rules that are programmed by a person or expert that tells a computer what to do in every situation.
+Above is a screenshot of an example expert system, where the goal is to make $20. As you can see, you have to manually write in all the different rules for all the different situations you want to handle.
+Essentially, you have what’s called a knowledge acquisition problem. A rule has to be written to handle each specific situation. And if anything changes, it all breaks.
+If you’ve utilized such expert systems, this probably sounds familiar. Traditional RPA is a highly simplified expert system, and it carries virtually the same issues. Such expert systems have historically had a plethora of difficulties solving lots of problems that we take for granted today because machine learning has already solved them.
+Machine learning (ML) has solved many of the problems old AI couldn’t, and we’ve already started taking these solutions for granted.
+For instance, computer vision, speech recognition, natural language understanding, OCR (optical character recognition), and so on. ML even solves those CAPTCHAs we are constantly asked to complete.
+None of these applications can be solved with an expert system. It’s challenging and, perhaps, even impossible.
+Learning From AI Failures
+The question is: how do we learn from our past failures so that we don’t repeat those mistakes? How can we build automation that solves these mistakes and delivers solutions that can function in dynamic environments?
+The first solution is to split your tasks into easy and hard parts. You handle the easy parts using expert systems — or RPA — and you handle the hard parts with humans. It’s like a baton hand-off from basic automation efforts to human-in-the-loop automation solutions.
+This is what cobots essentially are: collaborative robots. The above example is one in the physical world. It appears to be an Amazon warehouse with Kiva robots, basically small robots that pick up shelves and move them to people. And what they’re doing here is splitting the work into two pieces. Part of the work is going and finding the item on the shelf, and the other part is grabbing the item and splitting it into the box.
+You can see that the work is being separated into pieces that humans can do really well, and robots can do really well, handing them off between the two.
+This is one way to solve the problem: splitting the work into two pieces. But what if we could automate even the part that we considered too hard to do with an expert system with RPA? What if we could actually replace that part as well?
+Machine learning enables us to automate the hard stuff.
+What Has Machine Learning Done Lately?
+Let’s now look at some examples of machine learning problems that have been solved recently, are close to solved, or where significant progress has been made.
+First, let’s review. The goal of any machine learning task is to predict an output given an input. In the case of automation, the output is an action you want to take, and the input is the screen or the world you’re looking at right now.
+Now, let’s look at three real-world examples across different industries.
+1. Skin cancer detection
+Here, the goal is to take an image of a mole and determine whether it’s cancerous. (Of course, everyone who uses such apps should also consult with their physician for confirmation and next steps.)
+Machine learning is now state of the art, and this is something that no one could ever program by hand.
+2. The game of Go
+An algorithm essentially will take moves on a Go game. Before machine learning, no one was ever able to build an algorithm by hand that was as good as the best humans. Now, machine learning has enabled us to do just that: to beat the best Go players in the world.
+3. Self-driving cars
+Here, the same thing is happening. The need is to figure out how to automate the action of driving — and do it safely. As you can imagine, it’s a challenging problem to solve. People have tried to hardcode this and it just doesn’t work. There are too many exceptional things that can occur along the way. Here too, we need to use machine learning to help solve these problems.
+Now, what can happen in all of these cases, and with automation in general, is the problem of an outlier — something unusual happens that breaks what we expect to occur, and it causes everything to stop working.
+The Outlier vs. the Immune System
+So what we need to do is what the human body is very good at: leveraging outliers to make the automation immune system stronger, rather than failing when an outlier occurs.
+A human’s immune system generally gets better over time with every single outlier that it encounters. The system learns from every pathogen it has ever defeated, becoming stronger through exposure.
+The above is a simple schematic of how the immune system works. It detects an intruder and learns to build antibodies against that pathogen. Over time, when an unusual pathogen occurs, the immune system learns to protect itself against that new pathogen so that the sickness or problem doesn’t happen again.
+1. Detect intruder 2. Build pathogens/tolerance 3. Protect the system
+Building the automation immune system
+Now, let’s apply this to automation itself.
+A machine learning immune system will treat domain drift in edge cases as pathogens. But how do we detect an intruder or a pathogen? For AKASA, the solution is simple with our Unified Automation® platform.
+We sample 2–5% of examples (you can choose the exact percentage you want to sample). The point is to sample a portion of cases and use humans to check what the algorithm is doing and how it’s performing.
+Another way you can sample cases is by thresholding the confidence on every example to make sure that when the algorithm isn’t sure about what it should do (low confidence), it’s escalated to a human-in-the-loop instead. The humans label those examples and identify cases not handled by the current model. When this is done, and the AI got it right, that’s a well-functioning task.
+Every task where a human catches a problem is a case where the machine isn’t handling it properly. In this case, data is added to our data set, which retrains the machine learning models to handle this new situation.
+Over time, the machine learning model builds resilience to these new edge cases. This results in a system that is robust and flexible to new outliers or exceptions, and the system gets stronger with time. This means the automation gets better and better, and human intervention will decline over time.
+The Confidence Differential
+A visual example of a high confidence task (one that is handled by machine learning) versus a low confidence task (AI escalates to human-in-the-loop) is insurance cards. We all know that depending on how insurance cards are provided (high-resolution scan, digitally, low-resolution copy), they can be easier or more challenging to read.
+Above, the left image is easy to read, while the right image poses a number of challenges. For the image on the left, our machine learning models can quickly, easily, and correctly extract all of the information. On the right, the insurance card has been flipped around, and color modifications have been made to make it appear like a poorly copied and potentially older version of the card. The example on the right qualifies as very low confidence; it looks very unusual compared to the samples in the training set.
+Rather than trusting what the algorithm outputs, in this case, we’d threshold the confidence and send it to a human being. The human will then label the data, and the algorithm can proceed using that human output.
+We have a human-in-the-loop correcting and handling all of the edge cases for the algorithm. This is an intermediate state between cobots (where every hard task is going to a person) and full automation (where automation is attempting, perhaps incorrectly, to do everything by itself). We’re delivering the best of both worlds. We can handle really hard cases, but we’re still automating tasks at a very high rate.
+AKASA handles the really hard cases while automating tasks at a very high rate.
+There are a lot of real-world examples where this technology is being used. Here are a few of them.
+Machine learning and the self-driving car
+With self-driving cars, human drivers operate cars that are instrumented with tons of sensors, LiDAR (light detection and ranging technology), microphones, normal cameras, and so on. The technologies will record all of the surroundings and actions performed by the drivers. This creates an extensive data set of everything that the car sees in the real world, from all directions.
+People then label that data and identify cars, pedestrians, traffic signs, lane markers — all of the things that a person looking outside sees instantaneously. That labeling drives machine learning algorithms. The machine learning networks and neural networks are trained to identify all of those items on the screen. After learning to identify those obstacles, the car can learn to drive by itself. It can find all of these items and navigate a new path.
+But no matter how good these models are, there will always be exceptions. Something unusual can occur that we’ve never seen before. And we need to be able to solve that problem. We need to make sure the car doesn’t just fail or crash when that happens.
+California instituted a rule that allows for self-driving testing, but only if the cars can be operated remotely. When something unusual occurs, assuming the car detects it, a human being can be pulled in virtually over the network to drive the car remotely.
+One problem is that a self-driving car can be difficult to access remotely; for example, there could be a network failure. But with normal automation, like the type we’re doing on a computer, we don’t have to worry about those problems. We can pause the world and wait for a person to come help the algorithm and make sure it operates properly. And, in practice, this is what successful automation does.
+Machine learning and text extraction
+Another example of human-in-the-loop machine learning comes from everyday tasks that involve getting work done. Amazon AWS Textract is an ML service that uses AI to automatically detect and extract text, handwriting, tables, forms, and data from scanned documents.
+The service uses deep learning to automatically convert all sorts of documents into structured forms that we can process with algorithms. They use human-in-the-loop by thresholding examples based on confidence or random selection and sending them to people.
+When these examples are selected to be looked at by people, you get better results. This is because those examples are now going to be labeled correctly, and this data can then be used to retrain the algorithm so that it performs better.
+Machine learning and bookkeeping
+Another example is bookkeeping services for startups and small businesses leveraging AI and machine learning. In this example, Pilot uses AI and humans to offer bookkeeping as a service.
+This allows startups to focus on their normal work, instead of concentrating on bookkeeping. It uses AI to flag unusual situations or automate common situations and send unusual cases to humans for guidance. The humans then label the data and the AI gets better.
+Applying Automation to Healthcare With AKASA
+At AKASA, we do the same thing. Our mission is to enable human health by building a brighter future for healthcare with AI. We call our human-in-the-loop methodology Unified Automation. We believe whenever money or life is on the line, you have to couple AI with the human touch in order to make sure that you’re doing everything correctly.
+AKASA automates everything related to running and governing work in healthcare, such as filing claims, appealing claims, and so on. We use the approach described above in order to solve difficult automation problems.
+The way we use human-in-the-loop is with an observe, learn, and perform model.
+We first observe how people perform the work. Then we train our automation to emulate people and perform that work the same way. We extract the hardest parts of the work that require human decision-making and make sure those are sent to people. In doing so, we’re collecting and labeling data so that the algorithm learns how to complete those tasks autonomously. Going forward, when the technology encounters a similar edge case or outlier, it knows how to perform.
+With our Unified Automation, what was originally done by people is now done almost completely by computer. However, we make sure that outliers are constantly handled and that we have quality control. Our solution consistently and randomly samples cases to make sure, on a daily or even hourly basis, that everything is performing correctly.
+We believe in presenting and publishing our data
+At AKASA, we’ve built a lot of machine learning algorithms to enable this type of high-performing system. And we’ve published our work at conferences like the International Conference on Machine Learning, the NLP (Natural Language Processing) Summit, and the Machine Learning for Healthcare Conference.
+This has enabled us to bring automation to an area that’s been traditionally very difficult to automate. We believe that data regarding all AI solutions should be made readily available to those interested in such solutions, and we’ll continue to invest in making our data public.
+Meet Byung-Hak Kim Ph.D., AI technology lead at AKASA, and learn about his research.
+Summary: Moving Forward
+When looking at automation solutions, it’s imperative that organizations understand the complexity of their tasks and the solutions that can meet them. As with all technology, the standards of the past hold value and have helped all of us get to where we are today.
+With the human-in-the-loop model, we have an opportunity to create a new standard that is trustworthy and flexible, rather than brittle, and that can meet the needs of today’s complex use cases.
+WRITTEN BY
+Varun Ganapathi, Ph.D.
+Varun Ganapathi, Ph.D., is the chief technology officer and co-founder of AKASA. His passion is developing novel algorithms to power great products, with a focus on healthcare and improving the patient experience. Ganapathi has a bachelor’s in physics and an M.S. and Ph.D. in computer science from Stanford University. During his time at Stanford, he focused on machine learning and computer vision. His doctoral thesis was the basis of his first company, Numovis, which was acquired by Google. After his time at Google as a research scientist, Ganapathi went on to create Terminal.com, which was acquired by Udacity.
+You may also like
+Blog
+Feb 20, 2024 How the AKASA Engineering Team Created an Automation Solution for Database Migrations
+AKASA builds products and tools to improve the various components of revenue cycle management (medical billing) for hospital systems....
+READ MORE
+Blog
+May 1, 2023 ChatGPT and Healthcare: Exciting Potential That Needs To Be Channeled
+Recently I heard that as a fun exercise, the security officer at one of our healthcare clients tried asking...
+READ MORE
+Blog
+Jun 12, 2023 Overcoming the Top 3 Challenges Holding Back Healthcare Innovation
+Healthcare is notoriously slow at adapting and incorporating new technologies into day-to-day operations. Healthcare lags behind as one of...
+READ MORE
+Blog
+Jan 16, 2025 7 IT Mistakes You’re Making With Your RCM Automation Partner
+The right revenue cycle management (RCM) automation is capable of helping healthcare organizations overcome a litany of issues —...
+READ MORE
+Blog
+Jan 16, 2025 Questions Healthcare IT Teams Should Ask About Revenue Cycle Automation
+RCM leaders at your organization are discussing automation. Period. The healthcare revenue cycle is fighting non-stop battles. Staffing challenges...
+READ MORE
+Blog
+Jan 16, 2025 9 Healthcare Technology Trends To Watch
+Keeping track of the rapid changes in healthcare technology is no small task. The industry has seen numerous healthcare...
+READ MORE
+Blog
+Nov 30, 2022 The Gradient Podcast: An Interview on AI and Healthcare With AKASA CTO and Co-Founder Varun Ganapathi
+On a recent episode of the Gradient Podcast, host Daniel Bashir sat down with AKASA CTO and co-founder, Varun...
+READ MORE
+Blog
+Sep 1, 2022 Machine Learning in Medicine: Using AI to Predict Optimal Treatments
+At AKASA, we’re always thinking about how we can use machine learning (ML) and artificial intelligence (AI) to better...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

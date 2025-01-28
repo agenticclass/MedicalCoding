@@ -1,0 +1,73 @@
+URL: https://akasa.com/blog/how-to-address-the-challenges-of-eligibility-denials/
+
+How to Address the Challenges of Eligibility Denials | AKASA
+Blog
+How to Address the Challenges of Eligibility DenialsEligibility is a crucial, but time-consuming step early on in the healthcare revenue cycle that impacts the patient experience. Fortunately, there could be a solution by way of generative AI.
+Christian CarlsonDecember 05, 2024
+The Gist
+Eligibility verification is a vital part of the revenue cycle process, as it ensures a patient has coverage for the procedure or visit they’re at your organization for. But, as vital as eligibility verification is, it’s also an area rife with errors. Fortunately, AI-powered solutions have the potential to cut down on these errors and even take care of the task entirely, freeing revenue specialists up to focus on delivering the best patient experience possible.
+Blog Contents
+Understanding Eligibility Verification
+Confounding Factors With Eligibility Verification
+An Automated Future for Eligibility-Related Denials
+Streamlining Eligibility Denials With AKASA
+Real-time eligibility (RTE), patient eligibility verification that allows medical staff to electronically verify patients’ insurance coverage for medical treatment, and other electronic verification methods are widely available. These technologies return of-the-moment answers about medical coverage from Medicare, Medicaid, and the span of commercial health insurance plans. Their use is meant to decrease eligibility and reimbursement denials.
+But, eligibility verification also presents a number of problems when not used properly, impacting the patient, provider, and payer experience. Before diving into these issues, let’s take a closer look at eligibility verification and its purpose.
+Understanding Eligibility Verification
+Eligibility verification is useful at multiple points in the revenue cycle, starting when a patient schedules an appointment, to pre-registration and day-of appointment registration (to proactively catch insurance carrier/plan changes) through to billing post-appointment and collections management. The inflection points are determined by varying business practices and systems capabilities.
+“Has your insurance changed?” Almost every patient is asked this when checking in for medical care. But, changed from what? From when? Many can’t remember their insurance coverage details from their last appointment so they simply say “no,” when this may not be true. Even when the answer is yes, eligibility may not be checked prior to service, though it should. Front-end health staff often have to juggle the patient in front of them as well as those on the phone.
+Working with frequent disruptions can cause inconsistency in requesting insurance cards at each visit. And, when the information is collected, the data is often entered manually which can lead to further errors. In fact, a 2015 ReveCycle Intelligence article states that only 24% of practices check eligibility at every visit.
+Across the United States, approximately 17% of all healthcare claims are denied, and it is believed that 22% are denied for reasons associated with eligibility verification.
+Between claims being rejected and not being submitted, there’s clearly something wrong here.
+Confounding Factors With Eligibility Verification
+There are two primary elements making eligibility verification the mess that it is: information intake and data entry.
+Information intake and entering that data is still largely manual. Live discussions between staff and patients are still part of the process. Because no one is perfect, these actions are prone to typographical or data omission errors.
+Entering correct information at the start of each patient interaction—prior to providing care—is one of the most critical steps in the revenue cycle process. Yet, this step relies on front-end staff who receive the lowest compensation and who may be the least incentivized to be diligent with monotonous work. Add in the nature of interfacing with the public, often with patients who are in pain and may be less than polite, and it can be easy for front-end staff to feel underappreciated quickly.
+Fortunately, there’s hope on the horizon in the form of AI.
+An Automated Future for Eligibility-Related Denials
+Provider organizations need to remove the dependency on human-entered information that determines coverage eligibility. Freeing up staff time allows them to focus on more challenging and rewarding work, and leveraging generative AI-powered tools to streamline the process can help resolve denials more quickly, and ultimately reduce denials.
+Patients are already increasingly utilizing telehealth services and using online portals and apps to schedule their care appointments and communicate needs to providers. Capturing insurance information via these tools should be the new normal. Accuracy rates will go up, denials rates will decline, and the entire healthcare system will become healthier.
+Processes will improve as well. For instance, patients can be contacted directly through the system, as needed, to automatically request updated insurance coverage information. And when a denial related to eligibility is received, a “safety net” AI-driven system can identify the denial type, search for updated insurance coverage, verify benefits, update the EHR, and rebill the payer. All while the revenue cycle staff is working on higher-value tasks.
+Of course, there will always be exceptions, as healthcare and insurance coverage is a complex, tangled web that requires human expertise to navigate the most difficult parts. For this, we need technology and people to work together.
+Streamlining Eligibility Denials with AKASA
+It’s clear eligibility denials are still pervasive. Eligibility remains a critical step to be addressed for increased revenue cycle efficiency and optimized outcomes — and is a core part of any denial management strategy.
+With AKASA, providers can speed up the revenue cycle and reduce denials by securing timely prior authorization, updating incorrect insurance information, and providing missing documentation to payers — ultimately accelerating claims resolution, lowering A/R days and cost to collect, and increasing reimbursement.
+Request a free demo and see for yourself how the AKASA platform and advanced generative AI can help you streamline your greatest revenue cycle pain points.
+WRITTEN BY
+Christian Carlson
+Christian Carlson is a managing director at AKASA. He has more than 25 years of senior leadership experience in the healthcare, IT, and consulting arena within the revenue cycle, operations management, clinical, and digital health verticals. Carlson is responsible for helping institutions apply evidence-based improvement strategies, with a concentration in improving financial performance, impacting revenue and cash flow, and supporting overall margin enhancement. Previously, he was a partner at the Advisory Board and vice president at McKesson.
+You may also like
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Dec 5, 2024 How to Address the Challenges of Eligibility Denials
+Real-time eligibility (RTE), patient eligibility verification that allows medical staff to electronically verify patients’ insurance coverage for medical treatment,...
+READ MORE
+Blog
+Aug 16, 2023 Claims Automation AI: The Ticket to Cleaner Claims and a More Efficient Revenue Cycle
+Claims management has long been a concern for healthcare providers and revenue cycle teams. Denials, prior authorization requirements, and...
+READ MORE
+Blog
+Jan 13, 2025 What Is Denial Management in Healthcare?
+Increased complexity, delayed reimbursement timelines, and more work for staff are all common outcomes of denied claims in healthcare...
+READ MORE
+Blog
+Sep 23, 2022 A Blueprint for Modernizing Your Denial Management Strategy
+Denial management in the healthcare revenue cycle is an inherently complex task — one that, at first glance, might...
+READ MORE
+Blog
+Dec 5, 2024 How AI-Powered RCM Solutions Can Fix Hospital Bad Debt
+With high health insurance premiums, deductibles, and cost of care, patients are shouldering more of the financial burden of...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

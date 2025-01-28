@@ -1,0 +1,261 @@
+URL: https://akasa.com/blog/the-gradient-podcast-an-interview-on-ai-and-healthcare-with-akasa-cto-and-co-founder-varun-ganapathi/
+
+The Gradient Podcast: An Interview on AI and Healthcare With AKASA CTO | AKASA
+Blog
+The Gradient Podcast: An Interview on AI and Healthcare With AKASA CTO and Co-Founder Varun GanapathiWhat role will AI and machine learning continue to play in solving some of the biggest and most complex problems in healthcare? AKASA CTO and co-founder weighs in.
+AKASA November 30, 2022
+The Gist
+Varun Ganapathi, chief technology officer (CTO) and co-founder of AKASA, was recently interviewed on the Gradient Podcast to discuss his journey from AI and machine learning (ML) research to founding several companies, what he’s working on at AKASA today, and what the future holds for AI in healthcare.
+Blog Contents
+About the Host, Daniel Bashir
+About Varun Ganapathi
+Introduction
+Entering the Field of AI — With Andrew Ng
+Merging Research and Entrepreneurship
+Pursuing a Ph.D. Focused on ML and Computer Vision
+Taking Cutting-Edge AI Research to Start Several Companies
+Starting AKASA to Make a Difference in Healthcare
+Publishing New Research at AKASA
+Including Experts-In-The-Loop — The Importance of Domain Knowledge
+Automating Healthcare Operations with AKASA
+Enabling Physicians To Be More Productive and Do Their Best Work
+Accelerating Healthcare Knowledge Dissemination — From Research to Practice
+Shaping the Future of Healthcare With AI + Humans-in-the-Loop
+Sharing Advice for Aspiring AI Researchers and Entrepreneurs
+On a recent episode of the Gradient Podcast, host Daniel Bashir sat down with AKASA CTO and co-founder, Varun Ganapathi, to talk about his path to AI, his Ph.D. and research in the field, founding Numovis and Terminal.com before starting AKASA, and his perspective on the role of AI — and AKASA — in healthcare today and in the future.
+In this episode, Bashir and Ganapathi talk about:
+(1:50) Ganapathi’s introduction to AI
+(3:25) Working with Andrew Ng at Stanford
+(7:37) Road to a Ph.D.
+(13:20) Founding Numovis and getting acquired by Google
+(15:00) Founding Terminal.com and vacillating between research and entrepreneurship
+(17:10) Roots of interest in AI and healthcare
+(22:30) AI and ML research at AKASA
+(28:20) AKASA’s Unified Automation® platform
+(34:15) Near- and long-term vision for AKASA
+(39:50) “Deploying a new version of healthcare”
+(42:25) The role of AI in healthcare and the need for humans in the loop
+(47:02) Advice for aspiring AI researchers and practitioners
+About the Host, Daniel Bashir
+Daniel Bashir is a machine learning engineer at a stealth startup, Venture Fellow at the VC firm Clear Ventures, editor and podcast host at The Gradient, and editor at Skynet Today — the latter two both being AI-focused publications.
+His research interests have involved the intersection of machine learning and information theory. In 2021, he wrote the book “Towards Machine Literacy” to give an accessible introduction to a range of issues in AI ethics and governance.
+Previously, Daniel held various roles as a researcher, research assistant, software engineer, and teacher/instructor in the fields of AI and ML. He earned a B.S. in mathematics and computer science from Harvey Mudd College.
+About Varun Ganapathi
+Varun Ganapathi, Ph.D., is the CTO and co-founder of AKASA. His passion is developing novel algorithms to power great products, with a focus on healthcare and improving the patient experience. Varun has a bachelor’s in physics and an M.S. and Ph.D. in computer science from Stanford University. During his time at Stanford, he focused on machine learning and computer vision. His doctoral thesis was the basis of his first company, Numovis, which was acquired by Google. After his time at Google as a research scientist, Varun went on to create Terminal.com, which was acquired by Udacity.
+Introduction
+Bashir:
+Hi friends, and welcome to the latest episode of the Gradient Podcast. We interview various people who research, build, use, or think about AI, including academics, engineers, artists, entrepreneurs, and more.
+I am your host, Daniel Bashir, and in this episode, I’m very excited to be interviewing Varun Ganapathi. Varun is co-founder and CTO at AKASA, a company developing AI systems for healthcare operations. Varun’s previous entrepreneurial experience includes co-founding Numovis, a company focused on motion tracking and computer vision for user interaction that was acquired by Google, and Terminal.com, a browser-based IDE acquired by Udacity. Varun received his Ph.D. from Stanford in 2014.
+I personally haven’t spent a lot of time delving into the AI healthcare intersection, so it was really fascinating to speak with somebody who’s building a company in that domain. Varun had a lot of really interesting insights, and I thoroughly enjoyed hearing about his journey to where he is today. I feel like I learned quite a bit from his perspective, and hope you do as well.
+Entering the Field of AI — With Andrew Ng
+Ganapathi:
+The person who really helped me get started in machine learning would be Andrew Ng. At Stanford, I was majoring in physics, and I saw CURIS, a summer undergraduate research program at Stanford where undergrads could apply to work on research with the professor. I found this project about autonomous helicopters that I thought was really cool. It seemed that it would be a good combination of physics and machine learning, and I’d already been double majoring in computer science — or at least been taking a lot of CS classes — and AI was something I’d always been really fascinated by.
+So I started working with Andrew Ng, and that’s really where I started learning a ton of machine learning. We built a simulator for an autonomous helicopter based on machine learning, and I ultimately wrote a NIPS paper with Pieter Abbeel on that topic. We also did reinforcement learning to teach the helicopter how to fly upside down. That’s how my AI research got started.
+Bashir:
+I’ve seen your publication on the autonomous inverted helicopter flight. It must have been pretty incredible to work with Andrew, and I think I and many others have experienced his teachings through the internet and just how prolific he is with online courses. Could you spend a little bit of time just on what that experience was like working with him as a student?
+Ganapathi:
+I think it was in the summer of 2003 and started during the spring quarter. Andrew had a personal reading group with all of his students who were doing CURIS. This was just when he got to Stanford or maybe the second year or so. He basically went through the CS229 curriculum with us — one on five or so —  and each week, we had to read his notes and then present them to the whole group. It was a really awesome learning experience.
+It was almost directly getting tutored in machine learning by one of the foremost machine learning researchers in the world. It was awesome and I learned a ton. I still remember it very clearly — that room where we sat down and where I had to write up something every week to present what we had studied and learned and teach it to the rest of the group.
+Working closely with Andrew on the project, it was interesting how I built an initial algorithm based on a paper by Andrew Moore. It was a locally-weighted regression using KD trees and we were able to train the algorithm off of a real pilot flying a helicopter. And then I basically created a simulator off of that data to then fly the helicopter virtually. It’s almost like you observe the helicopter flying, then I created this open GL thing with an actual radio-controlled helicopter joystick, and you could actually fly it.
+It was like you were actually flying a simulation of the helicopter. We even had the real pilot fly it to confirm that it felt real — and it did. It was a super cool project.
+From there, I was thinking, how do we make this work even better? And I noticed this pattern in the helicopter’s behavior — a phenomenon that the helicopter felt like it had a non-physical behavior, meaning that if you were going forward and you turn, the helicopter would slide rather than turn in that direction like a car would.
+Without going into a lot of detail here, I basically came up with this physics model of how to model the helicopter using forces and torques. I presented it to Andrew, and he said, “That makes a lot of sense. This is a way that would improve how this helicopter would actually be simulated.” Then Peter and I built it out and actually did it.
+Prior to that point, I had never expected I could contribute something myself to research. I always thought education is just that other people have figured out stuff, and you are learning from it. That moment was a transition for me where I realized I could come up with something new and actually publish it and add to the body of work that people have. That’s when this turning point happened for me, and it was great to have Andrew Ng there to help me do that.
+~ Varun Ganapathi, Chief Technology Officer and Co-founder of AKASA
+Bashir:
+That must have been a pretty incredible shift in mindset. And, of course, you continued on to do a Ph.D., and I wonder if some of this mindset shift perhaps drove your interest in entrepreneurship later on. But before we get there, I’d love to spend a little bit of time on how this set of interests you developed morphed into what you ended up doing in your Ph.D. and your focus on that.
+Merging Research and Entrepreneurship
+Ganapathi:
+My road to the Ph.D. was winding. At first, I’ve always been interested in how we use technology to create an impact in the real world. There’s always been a divided interest in me between developing novel technology, but then actually bringing it to people’s hands and having them experience it.
+After I worked with Andrew Ng that summer, I also went to work at Google, where I did an internship and basically worked on a project about scanning the world’s books. They were paying all these people to label the pages, and — having just learned a bunch about machine learning — I said, “What if we could automatically label all of these pages, extract the copyright date, table of contents, titles, and all those sorts of things?”
+I applied a bunch of machine learning that we had just done, and it worked incredibly well. That was also really exciting to me because I was able to apply machine learning at scale, using MapReduce to train my models. It was an amazing summer.
+I think I’ve always been in between these two sides. On one side, there are some people who like doing research and math, and that is satisfying to them — meaning once they figured it out, they don’t feel any desire for it to be used. The fact that it’s been figured out is sufficient. On the other side, there are people who don’t really care about research, they just care about building things. I think I’m in between — I want to come up with something new and then I also want to build it.
+~ Varun Ganapathi, Chief Technology Officer and Co-founder of AKASA
+Pursuing a Ph.D. Focused on ML and Computer Vision
+Ganapathi:
+After that project at Google, I was thinking about all these algorithms that could be improved. I remember talking to someone there, and they said, “If you really want to improve in a deep way how these algorithms work, you should probably do a Ph.D.”
+I actually think that advice is not accurate anymore, but that’s what they told me at the time. As an undergrad, I thought, “Cool, I should go do a Ph.D. at Stanford.” and that’s what I did.
+I was very interested in autonomous helicopters, but again, I wanted to do something that I thought would have some near-term and broader commercial impact. I always wanted to start a company and come up with some technology that could be commercialized and useful but also bring forward the state-of-the-art.
+I took Daphne Koller’s class at Stanford and it was amazing. I really thought Bayesian Networks and graphical models were really interesting. They had a lot of aspects of what I thought AI should have. After I took that class, I wanted to do research with her on biology and related topics, computer vision and so on, and all the applications of graphical models. That’s how I ended up switching to that area.
+Some of the first things I did was working on pure machine learning research with Markov random fields and related things. But later, I was thinking about how can I turn this into a product. One of the things that I thought would be amazing is if a computer could understand exactly what a person was doing in real-time. What would that enable?
+You see movies like Minority Report or the original Ironman where he’s just able to communicate to the computer with gestures and it can watch and interact with him. Could a computer teach you martial arts or how to dance or do physical therapy?
+At that time, computer vision really did not work well. This was maybe 2007 or 2008. And that’s when I started using depth cameras. They cost a lot at $5,000 a piece, but I thought if we can make something work really well with a depth camera, the price could drop dramatically.
+To clarify, a depth camera is a camera that doesn’t measure color but distance. It tells you how far away for every pixel you are at distance to a given object. I started using those cameras that cost $5,000 and surprisingly, within a year and a half, the camera went from being $5,000 to $50, which was shocking. I did not expect it to happen that quickly. I thought it would take years, but it happened dramatically faster.
+So my research was on how you use depth cameras to recognize people’s poses and I published a bunch of papers on this.
+Taking Cutting-Edge AI Research to Start Several Companies
+Ganapathi:
+I then started a company based on it, and that’s again where I ended up back in commercial land — taking cool technology, building an algorithm, and then actually trying to monetize it. That company then ended up getting acquired by Google basically immediately and I ended up back at Google again.
+That was my path from research to commercial — I think I’ve always been doing both of those things.
+Bashir:
+The startup you just mentioned was Numovis, right? The one on motion tracking and computer vision for user interaction?
+Ganapathi:
+That’s right. I hadn’t even left Stanford as a Ph.D. student when it got acquired by Google. It wasn’t really a full company in some sense. We started it, were about to raise money, and then we presented it to Google as a partner. Then they were just like, “Would you like to be part of Google?” And my co-founders from Stanford, Christian Plagemann, Hendrick, and Sebastian Thrun — who I met at Stanford as well and who was my co-advisor — and I just thought the best thing might be to go to Google and commercialize it there.
+I also did some other things during my Ph.D. in this vein. My friend Jesse Levinson and I wrote this iPhone app called Pro HDR, which was the first HDR app for the iPhone. It also used computer vision to create an interesting computational photography application. So again, it was taking something that was cutting-edge research and making it usable by everyone. That’s the thing I’m most fascinated by.
+Bashir:
+That’s a really fascinating space to be working in. There are so many companies trying to do this sort of thing today, but I also find it interesting how you floated back and forth between research and entrepreneurship.
+Ganapathi:
+Definitely. I also left Google later on to start another company which was called Terminal.com. But yes, I was always alternating back and forth between research and commercialization.
+Starting AKASA to Make a Difference in Healthcare
+Ganapathi:
+And that leads me to today and starting AKASA. We also publish papers using deep learning to analyze healthcare data and then take these cutting-edge algorithms and make them useful to people. Our goal is to actually cause a meaningful difference in how healthcare is delivered in America.
+(Read about some of AKASA’s published research.)
+A big part of that is decreasing costs for health systems and optimizing how staff spends their time – decreasing the immense time and money spent on just doing paperwork. With that, we also aim to reduce the number of errors that occur that often result in patients getting these high bills that are complete surprises.
+But our hope also is that we can use that technology to ultimately improve the quality of healthcare. For example, what information can we pull out to actually improve clinical care? These are things I’m really excited about — using AI to make the world a better place. That, in summary, is what I’m trying to do.
+Bashir:
+Let’s move on to AKASA a little bit. Before we dive into a lot of details, I’d love to hear a bit about how you got interested in the AI + healthcare space in particular. I understand that you were already looking at a few things related to biology back with Daphne Koller. Did it start there at all, or was there something different?
+Ganapathi:
+I would say I’ve always been interested in it, but I only legitimately started working on it with AKASA. Prior to that point, I’d used biology data occasionally as a demonstration of the quality of an algorithm. But with AKASA, it was the first time I truly started working on machine learning and healthcare together.
+Bashir:
+What were some of the particular challenges you faced in terms of trying to work on this ML healthcare intersection for the first time?
+Ganapathi:
+It’s very challenging. First, there’s a lot of domain knowledge you need to know about how healthcare works. Second, getting access to the data itself is also very difficult. However, with AKASA, we’re providing value to our customers and helping them use their data to make their processes more efficient, so we’ve been able to get that data more easily.
+That being said, I think it’s worth tackling those challenges because that data is really going to improve the quality of healthcare dramatically in the future.
+An AI that could learn from everything that has happened can really help doctors — providing them with the information they need to do the best job they can and determine the best treatment for every patient. That’s really the dream.
+~ Varun Ganapathi, Chief Technology Officer and Co-founder of AKASA
+What we’re trying to do at AKASA right now is ease the financial complexity of healthcare in particular. We hope that if patients are no longer afraid of a surprise bill or confused about treatment costs, they might go to the doctor earlier and more often — preventing extreme outcomes, such as ER visits or more complex treatments that are dramatically more expensive. We aim to tackle the problem by making it easier for people to take care of themselves along the way.
+And by the way, I haven’t figured these complex problems out by any means, and those are just my initial thoughts. Right now, I’m mostly focused on how I can help hospitals save time and money as much as possible by easing their administrative burden.
+Publishing New Research at AKASA
+Bashir:
+I’d love to talk about some of the specific challenges you’re tackling with AKASA. So one thing that’s really born out throughout your work is bringing together deep research and applying this to actual products. And as you mentioned with AKASA, you’ve published quite a few papers. I’d love to talk about some of these. For example, you had one called Deep Claim looking at pair response prediction. Do you want to tell me a little bit about that work?
+Ganapathi:
+With our Deep Claim research, we built a deep learning model that can look at a claim and tell you if it’s going to get denied ahead of time. The idea is that if you can catch these errors earlier, you prevent the whole back and forth where the provider submits a claim to the health insurance company, it gets rejected, then you have to deal with the fallout from that and potentially adjust it, etc. That can drag on and require a lot of back and forth. If you can catch these things early, that can save a lot of time.
+However, what we found from that research is that a lot of the time, the way you can help minimize denials from happening is by doing some earlier part of the process correctly. Predicting a denial is good, but what will often happen is that you find out that something in the claim was not filled out correctly, as there are different processes to fill out each section of the claim.
+What AKASA has decided to do is solve that problem upfront instead. For example, we are building solutions to do automated coding where we will use deep learning to read a doctor’s notes and then automatically code the claim. This solves the root issue in one area.
+We also have technology that can automatically look at insurance cards, read them, and check patient eligibility. That can help prevent denials as a result of having the wrong insurance information on the claim. It’s shocking that this happens a lot, but it is actually a major source of this problem.
+The last area we address that can often cause denials is prior authorizations. Before you do a procedure on a patient, oftentimes, you need to ask the insurance company for approval. AKASA has developed a solution to automatically go out and get that authorization from the insurer and insert that into the claim.
+Ultimately, this Deep Claim paper, which we published very early in our company, pointed us toward the source problems that we should be fixing — building solutions to fix issues and denials before they happen, rather than catching them after. Prevention is better than detection, so we’re trying to now prevent the problem from occurring in the first place.
+Bashir:
+Do you think that in all of these works you’ve developed a more general sense for working your way from “I can detect that your claim is going to be not denied” to actually getting down to what that root cause was? One thing that somebody listening to this, who’s just thinking about ML in general, might be thinking is, I know perhaps some features of my claim are causing it to get denied, but then how do I establish that causal link? I’m curious how you think about that.
+Ganapathi:
+It’s a super hard problem. What we did in that paper was basically look at the gradient of the outcome as a function of its inputs and we could use that to highlight features that seem to be contributing the most toward denials. You want to figure out whether the absence or the presence of these features is causing this outcome. But it’s still a very challenging problem within explainable AI. How do you make it tell you why this is wrong?
+We ultimately figured it out by learning more about the domain and just understanding that these areas are the major causes of denials.
+Bashir:
+Right, I can see that’s where the domain knowledge aspect comes in.
+Including Experts-In-The-Loop — The Importance of Domain Knowledge
+Ganapathi:
+Yes. In general, when you’re applying machine learning to a domain, that is not something that every human knows how to do. For instance, computer vision is nice because you can look at an image and see whether it shows a dog or not and whether the model is detecting the dog or not.
+It gets more challenging when you start to use machine learning in domains where a human cannot solve the problem directly themselves. You get some input vector and are operating on opaque entities where you don’t fully understand what they mean. Yes, you follow the common practices of the trading test set, split, etc., to ensure that you’re not overfitting. But at the end of the day, how do you structure a product around that?
+As an engineer, I’ve found that it’s often helpful to truly understand the domain to build a better product because you can actually understand why the model is doing what it is doing.
+~ Varun Ganapathi, Chief Technology Officer and Co-founder of AKASA
+Bashir:
+For now, it does seem like integrating that expert information and having humans in the loop when you’re trying to develop a product out of machine learning systems that tackle these specific areas is pretty vital. And at AKASA, your product has this expert-in-the-loop approach called Unified Automation. Do you want to tell me a little bit about that?
+Ganapathi:
+When automating a bunch of tasks for our customers, we’ve noticed that there can be the so-called “mattress in the road.” I like to use the self-driving car analogy for this, where maybe 90% of the time, you’re driving on the highway, and most of the time, everything is straightforward. But every once in a while, there’s a mattress on the road — something that just falls onto the road and the car needs to deal with that. That’s what makes the self-driving car problem so difficult.
+I was an early investor in Zoox, a self-driving car company. I’ve learned from observing that if you have to solve a problem all the way through to 100%, it takes a really long time.
+Looking at self-driving cars, with AKASA, our goal was to solve all the common cases and when we detect that something unusual is happening, have a person come label that data. We essentially created this 80/20 optimization process where we’re saying 80% of the time, the model will have 20% of the actual cases or occur 80% of the time. That allows us to solve this long tail problem by having the algorithms learn from what happens and solve a lot of these common cases over time.
+When something unusual occurs, we send it to a person, the person labels it, and we’re concentrating all of the edge cases on people. When people label that data, our model learns from that and can automate that as well going forward. Over time, we are gradually increasing the level of automation we can do by handling more and more of these edge cases.
+And we are still providing value for our customers the entire time. With AKASA, we’re solving something that’s not a real-time process like self-driving cars. We can pause the world, so to speak, and have a person come in, tell us what to do, and then learn from that.
+That’s how we use humans in the loop. While that is not really that different from a lot of other ML companies, we get most of our data from humans labeling it. The difference for us is that we use labeling as part of the delivery of the outcome. That allows us to handle everything because we have these edge cases rather than just training the model.
+We also have a process where we use confidence to determine when it’s going to make an error or when we’re less confident about the answer. Then we have a person label that.
+From the customer’s perspective, they’re always getting the answer, they’re always getting a good result. We are taking care of it and making sure that we’re amplifying the data to make our models better and better over time.
+~ Varun Ganapathi, Chief Technology Officer and Co-founder of AKASA
+(Learn more about our Unified Automation platform.)
+Bashir:
+This is a very interesting setting for a human-in-the-loop approach. I’ve seen a lot of research that declaims certain ways in which people attack human-in-the-loop problems, but it sounds like you have a pretty well-defined space in terms of this is what we expect of the algorithm; this is what we expect of the human; and how they fit together and what that eventual outcome looks like.
+Ganapathi:
+Exactly.
+Automating Healthcare Operations With AKASA
+Bashir:
+Could you tell me about some primary use cases you’ve seen to whatever extent you can? Any customer stories or improvements you’ve noticed from the use?
+Ganapathi:
+We’ve observed that a lot of the things we handle are interactions with websites or external entities, such as between health systems and insurance company websites. We’ve built an algorithm that can learn from how people do a task on a website and be able to do that task automatically. That allows us to automate various operations that you would do in order to extract some information. We developed models that can do that very efficiently, and that’s a very common case.
+For instance, you’re a health system and you want to check the status of a claim. That often involves going to a website, looking it up, figuring out what the website said, and understanding it. That “unstructured data to structured data” is something we’ve become very good at with machine learning and natural language processing.
+There are a lot of different other use cases like that. For instance, if a patient needs prior authorization, we go to the website, automatically answer the questions, submit it, and get approval.
+We also think about how we can read doctors’ notes and automatically turn them into coded claims. A lot of the places where we see machine learning being really useful are unstructured data to structured data or in automating interactions with websites.
+That’s a challenging problem because it’s a back-and-forth — you say something, the website responds with something, then you need to analyze that and answer the questions correctly. But that’s where AI has been really useful for us.
+Bashir:
+I do see how in this Unified Automation system, there is this self-reinforcing cycle. It gets better as you collect more data and see how more people use it. I guess beyond just the Unified Automation solution, can you tell me anything about your vision for where you want AKASA to go in the future? What role, in general, do you envision it playing in the healthcare space?
+Ganapathi:
+Near term, I want us to solve all of these administrative tasks that involve healthcare staff jumping through hoops to ensure that the right services are being done for patients. While some of these hoops exist for a reason, we want to help ensure that doctors don’t have to spend a ton of time dealing with them.
+Enabling Physicians To Be More Productive and Do Their Best Work
+Ganapathi:
+Long-term, we want to help doctors and everyone else in the health system become more productive.
+So far we’re talking about one aspect of improving productivity, which is eliminating administrative work. What I’ve also observed is that we could make a person — let’s say a doctor — three times faster if we collect all of the data for them, present it to them in one efficient interface, and, based on that, allow them to make their decision very rapidly.
+We spend a lot of time just hunting around for stuff. For example, when you’re doing your taxes, how much time do you spend hunting around for forms and PDFs you need to upload, and questions you have to answer? These things take a lot of time and the actual intelligent decision-making is just a portion of that work.
+What I’m hoping to do with AKASA long-term is to save doctors time by handling all of that information gathering and documentation for them so they can focus on the intelligent part — making decisions and taking the right action based on the given information.
+~ Varun Ganapathi, Chief Technology Officer and Co-founder of AKASA
+Eliminating all that tedious work for them would make doctors dramatically more productive. Even just making them 20% more productive would make a huge impact. With the amount of money we spend on healthcare in America — three to four trillion dollars a year — 20% is a lot if you think about it. A lot of that money is spent on labor because healthcare is a very labor-intensive business. If we can make the people in healthcare more productive, we can actually help bring costs down.
+As another example, if you switch from one hospital to another, you need to go pull your medical records from the first one to submit them to the second. Currently, that’s a very time-consuming process — someone has to fax something over (yes, they still use faxes in healthcare), etc.
+All of this interstitial information transfer could be dramatically optimized so doctors can spend their time focusing on the important things.
+In the long term, I would also love to provide clinical decision support for doctors. I want the doctor to have access to all the most-updated information relevant to the decision they’re making for a particular patient.
+I heard a statistic that it takes on average 10 years for new cutting-edge research in healthcare to become the standard of practice and for it to be used across the board. That’s a really long time for people not to be getting the best possible treatment. Can AI help with that? Can we dramatically decrease the time it takes for new research to reach and be implemented by every doctor?
+For example, for programmers, we use Stack Overflow and we google the latest best practices to move really fast and always use the most cutting-edge stuff on a weekly or monthly basis. That should happen in healthcare as well.
+The real goal for me is to help doctors be more productive and get up-to-date information, enabling them to do their job as best as possible. And I hope that AKASA does that, not just in America, but globally — helping improve the quality of healthcare everywhere.
+Accelerating Healthcare Knowledge Dissemination — From Research to Practice
+Bashir:
+I love that vision, and I want to zoom in on that last aspect you noted, where it seems to take 10 years for cutting-edge research to make its way into practice.
+One of the things that stick out to me is that if we’re going to compare healthcare to AI research, for instance, is that in AI research, it is very easy to transmit knowledge through code. We have GitHub and so many other places, and we can put papers on arxiv. But in medicine, that new knowledge is affecting people’s lives in a way that running some new optimizer on your computer isn’t going to.
+I’m curious how you think about what closing that gap looks like, i.e., we want that knowledge dissemination to happen more quickly, but then we also want to make sure that people are safe in the healthcare system.
+Ganapathi:
+Great point. I think the way it works today is that a group of physicians chosen from the best hospitals and academic research centers gets together and decides, for a given illness, what the standard of care is. From the moment that is done, I want to find a way to — just how you deploy new code — deploy a new version of healthcare that updates every doctor instantly that this is the new standard of care.
+Right now, doctors have to go take a bunch of learning classes to continuously stay up-to-date — and that’s all great and should still happen. However, I also envision a system that can help support them in that effort and make it easier for them to learn and stay up-to-date.
+Part of the problem is that there are so many different cases in healthcare — so many ailments and so many different patients with different backgrounds. It’s really hard to have access to all the knowledge of all the cases all the time.
+I’m hoping to find out how AI can help healthcare in the way it has helped all of us with Google and search. Can it help doctors by giving them contextual information on the fly for what they’re dealing with right then instantly? As soon as the central group has decided on a given standard of care, can we push that out and make sure it’s instantly updated everywhere?
+Shaping the Future of Healthcare With AI + Humans-in-the-Loop
+Bashir:
+For sure, just having that pertinent information ready and available for a doctor in a given context is really powerful. I’d love to expand this a little bit to get your thoughts on how you see AI influencing the healthcare system in the coming decades. I think that there’s been a bit of a mismatch recently between expectations and reality.
+I know that, for example, Geoffrey Hinton has said multiple times that we’re going to see deep neural nets replace radiologists, and today we know that hasn’t exactly happened and I think that there’s been a little bit of a tempering of expectations in that regard. But I’m curious how you see this all playing out and what you think the role of AI and healthcare should look like.
+Ganapathi:
+I really believe in humans in the loop. I think it’s very important because healthcare has a lot of edge cases, and humans are really good at reasoning about those.
+We should focus on making sure all the routine treatments — what we already know should be done — are happening in a more automated way. For example, for every single patient, we are tracking their history and we know that they should be getting this test right now. But can we make sure that actually happens?
+We should have a system that is constantly watching out for everybody and makes sure that what we know is good and should be done is actually happening — and that is a surprisingly difficult process. How do you know if someone turned a certain age where they’re supposed to get a certain test? How can we ensure this occurs? I think AI can really help with this.
+As mentioned earlier, the other part I think AI can help with is providing relevant research information to a doctor the moment when they’re seeing a patient.
+Lastly, AI can play a role in finding a way to mine all of the data of treatments that are occurring for patients and use that to determine whether treatment A is better than treatment B. Maybe there are some ways with observational data and natural experiments to automatically figure out better treatments.
+I also think about things like using natural language processing to automatically read all the healthcare publications that are being written so the system understands them all and can find you the ones that are relevant to the exact patient you’re dealing with. There are so many papers being published — you can’t expect everyone to read them all. AI could help with that.
+In the long term, automation might make it possible to deliver a higher volume of healthcare cheaper — keeping costs down while improving quality and overall outcomes for everyone.
+~ Varun Ganapathi, Chief Technology Officer and Co-founder of AKASA
+We’ve done this with every other industry, and that needs to happen in healthcare as well. In fact, every doctor will be better off because if you make them five times more productive, they’re able to now help more patients, and the demand for healthcare is just going up and up. That is what AI will end up eventually doing for healthcare.
+Sharing Advice for Aspiring AI Researchers and Entrepreneurs
+Bashir:
+My final question to you would be a more personal one. Earlier, when we were discussing your journey into research and doing a Ph.D., you talked about how there was that moment for you where you realized, “Hey, I can actually make a concrete contribution to the advancement of knowledge.”
+And you did that with your research. You’re doing that through developing products and with your entrepreneurship. For somebody who’s perhaps also thinking about this — how do I contribute to knowledge? How do I really create an impact in the world? — and who is interested in something like AI, what advice would you give?
+Ganapathi:
+Try to understand the math behind how things work. It’s easy to just say, “I’m going to cut and paste this model and try it out.” You can do that, and that’s fine.
+But try to deeply understand the math of how it works because that will really give you a lot of intuition about why your model is working or not. And at the end of the day, when you’re doing AI research, you are trying to solve problems.
+The other piece of advice I would give is advice Sebastian Thrun gave me: get an end-to-end system working.
+First, pick a problem that you’re interested in, e.g., I want to automate X, Y, or Z, or I want to develop a model or an algorithm to solve X, Y, or Z problem. Then get something end-to-end working first and become very familiar with the data and truly understand it. Then construct a series of experiments that teach you something more about the problem, the domain, or the model to help you solve that. Get a deeper understanding of what you’re doing instead of just randomly looking at all these deep learning models people have already come up with.
+If you look more closely, you can see an underlying structure, and then it all will make much more sense. Try to learn that structure, and understand what is similar about different models and what is different. Then understand how these optimizers actually work and understand the gradient and how to calculate it.
+It’s critical to understand this to make things work in the real world. I see a lot of people trying models without fully understanding them and then it doesn’t work. Or sometimes it does work, but sometimes it doesn’t, and then they’re stuck.
+That was very detailed advice on how to be a machine learning practitioner. Meta advice from a career standpoint: make sure you’re really interested in what you’re doing day-to-day.
+Technical expertise is very useful. Being able to build something and solve problems makes you a valuable person to have around. It also helps you in a variety of ways if you want to start a company — e.g., being able to build prototypes is important in order to show off the potential value of what you’re trying to do. When you have a team around you, it also allows you to help them solve problems.
+At a deep level, figure out what actually motivates you. Why are you doing it? Then try to follow that.
+For me, I want to make sure whatever I’m doing with AI makes the world better. And I also wanted to have an impact on people. I want people to actually benefit from it. That’s what motivates me. For other people, it could be something different, but figure out what really motivates you and try to follow that.
+Bashir:
+That’s really fantastic advice. Thank you for sharing that, Varun. And to close out, I just want to say thank you for everything you’re doing in healthcare with AKASA and for spending the time with me today.
+Ganapathi:
+Thank you.
+You may also like
+Blog
+Feb 20, 2024 How the AKASA Engineering Team Created an Automation Solution for Database Migrations
+AKASA builds products and tools to improve the various components of revenue cycle management (medical billing) for hospital systems....
+READ MORE
+Blog
+May 1, 2023 ChatGPT and Healthcare: Exciting Potential That Needs To Be Channeled
+Recently I heard that as a fun exercise, the security officer at one of our healthcare clients tried asking...
+READ MORE
+Blog
+Jun 12, 2023 Overcoming the Top 3 Challenges Holding Back Healthcare Innovation
+Healthcare is notoriously slow at adapting and incorporating new technologies into day-to-day operations. Healthcare lags behind as one of...
+READ MORE
+Blog
+Jan 16, 2025 7 IT Mistakes You’re Making With Your RCM Automation Partner
+The right revenue cycle management (RCM) automation is capable of helping healthcare organizations overcome a litany of issues —...
+READ MORE
+Blog
+Jan 16, 2025 Questions Healthcare IT Teams Should Ask About Revenue Cycle Automation
+RCM leaders at your organization are discussing automation. Period. The healthcare revenue cycle is fighting non-stop battles. Staffing challenges...
+READ MORE
+Blog
+Jan 16, 2025 9 Healthcare Technology Trends To Watch
+Keeping track of the rapid changes in healthcare technology is no small task. The industry has seen numerous healthcare...
+READ MORE
+Blog
+Nov 30, 2022 The Gradient Podcast: An Interview on AI and Healthcare With AKASA CTO and Co-Founder Varun Ganapathi
+On a recent episode of the Gradient Podcast, host Daniel Bashir sat down with AKASA CTO and co-founder, Varun...
+READ MORE
+Blog
+Sep 1, 2022 Machine Learning in Medicine: Using AI to Predict Optimal Treatments
+At AKASA, we’re always thinking about how we can use machine learning (ML) and artificial intelligence (AI) to better...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

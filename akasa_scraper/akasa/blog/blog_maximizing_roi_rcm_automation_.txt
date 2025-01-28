@@ -1,0 +1,112 @@
+URL: https://akasa.com/blog/maximizing-roi-rcm-automation/
+
+Are You Maximizing ROI on Your RCM Automation? | AKASA
+Blog
+Are You Maximizing ROI on Your RCM Automation?AKASA and the Academy discuss how to capture the full potential of revenue cycle automation.
+AKASA March 22, 2023
+The Gist
+Healthcare organizations constantly strive to improve financial performance while maintaining high-quality patient care. Automation has emerged as a powerful tool in this pursuit, and many organizations are exploring how to implement it effectively. But, until now, accurately measuring the return on investment (ROI) for RCM automation has been next to impossible. During a recent webinar, AKASA and the Healthcare Management Academy discussed issues with current approaches to ROI and what your organization should be doing instead.
+Blog Contents
+Top ROI and Automation Priorities of Healthcare Leaders
+Issues With Current Approaches to ROI — and How to Fix Them
+Achieving Total Value With RCM Automation
+Hospital and health system executives report that they expect to use AI in some aspect of their revenue cycle within three years, and two-thirds are already doing so. While RCM automation is capable of streamlining workflows and improving efficiencies, how can you ensure you’re effectively measuring the ROI of your automation efforts?
+We’re seeing questions around ROI with a lot of organizations right now. Concerns around where to look for the right data, which metrics to track, and even a lack of awareness or willingness to think about soft ROI or less financially-oriented metrics. Simply put: if you can’t accurately and effectively measure your efforts, your automation strategy will fail.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+During a recent webinar, Amy Raymond, vice president of revenue cycle operations at AKASA, and Anne Herleth, principal of research and advisory at the Healthcare Management Academy, discussed how healthcare organizations can accurately determine ROI for RCM automation.
+Watch the webinar
+The conversation was based on a recent report from the two organizations. The Academy surveyed leaders from 40 leading American health systems, gathering insights on ROI, how leaders approach automation, and what gaps exist in current approaches to ROI.
+Here are the highlights from the webinar.
+Top ROI and Automation Priorities of Healthcare Leaders
+Investments in healthcare automation increased across nearly every area in the revenue cycle in recent years. But why?
+Raymond and Herleth went into detail, breaking down the top reasons healthcare leaders are interested in automation and what their concerns are with ROI.
+Healthcare leaders see opportunities with automation
+Three big reasons why healthcare organizations are thinking about investing in automation: revenue capture, productivity, and cash flow.
+The Academy’s research found that revenue cycle teams have been early adopters of automation in healthcare, and investments have increased substantially over the course of the past year.
+The top three drivers of this growth include:
+1. Ample opportunities to boost efficiency across RCM
+2. Financial and workforce pressures within healthcare systems
+3. The real promise that automation and AI show for improving ROI in healthcare
+“Automation and AI are starting to show promise and return on investment. In the early days, it was a little bit harder to make the case for these technology investments. Part of it was that there wasn’t the time and the data to show if automation was a good financial return on investment. Where we stand today, we know there’s data there to back this.”
+~ Anne Herleth, Principal of Research and Advisory at the Academy
+Healthcare leaders are seeing ROI
+Executives are experiencing ROI with automation, thanks to better selection, implementation, and roll-out of the technology.
+Herleth noted that executives’ average perceived ROI in 2021 was 2.21. One year later, it had risen to 3.48, with 11% of executives giving a score of 5, the highest possible rating.
+She listed five reasons for an increase in reported ROI:
+1. Judicious selection of technology to meet health system needs
+2. Improved implementation planning and rollout
+3. Enhanced vendor partnerships
+4. Increased leadership understanding and involvement in technology
+5. Better tracking and measurement of hard ROI metrics
+Herleth and Raymond discussed these positive outcomes, then dove into the ways in which leaders are currently measuring ROI.
+Most leaders prioritize financial metrics when approaching ROI
+For organizations who measure the ROI of RCM automation, financial metrics and hard ROI are the primary focus — for better and worse.
+Most organizations track hard ROI, which includes metrics tied to clear financial outcomes. Cost-to-collect, A/R days, net collection rate, and others are typical hard ROI metrics. On the opposite end is soft ROI, which encompasses benefits that are harder to measure: hours saved, employee engagement score, enhanced compliance rates, etc.
+Herleth noted that financial metrics are still the primary way to measure technology’s success in healthcare organizations. When asked about which metrics they prioritize, healthcare leaders echoed this, largely discussing those tied to hard ROI.
+The below chart shows the top metrics measured by healthcare execs, with hard ROI metrics in red and soft ROI metrics in blue.
+Herleth pointed out that while these metrics provide some insights, they’re often insufficient when trying to comprehend the full impact of automation.
+“As we think about the investment in automation over time, the question that kept coming up is: ‘Is that enough? Is that really going to tell us enough of the story?’”
+~ Anne Herleth, Principal of Research and Advisory at the Academy
+Issues With Current Approaches to ROI — and How to Fix Them
+In the second portion of the webinar, Herleth and Raymond covered the many issues with current approaches to calculating ROI for RCM automation. Then they drove home the importance of understanding ROI, especially during this financially challenging period for healthcare.
+Hard ROI doesn’t fully capture the benefits of automation
+Hard ROI only tells part of the story. It fails to measure the impact on urgent needs and falls short when scaling technology.
+There are obvious financial benefits with RCM automation, like improving your denial rate or reducing A/R days. These metrics are important to measure, but as Herleth and Raymond point out, while hard ROI captures some of these financial gains, it doesn’t capture the full breadth of automation’s benefits.
+With most investments, you’re able to use hard ROI metrics to determine value. Automation isn’t like most investments, as it doesn’t simply complete a task or reduce A/R days. Automation plays a role in reducing employee churn, allowing for staff to work on higher-value tasks, improving the patient experience, and more. All of these benefits help your organization financially. But not always in a clear, 1:1 way.
+“I think it’s important to have a balanced view of ROI. Hard ROI is important, but it’s not the only thing that matters. Soft ROI can be just as valuable, if not more so, when it comes to things like employee engagement, customer satisfaction, and brand reputation.”
+~ Anne Herleth, Principal of Research and Advisory at the Academy
+Automation’s scalability is difficult to measure with only hard ROI
+One of the top reasons leaders continue to invest in automation is its growing ability to streamline other RCM processes. Unfortunately, current ROI approaches fail to inform and capture this scalability.
+As Herleth noted earlier, one of the top reasons leaders continue to invest in automation is the promise it shows for improving the revenue cycle. This is largely due to one of the key features of advanced AI-powered automation: its ability to scale into other processes across the rev cycle. But it’s this very scalability that makes it difficult to calculate ROI.
+“The financial ROI story is only part of that story. It falls short of telling us what that impact will look like if we think about scaling this technology to other parts of our organization. And in these types of financial times, we find so many organizations are being asked to look internally. Look at what we’re using and decide if we can use this technology in other places before investing in new types of technology. So the questions around scale are really critically important.”
+~ Anne Herleth, Principal of Research and Advisory at the Academy
+Many organizations are resistant to soft ROI and other metrics
+Soft ROI and other less financial-oriented metrics are often difficult to sell to leadership, making it harder to fully measure the impact of RCM automation.
+As Herleth pointed out, hard ROI only provides a glimpse of the value RCM automation delivers.
+Soft ROI captures additional benefits of automation, including hours saved, patients engaged through a process, employee engagement score over time, and more. But these metrics can be more difficult to quantify and track, which results in them being a harder sell to leadership.
+By incorporating them into your overall strategy and analytics, you can align goals with these metrics and tell a story that increases buy-in and helps move your organization forward.
+“If you’re thinking about workforce transformation over the next five years, are you tracking something around workforce transformation as part of your soft ROI story?”
+~ Anne Herleth, Principal of Research and Advisory at the Academy
+Achieving Total Value With RCM Automation
+A new way to measure RCM automation ROI is needed — Total Value is the answer.
+“There’s a significant gap in the market for guidance and frameworks on really getting ROI right. That is our goal with the Total Value roadmap. It’s what we’re aiming to provide to the industry: a vendor-neutral framework for leaders to level up their ROI measurement and tell the story of the full potential of what automation can do in the revenue cycle.”
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+Total Value ROI is a new approach to ROI, tailor-fit for RCM automation. It combines soft and hard ROI, along with critical influencers of automation’s performance, and maps them over a three-plus-year timeline. Total Value enables healthcare providers to measure ROI holistically and capture the full impact of automation in the revenue cycle.
+The end result of the Academy’s research and joint efforts with AKASA, Total Value pulls from the insights of healthcare leaders and delivers in-depth information on which hard and soft ROI metrics to follow, what influencers matter most with automation, and when to start measuring each metric.
+Margins are tight, staffing is difficult, and maximizing RCM efficiency through automation is more important now than ever before. Do more with the resources you have and get as much out of your automation as possible with your free copy of the Total Value plan today. Read the ebook.
+Want to learn how revenue cycle automation can help streamline your workflows, create efficiency, and drive revenue? Schedule a consultation with AKASA today.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

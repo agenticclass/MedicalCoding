@@ -1,0 +1,249 @@
+URL: https://akasa.com/blog/what-is-healthcare-revenue-cycle-management/
+
+What Is Healthcare Revenue Cycle Management? | AKASA
+Blog
+What Is Healthcare Revenue Cycle Management?Learn the ins and outs of healthcare revenue cycle management, the backbone of the healthcare industry.
+AKASA January 13, 2025
+The Gist
+Healthcare revenue cycle management refers to all the administrative and clinical functions that contribute to the capture, management, and collection of patient service revenue in a healthcare organization. The full revenue cycle starts from the moment a referral is made, or an appointment is scheduled and ends only when the full balance of the claim is paid or resolved. This revenue cycle is vital to hospitals and health systems in the U.S. Still, it’s riddled with challenges and inefficient processes that lead to increased denials, write-offs, and a higher cost-to-collect. With a thorough understanding of what healthcare revenue cycle management is, a description of the many functions and processes, and an exploration of new, effective solutions, healthcare providers can optimize their revenue cycles and improve the healthcare experience for all.
+Blog Contents
+Defining Healthcare Revenue Cycle Management
+Why Efficient Revenue Cycle Management Is Important
+Healthcare Revenue Cycle Management: Patient Access
+Healthcare Revenue Cycle Management: Mid-Cycle
+Healthcare Revenue Cycle Management: Business Office
+Common Healthcare Revenue Cycle Management Errors
+Healthcare Revenue Cycle KPIs
+3 Healthcare Revenue Cycle Management Pain Points
+AI-Powered Solutions for Healthcare Revenue Cycle Management
+Hospitals and healthcare systems know healthcare revenue cycle management (RCM) is key to the financial health and operational efficiency of their organizations, as well as better overall patient care. With the right people, processes, and technology in place, an optimized revenue cycle reduces denials, write-offs, and cost-to-collect, and increases the timely intake of revenue.
+Unfortunately, healthcare RCM is rife with challenges, gaps, and inefficiencies at every turn, which have a significant financial and operational impact on organizations and the patients they serve.
+We need to fix the healthcare revenue cycle. Hospitals and health systems can no longer afford to operate how they always have. They must innovate, broaden their thinking, and employ new solutions if they want to optimize their operations and improve the healthcare system for all.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+Overcoming the many hurdles facing healthcare revenue cycle management should be a top priority for leaders everywhere. But, before you can optimize your healthcare RCM processes and drive more revenue for your organization, you need to first understand how each of the functions connects.
+Defining Healthcare Revenue Cycle Management
+Healthcare revenue cycle management refers to all administrative and clinical functions that contribute to the capture, management, and collection of patient service revenue. This process begins the moment a referral or appointment is scheduled and ends only when the full balance of the claim is paid or resolved.
+Within the revenue cycle, various processes and roles are categorized into three large departments or areas:
+1. Patient access
+2. Mid-cycle
+3. Business office
+Each of these three areas handles different pieces of the overall billing process, some taking more time than others. But, while different in function, they all play a vital role in providing quick and accurate billing to patients, and ensuring your organization receives what it’s owed in a timely manner.
+Why Efficient Revenue Cycle Management Is Important
+Healthcare revenue cycle management acts as a foundation to a great healthcare experience when done well, but a hindrance when mishandled.
+When each department of the revenue cycle is working in tandem, information is handed from one person to the next, claim forms are completed in a timely and accurate fashion, patients are billed accurately, and patient payments are promptly collected.
+Poor revenue cycle management leads to the opposite experience:
+Coding errors cost hospital systems hundreds of thousands of dollars.
+Midland Memorial Hospital in Texas threw away $555,141 because of a coding error around COVID-19.
+Compliance errors cause millions of dollars worth in overpayments.
+Staten Island University Hospital received $11.8 million in overpayments because they failed to comply with Medicare billing requirements.
+Insufficient documentation leads to millions in improper claims.
+Sentara Healthcare agreed to pay $4.3 million to settle claims that HHS’ Office of the Inspector General says were improper because they didn’t have enough support to prove medical necessity or because there was no physician order for the services provided.
+The above are only a handful of hospital billing horror stories. It’s essential that revenue cycle departments function as accurately and as efficiently as possible — otherwise, money is lost, cash flow is impacted, and integrity is damaged.
+Oftentimes, each of these departments work in silos, which can lead to a lack of collaboration, inefficiencies, and unnecessary re-work — all ultimately impacting revenue.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+Healthcare Revenue Cycle Management: Patient Access
+Patient access is the first portion of the healthcare revenue cycle. Patient access includes every process and function in the front end of healthcare revenue cycle management, all of which pertain to onboarding and the pre-service experience.
+Patient access is the first stop in the revenue cycle and the most important. It’s where an employee calls the payer, accesses a portal, or performs some sort of a transaction to confirm the patient is covered by insurance and eligible for the services.
+~Amy Raymond, VP of Revenue Cycle Operations at AKASA
+What does patient access include?
+Patient access includes:
+Registration
+Scheduling
+Eligibility/insurance verification
+Prior authorization
+The input of patient information into the electronic health record (EHR)
+Medical necessity
+Financial counseling
+Price estimation
+Each part of patient access plays a vital role in the overall healthcare revenue cycle:
+Registration/scheduling
+The patient enters their information into the system online ahead of time, or in an inpatient setting, has their information collected at a front desk.
+Eligibility/insurance verification
+The provider confirms insurance coverage and ensures that a patient is eligible for services.
+Prior authorization
+The determination of whether a patient requires authorization, either because of the specific benefits or because of payer rules. Prior authorizations are typically required by managed care and commercial payers.
+If prior authorization is required, specific information about the service being rendered, the diagnosis, and the reasons the care is necessary are provided before the service is rendered.
+Input of information into EHR
+Once care is provided, the information — written, spoken, or manually coded — is entered into the EHR.
+Medical necessity
+This process ensures the type of care and level of care a patient receives is deemed necessary according to their chart, notes, and existing diagnoses. A clinician is assigned to make sure the process is executed with the insurance company.
+Financial counseling
+Those working in the revenue cycle are liaisons between the patient and insurance in many cases, putting them in a position to answer patient questions around billing, insurance, and other financial matters.
+Price estimation
+Generally a part of insurance eligibility and financial clearance, price estimation is when the provider attempts to determine the estimated cost upfront while taking into account the patient’s plan, coverage, and the remaining deductible and copay.
+Price estimation has always been important to the patient, but now with the Hospital Price Transparency Rule, providers are required to provide it. This goes hand in hand with preventing surprise medical bills, or bills that patients didn’t expect to receive.
+Because patient access falls at the beginning of the healthcare revenue cycle, getting each of the aforementioned tasks right is essential to overall healthcare RCM. A single mistake at any point in patient access can result in problems for mid-cycle and business office tasks, as well.
+Patient access in inpatient and outpatient settings
+Patient access isn’t a term that is used in a doctor’s office. Instead, terms like ”front desk,” ”registration,” and ”scheduling” are common.
+Additionally, patient access can look different depending on whether you’re in an outpatient or inpatient setting.
+Outpatient
+Whether it’s a physician’s office or outpatient services in a hospital, the patient can make an appointment with the front desk. Alternatively, a referral is made and the patient is called to schedule an appointment.
+Regardless of how the appointment is made, there is time beforehand for eligibility, insurance verification, and financial clearance.
+Inpatient
+In this setting, a patient is admitted from the emergency department (ED) or from an outpatient procedure. Oftentimes, hospitals are trying to get all the required information in real-time, or after the services are rendered.
+Healthcare Revenue Cycle Management: Mid-Cycle
+After patient access comes the mid-cycle. The mid-cycle is where clinical care is administered by the provider, and where accurate documentation and coding are vital.
+What does mid-cycle include?
+Within mid-cycle are several steps.
+Documentation
+The first step of healthcare revenue cycle management in the mid-cycle is documentation. Documentation — whether handwritten or verbal and transcribed into the EHR — is information that feeds into the charge capture, or the process by which providers are paid for the services rendered.
+Coding
+After documentation and charge capture, the coding process takes place. The charge capture and coding process looks something like:
+More specifically, coding is the process by which the documentation is translated into codes that can be submitted on the claim to reflect the diagnosis, procedures, and diseases.
+Coding is a vital step in healthcare revenue cycle management, and not only are there several codes, but there are specific rules regarding the way codes are used and combined, and the specific documentation required to use certain codes.
+Like documentation, if coders don’t have the information they need, they will query the physicians about their documentation.
+While coding isn’t necessarily complex, it’s prone to human error due in part to its repetitive nature and the sheer number of codes available. Fortunately, researchers are working on automated medical coding to reduce error rates and remove this task from revenue cycle specialists entirely.
+In recent trials, AKASA’s platform completed a 20-minute coding task in less than a second. This machine-learning approach outperformed current state-of-the-art models for automatic coding of inpatient clinical notes by more than 18%.
+From this study, we’ve confirmed that the architecture we’ve designed to process clinical notes and automate annotating codes is now the state-of-the-art model for the industry. By leveraging this model, teams can streamline coding tasks to reduce excessive costs and coding errors while deploying resources more strategically to the most complex cases that need extra attention.
+~ Byung-Hak Kim, Ph.D., AI Technology Lead at AKASA and Study Co-author
+Clinical documentation improvement (CDI) or revenue integrity
+Usually performed by specialized nurses, CDI or revenue integrity ensures that providers are capturing the appropriate documentation and codes for services rendered.
+The CDI or revenue integrity documentation includes the severity of the illness, comorbidities, diagnosis codes, and if the documentation accurately reflects these items.
+CDI is a very specific area of review of the notes and, oftentimes, includes a query that is sent to the physician for clarification or improved documentation.
+Case management
+Case management entails confirming that the length of stay and treatment are correct and that the patient is receiving all the resources they need. Case management is a clinical function but is also important for payer reimbursement, as the wrong treatment or stay duration greatly impact cost.
+Claim coding edits
+Claim coding edits occur when the provider or coder makes corrections to a claim prior to submitting it to the payer. Claim edits are often an area of inefficiency and are either worked by coders or triaged and moved out.
+Mid-cycle in inpatient and outpatient settings
+While many mid-cycle processes and functions are fairly uniform across all organizations, it’s not always the case. For example, the mid-cycle looks different depending on whether it’s an outpatient or inpatient setting.
+Outpatient
+In the mid-cycle for an outpatient facility, there may not be a dedicated coding department. Rather, the physician or nurse takes notes during a visit, lab, or other procedure, such as imaging. There may also be a review process to make sure the coding is correct.
+Inpatient
+In an inpatient organization, all the documentation from every clinician is combined and entered into the patient’s medical record. The coding and CDI departments review the documentation for accuracy and then code the claims for billing.
+Healthcare Revenue Cycle Management: Business Office
+The business office is what people often think about when it comes to the healthcare revenue cycle and can also be referred to the ”back office” or ”patient financial services.”
+Unlike patient access and the mid-cycle, the business office isn’t generally a cause of errors on claims. But anything that already occurred can cause a negative downstream effect and require the need for human intervention. The business office, therefore, has to monitor everything that happened thus far, correct errors, and report back to the other departments so the issues can be resolved.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+What does the business office include?
+Within the business office, some of the more time-intensive, technical healthcare revenue cycle management tasks take place:
+Claim edits
+Claim edits occur when a rule-based trigger takes place at the EHR or claim scrubber level, alerting the provider to make edits to a rejected claim. Most EHR systems require that each rule or edit be resolved for the claim to move forward in the process.
+Claim edits are time-consuming and usually require a human touch, resulting in a specialist having to hunt down missing or incorrect information on a claim.
+Billing
+Billing is the process by which the provider submits the claims to a clearinghouse or directly to the payer. The process can occur manually via mail or fax, or it can be batched and uploaded to an API with a payer portal and sent automatically.
+Payer and clearinghouse rejections
+Payer or clearinghouse rejections are specific to payer requirements and stem from service issues, member eligibility, incomplete or inaccurate information, etc.
+Rejections may be tracked through EHR integration, but oftentimes, they’re in a separate, “bolt-on” system used to make sure the claims are submitted and received.
+Follow-up
+Follow-up is the process by which the provider attempts to determine the status of a claim — if it was received, denied, or in the claims clearinghouse — and the reason for delayed reimbursement.
+Cash (or payment) posting
+The first step after follow-up, cash posting occurs once payers have remitted payment and adjudication information to the provider to identify what’s going on with a claim. This is also the process by which payment and denial data are entered into the patient account in the EHR. Cash posting can be done manually from a remit or an explanation of benefits (EOB), electronically, or a mix of both.
+Denials and appeals
+A denial is the result of a denied claim in the payer adjudication process — the process by which a provider attempts to collect payment by submitting additional information and supporting documentation to a payer.
+Unlike a rejected claim, a denied claim isn’t returned to the payer to fix. But, in some cases, a patient or the provider can appeal the denial.
+Rebills and corrected claims
+If the denials were due to errors (the claims weren’t received, had incorrect information, or were sent to the wrong payer, for example), corrections to the claims or re-bills will occur.
+Underpayments
+Underpayments occur anytime a claim is not paid at the level it should be, and the provider attempts to reconcile payments from a payer to close out a claim properly.
+Underpayments can be a result of line item denials, because the correct contracted rates weren’t loaded in the charge master or EHR, a payer made an error in adjudication, or because a payer is denying a claim in which services should be allowed to be paid separately.
+Oftentimes, institutions feel like once they’re paid, that’s it. No. Look at your contracts. Compare this to what you’re supposed to get paid. Even if it’s a dollar, sometimes it’s worth fighting for, because you might have a thousand of those underpaid at a dollar, and those are quick wins that add up.
+~ Jasmine Porter, Senior Manager of RCO Products at AKASA
+Common Healthcare Revenue Cycle Management Errors
+When errors occur in the healthcare revenue cycle, additional time, re-work, and staff intervention are required to resolve them.
+Not only are errors more difficult to fix on the back end, but also, once the patient has been released, it’s often challenging to contact them and address the problems.
+The longer claims are outstanding, the less likely hospitals and health systems are to recover the money. So, they have to make choices every day about which claims will be worked and how to prioritize that work.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+There are countless errors that can occur during healthcare RCM. But some are more common than others. (Here are some of the most common challenges and best practices for hospital revenue cycle management.)
+Patient access problems
+Errors are common during this part of the revenue cycle, largely due to the manual nature of data entry. These errors result in additional time and staff intervention. Plus, the longer the issues go unresolved, the more magnified they become as the billing process moves forward.
+Patients with incomplete/incorrect demographic or insurance information are one of the most common patient access errors, which can delay payment and require re-bills. This can be due to the patient not presenting all of the correct information, keying errors during the scheduling or registration process, or eligibility issues that aren’t caught in time.
+Additionally, claim denials, which occur because pre-authorization wasn’t obtained, require appeals to receive payment. With so many pieces of data, many people touching claims, and the speed at which staff is required to complete tasks, human errors are inevitable.
+Mid-cycle problems
+In the mid-cycle, delays in the physicians’ documentation, completion of initial records, the clinicians’ responses to queries, and billing time due to a backlog in documentation and/or coding can all lead to errors.
+Denials resulting from incomplete information, lack of expertise, errors, or missing information for accurate coding are also frequent issues in the mid-cycle. It’s also not uncommon for organizations to miss out on revenue because they’re using lower codes out of fear of audits.
+Coding denials require appeals, medical necessity appeals, or corrected claim billing. Plus, some appeals can be unsuccessful because the chart was missing information. All of these consume precious time and keep healthcare RCM specialists from working on more revenue-driving tasks or helping patients.
+Business office problems
+By the time claims make their way to the business office, errors aren’t likely to occur. However, this department is responsible for monitoring the rest of the revenue cycle, correcting issues that have occurred, and reporting them back to other departments to make sure improvements are made and claims are resolved.
+For example, common issues the business office fixes include billing edits that aren’t sufficient to support clean claims, cash posting delays and errors, and aged claims due to staffing challenges.
+Additionally, many teams are unable to work claims by the timely filing deadlines, or quickly appeal denials, due to a lack of time and/or sufficient staffing.
+Problems across the revenue cycle: multiple functions, multiple people
+In each of the areas throughout the revenue cycle, most hospitals and health systems typically have multiple people in each of the functions and departments working to produce information that will make its way onto a claim. This is even truer in smaller organizations, where staff wear many different hats.
+Whether it’s a print or electronic claim, there are multiple boxes, cells, and rows that contain data — a massive amount of data that’s required to get a bill out the door.
+To further complicate the billing process, there are multiple people in each part of the revenue cycle that touch the claims. Multiple touchpoints simply create multiple opportunities for human error.
+Healthcare Revenue Cycle KPIs
+Healthcare revenue cycle management is far from simple, as made clear by the number of potential errors outlined above. It should come as no surprise then that there are numerous healthcare revenue cycle key performance indicators (KPIs) worth tracking if you want to ensure you’re on the right path with your organization.
+Patient access KPIs
+Patient access is usually measured by the following metrics:
+Days out: The number of days before a scheduled appointment takes place. This goal is typically 5 or 10 days out, but it can vary by service area and payer. The longer, the better, as this gives the provider time to secure proper authorization and prevent issues on arrival.
+Productivity and accuracy: Registrars are graded on how accurate their work is in regards to obtaining and verifying the insurance information and how quickly they complete their tasks.
+They are also measured by the length of hold times for scheduling appointments and answering patient inquiries, how often they correct information, and how many appointments have to be canceled or rescheduled due to the inability to secure authorization ahead of time.
+Patient access also has outcome goals, including how many denials (and auth and eligibility-related denials, in particular) are a result of their work.
+Mid-cycle KPIs
+Mid-cycle staff is often measured by days not final coded (DNFC) — the time between when services are rendered to when coding is complete.
+Staff in mid-cycle are also measured by accuracy and productivity, the timely clearing of edit queues, and how quickly they respond to issues from the billing department.
+Business office KPIs
+The business office is measured by:
+Clean claims submission: The resolution of all EHR-level edits, clearinghouse edits, and payer edits. This can include complete rates or time to resolve these in their queues.
+Days Not Final Billed (DNFB): The length of time it takes to get a bill out the door and an important measure to ensure timely filing limits are met.
+First-pass claims payment: A claim was sent out once, and payment was made without any reworking.
+Days in AR / Day sales outstanding: Used to track the number of days it takes an organization to receive payment and close a claim.
+Aging dates: Because of the payer-specific timely filing limits and appeal limits, aging buckets for each payer are analyzed and reviewed to ensure appropriate action is taken before a past timely filing write-off is needed.
+The business office is also measured by metrics around immediate cash posting upon receipt and how well they’re automating their cash posting process; a near-immediate response and follow-up on zero payments or denials from documentation requests, denials overturned, and the timely response to incorrect payments due to contract issues.
+3 Healthcare Revenue Cycle Management Pain Points
+In an ideal world, claims would be efficiently submitted with all of the required information the first time, with as few touches as possible. There would also be appropriate training for staff to complete their work correctly and edits to correct errors before claims leave each department.
+However, healthcare revenue cycle management is complicated and rife with challenges.
+For most healthcare providers, there’s a lack of efficient processes, communication, and collaboration among departments. Most organizations also have inadequate staffing levels to support claim volumes, and an inability to execute everything properly as a result.
+With these pre-existing hurdles in mind, there are a handful of common problem areas facing healthcare revenue cycle departments today.
+Revenue cycle challenge #1: prior authorizations
+Prior authorizations are one of the most common revenue cycle challenges.
+According to a survey conducted by the American Medical Association (AMA), 88% of physicians described the burden associated with preauthorization as high or extremely high. Additionally, 79% of survey respondents said the prior authorization process always, often, or sometimes leads to patients abandoning a recommended course of treatment.
+Gaps in the pre-authorization process can prevent organizations from providing high-quality care and capturing the revenue needed to maintain operations and provide care to the local community.
+Learn about the three most important prior authorization processes to automate.
+Revenue cycle challenge #2: increasing denials
+Denials are another common challenge for revenue cycle teams.
+According to a report by the American Hospital Association (AHA), 89% of hospitals and health systems have seen an increase in claim denials over the past three years, and 51% said the increase was “significant.”
+Complex billing systems, increased specificity and complexities around coding, new workflows, and ever-changing rules from the health plans are often to blame, and all cause a downstream effect that points to lost revenue.
+Get advice on denial management in healthcare.
+Revenue cycle challenge #3: staffing
+At AKASA, staffing is one of the most common challenges we hear about from healthcare leaders.
+In the midst of the “great resignation” and COVID-19, providers are facing staffing challenges across all functions of the revenue cycle. This is further compounded by a lack of technology or improper support in many organizations, where improper solutions end up being more of a hindrance than a help.
+I’ve had colleagues leave major organizations because they were running on outdated resources and tech. The systems wouldn’t function, resulting in extra turnaround time to do what should have been a simple task. This is such a stressful situation to be in, as it’s taking away from time with patients and making it difficult to do the job itself.
+~ Larnie Boyd, Sr. Manager in Revenue Cycle Operations at AKASA
+Not only are organizations looking for ways to attract and retain top talent, but also to appropriately allocate their resources so that staff can work on high-value tasks.
+For most providers, the current reality is one of too much work, and too few hands.
+Combat staffing challenges and deliver relief to your team with our comprehensive report: No Resignation: Solving Today’s Greatest Staffing Challenges in the Healthcare Revenue Cycle.
+AI-Powered Solutions for Healthcare Revenue Cycle Management
+With an increasingly-complex healthcare system, staffing challenges, and a stagnant cost to collect, many providers are turning to generative AI (GenAI) or automation for relief. But, not all solutions are equal.
+Many of the legacy approaches to automation, like robotic process automation (RPA), are based on ”if/then” questions. For linear tasks, like a claim status check, this can work. If an outlier arises? Or you want to automate something more complex, like denials? RPA on its own won’t cut it.
+For healthcare RCM solutions to be successful, they need to learn what questions to ask and how to answer them. Just as a self-driving car can accelerate, brake, and turn based on what it encounters, healthcare RCM needs to be capable of navigating complex workflows rife with edge cases and the unknown.
+But even the most sophisticated healthcare RCM solution needs a helping hand. Unlike traditional RPA, which stops in its tracks during an edge case, true RCM AI needs the ability to flag down an expert when it can’t proceed on its own.
+Healthcare AI needs a human expert-in-the-loop.
+This expert-in-the-loop approach is foundational to the AKASA platform. Our GenAI-powered solution couples in large language models (LLMs) and human experts-in-the-loop, allowing it to learn as it completes tasks. When it runs into a new challenge, it flags down our team of revenue cycle experts-in-the-loop. These experts complete the task in question, all while the platform learns.
+The AKASA platform streamlines redundant, manual work in the healthcare revenue cycle so your RCM staff can instead focus on areas that need a human touch, revenue-generating tasks, and improving the patient experience.
+AKASA brings together the best of people, data, and technology to efficiently, accurately, and autonomously navigate the complex state of medical reimbursement in the United States. The result is an end-to-end revenue cycle solution that improves financial outcomes, streamlines healthcare RCM processes, and helps health systems allocate resources where they matter most.
+Schedule a demo to learn more about how AKASA can improve your revenue cycle management
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

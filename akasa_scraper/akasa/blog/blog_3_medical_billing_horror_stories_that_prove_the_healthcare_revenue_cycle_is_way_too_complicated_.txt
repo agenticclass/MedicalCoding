@@ -1,0 +1,113 @@
+URL: https://akasa.com/blog/3-medical-billing-horror-stories-that-prove-the-healthcare-revenue-cycle-is-way-too-complicated/
+
+3 Medical Billing Horror Stories that Prove the Healthcare Revenue Cycle Is Way Too Complicated | AKASA
+Blog
+3 Medical Billing Horror Stories that Prove the Healthcare Revenue Cycle Is Way Too ComplicatedThe healthcare revenue cycle impacts the patient experience to a great degree, yet it's often running in a less than ideal state. These billing horror stories highlight the very real problem.
+AKASA December 05, 2024
+The Gist
+Healthcare revenue cycle management is rife with challenges and manual processes that often lead to denials, high cost-to-collect, and write-offs. For patients, however, the financial impact can be significant. Patients are often blindsided by surprise medical bills for an out-of-network provider or service, or a coding error, for example, and many times it’s a result of an emergency or vital care. These medical bill horror stories prove how broken healthcare revenue cycle management really is. Yet, with new changes on the horizon and plenty of innovation, hope is possible.
+Blog Contents
+A $1,600 Surprise Medical Bill After Having a Baby
+A Medical Coding Error Results in a $1,500 Emergency Room Bill
+A Broken Arm — and a $2,000 Surprise Bill
+How Hospitals and Health Systems Can Use Automation to Help Patients
+Revenue cycle leaders know all too well how complicated, cumbersome, and archaic the claim and billing processes are — and why they’re a significant driver of healthcare costs in the U.S. for providers, payers, and patients alike.
+Although most organizations are focused on optimizing their revenue cycle operations, it’s the patients they serve that suffer the most and have a continual lack of trust in those who are supposed to be caring for them.
+Almost every week, it seems there’s yet another story about a patient who received a surprise medical bill or was told the services they received were out-of-network or not covered. Often, these bills are for emergency services, providers they weren’t given an opportunity to choose, or services they didn’t even realize were rendered.
+Surprise medical bills, combined with already high healthcare costs, mean it’s no wonder patients are concerned about their finances.
+In fact, according to the Kaiser Family Foundation, approximately two-thirds of Americans say they’re either “very worried” (35%) or “somewhat worried” (30%) about paying for unexpected medical bills.
+And they should be. Medical bills are the number one cause of bankruptcy in the U.S.
+Here are three stories of Americans who encountered an unexpected bill — and plenty of frustration — and what they did to work it out. Plus, advice for how hospitals and healthcare systems can improve processes.
+A $1,600 Surprise Medical Bill After Having a Baby
+A few weeks after giving birth to her baby at UCLA Medical Center in Santa Monica, Calif., Layla Parast received a surprise medical bill: $1,600 for the epidural she received during labor.
+Parast paid the bill to avoid being put into collections while she tried to get to the bottom of it. She called her insurance company and was told that she had chosen an out-of-network provider.
+“I explained, I didn’t choose anything. I was in labor, and this is for getting the epidural,” said Parast.
+Surprisingly, neither the medical bill nor the statement of benefits Parast received showed that the charge was for an out-of-network provider.
+Surprise medical bills occur when people are unaware they received care from an out-of-network provider, even if the provider is providing healthcare services in an in-network facility. This was the case for Parast, except she had no choice in the matter — nor was she likely to ask if there was another anesthesiologist available and if the individual was in-network while she was in labor.
+After several calls to her insurance company, Parast received a check for $1,040 as a partial reimbursement, leaving her with $560 to pay out of pocket. She then requested that the claim be processed in-network, and she was told she should mark her so-called choice of the out-of-network provider as involuntary.
+Her request was denied, so she filed a formal appeal. Nearly nine months after giving birth, she received a check for the remaining $560.
+Healthcare Systems and Surprise Medical Bills
+In July 2017, California passed a law to protect patients from surprise medical bills in two situations:
+An insured patient goes to an in-network facility, but an out-of-network provider provides the services.
+An insured patient receives services from a doctor or hospital that isn’t contracted with the patient’s health plan or medical group.
+More recently, a federal ban on surprise medical bills, the No Surprises Act, is set to take effect on January 1, 2022, to provide protections for Americans.
+“In the wake of these new regulations, hospitals and health systems should be examining their billing processes — from the moment a patient schedules an appointment or tries to access urgent care — to minimize surprise bills,” says Amy Raymond, head of revenue cycle operations at AKASA
+In a new AKASA survey, financial leaders at hospitals and health systems ranked the following as high stressors in their push to prevent surprise medical bills:
+The inability to predict reimbursement for various providers of contracted clinical services who participate in procedures (i.e. anesthesiology)
+Limited resources and staffing to support patient financial counseling
+Delayed or erroneous responses from payers on eligibility inquiries
+Inaccurate or insufficient information collected during the patient registration process
+Through AI-enabled automation technology, organizations can calculate an estimate of the costs, so they better understand what a patient’s balance will be. Automation technology also increases the likelihood that patients will pay their bills or get access to financial counseling if necessary.
+Learn about three ways providers can help prevent surprise medical bills.
+Automation makes it possible to take a lot of the tedious work off the plates of revenue cycle specialists, freeing them up to become patient advocates. Automating claims status frees them up to help with denials and deliver a better patient experience overall. The revenue cycle and its teams need to shift to being patient-first.
+~ Amy Raymond, VP of Revenue Cycle Operations
+A Medical Coding Error Results in a $1,500 Emergency Room Bill
+In 2019, Dawn Roberts started to experience severe stomach issues and headed to the emergency room at Baptist Emergency Hospital Thousand Oaks — a hospital that was in-network with her insurance plan.
+She stayed overnight and had a CT scan — services for which the hospital billed her insurance more than $24,000.
+Roberts paid her deductible and co-insurance, but one month later, she received a surprise medical bill for the emergency room doctor for more than $1,400.
+The bill said non-covered services per insurance plan.
+“I was in tears when I got the $1,500 one, I just went through all this, I’ve been sick on and off all year,” [and] “I’m wondering, am I in for more surprises or am I done?” she said.
+Roberts thought she received the bill because it was for an out-of-network provider.
+Yet after reaching out to News 4 San Antonio, they contacted the billing service for the hospital and were told that the doctor’s fee had been processed erroneously.
+The place of service on the bill was listed as “22,” the code for outpatient hospital treatment, but Robert’s insurance company said they denied the claim because it should have been coded as emergency treatment.
+As a result, the claim was re-processed, and her insurance company said she was only responsible for a small co-pay.
+Healthcare Systems and Medical Coding Errors
+Coding errors are commonplace in healthcare revenue cycles. Experts say, up to 80% of medical claims have them.
+Yet automated coding technology powered by generative AI and large language models (LLMs) can streamline coding tasks to reduce human errors and excessive costs and divert resources to more complex work.
+AKASA recently developed an advanced approach that outperformed current state-of-the-art models for automatic coding of inpatient clinical notes by more than 18%.
+A Broken Arm — and a $2,000 Surprise Bill
+When Lindsey Oberst’s 5-year-old son fell off a trampoline, she brought him to an urgent care facility run by Phoenix Children’s Hospital.
+While there, her son had an x-ray, his arm was placed in a splint and sling, and Oberst was told to take him to the hospital for a cast when the inflammation improved.
+The following week, her son had a 15-minute follow-up appointment at the hospital.
+The doctor looked at the x-ray, said the bone didn’t have to be set, and gave her son the cast. Weeks later, he returned to the urgent care to have the cast removed.
+Oberst paid all of the bills, but months later she received a surprise medical bill for $2,117.
+The bill said it was for “minor surgery,” — surgery she said her son never had, and her health insurance wasn’t covering.
+“My son never had a minor surgery, ever. I’m incredibly stressed out and miserable. I don’t know what to do because I feel like they’re taking advantage,” she stated.
+Oberst called customer service, but couldn’t get a straight answer. The billing department told her the charge was related to a facility fee and a pre-certification penalty. This tactic is considered surprise billing, in which hospitals can charge for an out-of-network service such as a cast or if a patient visits a facility owned by a hospital.
+The hospital also mentioned pre-authorization or pre-notification, so it’s possible Oberst was charged for the cast because the hospital didn’t get it authorized by the insurance company beforehand.
+Although the bill stated “minor surgery,” the billing department called out facility fee and a pre-certification penalty, so it could have also been a result of a coding error, Jim Hammond, a healthcare industry consultant, said in the article.
+With the help of the Arizona Republic, Oberst was absolved of the bill. “Without somebody advocating for you, you really feel helpless against these big companies or big hospitals. They threaten you with collections, and it can destroy what you’ve worked hard for,” Oberst said.
+Healthcare Systems and Prior Authorization
+Authorizations are a significant pain point for both providers and patients. They’re time-consuming and heavily manual, with multiple touchpoints through the process — all of which delay or prevent patient care.
+But automation can help.
+Using artificial intelligence, AKASA can identify authorization requirements for patient services to be rendered, initiate sending request forms to patients’ insurance providers via payer websites or fax, check on authorization request submission status, and document in the EHR. By automating prior authorization, hospitals and health systems may be able to avoid denials, increase patient satisfaction, and reduce the risk of appointment delays or reschedules. And help prevent errors like the one Oberst experienced.
+How Hospitals and Health Systems Can Use Automation to Help Patients
+Through AI-enabled automation technology, hospitals and healthcare systems can check and update insurance eligibility, calculate the patient’s estimated payment, and conduct prior authorization of services. By automating mundane and time-consuming tasks, organizations can free up their staff to focus on patients and help them through the complex medical billing process.
+The bottom line: With the No Surprises Act to take effect in 2022, patients will have more protections in place, but suffice to say, asking questions, reviewing bills, and advocating will still be vital. For hospitals and health system revenue cycle leaders, implementing AI-enabled automation technology can prevent issues, save time, and improve collections.
+The AKASA platform brings together generative AI, LLMs, and human interaction to fuel scalable and antifragile revenue cycle management automation that is continuously improving and built for a 24/7 reality.
+Schedule a demo to learn how AKASA can help your organization’s revenue cycle become more efficient — and patient-focused.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

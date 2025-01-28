@@ -1,0 +1,101 @@
+URL: https://akasa.com/blog/10-questions-for-sanjay-siddhanti-director-of-engineering-at-akasa/
+
+10 Questions for Sanjay Siddhanti, Director of Engineering at AKASA | AKASA
+Blog
+10 Questions for Sanjay Siddhanti, Director of Engineering at AKASA
+AKASA July 25, 2022
+The Gist
+Get to know Sanjay Siddhanti, AKASA's director of engineering, who got his first taste of coding at age 13. Read on to see how his journey led to AKASA, what he'd do in another life, and where he prefers to work.
+Blog Contents
+1. What’s your job at AKASA?
+2. How did you get started in engineering and what has your career path been?
+3. Why did you join AKASA?
+4. If you could do another job for one day, what would it be?
+5. Why do you like working on the healthcare side of technology?
+6. What is your favorite part of AKASA culture?
+7. What AKASA value is the most meaningful for you and why?
+8. Have you read any other notable books lately?
+9. What has surprised you the most about working at AKASA?
+10. How do you unwind?
+As a part of our People of AKASA series, we’re interviewing the folks behind the brand. From engineering to revenue cycle operations to customer success to culture, here are the people building the future of healthcare with AI.
+Today, meet Sanjay Siddhanti (he/him), director of engineering, and learn why he likes working on the healthcare side of technology. And connect with him on LinkedIn and Twitter.
+“I see my role as making sure that everyone on the team enjoys what they work on, has the tools they need to do their work, and learns something new every day.”
+~ Sanjay Siddhanti, Director of Engineering
+1. What’s your job at AKASA?
+I joined AKASA as a senior software engineer back when we were a seed-stage startup. We were less than five engineers at the time, and the entire company could fit in a small conference room.
+Along with a few others, I helped build our early software platform that we now use for all of our customers. As our sales took off, I started building out a team to scale that work. Now, as the director of engineering, I’m managing a team of 12 amazing software engineers.
+We focus on three main areas:
+ML-driven automation platform
+Data engineering
+Customer implementations
+(And we’re hiring for all of these teams!)
+I see my role as making sure that everyone on the team enjoys what they work on, has the tools they need to do their work, and learns something new every day.
+2. How did you get started in engineering and what has your career path been?
+When I was 13, I was a webmaster for a charity organization that helps educate underprivileged youth in India. That was my first programming experience and after that, I started learning to code in high school.
+I went to Stanford for undergrad and knew from the outset that I wanted to major in computer science. While I was there, I got interested in genomics and DNA sequencing and stayed for a master’s in bioinformatics.
+My first two jobs were at life sciences companies called Counsyl and Karius. Both used DNA sequencing analysis to help patients and physicians make informed decisions about their healthcare. I was a full-stack software engineer working on data engineering, backend web services, and building tools for scientists at the company. Meanwhile, I was considering going back to school for a Ph.D. in bioinformatics.
+3. Why did you join AKASA?
+I’ve worked in healthcare my entire career, and that was a guiding factor for me to stay in healthcare and continue doing something that I thought would benefit society. After years of debating, I decided to stick with software engineering and wanted to be at a software-first company where I could ship software quickly and see the impact of it. Around that time, Malinka Walaliyadde (AKASA’s CEO and co-founder) and I started talking about what it would look like to join AKASA, which was still a stealth startup.
+Malinka convinced me that I had a lot of background in the clinical side of healthcare, but that problems on the operational or billing side of healthcare are equally pressing and important. He also laid out a compelling argument for how we could move faster in this space than in clinical software.
+With most clinical technologies, progress takes a long time. Taking a product to market often takes years, and after that, you still have to educate physicians, get adoption, and figure out how to get paid for your service. Here on the billing side, we’re able to move faster and onboard customers quickly. That was important to me.
+In addition, I thought it would be exciting to join an early-stage startup and help build the product from the ground up.
+Sanjay lives in San Francisco. This is his roof, where he sometimes works from.
+4. If you could do another job for one day, what would it be?
+High school math teacher. My teachers in high school were incredible, and I’m very grateful for them. I would love to pay that forward. One of the things I enjoy most about being a manager is the opportunity to be a mentor and positively impact other people’s careers. Teaching would make me feel similarly.
+5. Why do you like working on the healthcare side of technology?
+I always want to work on something that’s beneficial to society, and the two candidates were healthcare or education. I’m attracted to healthcare because it’s so critical to everyone’s lives, and yet the patient experience is often subpar due to a variety of issues.
+In healthcare, I feel that I’m spending my time on projects that are important to me and will benefit a lot of people.
+Also, our tech stack isn’t all that different from other innovative industries. Engineers shouldn’t be scared about making the leap from big tech because we use the same state-of-the-art, industry-standard software practices that you’ll find anywhere else. We’ve had lots of people come from companies like Google, Facebook, and Netflix, and have no trouble integrating here. Our engineers are building marketable skills that they can use anywhere else in their careers going forward. Helping fix our healthcare system is a bonus.
+6. What is your favorite part of AKASA culture?
+I really enjoy our quarterly hackathons, which I talk about in-depth in another blog post. The hackathons are such a great learning and bonding opportunity for the team, and each hackathon has led to valuable improvements that we ended up pushing to production. Most importantly, it demonstrates that we are serious about fostering a culture of continuous learning and innovation.
+7. What AKASA value is the most meaningful for you and why?
+Build trust.
+When I interviewed at AKASA, I noticed the books Extreme Ownership and Radical Candor in the office. I read these during my first couple of months at the company, and they influenced how I have approached my work since then. Here are some of the ways we can build trust:
+With customers: By making good on our commitments and providing an amazing customer experience
+With teammates: By telling the truth and helping everyone improve, even if it can be difficult (practicing radical candor)
+With stakeholders: By owning your mistakes and making process changes to avoid making the same mistake twice (practicing extreme ownership)
+8. Have you read any other notable books lately?
+I like books that give me a framework for thinking and decision making, rather than telling me lots of facts. Two such books that I read recently and were really excellent are “Algorithms to Live By” and “The Black Swan.”
+“Algorithms to Live By” takes concepts from computer science and applies them to everyday decisions, like how to pick an apartment, how to decide which candidate to hire, and how to stop procrastinating.
+“The Black Swan” provides a great framework on uncertainty and randomness. The author talks about how the biggest advances in the world were completely unexpected at the time and how to expose yourself to potentially positive black swan events. As a technologist, this reminds me that it’s not always obvious which projects are going to succeed. Instead, it’s important to continually place small bets on emerging technologies and be ready to ride the wave if any of them take off.
+9. What has surprised you the most about working at AKASA?
+We have grown incredibly fast, and along the way, every employee has had to evolve in response to the changing needs of a growing startup. I’ve never been part of a company on this kind of growth trajectory, and it’s been simultaneously surprising and inspiring to see everyone on the team lean into the constant changes that happen at the company.
+10. How do you unwind?
+I’ve been practicing meditation regularly since I was 18, and I’ve gone on multiple retreats. My last retreat was a 10-day silent retreat in the North Bay, a few hours north of San Francisco. There’s nothing to distract you when you’re out there. No speaking, no electronics, no books. It was challenging, but I learned to introspect better and got more comfortable spending time alone.
+I also enjoy sports (cycling and pickleball lately), cooking, reading books, and playing chess.
+One of Sanjay’s favorite bike rides: Hawk Hill in Marin Headlands, overlooking the Golden Gate Bridge
+You may also like
+Blog
+Feb 20, 2024 How the AKASA Engineering Team Created an Automation Solution for Database Migrations
+AKASA builds products and tools to improve the various components of revenue cycle management (medical billing) for hospital systems....
+READ MORE
+Blog
+May 1, 2023 ChatGPT and Healthcare: Exciting Potential That Needs To Be Channeled
+Recently I heard that as a fun exercise, the security officer at one of our healthcare clients tried asking...
+READ MORE
+Blog
+Jun 12, 2023 Overcoming the Top 3 Challenges Holding Back Healthcare Innovation
+Healthcare is notoriously slow at adapting and incorporating new technologies into day-to-day operations. Healthcare lags behind as one of...
+READ MORE
+Blog
+Jan 16, 2025 7 IT Mistakes You’re Making With Your RCM Automation Partner
+The right revenue cycle management (RCM) automation is capable of helping healthcare organizations overcome a litany of issues —...
+READ MORE
+Blog
+Jan 16, 2025 Questions Healthcare IT Teams Should Ask About Revenue Cycle Automation
+RCM leaders at your organization are discussing automation. Period. The healthcare revenue cycle is fighting non-stop battles. Staffing challenges...
+READ MORE
+Blog
+Jan 16, 2025 9 Healthcare Technology Trends To Watch
+Keeping track of the rapid changes in healthcare technology is no small task. The industry has seen numerous healthcare...
+READ MORE
+Blog
+Nov 30, 2022 The Gradient Podcast: An Interview on AI and Healthcare With AKASA CTO and Co-Founder Varun Ganapathi
+On a recent episode of the Gradient Podcast, host Daniel Bashir sat down with AKASA CTO and co-founder, Varun...
+READ MORE
+Blog
+Nov 29, 2022 A Facial Focus on Health: My Movember Experience and Commitment to Making a Difference in Men’s Health
+Nearly 20 years ago, two gentlemen and a small group of their friends in Australia decided to bring awareness...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

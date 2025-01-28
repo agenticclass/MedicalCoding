@@ -1,0 +1,30 @@
+URL: https://akasa.com/press/staffing-challenges-within-the-healthcare-revenue-cycle/
+
+Recruitment Costs, Long Hiring Timelines Negatively Impact Healthcare Finance Teams | AKASA
+Press
+Recruitment Costs, Long Hiring Timelines Negatively Impact Healthcare Finance Teams
+Staffing challenges within the healthcare revenue cycle stymie productivity, increase burnout
+January 26, 2021 — South San Francisco, Calif. —AKASA™, the leading developer of AI for healthcare operations, released findings from a new survey highlighting the challenges hospitals and health systems are facing within the revenue cycle as the Great Resignation drives higher staff turnover, and skilled workers leave healthcare for higher-paying jobs in other industries like retail or logistics.
+The survey of healthcare financial leaders found the cost of recruitment is significant and timelines to fill open roles are long, especially for senior-level revenue cycle roles:
+Entry-level revenue cycle talent (0-5 years): On average, costs $2,167 for recruitment and takes 84 days to fill vacant roles.
+Mid-level revenue cycle talent (6-10 years): On average, costs $3,581 for recruitment and takes 153 days to fill vacant roles.
+Senior-level revenue cycle talent (10+ years): On average, costs $5,699 for recruitment and takes 207 days to fill vacant roles.
+On Average Costs
+Days to Fill Vacant Roles
+Of note, the complete cost to recruit is likely higher as healthcare leaders often don’t have a full line of sight into the total cost of recruitment managed by marketing and HR as well as the costs associated with training and onboarding new staff.
+COVID has a double-whammy effect on revenue cycle teams as staff availability is limited by illness, isolation requirements, and vaccine mandates, while COVID also drives volatility in claims and work volumes for these same teams making it especially challenging for health systems and hospitals to adequately staff their revenue cycle operations.
+“The complexity of healthcare has always made staffing a challenge, but the pandemic is now making adequate staffing an impossibility,” said Malinka Walaliyadde, co-founder and CEO of AKASA. “Health systems simply can’t get the staff they need to get all the work done. So we have to change the way we work. We need to eliminate repetitive tasks and leverage our minimal staff to work on only the most cognitively complex activities. This pandemic is the crucible from which healthcare leaders can define their legacy and establish an AI foundation to set their health systems up for success for decades to come.”
+Healthcare employees are leaving their jobs for other reasons beyond the Great Resignation. In the wake of the Federal Vaccine Mandate, 12% of healthcare workers say they’ll retire early or leave for jobs not covered by the mandate. Coupled with the 18% of healthcare workers that have already left their jobs in the past year, turnover within the healthcare workforce is acute.
+Longer hours, increased pressure to be more productive, and a sense of providing a decent patient financial experience in this environment are significantly challenging for teams. This combination increases the likelihood of morale issues and burnout while preventing teams from adapting quickly in the face of a rapidly shifting work environment. To counteract this, hospitals and health systems are examining how AI-powered automation can help them effectively manage claim volumes amid staffing challenges while elevating their workforce to tackle more complex, patient-facing assignments.
+“Implementing automation doesn’t have to be difficult or involve hundreds of combined hours of work,” said Amy Raymond, head of revenue cycle operations at AKASA. “And it doesn’t have to result in reallocating staff to babysit the automation. A well-implemented, effective automation tool will handle the majority of cases within a workflow or area and grow to handle larger tasks, with minimal continued involvement from your team. At the end of the day, automation should not only reduce your costs, but it should also improve the accuracy of the work completed and improve performance against your key performance indicators.”
+AKASA is helping leaders understand the changing dynamics impacting the revenue cycle, offering strategies and insights from our experts and solutions to transform healthcare operations in this challenging environment. To learn more, download our new e-book, “No Resignation: Solving Today’s Greatest Staffing Challenges in the Healthcare Revenue Cycle.”
+Commissioned by AKASA, the survey fielded responses from 514 chief financial officers and revenue cycle leaders at hospitals and health systems across the United States through the Healthcare Financial Management Association’s (HFMA) Pulse Survey program between September 30, 2021 and October 17, 2021. The national survey was designed to assess the adoption of automation in revenue cycle operations at hospitals and health systems across the U.S.
+About AKASA
+At AKASA, we believe every dollar spent on healthcare matters because healthcare matters to everyone. The only Unified Automation™ company for healthcare, AKASA uses the same machine learning approaches that made driverless cars possible to provide health systems with a single solution for automating revenue cycle operations. AKASA’s unique expert-in-the-loop approach, Unified Automation, combines modern machine-learning with human judgment and subject matter expertise to provide robust and resilient automation. Unified Automation™ adapts to the highly dynamic nature of revenue cycle operations and has been purpose-built for healthcare. AKASA enables health systems to decrease their cost to collect so they can invest more in patient care and be better stewards of the healthcare dollar. AKASA is based in the heart of Silicon Valley. Learn more at www.AKASA.com.
+AKASA has a work-from-anywhere attitude and we are hiring. Step into the future of healthcare with AKASA. Learn more at www.AKASA.com/careers.
+For more information on AKASA, please contact:
+Kate Enos
+Director of Media Relations
+AKASA
+[email protected]
+916.397.6400

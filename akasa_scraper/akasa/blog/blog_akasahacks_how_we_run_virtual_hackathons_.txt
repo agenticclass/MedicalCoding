@@ -1,0 +1,102 @@
+URL: https://akasa.com/blog/akasahacks-how-we-run-virtual-hackathons/
+
+AKASAHacks | How we run (virtual) hackathons | AKASA
+Blog
+AKASAHacks - How We Run (Virtual) HackathonsHackathons give our engineering team the chance to work as a unit, brainstorm, and make meaningful progress, too. Here's how.
+Sanjay SiddhantiJuly 15, 2024
+The Gist
+Oftentimes engineers and developers are working in siloes, crunching away and focused on a core task at hand. Hackathons present a great opportunity to bring the team together for a fun, collaborative effort that often yields great results. AKASA runs quarterly hackathons, each one productive and engaging for the entire team. As AKASA is a remote-friendly company, we do these virtually. Hackathons do take a lot of planning, from having a committee to having pitch sessions to proper scheduling. Take a look at how AKASA runs hackathons to get inspiration for your own!
+Blog Contents
+Why Do a Hackathon?
+Structure of Our Hackathons
+Virtual Hacking
+Swag and Prizes
+Results
+Our quarterly hackathon is one of my favorite parts of the AKASA engineering culture. We’ve successfully run two hackathons during the pandemic, each one incredibly productive.
+Whether you want to run a hackathon of your own or simply want a peek behind the curtain, read on!
+Why Do a Hackathon?
+Hackathons are one of the best ways to encourage innovation within a company. At a rapidly growing startup like AKASA, our team is frequently working against deadlines and sprint goals as we scale our revenue cycle solutions to more health systems. Providing unstructured time for employees to work on their own ideas is crucial, and we’ve been amazed by the results.
+Here are some benefits we’ve seen from our hackathons.
+Promoting innovation
+Team members constantly propose innovative project ideas, but they don’t always have time to follow through on them in addition to their other responsibilities. Additionally, sometimes people will propose a project that doesn’t get prioritized in our OKRs — usually because it does not neatly fit into our current product development cycle, seems too risky or we don’t see a high return on investment for that project at this time.
+A hackathon is the perfect time to try out a risky project with no cost of failure. If a project doesn’t work out, we still learn something about the technology and assumptions behind it. On the other hand, a slick demo is the fastest way to convince everyone about a project’s utility.
+We have seen multiple projects that started during a hackathon and later turned into an OKR project for the engineering team.
+Cross-team collaboration
+Let’s face it — many of us have found it difficult to stay connected and get to know new team members during the pandemic. Our hackathons provide an organic forum for employees to work with others outside of their team or department.
+Learning and career development
+We pride ourselves on fostering a culture of continuous learning at AKASA. The hackathon is one way to promote learning – in addition to the tech talks, paper reading groups, and online courses that we already work through as a team.
+As industry trends evolve, it’s critical for engineers to have time to try new technologies or learn something new on an ongoing basis. This is beneficial for both employees and employers.
+Structure of Our Hackathons
+How we organize our hackathons is a big part of their success. We did make a few changes during the pandemic to accommodate the new world we’re living in.
+Planning committee
+A couple of months before the hackathon, we assemble a team of 3-4 volunteers who will plan it. By distributing the work between a few people, no single person needs to spend more than an hour or two per week on planning. The committee rotates every quarter, with a lead who stays on from the previous quarter.
+For a four-person committee, one way to distribute the work is like so:
+Person 1: Scheduling, advertising / hype
+Person 2: Swag, food, budget requests
+Person 3: Facilitate pitch and demo sessions, voting, prizes
+Person 4: Technical liaison to make sure each team has what they need and is not blocked
+Scheduling
+Lay out the schedule ahead of time so that everyone can plan and block off calendars.
+Pitch session
+A few weeks before the hackathon, we circulate a brainstorming document for people to add their ideas offline. At this stage, people are encouraged to propose multiple ideas and there is no commitment to work on them. We then hold a one-hour pitch session. Presenters get 3 minutes to introduce each idea, and people can sign up if they are interested in joining that team.
+We encourage, but don’t enforce, teams of 2-4 people. Anything larger makes it tough for all members to be involved and have something to work on.
+We hold the pitch session about 2 weeks before the hackathon. The idea is to give people time to flesh out their ideas ahead of time and request any support needed from our Infrastructure and Security team. This allows groups to hit the ground running when the hackathon begins, rather than realizing that they are blocked on an infrastructure change or spending the entire hackathon trying to reproduce the “hello world” tutorial.
+Hackathon
+We block off two business days, Thursday and Friday, for a hackathon. To the extent possible, we cancel all meetings and deadlines during this time. The easiest way for a hackathon to fail is if everyone feels pressured to do their regular work instead.
+To block this time, we coordinate with all engineering managers ahead of time to ensure there are no major deadlines during the proposed dates. We also work with the commercial team to avoid adding new deadlines during the hackathon days. Doing so usually requires that someone in management champion the hackathon internally.
+Ultimately, we’re always involved with our clients and products, and we must jump in to fix any production issues. However, to make our lives easier we do not deploy new code the day before the hackathon.
+Demo session
+The Monday after the hackathon, we hold a virtual demo session that the entire company is invited to. This avoids making people call into a late night Friday demo, and gives teams the weekend and Monday morning to polish their demos if they need extra time.
+Each team gets five minutes to demo, and the entire company gets to vote on prizes immediately afterward.
+We encourage teams to aim for a proof of concept for the demo – which may mean faking or mocking up parts of the project.
+Virtual Hacking
+Hackathons are all about collaboration, and we wanted to make sure that the collaborative spirit continues during the pandemic. Here are a few things that have been successful for us:
+Zoom breakout rooms. We have a Zoom meeting running during the entire two days, with breakout rooms for each team. Participants can switch between breakout rooms. This creates space for each team to work on their own projects, but also makes it easy to find members of all of the other teams in case you have questions.
+Pair programming tools such as VSCode Live Share that allow teammates to read, edit, run, and debug code remotely in a shared IDE session.
+Grubhub gift cards so that employees can purchase food / drink delivery in lieu of snacks that are typically provided in the office.
+Swag and Prizes
+As is customary, we give branded t-shirts or sweatshirts to all participants. We also give gift cards to the teams that win prizes. Our categories include:
+Most production ready
+Most technically challenging
+Most creative
+Results
+Our hackathons so far have been an overwhelming success. We have seen many amazing demos, provided a space for learning and collaboration, and multiple of the projects subsequently went into production. Projects touched all parts of the stack and the company, from infrastructure to performance to culture (someone built a Slackbot to ask employees what was the highlight of their week and share it in a public channel).
+Thanks for reading! We have several openings for software engineers on all of our teams. Please reach out if you’re interested.
+WRITTEN BY
+Sanjay Siddhanti
+Sanjay Siddhanti joined AKASA as an early engineer in 2019 and currently serves as director of engineering. He has a passion for working on software to help people have a better experience with healthcare. Siddhanti's teams focus on our AI-driven automation platform and data engineering problems. He has a B.S. in computer science and M.S. in biomedical informatics from Stanford University.
+You may also like
+Blog
+Feb 20, 2024 How the AKASA Engineering Team Created an Automation Solution for Database Migrations
+AKASA builds products and tools to improve the various components of revenue cycle management (medical billing) for hospital systems....
+READ MORE
+Blog
+May 1, 2023 ChatGPT and Healthcare: Exciting Potential That Needs To Be Channeled
+Recently I heard that as a fun exercise, the security officer at one of our healthcare clients tried asking...
+READ MORE
+Blog
+Jun 12, 2023 Overcoming the Top 3 Challenges Holding Back Healthcare Innovation
+Healthcare is notoriously slow at adapting and incorporating new technologies into day-to-day operations. Healthcare lags behind as one of...
+READ MORE
+Blog
+Jan 16, 2025 7 IT Mistakes You’re Making With Your RCM Automation Partner
+The right revenue cycle management (RCM) automation is capable of helping healthcare organizations overcome a litany of issues —...
+READ MORE
+Blog
+Jan 16, 2025 Questions Healthcare IT Teams Should Ask About Revenue Cycle Automation
+RCM leaders at your organization are discussing automation. Period. The healthcare revenue cycle is fighting non-stop battles. Staffing challenges...
+READ MORE
+Blog
+Jan 16, 2025 9 Healthcare Technology Trends To Watch
+Keeping track of the rapid changes in healthcare technology is no small task. The industry has seen numerous healthcare...
+READ MORE
+Blog
+Nov 30, 2022 The Gradient Podcast: An Interview on AI and Healthcare With AKASA CTO and Co-Founder Varun Ganapathi
+On a recent episode of the Gradient Podcast, host Daniel Bashir sat down with AKASA CTO and co-founder, Varun...
+READ MORE
+Blog
+Nov 29, 2022 A Facial Focus on Health: My Movember Experience and Commitment to Making a Difference in Men’s Health
+Nearly 20 years ago, two gentlemen and a small group of their friends in Australia decided to bring awareness...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

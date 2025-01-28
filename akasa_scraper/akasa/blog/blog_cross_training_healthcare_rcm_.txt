@@ -1,0 +1,101 @@
+URL: https://akasa.com/blog/cross-training-healthcare-rcm/
+
+Engagement Through Cross-Training in Healthcare RCM | AKASA
+Blog
+Cross-Training in Healthcare RCM: The Secret to a More Productive, Engaged TeamCross-training can help you create a revenue cycle team that’s more productive and highly engaged. Here’s how to make it happen.
+AKASA January 14, 2025
+The Gist
+Healthcare revenue cycle departments are struggling to retain the staff they have, let alone attract new talent. There are countless ways to boost employee engagement and build a dedicated team, but one area often overlooked is training. Cross-training, the practice of training your team on skills outside their original role or background, is a proven way to drive engagement and build a team that’s capable of greatness.
+Blog Contents
+What Is Cross-Training in RCM?
+How Cross-Training Drives Engagement and Efficiency
+4 Tips for Cross-Training Your RCM Team
+Artificial Intelligence: Cross-Training With More Focus
+It’s a scene all healthcare RCM leaders have experienced: an overworked revenue cycle team, aging accounts, high employee turnover, and staff morale so low you can spot it from across the office.
+Employee engagement across every industry is at a meager 36%, leaving a ton of room for improvement. Naturally, everyone wants an engaged team — they’re more productive and more likely to stay with you. But it’s one thing to want an engaged team; it’s another to have one.
+“Every RCM leader’s seen disengaged employees, whether they label them as disengaged or not. They do lower-quality work, they’re more prone to calling in, and they make costly mistakes. It’s on us, as revenue cycle leaders, to create an engaging environment and give our employees and patients a better experience.”
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+Read this first-person story about how Raymond found RCM engagement in the most unlikely of places.
+There are numerous ways to drive engagement, from a multi-faceted approach to leveraging automation to everything in between. One area that’s often overlooked when talking engagement is cross-training.
+Why cross-training?
+There are many reasons, from improved engagement to additional benefits like increased coverage and a more knowledgeable team. First, let’s break down what cross-training entails in the revenue cycle.
+What Is Cross-Training in RCM?
+Typically, your employees are trained on skills pertaining to their initial role or trained out of necessity. The former makes sense, and the latter is often the result of someone being out sick or quitting, which leaves your employees and your department in a panic.
+Cross-training prevents the above fire drill from becoming a reality.
+Cross-training is the practice of training employees on tasks outside their initial role or skill set. For example, say your revenue cycle team is divided by payer. Cross-training, in this instance, could mean training your team on other payers. Or if someone typically focuses on editing claims, giving them training on denials, and so on.
+Aside from the engagement benefits we’ll get to shortly, cross-training makes it possible for your team to step in and help when a teammate is out sick or unexpectedly leaves. This also prevents you from having to quickly train people on how to work other payers or fill other unfamiliar roles, which will help curb any sloppy mistakes resulting from said quick training.
+When you’re already working on a lean staff, and somebody needs off, there’s that panicked moment of, ‘I have no idea who I’m going to get to cover this and how I’m going to make this work.’ In past healthcare operations roles, we tried to have people cross-trained as much as possible, so we could pull from another clinic and shift things around. If something happened, which it always does, we were able to proactively work to get that coverage because of cross-training.
+~ Ashley Mangiulli, Senior Manager in Revenue Cycle Operations at AKASA
+How Cross-Training Drives Engagement and Efficiency
+Cross-training has clear benefits when it comes to coverage and preventing unnecessary hiccups and interruptions. It also helps drive employee engagement and boosts efficiency in multiple ways.
+Cross-training allows for upward mobility
+Ochsner Healthcare System conducted an internal survey and found most of its revenue cycle specialists wanted non-patient-facing roles with opportunities for upward mobility. While RCM specialists want upward mobility, they can’t get that without proper training and opportunities.
+When you’re actively cross-training your team on other payers and responsibilities, you’re allowing your team to learn new skills and develop in new areas. These new skills and responsibilities give your team the experience they need to move up, especially if they’re looking to get out of patient-facing roles and into the business office.
+Cross-training engages through change and learning
+Who doesn’t want to do work that interests them? Cross-training naturally gives employees exposure to more tasks in the revenue cycle, giving them the chance to see if there’s another area or role they’re more interested in than the one they were hired for.
+An added bonus, those actively engaged in learning are 23% more likely to take on more tasks and responsibilities. Cross-training, being a form of training, is a period of learning. This means cross-training can lead to your team taking on more tasks and responsibilities, too. And they’ll have the knowledge to do so, thanks to cross-training.
+4 Tips for Cross-Training Your RCM Team
+The beauty of cross-training is that you likely have all the knowledge you need to make it happen, readily available within your organization. At its heart, cross-training is a form of change management, so care is necessary when embarking on a cross-training path.
+You can follow a few steps to tap into this knowledge and create a team that’s cross-trained and ready to move up and tag in when needed.
+1. Identify needs and shortcomings
+Before you begin cross-training, look at your current revenue cycle processes and determine where frequent needs arise, or if your organization has any shortcomings.
+Are denials a common headache? Are codes often missing from charts? Is one employee excelling in one of these problem areas while others struggle?
+Once you’ve identified shortcomings or challenges, have your employees strongest in these areas lead training and educate others to bridge these gaps.
+2. Leverage senior employees
+Nobody knows your revenue cycle processes like the seasoned employees you currently have working in the thick of it. Those with firsthand experience in your workflows know the granular details of your EHR, which payers take the longest, who to contact for certain denials, and so on.
+Leverage these senior employees and allow them to share the knowledge they’ve accrued working at your organization. Not only will this help your new hires and those cross-training in other areas, but also it allows your seasoned employees to mentor and get leadership experience. This opportunity lets your seasoned employees know you value the experience they bring to the table.
+If you identified problem areas and shortcomings per the previous step, this is a great starting point for senior employees looking to flex their experience and move up.
+3. Set goals and create a timeline
+Like with all efforts, setting measurable goals or milestones is the only way to know if cross-training is having a tangible effect on your RCM. And without a timeline, it’s easy for cross-training to become an unorganized mess that pulls employees from their work, creates stress, and fades away without providing any benefit.
+First, set goals or milestones for your team. Think about the problem areas you identified in the previous step. If claims status checks are taking longer than they should, set a goal around clearing more status checks by 60 or 90 days out from the start of cross-training. Denials higher than you’d like? Make it a goal to reduce them X percent X days after cross-training, and so on.
+Next, set a timeline, both for the goals and the cross-training itself. Your staff still needs to complete work while cross-training, so it’s unrealistic to expect everyone to cross-train 30 hours weekly.
+Instead of pulling employees away from their current roles, figure out a cadence that fits your team’s schedule and rotate every X days or weeks to ensure everyone’s learning new areas without interrupting workflows.
+Lastly, celebrate every victory and milestone hit. Even if your team or an individual fails to reach a goal, celebrate the progress made along the way.
+4. Iterate, iterate, iterate
+The healthcare revenue cycle is constantly moving and changing, and your efforts need to be just as fluid. Your cross-training efforts are no exception.
+Continue to iterate and make improvements to your cross-training program as needed. Say you noticed productivity dipped too severely during cross-training. Revisit the schedule and reduce the time spent cross-training each day, while stretching out timelines.
+It’s also important you collect feedback from your team and tweak your cross-training process based on their responses. If your approach to cross-training isn’t working well with your team or it’s causing them stress, rethink your approach — adjust your goals or timeline to be less aggressive, offer more shadowing and support for those struggling, etc.
+Good help is hard to find in RCM, and the last thing you want to do is burn employees out and drive them away.
+Artificial Intelligence: Cross-Training With More Focus
+Cross-training is a big undertaking, especially with how nuanced and in-depth the revenue cycle is. It costs a resource you likely have little of to spare — time.
+Powerful healthcare AI can take care of repetitive tasks, like claim status checks and prior authorization. Offloading manual, repetitive, and time-consuming tasks from your team allows them to cross-train on more complex, high-value, and meaningful work, like complex denials and improving the patient experience. Not to mention, RCM automation can significantly improve revenue outcomes.
+Cross-training, paired with the right healthcare AI, can help you improve employee engagement, satisfaction, and retention by re-adjusting workloads, reducing burnout, allowing staff to work at the top of their skill set, and empowering your team to do the work they love.
+Read more about how streamlining RCM with technology drives employee engagement.
+The AKASA platform combines generative AI (GenAI) and large language models (LLMs) with a dedicated team of revenue cycle experts. This allows us to deliver resilient, end-to-end healthcare RCM AI capable of growing with your workflows and staff.
+At AKASA, we’ve helped numerous organizations — from physician groups to multi-billion dollar health systems — reclaim precious time and allocate their staff in the most effective, engaging way possible. And we can help you too.
+Schedule a free demo and see how AKASA can help you find the time to create the most engaged, dedicated team of healthcare RCM specialists possible.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

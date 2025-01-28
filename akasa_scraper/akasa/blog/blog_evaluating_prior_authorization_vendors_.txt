@@ -1,0 +1,144 @@
+URL: https://akasa.com/blog/evaluating-prior-authorization-vendors/
+
+How To Evaluate Prior Authorization Vendors | AKASA
+Blog
+How To Evaluate Prior Authorization VendorsLooking for a prior auth vendor and not sure where to start? Ask these questions and make the most informed decision possible.
+AKASA January 15, 2025
+The Gist
+Prior authorization is a necessary, but time-consuming part of the revenue cycle. While the process itself can’t be avoided entirely, it is possible for revenue cycle teams to streamline it with the right prior authorization technology vendor. But the wrong vendor will be more trouble than they’re worth. You need to find a vendor that complements your goals, supports your EHR, comes with scalability, and ultimately aligns with everything you set out to accomplish using prior auth technnology.
+Blog Contents
+1. What Are My Prior Auth Goals?
+2. How Much of My Prior Auth Workflow Does the Vendor Cover?
+3. How Does the Vendor Handle Medical Documentation in Requests?
+4. What Does the Vendor Specialize in?
+5. Will the Vendor Help Me With Other RCM Processes?
+6. What Kind of Tech and Approach Do They Use?
+7. Will the Prior Auth Vendor Work With My Payers and EHRs?
+8. How Does the Vendor Handle Changes to EHRs, Payer Portals, and Rules?
+9. Will the Prior Authorization Vendor’s Service Interrupt Our Workflows?
+10. How Will the Implementation Process Impact My Organization?
+11. What Support Will I Receive From the Prior Authorization Vendor?
+12. Will the Automation Vendor Protect Our Patient Information?
+AKASA: Improving Prior Authorization and Beyond
+Think about the major struggles your revenue cycle team is facing right now. There’s a good chance prior authorization is high on that list. And for good reason.
+Prior authorizations are the second most time-consuming task in the revenue cycle
+Average prior auth request submissions and status checks take 12 minutes and 7 seconds
+84% of physicians say prior auth requests for prescriptions and medical services have increased in the past 5 years
+Average manual prior authorization transaction costs ~$11
+Prior authorization is time-consuming, confusing, and costly — and increasing in volume. It’s an administrative and operational burden for healthcare providers.
+Staff and time are precious, and the last thing you need is staff spending time on manual tasks you can automate out of the picture. Think of all the time your people spend initiating auths or checking on auth status. Now, imagine moving those people to financial clearance or other impactful, revenue-generating areas. If you want to truly improve prior auth workflows, you need to think differently.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+While the government and different organizations have been championing initiatives to reduce the burden of prior authorization for years, these fixes could still be years away — or fail to manifest at all. You need prior auth solutions now.
+Understandably, many healthcare providers are turning to prior authorization vendors in an attempt to reduce or remove the administrative burden of prior auth. With the right technology, you can intelligently navigate complex auth processes, payer rules, and portals, ensuring tasks get done.
+Not all prior authorization solutions are the same — in functionality, pricing, and beyond — so it’s important to ask the right questions that help you secure a prior authorization solution vendor fit for your organization and your unique needs.
+1. What Are My Prior Auth Goals?
+Before finding an external prior authorization vendor, you need to figure out your internal goals. Where are your prior auth pain points? Where are you currently dedicating the most staff? What areas do you need more support? What are the top procedures that require prior auth that cause issues? Is there a payer that demands prior auth more frequently?
+Figure out where your organization needs help — a portion of prior auth or all of it — and get agreement from internal stakeholders. Then align with a solution that matches those goals. The right vendor will help you refine your goals and figure out metrics for measuring them. But you need a clear path forward first.
+2. How Much of My Prior Auth Workflow Does the Vendor Cover?
+When you’re looking at a potential vendor, find out what parts of the prior authorization process they handle. Do they check requirements? Include common supplemental diagnosis and procedure codes when initiating authorizations? Check the status?
+Many vendors streamline easier parts of prior auth, like status monitoring or pre-populating demographic information in auth request forms, but burden your staff with the task of reviewing and submitting the actual auth. With most bolt-on software, your staff is guided through the workflow but still has to do the work. That’s why it’s important to clarify how much work the solution leaves for your team.
+For example, the AKASA platform is capable of determining if a prior authorization is required, gathering the necessary information and clinical documentation from your EHR, submitting the authorization request to payers, checking on the status of those requests, and documenting the results in your EHR. Additionally, we notify payers of inpatient admissions, attaching medical records as required. This gives your staff time to focus on niche or urgent requests, while the bulk of prior auth work falls on AKASA.
+3. How Does the Vendor Handle Medical Documentation in Requests?
+There’s no getting around medical documentation when handling an auth submission. This task should be straightforward, but can mean hunting down documents and navigating systems and portals. And not all vendors will take care of it entirely.
+Ask your potential prior auth vendor how they handle medical documentation for auth requests. Will they find and attach the medical documentation for you? Or do they leave this for your staff?
+For example, AKASA Authorization Management is capable of finding required medical documentation in your system, attaching it, and submitting it with the request — leaving none of the burden on your staff.
+4. What Does the Vendor Specialize in?
+There is an array of prior auth vendors available, many with different specialties and approaches.
+Some vendors offer basic, out-of-the-box, automation for numerous industries. The healthcare revenue cycle is complex, with frequently changing payer rules, increasing prior auth requirements, and a difficult staffing market. An automation generalist will likely lack the first-hand knowledge required to tackle the unique challenges of healthcare RCM.
+Other vendors specialize solely in prior auth. These vendors typically have in-depth insight into this part of the revenue cycle, making them a good fit for organizations looking to mainly ease the prior auth burden for their staff. But if you want to branch out (now or in the future) and automate other RCM processes, you’ll have to supplement a prior auth vendor’s efforts with additional automation. Or change to a revenue cycle automation vendor.
+Lastly, some vendors specialize in healthcare RCM, offering prior auth automation and beyond. These options are great for organizations looking to scale their automation over time. Ask yourself if you’re looking to only streamline prior auth, or if you want a partner that can grow with you and assist with your other RCM needs.
+Be sure to ask about the in-house expertise of the people you’ll be working with — at the leadership level and the day-to-day service level. Do they have staff with proven RCM expertise who will help guide your deployments and partner with you on an ongoing basis?
+Also, many vendors — regardless of specialty area — are bolt-on software that you install or subscribe to. These bolt-on solutions typically incorporate legacy RPA technology, which is limited in automation capabilities compared to a true and advanced AI-powered automation vendor.
+For example, AKASA can  streamline end-to-end RCM processes and has a dedicated team of revenue cycle specialists — with more than 10 years of experience on average — that support our clients and the solution itself during the journey. As former directors of revenue cycle, patient access, coders, HIM managers, and EHR integration and implementation specialists, they have a deep background across all areas of the revenue cycle — including prior auth.
+5. Will the Vendor Help Me With Other RCM Processes?
+About 60% of healthcare leaders use between 50 and 500 point solutions to manage healthcare operations, according to a survey from the College of Healthcare Information Management Executives (CHIME).
+Working with this many platforms and applications results in an overly complicated and stressful process. Organizations need to look for ways to simplify and streamline their processes.
+Some prior authorization vendors do only that — prior authorization. As previously mentioned, scalability is inevitable. It’s important to find a vendor capable of helping with areas outside prior authorization.
+If the vendor doesn’t do anything outside prior auth, you’re left adding on additional vendors to handle other elements of the revenue cycle. This means more vendor relationship management, more time spent finding the right vendor, and more unknown variables as far as functionality, dependability, and interoperability.
+You can plan as much as you want, but sometimes the unexpected occurs. Health systems merge, pandemics break out, new specialties are brought on, fewer appointments are scheduled, and so on. Whether you’re planning on optimizing your processes or simply expanding your automation efforts, it’s important you find a prior auth vendor capable of scaling with you — up and down.
+Ask prospective prior auth vendors how they handle scalability. Is there any change in pricing? What’s the implementation process for additional service lines or payers? Will there be more of a technical burden on you as you scale your services or do they provide support?
+For example, while AKASA offers Authorization Management, we also cover everything from prior auth to eligibility to denials and more. And we can scale with your needs.
+6. What Kind of Tech and Approach Do They Use?
+If you’re looking at a prior authorization solutions vendor, it’s important to understand what kind of technology and approach they use. Are they using robotic process automation (RPA)? Is it scripts and bots developed for other industries and adapted to RCM? Are they leveraging artificial intelligence (AI), machine learning (ML), or some combination of the two? Is there any human element involved?
+It’s not uncommon for prior auth vendors to use unclear language and buzzwords about their technology, making it difficult to discern their full capabilities. Dig into this before signing any contracts to understand what’s happening behind the scenes.
+Many prior auth vendors use a “bolt-on” solution, meaning your team needs to learn a new tool, navigate additional software screens or portals, and complete portions of the work — like manually review and submit the auth after the bolt-on solution pre-populates some of the information for you.
+Is the vendor sending electronic transactions (EDI 278) to payers in order to request prior auths? This technology isn’t always the most comprehensive solution, as only some payers support the 278 transactions. It can often only support limited clinical details, allow for a single procedure, and return insufficient status information.
+Some use RPA, which is great at handling linear tasks and pieces of prior auth. But whenever RPA runs into an outlier, it breaks and requires costly maintenance. This means the work stops, support is needed (an added burden for you if the vendor doesn’t provide it), and queues continue to grow. Or, even worse, the work continues incorrectly — leading to costs to fix, large backlogs, and work that needs to be redone.
+Another class of prior auth vendors integrates more advanced automation technology. For example, when RPA is combined with AI, ML, and human support, it’s capable of navigating the complex workflows of prior auth and has little chance of interrupting processes. To ensure the automation will help your team without creating headaches, it’s important to clarify with the vendor how they approach automation for this very reason. If they’re using RPA, which is likely, ask them what kind of support they offer and how their RPA is supported.
+AKASA uses a combination of generative AI, large language models, and a team of dedicated RCM experts. Our technology continuously learns from the responses and results of submitted auth requests, flagging our RCM experts to handle and train it on new complexities. The work never stops, and platform only gets smarter and more efficient over time.
+“Machine-learning-based technologies such as AKASA have been critical to ensuring our teams can provide rapid turnaround for verifying eligibility, covered benefits, and securing an authorization.”
+~ Cynde McCall, Director of Patient Access and Health Information at Methodist Health System
+7. Will the Prior Auth Vendor Work With My Payers and EHRs?
+Prior auth —and the revenue cycle in general — suffers from a lack of standardization. Everything is done differently, with different rules and processes. You need a vendor that understands that and can adapt.
+Some vendors work or partner with a specific payer or electronic health record (EHR) company. Others, while not backed by a payer, only work with a select few payers or portals. Ask your vendor which portals and payers they’re compatible with to ensure they match your needs.
+Keep in mind, the wider range of compatibility a vendor has, the better. You might use a certain EHR now, but if you change down the road and the vendor can’t provide prior auth services in that platform, it might not be the right solution for you.
+For example, AKASA’s platform is capable of working with major payers and EHR platforms — regardless of bolt-ons and custom workflows. We are also the Cerner-preferred automation platform, offering additional efficiency for Cerner customers.
+One of the things that we wanted to make sure that we had is a partner who could work through the challenging workflows that we decided to choose to start off with. But then also someone who could accommodate those changes with the payers and with Cerner.
+~ Cari Benshoof, Director of Patient Access at University Health
+8. How Does the Vendor Handle Changes to EHRs, Payer Portals, and Rules?
+Change is inevitable in healthcare — portals update, EHR fields move, and auth requirements shift multiple times throughout the year. How your prior auth vendor handles this change is essential to keeping things operating smoothly.
+Ask prior auth vendors you’re vetting how they handle these kinds of changes. Do they have to manually update individual bots? Is there any IT burden on your team that you’d need to scope? What kind of downtime or workflow interruptions should your team expect?
+Ideally, a prior auth vendor can take care of changes without interrupting any of your operations, but this isn’t always the case.
+9. Will the Prior Authorization Vendor’s Service Interrupt Our Workflows?
+Depending on the software or technology the prior authorization vendor is using, workflow interruptions can occur. These interruptions can result from the software itself running into issues, or be the indirect result of your team having to spend time training for a new tool.
+While long-term gains may come as a result of using a prior auth vendor, why should current operations take a hit?
+Our Authorization Management solution seamlessly integrates into most existing workflows without interruption — including interruptions stemming from staff training. The technology sits on top of your existing workflows and EHR, enabling your staff to quickly complete their work without clicking from one platform or screen to another.
+10. How Will the Implementation Process Impact My Organization?
+A prior auth vendor is likely using some kind of automation. As previously mentioned, this often involves installing software. Does the vendor need to visit your organization, set the software up, and shadow your team? Or will the onus of implementation fall on your team?
+Ask the vendor detailed questions about their implementation process to gauge how much of the technical burden falls on you. Does the vendor handle some or all of the implementation? If they don’t, what kind of stakeholders will you have to involve in the process? Keep in mind, anyone you have to involve is being taken away from their usual work, which likely means workflow interruptions elsewhere.
+Ideally, a prior auth vendor’s implementation should be as low lift as possible. For example, AKASA requires no in-office shadowing, no installation of bolt-on software to process tasks, and limited (if any) additional training for your team. It’s all done remotely, following the highest data protection industry standards.
+11. What Support Will I Receive From the Prior Authorization Vendor?
+Many prior authorization vendors use automation, or some form of it, to streamline the process. Ideally, this should put little technical burden on your RCM and IT teams. This isn’t always the case, however.
+Some vendors ask that organizations install bolt-on software, learn the ins and outs of the tool, and handle any complications that arise. Or try to upsell you on expensive consultation support packages to get things fixed.
+Ask prospective vendors how they handle support when the automation runs into something new, like a payer portal change.
+For example, when our technology encounters something new, it tries to solve the problem. If it can’t, it triages it to our dedicated team of revenue cycle experts to complete the work and train the automation to learn what to do the next time it encounters the problem.
+Our dedicated team of revenue cycle experts (a human-in-the-loop) step in to complete the work and teach the technology what to do the next time it encounters this problem. The work just gets done.
+The human-in-the-loop is really important to help us know quickly that a change has been made and not cause us unnecessary delays or denials of authorizations because of a change that’s been made within either a payer portal or within our EHR.
+~ Cari Benshoof, Director of Patient Access at University Health
+12. Will the Automation Vendor Protect Our Patient Information?
+Prior authorization automation requires data — there’s no way around it. When patients come to your organization, they’re trusting you to care for them and their protected health information (PHI). You follow HIPAA regulations around data, so it’s only fair your automation vendor treats data with the same respect.
+Ask your potential prior auth automation vendor what kind of security protocols they follow. Is there encryption in place when they access your data? Are they HIPAA compliant? What kind of action plan do they have in the event of a breach?
+For example, at AKASA we’re HITRUST certified and Soc 2 Type 2 certified, as well as HIPAA compliant. Our solution is hosted on AWS servers, which are built on a foundation of industry-leading security standards.
+Simply put: We treat your data as if it were our own.
+We understand the importance and sensitivity of the patient data we touch as part of the revenue cycle. At AKASA, we take security — and in turn the security of our clients and their patients — very seriously. By making it our top priority, we protect not only our business but also the availability, integrity, and confidentiality of PHI.
+~ Andy Atwal, Co-founder and VP of Engineering at AKASA
+AKASA: Improving Prior Authorization and Beyond
+There are many prior authorization vendors available in the market today. But not all of them have the expertise, advanced technology, or holistic offering to support today’s fast-moving and ever-changing healthcare environment.
+At AKASA, our platform is purpose-built for healthcare and RCM. This unique combination of GenAI, LLMs, and human experts allows our Authorization Management solution to deliver holistic prior authorization streamlining.
+From auth determination to initiation and submission to status checks to inpatient notifications, Authorization Management gives your team back precious time. It resolves more prior authorizations, improves turnaround time, eases staff burden and frustration, and enables timely patient care. This allows your team to focus on patient engagement, tackle phone calls with payers and other tasks requiring the human element, and work on optimizing your healthcare revenue cycle to obtain even more timely reimbursement.
+To learn more about our Authorization Management solution and see it in action, watch a free demo of our solution  quickly completing an auth initiation, submission, and status check.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

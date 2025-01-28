@@ -1,0 +1,30 @@
+URL: http://akasa.com/platform/trust-security/#features
+
+How AKASA Handles Data | AKASA
+PLATFORM
+Trust & Security
+The protection of your data is our priorityWe understand your concern and caution about sharing sensitive data. As a HIPAA-compliant, HITRUST-certified, and SOC 2-certified company, we protect your data at all costs.
+REQUEST DEMO
+Overview
+Benefits
+Features
+Privacy and security compliance Tools and automation requires data. There’s no getting around that. But, unlike many other vendors in the revenue cycle technology space, we don't require any on-premise installations and have multiple options to exchange data securely. Our HIPAA-compliant security infrastructure is built on a foundation of the highest industry standards, including HITRUST CSF, SOC 2, NIST-800-53, and CIS. Our dedicated IT team does the heavy lifting and takes any security concerns or risks off your plate. In the event of a flagged security concern during our 24/7 monitoring, we’ve developed a detailed Incident Response Policy to keep your data and organization safe.
+Safety measures that matter
+EncryptionWe employ ZeroTrust VPN and FIPS 140-2 compliant data-at-rest and data-in-transit encryption protocols and keys, which are employed with complete user lockdown and privilege controls.
+BenchmarkingWe utilize CIS Level 1 hardening standards and Industry Best Practices within our AWS infrastructure. CIS benchmarks are accepted in business, industry, and government use, and require strict adherence to safety.
+Access auditingAny access to PHI data is logged with detailed information. In the event of a suspected breach, we have documented security protocols we quickly put into place to keep information secure.
+24/7 monitoringWe monitor our automation 24/7, with strict access monitoring metrics established. Any deviation for our automation or relating to access immediately triggers our alerts and response protocols.
+In-depth defense and layered security
+Many tiered security groups
+Network and host-based firewalls
+Network and sub-network isolation
+Multi-factor authentication
+A low attack surface
+AKASA achieves SOC 2 type 2 certification
+Everything as code
+Infrastructure
+Accounts and payments
+Auditing and compliance
+Product documentation and defenses
+Streamline your operations with a platform that protects your data.
+REQUEST DEMOCONTACT US

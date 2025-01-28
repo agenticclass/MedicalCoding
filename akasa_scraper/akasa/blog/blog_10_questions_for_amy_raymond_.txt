@@ -1,0 +1,116 @@
+URL: https://akasa.com/blog/10-questions-for-amy-raymond/
+
+10 Questions for Amy Raymond | AKASA
+Blog
+10 Questions for Amy Raymond, Head of Revenue Cycle Operations at AKASA
+AKASA July 10, 2024
+The Gist
+Get to know Amy Raymond, Vice President of Revenue Cycle Operations at AKASA, and see how her life-long revenue cycle journey led her to where she is today.
+Blog Contents
+1. What’s your role at AKASA?
+2. How did you get started in revenue cycle?
+3. Are you a morning or night person?
+4. Why did you join AKASA?
+5. What’s it like being a military spouse?
+6. How do you relax?
+7. If you could do another job for just one day, what would it be?
+8. What do you think makes someone successful at AKASA?
+9. What’s your favorite holiday?
+10. What AKASA value is the most meaningful for you?
+As a part of our People of AKASA series, we’re interviewing the folks behind the brand. From engineering to revenue cycle operations to customer success to culture, here are the people building the future of healthcare with AI.
+Today, meet Amy Raymond (she/her), VP of revenue cycle operations, and learn how she got started in the revenue cycle at 15 and why this is her dream job. Connect with Amy on LinkedIn.
+There’s an openness here at AKASA that is so wonderful — everyone’s voice is heard. I get to talk about the things that were pain points during my years in revenue cycle and how to make them better. I’m sitting with artificial intelligence (AI) and machine learning (ML) geniuses who respond: okay, let’s see if we can build this or fix that. It’s amazing.
+~ Amy Raymond, Vice President of Revenue Cycle Operations at AKASA
+1. What’s your role at AKASA?
+I head revenue cycle operations (RCO), ​​the revenue cycle expertise backbone for AKASA. When they first formed the company, the founders identified the need for strong revenue cycle expertise to balance out the existing engineering expertise. They had a great idea and mission but knew that they needed to have a specific revenue cycle skill set within the organization as a leader at the table to help grow true to revenue cycle and keep it at the center of what we build.
+I’ve worked in revenue cycle for 25 years and was always the employee grumbling about why we couldn’t do something better, smarter, or differently. Because of that, I ended up getting slotted in process improvement or implementations of new systems, working with IT or engineering to develop different tools.
+This is my dream job.
+I’m getting to solve the problems. If you’ve worked in rev cycle for a long time, especially on the health system side, you often feel like you’re constantly reporting the same problem or a new generation of the same problem. Now I get to talk about the things that were pain points during my years in revenue cycle and how to make them better. I’m sitting with artificial intelligence (AI) and machine learning (ML) geniuses who respond: okay, let’s see if we can build this or fix that. It’s amazing.
+RCO has three teams:
+The largest one is a production-oriented team that is the “expert-in-the-loop” part of our  Unified Automation™ platform. These team members do a lot of data labeling and validation for all of the work for our customers.
+There’s also a development team that does manual validation of the workflows that we’re automating.
+The third is a project team, which is our subject matter experts that are customer-facing and work to understand all of the workflows and desired outcomes from our customers. They do a lot of process mapping and write the initial spec for engineering. They work with engineering through the entire build to ensure that all of the requirements are being met and that what we’re building will actually achieve the goals of our revenue cycle leader customers.
+I love the work my teams do and have done it myself in previous roles, as well as here at AKASA. I am proud to have such an amazing collection of people working towards the goal of enabling human health.
+A lot of what I do personally is working with the implementation process overall, resource management within RCO, and making sure that all of these teams are serving all of our internal needs, as well as our customer needs.
+I’ve always been more interested in the operational side of organizations: the people, change management, staffing, and process. So this fits me perfectly.
+2. How did you get started in revenue cycle?
+I was 15 and needed a summer job. My friend’s dad owned a medical billing company and hired me. It was my first job. I was a high school kid sorting paper claims. One of my highlights of that summer was being allowed to use the patient accounting system to update addresses.
+I started reading why the claims were returned and asking why. If the patient had heart surgery and the billing assignment was for a cardiothoracic surgeon, how could they just not get paid for it? I couldn’t believe how complicated it was. The response from my coworkers? Yes, that’s the whole reason we have a job.
+By the end of the summer, they were letting me call and check the status on claims. I thought it was pretty amazing and worked there every chance I could throughout high school. I even paid for college by working full-time there, going to school at night.
+When I graduated college, I was managing a team of 20 registration staff and decided I really liked what I was doing and stayed in rev cycle.
+From there, I ended up working in many different settings: From a follow-up biller and team lead to a practice manager for physician practices to ​​head of revenue cycle for a large health system’s home care division to director of revenue cycle for a consulting company.
+Since that first job at 15, I never left the healthcare revenue cycle.
+3. Are you a morning or night person?
+I’m an 11 am to 2 pm person.
+4. Why did you join AKASA?
+I was sold when I saw the technology.
+When I was introduced to AKASA by Ben Beadle-Ryby (a former colleague and AKASA’s co-founder and VP of sales and customer success), I received a behind-the-scenes look at some of the internal, proprietary software we use. It wasn’t the state-of-the-art machine learning technology or how we were building customized experiences to solve direct customer pain points that first drew me in.
+It was the technology we used to track current staff processes and measure productivity.
+From being in the trenches of revenue cycle and being a revenue cycle leader, I’ve had a lot of experience trying to figure out what my staff was doing and make the correct forecasting and resourcing decisions. I’ve been struggling with these issues literally my entire career.
+When Ben showed me the program, the data labeling capabilities, and the analytics that can come from it, I thought it was insane. This technology isn’t even what AKASA is selling to customers. It’s just a small piece of how we learn what we need to solve. If I had access to only this as a revenue cycle leader, I could have doubled a team’s productivity.
+If you want to learn more, we recently compiled some of this data into a report: New Productivity Benchmarks for the Healthcare Revenue Cycle.
+Then, Ben started talking about AKASA’s expert-in-the-loop process, and my mind exploded. For every piece of automation or technology I’d ever implemented, I always had to shift people to work in this new API, and it only did part of the process. There was always something lacking. AKASA was finally the whole picture. AI + ML + humans.
+5. What’s it like being a military spouse?
+I was 35 when I married my husband, who is an aviation electrician for the Navy. It was a whole different world for me. I met him in Dallas, and we’ve moved from Dallas to Pensacola to Washington to Corpus Cristi, Texas. I’m from Texas, so was happy to come back.
+We’ve had babies in two states. At our last duty station, he had two deployments and was gone for one of the three years we were there — one of which I was pregnant and one when I had a one-year-old and a two-and-a-half-year-old at home. Our sons are now five and three. I thought my whole life God meant for me to raise a strong woman, but instead, I’m raising little men to respect strong women.
+Even before becoming a military spouse myself, I had great respect for them. My grandmother and two grandfathers were in the military during WW2 and my grandfather earned a Silver Cross for bravery in battle at the age of 18. I have made so many military spouse friends who are nurses and executives, brilliant people who couldn’t take their jobs with them when they moved. There’s a stereotype that military spouses stay at home and take care of babies. I’ve learned that’s often because they move every couple of years, their spouses are gone, and it’s hard to have a career. Given that daycares are full in almost every military installment worldwide, working outside the home feels practically impossible. In this era of remote work, it’s slightly easier, but it’s still challenging.
+When I became a military spouse, I was a senior-level revenue cycle leader. I had had a career my entire life, and I felt lost. Did I really have to change careers? This experience opened my eyes and empowered me to say: “No, this is going to happen. And not only that, but I’m going to bring as many people with me as I can.”
+When I started at AKASA, I made it a point to hire people from the military spouse community who maybe didn’t know the revenue cycle but had many other applicable skills.
+And it has worked. The ones that we’ve brought on have been amazing. Whenever I find military spouses who have worked in the revenue cycle, I try to pull them onto my RCO team. I know how hard it is to keep that experience and that career progression going. I’m super proud of being able to support my community in this way.
+6. How do you relax?
+I crochet. I find it incredibly calming. Regardless of what else is going on in life, I crochet.
+My grandmother taught me when I was young. She crocheted everything: tiny doilies out of thread, whole dresses for dolls, and a baby blanket for every baby born in a 50-mile radius.
+I do a lot of crochet charity work also. I work with a nonprofit called Warm Up America and either crochet sections or piece them into blankets and then donate the blankets locally. I also make prayer shawls for local cancer centers and hospices, and baby blankets for everyone at AKASA that has babies.
+7. If you could do another job for just one day, what would it be?
+A surgeon. I love the gory stuff. I once had a job as an assistant for surgeons, and I loved it. Now, I watch all the open heart surgeries on TV. The other day my five-year-old walked past the TV and asked, “Why is there a steak in that guy’s chest?” I responded, “Oh, that’s a beating heart. Sorry, son,” and changed the channel.
+8. What do you think makes someone successful at AKASA?
+Creativity and the ability to be bold. You can’t be afraid to bring up a new idea. We value and appreciate that more than anywhere I’ve ever worked in my life. Thinking outside the box isn’t always rewarded in many organizations. But here at AKASA, we collaborate, encourage, and embrace new ideas and different ways of thinking.
+I think being a self-starter and being motivated also is critical. What we do is different than anything anyone in the revenue cycle industry has ever done. Being able to navigate that can be a different skill set.
+We’re also a startup. Everyone is digging in and working hard. I label claims, just like I have high-level conversations about how to think about our products. We all pitch in.
+Within the RCO team, in particular, we hire for lots of different roles with a variety of backgrounds. When we hire project lead team members, for example, we look for people with deep revenue cycle expertise and experience with project management, implementation, and consulting. Maybe they worked on the EHR side as an architect and have a unique ability to take a problem, develop a streamlined solution, and then communicate that to engineers. That’s the most challenging role to fill because it is such a unique skill set.
+9. What’s your favorite holiday?
+Thanksgiving. It’s the biggest gathering in our family, with both sides of the family coming together. It also feels like a low-stress holiday, with a total focus on gathering with family and friends…and lots of good food.
+We’ve also always done a Friendsgiving with all of our military friends. Tons of people will come whether you know them or not.
+10. What AKASA value is the most meaningful for you?
+I’m personally attached to this value for an important reason: medical bills are the most common cause of bankruptcy in the U.S. I grew up in a family buried in medical debt and with little understanding of the healthcare reimbursement system. This is personal to me.
+What we do in the revenue cycle can help. The revenue cycle provides money and resources for healthcare organizations to offer better patient care. Doing it well results in a better patient experience, with more timely information to the patient, and, hopefully, fewer surprise medical bills and a less likelihood of extreme financial hardship.
+I had a point in my career when I started questioning why I was in the revenue cycle. I had thought my calling was to be helping patients, and here I was adding numbers.
+At that time, there was a reorganization, and I ended up working directly under the chief nursing officer — a unique situation for a revenue cycle director. This was a hospice space, and I had to get a lot more involved in compliance, which is extremely nuanced. This experience showed me that what we do in the revenue cycle is really helping the patient. We may not be seeing them with our eyes or touching them with our hands, but the work we do puts them first. If we do our job well, it allows them to die with dignity and allows their families to be able to have that support — without the concern that they’re going to lose their house.
+In revenue cycle, we’re supporting patients. Our job is all about being empathetic and creating a better patient experience. Leading with empathy is key.
+I also think leading with empathy is extremely important when it comes to working with AKASA’s customers in health systems and revenue cycle teams. These are the people at the front lines. They are the registrars and the front desk staff who have been screamed at during COVID, that have held family members’ hands when their loved ones were dying,  that have been getting sick, that have in some cases lost their own lives. These are the people we’re serving. The ability to help those teams operate well and focus where they need to focus is vital.
+I wouldn’t be in revenue cycle still if it weren’t about putting the patient first, and at AKASA, leading with empathy.
+You may also like
+Blog
+Nov 29, 2022 A Facial Focus on Health: My Movember Experience and Commitment to Making a Difference in Men’s Health
+Nearly 20 years ago, two gentlemen and a small group of their friends in Australia decided to bring awareness...
+READ MORE
+Blog
+Nov 13, 2023 Becker’s Hospital Review Podcast: An Interview with AKASA Co-Founders
+On a recent episode of the Becker’s Hospital Review Podcast, Scott Becker sat down with AKASA co-founders, Malinka Walaliyadde...
+READ MORE
+Blog
+Aug 9, 2024 Senior Software Engineer Armaghan Behlum on Why He Joined AKASA
+It’s been nearly two years since I left Verily, an Alphabet company focused on using advanced technology to improve...
+READ MORE
+Blog
+Jun 17, 2022 9 Trends from HIMSS 2022
+A World Unto Itself It’s difficult to communicate the sheer magnitude of the 2022 HIMSS Global Health Conference &...
+READ MORE
+Blog
+Jul 27, 2022 10 Questions for Military Spouses at AKASA
+There are more than seven million military spouses in the United States, between active duty and surviving spouses of...
+READ MORE
+Blog
+Jul 10, 2024 10 Questions for Amy Raymond, Head of Revenue Cycle Operations at AKASA
+As a part of our People of AKASA series, we’re interviewing the folks behind the brand. From engineering to...
+READ MORE
+Blog
+Dec 5, 2024 Using Machine Learning to Enable Autonomous Medical Coding
+It’s no secret that the healthcare industry is complex. Medical coding, the act of transcribing each medical condition into...
+READ MORE
+Blog
+Jul 25, 2022 10 Questions for Sanjay Siddhanti, Director of Engineering at AKASA
+As a part of our People of AKASA series, we’re interviewing the folks behind the brand. From engineering to...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

@@ -1,0 +1,58 @@
+URL: https://akasa.com/blog/ahima24-report-for-medical-coding-leaders/
+
+AHIMA24 Report for Medical Coding Leaders | AKASA
+Blog
+AHIMA24 Report for Medical Coding Leaders
+Justin BarlowNovember 19, 2024
+The Gist
+AI's transformative role in healthcare coding took center stage at AHIMA24, highlighting how it supports accuracy, enhances team efficiency, and boosts revenue cycle outcomes. In his latest post, Justin Barlow, managing director at AKASA, shares key takeaways from the conference.
+Blog Contents
+1. AI Integration in Coding and CDI
+2. Role of Human-AI Collaboration
+3. Data Utilization for Quality and Revenue Gains
+4. Educational Insights on AI, GenAI, and LLMs
+5. Patient-First Focus
+6. Vendor Insights and Tech Exploration
+7. Preparing for AI’s Future in Healthcare Coding
+This year’s AHIMA conference in October in Salt Lake City underscored AI’s rapid evolution and potential impact on healthcare coding and clinical documentation improvement (CDI). The conference focused on practical AI applications and critical trends in documentation accuracy, data integrity, and workforce support. Sessions addressed significant advancements in clinical quality, data security, prior authorization, and coding accuracy — all crucial elements for coding leaders navigating the integration of AI into their teams.
+Here are some of the key takeaways:
+1. AI Integration in Coding and CDI
+AI is now positioned as a support tool rather than a replacement. Many sessions highlighted that AI can act as a CDI assistant, helping teams prioritize tasks, identify unflagged diagnoses, and ensure high chart review accuracy.
+Discussions emphasized that AI-driven CDI empowers staff by managing routine tasks and allowing coders to focus on more complex cases. Coding teams can practice at the top of their license, enhancing productivity and reducing burnout.
+2. Role of Human-AI Collaboration
+Sessions made it clear that AI works best when combined with human expertise. Leaders are encouraged to frame AI as a collaborative partner in coding — not as an “autonomous” replacement. AI systems were highlighted as tools to augment, not supplant, staff, which addresses workforce concerns around job security.
+Coding leaders should consider implementing AI governance strategies to ensure proper integration, ethical use, and accountability in AI-assisted coding processes.
+3. Data Utilization for Quality and Revenue Gains
+Presenters underscored the importance of full data access — progress notes, lab results, medications, orders, radiology, and pathology — to achieve the highest clinical insights and quality opportunities. Leaders should prioritize vendor solutions that use comprehensive data sources for better clinical and financial accuracy.
+Real-world examples from the conference conveyed that using complete datasets helps capture missed revenue and quality opportunities, supporting organizational goals without sacrificing coding accuracy or quality.
+4. Educational Insights on AI, GenAI, and LLMs
+Terminology around AI, generative AI (GenAI), and large language models (LLMs) varied among vendors and presenters, creating some ambiguity for attendees. Coding leaders may find value in simplifying definitions for their teams and fostering an understanding of how these technologies apply to their work. Clarity will be essential in helping staff align on AI’s practical benefits.
+Training on AI and ongoing staff education were recommended as critical factors in implementing AI in coding teams. Leaders should prioritize AI that offers transparency and encourages learning through validation, using AI to enhance quality metrics in coding accuracy and documentation completeness.
+5. Patient-First Focus
+Sessions emphasized the patient-centric role of coding and encouraged leaders to upgrade traditional metrics to reflect quality impact and patient outcomes, in addition to revenue cycle efficiency.
+6. Vendor Insights and Tech Exploration
+Multiple vendors showcased solutions aimed at improving coding accuracy, automating denial management, and supporting CDI efforts. Noteworthy AI tools were designed to help identify missing diagnoses and opportunities for revenue recovery while also reducing denials.
+Coding leaders may consider vendors that integrate directly into existing workflows, minimizing the need for additional logins or interfaces. Leaders are encouraged to ask vendors about data utilization, model training and accuracy, and transparency to ensure alignment with organizational priorities.
+7. Preparing for AI’s Future in Healthcare Coding
+Coding leaders are tasked with bringing insights back to their teams, preparing for AI integration with ongoing training and transparency around the technology. Establishing clear guidelines on data accuracy, model oversight, and accountability will be essential as AI tools are adopted.
+Leaders may benefit from familiarizing their teams with emerging tools and encouraging adaptability to new technologies while prioritizing patient-centric quality metrics over volume-based measures.
+In Summary
+AHIMA24 highlighted the significant role of AI in shaping the future of coding. Coding leaders are encouraged to view AI as a powerful assistant that supports accuracy, quality, and team efficiency. By selecting AI solutions that align with data-rich, patient-focused goals and implementing strategic governance, coding teams can be well-prepared to drive both revenue gains and documentation quality improvements.
+WRITTEN BY
+Justin Barlow
+Justin Barlow, managing director at AKASA, is a senior healthcare executive with more than 15 years of experience in revenue cycle management, healthcare automation, and AI-driven solutions. His background bridges healthcare operations with advanced technology solutions to optimize performance and outcomes. As a management consultant at Huron and a go-to-market leader at athenahealth, Barlow spearheaded automation initiatives for claims processing and utilization management. He has led revenue cycle projects that enhanced billing transparency and accountability, ultimately driving significant revenue recovery. Barlow’s leadership in managed care and total cost of care strategies has enabled partnerships and innovative solutions, aligning with value-based care principles. He holds an accounting degree from West Virginia University and a master’s of health administration from the Ohio State University.
+You may also like
+Blog
+Nov 19, 2024 AHIMA24 Report for Medical Coding Leaders
+This year’s AHIMA conference in October in Salt Lake City underscored AI’s rapid evolution and potential impact on healthcare...
+READ MORE
+Blog
+Nov 8, 2024 Why Medical Coding Needs Generative AI
+When you think of medical coding, you immediately think of Salt Lake City. Or at least you did recently....
+READ MORE
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

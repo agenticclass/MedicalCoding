@@ -1,0 +1,73 @@
+URL: https://akasa.com/blog/the-revenue-cycle-of-the-future/
+
+The Revenue Cycle of the Future | AKASA
+Blog
+The Revenue Cycle of the FutureFor decades the healthcare revenue cycle has remained largely unchanged. While technology has come into play, the processes themselves have been stagnant. Until now.
+Ben Beadle-RybyJanuary 22, 2025
+The Gist
+How new technological advancements like artificial intelligence and machine learning have the potential to reshape the healthcare revenue cycle, driving changes to workflows, processes, and key metrics.
+Blog Contents
+A New Paradigm in Revenue
+Reaching New Performance Levels
+Embracing Change
+For more than 10 years, my professional life has been devoted to improving finance operations for healthcare providers, with a focus on revenue cycle performance. Over those years and across the more than 150 health systems that I’ve had the privilege to work with, I’ve seen the trends or hot topics that become a focus for every group. From initiatives born out of regulatory need like adopting the International Classification of Diseases, Tenth Revision or ICD-10; to industry investments in areas like clinical documentation improvement (CDI); to the ongoing effort to re-engineer the patient financial experience to both improve patient satisfaction and capture patient collections. There have been clear collective industry movements that shape our ongoing efforts to achieve better margins in order for healthcare providers to better deliver on their mission.
+Today, we are on the precipice of the next industry movement that will fundamentally reshape revenue cycle management at every health system. Specifically, our industry is now in the early stages of a profound migration from the resource-intensive, manually-driven revenue cycle organization in place today to lean, nimble, AI-driven departments that provide critical strategic insights for health system leaders. This transition hinges upon an idea that is only now coming to fruition thanks to huge advancements in large language models (LLMs) and generative AI (GenAI), powering technology that can streamline broad swaths of the time-intensive work being performed today.
+A New Paradigm in Revenue Cycle Operations
+Instead of revenue cycle departments being composed of hundreds or thousands of specialists that are tirelessly working to combat third-party payer challenges in order to capture revenue, the revenue cycle of the future will look like a boutique department, composed of strategic leaders and analytical managers that are deploying their select experts alongside virtual teams that perform work automatically. Those virtual teams will drive workflow and process from start to finish, supporting existing manual processes:
+Scheduling to directly initiate insurance verification, eligibility, prior authorization, and outpatient medical necessity checking
+Generating accurate patient financial estimates and supporting patients in completing those payments pre- and post-service
+Facilitating real-time CDI and physician documentation support
+Coding
+Claims edits, adjudication, and processing
+Payer follow up
+Denials appeals
+Underpayments identification and appeals
+Reaching New Performance Levels
+The AKASA platform changes the way we benchmark and perform against key metrics that are measured today. Consider cost to collect for example:
+Over the last several years, industry averages for cost to collect have been stagnant, hovering right around 3% of Net Patient Revenue
+The reason for that is because we continue to throw armies of people at the problem, when we should be asking ourselves how can we accomplish more with less
+In the next few years, for the first time ever, we will see best practice health systems achieve a cost to collect that is less than 1 percent of net patient revenue.
+How about accounts receivable? Gains in A/R days across the industry have been incremental at best over the past few years. What about initial denials rates and appeals success rates?
+We will see best practice organizations achieve less than 30 days in A/R; we will see initial denials shrink to less than 1 percent of total claims due to predictive ML that fixes claims that would have been denied before they even go to the clearinghouse.
+We will see all of these things because of category-changing technology that will take the place of the current technologies that merely augment current practices and instead will be the backbone of our revenue cycle operations. Fundamentally moving these metrics to meaningfully improve margin is going to require a new technology and approach that shifts how we work. The AKASA platform delivers the advanced technology and the comprehensive approach needed to make this all happen.
+Embracing Change
+These are exciting, needed changes that are coming to healthcare organizations of every size. The organizations that will benefit the most are those that embrace these changes and begin planning and reorienting their department structures early on. By starting to deploy GenAI-based solutions to discrete, core revenue cycle functions and then expanding that technology throughout the entire revenue cycle, leaders can set themselves and their organizations up for a successful transition to becoming am AI-driven department. The AKASA platform is trained on your specific EHR data, allowing it to streamline RCM tasks with extreme accuracy. And if anything ever goes wrong, our in-house team of RCM experts is there to help.
+At AKASA, we believe every dollar spent on healthcare matters, because healthcare matters to everyone. We also believe that advanced GenAI-powered RCM technology can fundamentally shift revenue cycle operations in a manner that significantly lowers the cost to collect and enables health systems to be better stewards of the healthcare dollar. And we’re here to help.
+WRITTEN BY
+Ben Beadle-Ryby
+Ben Beadle-Ryby is senior vice president of sales and customer success and co-founder of AKASA. Beadle-Ryby has nearly 15 years of experience as a healthcare economist, specializing in technology and consulting solutions to address financial challenges for hospitals and health systems. Prior to AKASA, Beadle-Ryby was a partner at the Advisory Board Company and at Optum, leading revenue cycle consulting growth and delivery. During his career, he has worked with more than 200 provider organizations across the country, delivering long-term operational improvements. Beadle-Ryby has a degree in mathematical economics from Colorado College.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

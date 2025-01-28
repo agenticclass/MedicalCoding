@@ -1,0 +1,128 @@
+URL: https://akasa.com/blog/automation-and-outsourcing-evaluating-options-for-healthcare-revenue-cycle-management/
+
+Healthcare Revenue Cycle Management Strategies | AKASA
+Blog
+Automation and Outsourcing: Evaluating Options for Healthcare Revenue Cycle ManagementShould you look to automation or outsourcing to solve your healthcare revenue cycle challenges? Each one offers different benefits and drawbacks. It's about figuring out which healthcare revenue cycle management strategy is right for your organization. Here's what to consider.
+AKASA December 05, 2024
+The Gist
+As revenue cycle management (RCM) has become more complex and challenging, automation and outsourcing each offer distinct solutions for efficiency. Specific technologies deployed to support automation — ranging from robotic process automation (RPA) to robust generative artificial intelligence (AI) and machine learning (ML) — determine its overall utility, compared to outsourcing across the revenue cycle.
+Blog Contents
+Applying Automation and Outsourcing to Healthcare RCM
+4 Healthcare Revenue Cycle Management Challenges Automation or Outsourcing Can Solve
+Automation vs. Outsourcing in Healthcare RCM
+How Healthcare RCM Technologies and Automation Have Evolved
+What to Consider Before Implementing Healthcare RCM Automation
+Healthcare RCM started as the financial process that hospitals and healthcare systems follow to manage all of the administrative steps in identifying, processing, and collecting patient revenue. Everything from billing customers to collecting payments.
+While the above definition is largely true, the overall process of RCM has evolved significantly in recent decades, transforming from an almost entirely manual and paper-based process into a set of more automated workflows. Despite these improvements, this journey toward more efficient revenue cycle automation — with a goal of attaining higher clean claims and first-pass payment rates — is ongoing.
+Implementing automation doesn’t have to be difficult or involve hundreds of combined hours of work. And it doesn’t have to result in reallocating staff to babysit the automation. A well-implemented, effective automation tool will handle the majority of cases within a workflow or area and grow to handle larger tasks — all with minimal continued involvement from your team.
+~ Amy Raymond, SVP of revenue cycle operations and deployment at AKASA
+Applying Automation and Outsourcing to Healthcare RCM
+Many revenue cycle activities are still done manually, with organizations not yet harnessing the full power of automation. Automation, driven by AI, generative AI, and ML, can have an impact across the revenue cycle.
+AI refers to the ability of machines to perform tasks that otherwise require human intelligence, like vision and decision-making.
+Generative AI is a form of AI that’s capable of digesting data, taking inputs, and creating data outputs to fit a certain workflow or form.
+ML, a subset of AI, refers to systems that can improve autonomously via additional exposure to data.
+As providers navigate challenges like the rise in telehealth services and growing patient responsibility for medical billing, automation is becoming more integral to the revenue cycle, while outsourcing also gains popularity.
+Automation
+In 2020, McKinsey & Co. found that the healthcare industry had most increased its investment in AI during the COVID-19 pandemic. However, this survey noted the gap between “high performers” and everyone else, in terms of the value-add of their AI implementations. It also pointed to how some AI models had underperformed due to sudden shifts in the revenue cycle that year.
+Outsourcing
+An Avasant report from the same year revealed that healthcare organizations were planning to outsource more of their revenue cycle management functions in the wake of COVID-19. A separate study from ResearchandMarkets estimated that the healthcare revenue cycle outsourcing market would almost double in size from 2020 to 2027, to $27 billion.
+Both approaches have their pros and cons.
+At a high level, automation can offer a more efficient way to do anything from developing process documentation to determining insurance eligibility off of a patient card. Not all automation is created equal, though. Older variants, such as RPA for automating discrete tasks in a similar way to a Microsoft Excel macro, are often too fragile to be either technically or economically sustainable for providers. If there’s an outlier or edge case, RPA often can’t solve for it.
+Simply put: generative AI and ML provide more robust automation.
+Meanwhile, outsourcing can provide more personnel with the necessary expertise, but at the costs of increased cybersecurity risks and possibly longer time to collect.
+Automation and outsourcing are designed to address challenges in managing medical billing, reimbursement, and other revenue collection activities. Like the revenue cycle itself, these challenges have evolved substantially over time and continue to change. Let’s examine a few of them in more detail to see what automation or outsourcing solutions must address.
+4 Healthcare Revenue Cycle Management Challenges Automation or Outsourcing Can Solve
+Healthcare revenue cycle management includes all of the activities that a provider — a hospital, medical practice, or health system — performs in order to code and submit claims, communicate with payers, and generate revenue via reimbursement, as well as patient payments and collections.
+The healthcare revenue cycle spans numerous tasks, including patient registration, charge capture, and denial management. Its inherent complexity, paired with external forces like growing patient payment responsibility and unpredictable payer behavior, provides the motivation for exploring automation and outsourcing.
+More specific challenges these approaches help with include:
+1. Persistence of manual processes
+Despite the long-term trend toward automation, manual processes remain common throughout the revenue cycle. A Black Book survey found only 20% of revenue cycle leaders have automated at least one-quarter of their operations. For those that had automated more than 25%, almost all reported substantial ROI, e.g., faster time to payment.
+2. Remote work environments
+AKASA’s own research found that more than 75% of CFOs and revenue leaders plan to make structural changes to their revenue cycle department as a result of the COVID-19 pandemic, with intentions to automate more functions and expand remote work to address drops in revenue and similar disruptions. Outsourcing is also accelerating, in response to staffing issues and the need to clean up accounts receivable.
+3. New modes of care delivery
+Telehealth’s rise during 2020 exacerbated problems in common healthcare revenue cycle management workflows, like creating new medical billing codes and finding the correct codes within a legacy electronic health record (EHR) solution, per Healthcare IT Today. Insufficient integrations between EHR, billing, and telehealth platforms have also led to a lot of time-consuming manual re-entry of data across systems. Also driving problems? The expensive efforts to coordinate all of these new and updated codes, plus appealing or correcting and rebilling incorrectly billed claims.
+4. The move toward patient as payer
+Patient financial responsibility has increased over time, creating fresh challenges for healthcare organizations in generating revenue. Almost three-fourths of providers say patient collections take at least a month, largely because of paper-based processes — 88% of providers rely on them, according to InstaMed.
+Automation vs. Outsourcing in Healthcare RCM
+Automation and outsourcing each provide distinct solutions to the above challenges.
+For example, automation driven by AI and ML can be blended with traditional RCM practices in a healthcare organization. It can automatically capture and learn from revenue cycle workflows directly within existing EHR and billing systems. When an outlier event (i.e., one that AI and ML can’t currently resolve) does occur, an expert-in-the-loop can intervene, taking care of the problem and, in turn, teaching the automation system how to handle similar future occurrences.
+This approach to revenue cycle automation is robust and scalable, with the ability to work across existing systems/applications, expand to numerous revenue cycle functions and remain resilient against procedural, technical, and regulatory changes. Alternatively, a provider might outsource its revenue cycle to expand current staff’s capacity, or add additional staff to learn new codes and reimbursement policies.
+Overall, the specific ways in which any automation platform, or set of outsourced revenue cycle management services, is implemented makes all of the difference in how much value it delivers. When considering revenue cycle solutions, it’s important to weigh the respective pros and cons of automation and outsourcing.
+Automation Pros
+Fast, accurate, and scalable revenue cycle processes
+AI and ML drive high revenue cycle performance at a low cost. Moreover, they improve the accuracy of a revenue cycle process, like billing, and save time previously lost to manual activities. AI and ML enable uniquely proactive, predictive, and non-fragile workflows not possible through other forms of automation. ML, for instance, could learn to automatically follow up with a payer on no-response claims, instead of a human spending significant time doing so or an RPA bot breaking down along the way.
+Purpose-built design for solving specific problems
+Revenue cycle automation delivers its clearest benefits when it’s built for particular revenue-specific workflows — not ported from other industries and/or use cases. Specialized AI and ML in this mold can save time and money, for example, by accurately predicting claims denials to prevent costly denial management rework.
+Easy deployment and maintenance
+Revenue cycle automation solutions are more straightforward to deploy and maintain than an outsourcing relationship. Their AI and ML can automatically capture key workflows for billing and payer interactions, shortening time-to-value since extensive shadowing and back-and-forth communications with consultants aren’t necessary.
+There’s no new software for teams to learn, either. The system evolves over time to adapt to new challenges, while humans can make adjustments to it as needed.
+Automation Cons
+Fragile RPA
+RPA is old technology, similar to Excel macros, and often mistakenly perceived as AI. Although it can automate tasks by using a software robot to control an interface, it’s fragile. If virtually anything changes in an EHR or other system, the RPA bot will break and require a costly fix.
+EHR limitations
+EHRs by themselves aren’t always optimized for automation and integration. A Healthcare Financial Management Association (HFMA) survey of hospital executives found that 62% felt EHR implementations introduced more hurdles than benefits, and that some respondents were eyeing RPA as a solution — which, as we’ve seen, can actually worsen outcomes.
+Outsourcing Pros
+Dedicated staff
+Outsourced revenue cycle management services can provide the dedicated coding and billing staff that smaller providers, in particular, might lack. This benefit has made outsourcing appealing, as providers have readjusted staffing levels as they begin to recover from COVID-19.
+Higher collection rates
+Working with an outsourced provider may boost collections compared to doing everything in-house, according to Software Advice. This makes some sense, considering how paper-driven the typical in-house collections workflow is.
+Outsourcing Cons
+Increased cybersecurity and compliance risks
+Handing the revenue cycle off to an outsourced provider can weaken security and compliance posture. Since they’re relying on an external provider, due diligence about security controls and HIPAA compliance practices is paramount.
+Delays and fees
+Outsourcing may increase the already lengthy time it takes providers to collect patient care payments, due to issues like staff augmentation burnout from learning new tools. The outsourcing provider may also charge multiple ancillary fees in addition to the basic cost of its services. These factors hurt the overall scalability of outsourcing.
+How Healthcare RCM Technologies and Automation Have Evolved
+If a provider selects automation as the main solution to its revenue cycle management challenges, the next step is determining what type of automation to implement. Automation technologies have evolved and diverged over time, resulting in starkly different results depending on which ones are present within the healthcare revenue cycle.
+The adoption of EHR solutions was a key first step toward automation. It marked a major upgrade over traditional paper- and phone-driven workflows for submitting claims, following up with payers, and rebilling to collect revenue. EHR adoption grew from 9% of non-federal acute care hospitals in 2008 to more than 80% in 2015. An almost 800% increase in seven years.
+Still, EHRs have often required bolt-on tools to close automation-related functionality gaps. RPA gained popularity in this context, but it doesn’t evolve or learn — a critical flaw, considering how dynamic the revenue cycle is, with constant changes to the underlying technical systems.
+Integrated AI and ML are much more intelligent and adaptable, respectively. Instead of having to waste time fixing RPA bots, providers benefit from a continuous cycle, whereby an AI-driven revenue solution:
+Observes workflows
+Learns from them
+Performs full revenue cycle management tasks
+Works within existing EHR and billing systems
+Learns continuously from outliers and edge cases to constantly evolve
+What to Consider Before Implementing Healthcare RCM Automation
+When implementing healthcare revenue cycle automation, carefully assess:
+The solution vendor’s background in AI and ML
+The number of revenue cycle management experts on its team
+The transparency of its pricing
+The pace and nature of the deployment timeline
+Although revenue cycle management is complex, solutions related to it do not have to be overly complicated to understand, deploy, or use.
+“At the end of the day, automation should not only reduce your costs, but it should also improve the accuracy of the work and improve performance against your key performance indicators,” says Raymond.
+The AKASA platform combines generative AI and machine learning with human experts-in-the-loop to deliver scalable and antifragile revenue cycle management automation that is continuously improving and built for a 24/7 reality.
+Schedule a demo to learn how AKASA can help your organization.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

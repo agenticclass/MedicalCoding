@@ -1,0 +1,44 @@
+URL: https://akasa.com/blog/cerner-and-akasa-team-up-to-scale-next-gen-ai-powered-revenue-cycle-automation/
+
+Cerner and AKASA Team Up to Scale Next-Gen, AI-Powered Revenue Cycle Automation | AKASA
+Blog
+Cerner and AKASA Team Up to Scale Next-Gen, AI-Powered Revenue Cycle Automation
+AKASA February 22, 2023
+The Gist
+Cerner and AKASA are collaborating on offerings to accelerate the adoption of advanced automation within the healthcare revenue cycle.
+Cerner, a global healthcare technology company, is collaborating with AKASA, the leading developer of AI for healthcare operations, to power automation within the revenue cycle for providers.
+The collaboration offers Cerner customers access to AKASA’s AI-based Unified Automation platform that is purpose-built for healthcare.
+We are honored to work with Cerner to bring leading-edge AI and machine learning to health systems across the country. As health system leaders are faced with unprecedented staffing challenges, AI and automation are quickly becoming the only options to continue delivering a first-class experience for their patients. Existing automation solutions often fall short because they lack efficiency, accuracy, transparency, and scalability. AKASA’s AI and expert-in-the-loop approach is designed to expand the capabilities of automation to take on far more complex work and optimize operations to holistically improve the healthcare experience for all. Unified Automation can help prevent employee burnout and enable health systems to serve as advocates for patients from scheduling through bill delivery.
+~ Malinka Walaliyadde, CEO and co-founder of AKASA
+We’re excited to team up with AKASA to accelerate the adoption of advanced automation within the revenue cycle. Through our work together, our goal is to enable providers to more easily access and benefit from advanced AI-powered revenue cycle workflow automation.
+~ Steven Colucci, Vice President, Revenue Cycle at Cerner
+AKASA Brings Value at Every Stage of the Revenue Cycle
+As a preferred automation platform, Cerner’s customers will have access to AKASA’s technology to automate tasks across the revenue cycle, including:
+Eligibility checks: Thoroughly check eligibility using information from insurance cards and determine correct COB and plan codes
+Authorization initiation and status checks: Identify authorization requirements, initiate requests, check statuses, and notify payers of in-patient admissions
+Eligibility denials: Rectify eligibility-related denials and automatically re-submit the corrected claim
+Claim status: Obtain up-to-date status information for outstanding claims
+Claim edits: Facilitate the correction of claims to support submissions to clearinghouse and payers
+The revenue cycle is often the unseen engine that keeps a health system operating. When the revenue cycle works well, patients are more likely to get the full benefits of the insurance coverage for which they are eligible and get an accurate medical bill the first time, every time. This helps protect patients from surprise medical bills and allows health system staff to spend more time improving the patient financial experience while also improving their organization’s bottom line.
+The right automation strategy should elevate and empower overburdened health system staff across the organization, so people can tackle the most cognitively complex activities, while ensuring resources are utilized for the greatest impact.
+The Cerner and AKASA collaborative effort aims to do just that.
+Read more about what Cerner customers can expect from this new alliance with AKASA.
+You may also like
+Blog
+Jul 27, 2022 Leading With a Research-First Approach
+There’s a lot of buzz around AI in human health and healthcare, and many companies often overhype what their...
+READ MORE
+Blog
+Feb 22, 2023 Cerner and AKASA Team Up to Scale Next-Gen, AI-Powered Revenue Cycle Automation
+Cerner, a global healthcare technology company, is collaborating with AKASA, the leading developer of AI for healthcare operations, to...
+READ MORE
+Blog
+Dec 5, 2024 Elevating Our Business and Our Brand: AKASA Secures Additional Funding
+We have exciting company news to share. First, we have raised a $60 million Series B round, led by BOND,...
+READ MORE
+Blog
+Aug 9, 2022 75 Percent of Health Systems and Hospitals Will Permanently Change Revenue Cycle Organizations Due to COVID-19
+In a survey commissioned by AKASA and conducted through the Healthcare Financial Management Association’s (HFMA) Pulse Survey program, 75 percent of...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

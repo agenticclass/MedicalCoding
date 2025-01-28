@@ -1,0 +1,116 @@
+URL: https://akasa.com/blog/healthcare-revenue-cycle-management-automation/
+
+Healthcare Revenue Cycle Management Automation | AKASA
+Blog
+Healthcare Revenue Cycle Management Automation: 7 Things to Consider Before DeployingRCM automation can do wonders for your healthcare operations team. But, you need to consider some important details before making any major missteps.
+AKASA August 07, 2022
+The Gist
+Hospitals and health systems in the United States are increasingly looking to revenue cycle management automation to optimize their revenue cycles. But not all types of automation are created equal. While robotic process automation (RPA) has its benefits, it’s also rife with challenges, limitations, and additional costs. With new solutions built on artificial intelligence (AI), machine learning (ML), and a human-in-the-loop approach, the industry is ushering in a new way to deploy automation. Before embarking on a new revenue cycle management automation partnership, however, there are some key considerations to keep in mind.
+Blog Contents
+The Healthcare Revenue Cycle and RPA
+Healthcare Revenue Cycle Outsourcing and Staff Augmentation
+AI and ML: The Next Generation of Healthcare Revenue Cycle Management Automation
+Expert-in-the-Loop Automation
+7 Ways to Evaluate a Potential Revenue Cycle Management Automation Partner
+As hospitals and health systems across the United States continue to contend with slim profit margins, rising labor costs, staff shortages, along with ever-changing payer rules and claims management complexities, most are looking to revenue cycle management automation to drive efficiency, save time, and reduce costs.
+In fact, 78% of health systems are currently using — or are in the process of implementing — automation in their revenue cycle operations, according to a survey by AKASA. A 12% year-over-year jump.
+While some organizations have traditionally turned to RPA as their first step toward automation, the technology has many limitations, often requires expensive consultant work/intervention, and can lead to errors and additional costs.
+Yet new automation solutions built on artificial intelligence, machine learning, and human-in-the-loop approaches are allowing organizations to drive efficiency and appropriately allocate their resources in a seamlessly, integrated way. With AI automation, repetitive processes and tasks are offloaded so that staff can focus on work that warrants their time, talent and attention, and healthcare organizations can focus on what they do best: saving lives.
+Whether you’re thinking about automation, have started to use it for small projects, or are working towards full, end-to-end deployment, there are certain factors to consider.
+But first, let’s take a look at where healthcare revenue cycle automation has been and where it’s headed.
+The Healthcare Revenue Cycle and RPA
+When we think about revenue cycle management automation, RPA often comes to mind. RPA is a software technology that mimics human activity and can partially or fully automate tasks and processes that are manual, rule-based, and repetitive.
+In healthcare revenue cycle operations, RPA can be an effective way to increase the speed and efficiency of the work being completed, and potentially take routine tasks off a staff member’s plate.
+The most important detail to understand with RPA is that it works best with repeatable and straightforward workflows. For example, for simple payment posting, RPA moves pixels across the screen to determine the payment amount and then post it into a field.
+Limitations of RPA
+In many ways, RPA is like a spreadsheet. There are basic statements and rules that can be helpful to calculate numbers or automate mundane processes. Yet with a spreadsheet, if a cell or formula breaks, it causes a downstream cascade effect in which everything that follows breaks as well.
+The revenue cycle is more complex and contains less straightforward work. In these cases, RPA is limited in its ability to take on the more complex tasks and processes, such as denials management and financial clearance. These high-value, high-complexity workflows expose those limitations. RPA technologies have struggled to deploy or show value due to the multitude of decision points that occur during those workflows.
+In addition, RPA is dependent on the screens, pixels, and user interfaces (UI) where it is deployed. Therefore, RPA breaks when there’s a change in the EHR or payer portal.  In those cases, someone has to fix it.
+Hospitals and health systems that use RPA often hire consultants to fix these ‘broken’ automation workflows (in addition to the initial build itself).  These expensive resources must step in and shadow staff, conduct process mapping, work exception queues, and push the work forward to completion. Bringing in consultants takes time and resources away from the organization, and puts more work on frontline, revenue cycle, and IT staff and management.
+In fact, according to Forrester Research, for every $1 spent on RPA, an additional $3.41 is spent on consulting resources.
+Healthcare Revenue Cycle Outsourcing and Staff Augmentation
+In the last 20 years or so, hospitals and health systems have looked to partners that provide staff augmentation and outsourcing services to manage their revenue cycles.
+While outsourcing can certainly help organizations be more efficient, save time, and focus on patient care, these arrangements often contain the same costly workflows and tasks that were previously worked in-house.
+They still require humans to handle repetitive and mundane tasks — and the workflows are the same. There’s also a risk of errors, and performance must be monitored and regulated.
+Learn more about RCM and outsourcing.
+AI and ML: The Next Generation of Healthcare Revenue Cycle Management Automation
+When we talk about automation for healthcare revenue cycle management, artificial intelligence, and machine learning (which have been buzzwords of the last decade) also come to mind. Yet unlike RPA (which works well with simple, straightforward tasks), AI and ML can respond to more complex, dynamic environments.
+Think of self-driving cars.
+The car is autonomous and can accelerate, brake, and turn, but still needs to know what to do when a basketball rolls across the street or it encounters an icy road.  In those cases, self-driving cars cannot rely on basic rules, and instead, require sophisticated machine learning solutions in order to continuously learn and adapt to those situations.
+The same goes for healthcare revenue cycle management.
+The revenue cycle has its own equivalents of the ‘basketball rolling across the street.’  Edge cases and outliers — anything that is outside the baseline realm, are very common in complex revenue cycle workflows such as claim denials, registration, eligibility, coding, or charge capture. They’re not uniform or regular, so rule-based automation technology simply doesn’t work.
+You need technology that can adjust to a complex, unpredictable environment. That means AI and ML.
+An ML model navigates edge cases and outliers and continuously teaches the technology, so it can learn how to perform and improve.
+Expert-in-the-Loop Automation
+When it comes to artificial intelligence, the fear is that machines will replace humans. But in healthcare revenue cycle management, that shouldn’t be the goal.
+Rather, machines should handle the repetitive tasks, while people should work on the complex tasks that require a human touch and be integrated into the entire workflow and process. The ultimate goal is that humans are focusing on the right work at the right time. This allows health systems to capitalize on their talent and the resulting impacts, such as patient satisfaction, patient financial experience, etc.
+This approach is what AKASA calls expert-in-loop.
+To better understand our approach, let’s return to the self-driving car.
+When the car encounters a basketball rolling in the street, it remotes to a teleoperation center where a human takes the reigns and steers the car around it. The car then learns how to handle that same situation should it occur again — it acquires the edge case.
+In healthcare revenue cycle management, our expert-in-the-loop approach trains the AI. When the technology encounters outliers or edge cases, it triages them to our internal team of RCM experts. They solve the problem, with the technology learning from them, so that next time the AI can adapt and handle the problem on its own.
+The technology continues to take on more edge cases and as a result, it can take on more of the overall volume with a high degree of speed and accuracy to deliver a more robust output back to the health systems.
+Unlike traditional RPA, which is brittle, bound to break, and requires consultants, AI and ML automation — with an expert-in-the-loop approach — is dynamic, flexible, and stronger each time. This technology, which we call Unified Automation®, is the only way to expand automation to handle complex tasks and do it at scale.
+7 Ways to Evaluate a Potential Revenue Cycle Management Automation Partner
+Regardless of the type of automation you choose, there are certain considerations to keep in mind before working with a new partner.
+1. Meet the team
+A potential partner may have the most compelling sales pitch you’ve ever heard, but it’s important to understand who will be the people actually implementing the automation technology. Ask questions about their background and experience in revenue cycle, in particular, and if there are ML-focused engineers on staff.
+Additionally, you’ll want to ask questions about:
+The impact: how the automation will affect your operations team, business office, financial clearance center, and workflows.
+The solution: the foundational knowledge that is driving the technology and the solution, their approach, what they provide, and the scope. For example, you’ll want to know if there are multiple bots, and if new payers, a new service area, or a new set of claims will change the cost.
+The deployment: understand how the solution is rolled out and what’s required of your team. For example, the vendor may require staff shadowing for all of your departments, as well as weekly meetings.
+The ROI: the criteria in which the potential partner measures their quality, if they can quote an ROI, and if they can back it up with data and a source for the data. You should also ask if they will be monitoring your ROI, what their internal process is to do so, and what happens if they don’t achieve the ROI. If there’s a performance guarantee, there needs to be a plan to deliver it.
+The timeline: how long it will take for the solution to be fully implemented and how long it will take to see results.
+2. Start small
+When you start working with an automation partner, it’s a good idea to start with one small project. It doesn’t have to be a very complex task, especially if you’re just starting out and want to see how the automation will work, and if the vendor’s process, approach, and team can live up to their promises.
+Starting with a small project is also a great way to get your team on board and excited about what this partnership means for them: less repetitive tasks, and more time to spend on complex work and improving the patient experience.
+With early wins, you can move on to more projects and scale automation to other facilities, and different payers and workflows.
+3. Prioritize projects
+When deciding which areas of the revenue cycle to automate first, it’s important to think about where automation can improve accuracy, speed, and efficiency. For each, also think about how much of the work requires humans. For most healthcare systems, their priorities are eligibility, authorizations, follow-up, and denials.
+Many organizations are using automation for claim status to save time, drive efficiency, and reduce timely filing denials. They are also prioritizing technical denials, which tend to be the highest volume and require the most pre-work, but automation can address the nuances and complexities.
+4. Provide feedback
+Throughout your engagement with your partner, it’s important to provide feedback to ensure that they’re giving you everything you need to automate your revenue cycle and achieve an optimal ROI.
+5. Understand the pricing model
+When you address the cost of automation, make sure you understand exactly what is included, how the pricing structure is set up, and the methodology behind the pricing.
+If you’re considering RPA and a bot-based model, ask about the number of bots, the precise workflow, if you’re partnering with a consulting firm, who is buying the bots, and what the maintenance cost is.
+Likewise, for subscription-based or task-based, volume-based models, you’ll want to understand how the pricing is set up.
+6. Understand security and compliance measures
+When evaluating vendors, make sure you understand what their protocols, credentials, and security measures are to prevent risk.
+7. Ensure a shared vision
+Remember that the goal of an automation strategy is to allow your staff to focus on more strategic and meaningful work and appropriately allocate your resources. You also want to empower staff in every department and at every level to focus on the work they love, better serve patients, and save lives.
+Therefore, when considering a potential partner, work with one who shares your vision for the future.
+To learn more about how AKASA can help your revenue cycle become more efficient, request a demo.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

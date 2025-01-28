@@ -1,0 +1,95 @@
+URL: https://akasa.com/blog/medical-coding-comprehensive/
+
+Is Your Medical Coding Comprehensive? | AKASA
+Blog
+Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?What matters the most in medical coding? Accuracy. How do we get there? Comprehensiveness.
+Amy RaymondJanuary 13, 2025
+The Gist
+In this post, Amy Raymond, SVP of revenue cycle operations and deployments at AKASA, emphasizes the crucial role of comprehensiveness in achieving accuracy in medical coding. She discusses how leveraging generative AI technology enhances coding accuracy by thoroughly reviewing clinical documents, capturing every relevant detail, and reducing the need for extensive oversight. Health systems need a holistic approach to medical coding that not only boosts reimbursement and compliance but also improves patient care and organizational efficiency.
+Blog Contents
+The Importance of Comprehensiveness in Medical Coding
+Why Missing Codes Matters
+The Medical Coding Game-Changer: Generative AI
+Comprehensive Coding Means Accurate Coding
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle.
+The same is true with coding. Is the coding team getting to every document and every possible code? Could your coders be missing codes? Of course.
+When it comes to medical coding, accuracy is paramount. But what often gets overlooked in the pursuit of accuracy is comprehensiveness. In my 25+ years working within the revenue cycle, I’ve seen how the two go hand-in-hand.
+At AKASA, we believe that a comprehensive approach is essential for achieving the coding accuracy you need. Our generative AI technology has revolutionized medical coding by ensuring that every relevant clinical document is reviewed thoroughly every single time.
+The Importance of Comprehensiveness in Medical Coding
+In the world of medical coding, you might find yourself prioritizing certain elements over others due to constraints like staffing or time.
+Health systems end up creating their own coding guidelines on the things that matter to them. This often means focusing on the highest diagnosis-related group (DRG) or meeting specific compliance requirements. I’ve seen organizations prioritize Elixhauser or U.S. News & World Report. Are you being pressed on new regulations or social determinants of health (SDOH)? Coders need to capture at least one code that fits. But, in reality, there could be five applicable ones.
+Are you missing potential quality measures for which you could be getting credit? Could your case mix index (CMI) be improved? Could you be telling a better story about the care your organization provided? Definitely. Is this the right answer from a reimbursement, compliance, or quality perspective? Not always.
+But everyone is just doing the best they can.
+While understandable, this approach can lead to missed opportunities for capturing essential quality measures and telling a more accurate story about your organization.
+The reality is stark. Missing potential quality measures could mean not getting the credit you deserve. Or worse: compromising patient care continuity. Quality measures don’t just impact reimbursement; they influence clinical outcomes, patient retention, and even your health system’s reputation.
+Why Missing Codes Matters
+Coding is used to attach reimbursement to medical procedures — because there has to be some way to cross-walk that. But, if you take a step back, don’t think about a reimbursement model, and don’t think about the monster that is healthcare, let’s agree: no one can read through a whole chart every time they go to take care of a patient.
+When I speak with coding and revenue cycle leaders, one recurring theme is their struggle to balance productivity with thoroughness.
+You might think, “I’ve captured the high-priority codes, so I’m good.” But are you sure you’ve captured the best codes? A patient’s record could be hundreds of pages. Have you missed any valuable data points that could contribute to a more comprehensive view of the patient’s health and treatment? Something that could create a more effective story about the patient and the care your system provides?
+And without a full review of each clinical document, you risk leaving money, quality ranking, severity, and risk on the table.
+Many organizations employ quality coders or auditors who perform secondary reviews to ensure compliance and accuracy. However, this process isn’t foolproof and often involves additional layers of oversight that can be expensive and time-consuming.
+The Medical Coding Game-Changer: Generative AI
+This is where our technology comes into play. What if you are coding so comprehensively upfront that you don’t need as many layers of oversight? All because AI is aiding you.
+Our new first-of-its-kind generative AI (GenAI) solution, AKASA Coding Optimizer, takes the heavy lifting off coders’ shoulders. Instead of your team spending countless hours combing through each document manually, our AI ensures that no stone is left unturned. It reviews coded inpatient encounters along with relevant documentation to uncover missed revenue opportunities and quality measures others miss.
+With GenAI, you can capture more of the critical codes, faster. You can be accurate. You can be comprehensive. You can capture all the things you’re supposed to capture according to the rules — not according to your deprioritized priorities. All without sacrificing productivity.
+You can finally be both comprehensive and accurate — without sacrificing productivity.
+Here’s why I think GenAI is also critical for enhancing prior authorization.
+How AKASA Coding Optimizer helps
+Here are a few of the ways your coding operations can benefit from our GenAI-powered coding solution:
+Comprehensive: Capture the patient encounter more holistically with GenAI that sifts through more clinical documents and details than people can.
+Efficient: Maximize coder productivity, leading to reduced DNFC, happier staff, speedier submissions, and less reliance on contract workers and outsourcing.
+Transparent: Implement advanced technology you can actually see and understand, with AI-generated justifications and easily verifiable direct quotes.
+Accurate: Improve CMI, denials, and revenue performance with coding recommendations that track and flag the right codes across the patient record.
+See how it works.
+Comprehensive Coding Means Accurate Coding
+I think generative AI will impact coding by improving productivity, accuracy, and revenue generation.
+~Marilyn Voss, MSN, RN, CCM
+Director of HIM, Clinical Coding, CDI, and Utilization Management
+Nebraska Methodist Health System
+Marilyn is entirely right in this statement. GenAI is going to help improve all of the metrics that the medical coding industry cares about. It’s the future.
+Ultimately, the question isn’t just about whether your coding is accurate but whether it’s as comprehensive as it could be. That path to accuracy is comprehensiveness.
+At AKASA, we believe that comprehensive coding leads to more accurate, complete, and compliant records. This holistic approach doesn’t just benefit the revenue cycle and compliance departments; it improves patient care and organizational efficiency.
+And GenAI is the way to get there.
+Are you ready to elevate your coding practices? Discover how AKASA can transform your medical coding with our advanced AI solutions. Schedule time with my team today to see the technology in action.
+By addressing the pain points and challenges in the revenue cycle with a comprehensive approach, we offer a solution that is not just innovative but necessary for modern healthcare operations.
+Let’s make coding accuracy synonymous with comprehensiveness.
+I hope this post offers valuable insights and actionable steps to improve your organization’s medical coding practices. If you have any questions about coding or GenAI or need further information, please reach out to me. We’re here to help you succeed.
+WRITTEN BY
+Amy Raymond
+Amy Raymond serves as the senior vice president of revenue cycle operations and deployments at AKASA, where she maintains operational responsibility for the production and performance of the firm’s AI-driven automation platform. Across her 25-year career in revenue cycle, Raymond has held several leadership, consulting, and implementation roles. Her industry experience includes tenures at national and regional health systems, as well as numerous care settings and specialties.
+Most recently, Raymond served as a senior leader in the revenue cycle technology vertical at Advisory Board. Her extensive professional expertise includes: end-to-end revenue cycle operations, process redesign/optimization, patient financial experience improvement, technology deployment/adoption, change management, and employee engagement. As a military spouse, Raymond is a passionate advocate for mil-spouse hiring and community support.
+You may also like
+Blog
+Nov 19, 2024 AHIMA24 Report for Medical Coding Leaders
+This year’s AHIMA conference in October in Salt Lake City underscored AI’s rapid evolution and potential impact on healthcare...
+READ MORE
+Blog
+Nov 8, 2024 Why Medical Coding Needs Generative AI
+When you think of medical coding, you immediately think of Salt Lake City. Or at least you did recently....
+READ MORE
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

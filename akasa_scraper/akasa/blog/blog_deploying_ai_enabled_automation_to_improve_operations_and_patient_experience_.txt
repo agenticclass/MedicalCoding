@@ -1,0 +1,148 @@
+URL: https://akasa.com/blog/deploying-ai-enabled-automation-to-improve-operations-and-patient-experience/
+
+Deploying AI-enabled Automation | AKASA
+Blog
+Deploying AI-enabled Automation to Improve Operations and Patient ExperienceAKASA’s CEO, the chief digital officer at Moffitt Cancer Center, and the VP and chief of digital patient experience at Sutter Health held a roundtable to discuss bettering the patient experience with AI-enabled automation. Here’s what they had to say.
+Blog Contents
+Key Takeaways
+Problems Not Talked About
+Management Debt in Healthcare
+Automation in Healthcare
+The Worry About
+Technology in
+Our Problems Aren’t Sexy
+The Healthcare
+Technology Can Enable
+How AI-enabled
+Automation Partners
+It’s Dangerous
+Digital Transformation
+Case Study
+The Tech that
+Are We Exchanging
+Summary
+AKASA recently hosted a Brass Tacks roundtable at Health Evolution Summit, led by AKASA CEO and co-founder, Malinka Walaliyadde, with panelists Dr. Edmondo Robinson, chief digital officer at Moffitt Cancer Center, and Dr. Albert Chan, vice president and chief of digital patient experience at Sutter Health.
+The topic was “Deploying AI-enabled Automation to Improve Operations and Patient Experience.” The following is AKASA’s summary write-up from the event.
+It was a lively discussion, with important takeaways to help evaluate automation integration in healthcare revenue cycle management. How do you plug innovative technology solutions into the healthcare infrastructure in a way that benefits patients, payers, and providers?
+Key Takeaways
+Technology debt is a widespread issue in the tech space.
+Management debt is a growing, yet often unidentified challenge for hospitals and health systems.
+Adding additional staff adds complexity and can reduce productivity; in such instances, technology may provide a simpler, less expensive solution.
+If an automation solution doesn’t scale right from the beginning, even in the pilot phase, then it doesn’t work.
+In-depth knowledge about the healthcare revenue cycle is imperative when building automation solutions and choosing an automation partner.
+AI-enabled automation with machine learning is an optimal solution to help pay down and mitigate future management and technology debt.
+Saving dollars through automation that allows staff to work at top of license also allows health systems to redeploy those dollars to saving lives.
+Want to learn more about what was discussed in the roundtable? Read on.
+These are the types of problems that take precious time away from our healthcare workers and ultimately lead to memorably bad patient experiences.
+Malinka Walaliyadde – Co-Founder and CEO of AKASA
+Problems Not Talked About
+The operational backend of healthcare is not given much love in conversation, especially at conferences. The problem with not talking about such problems that are pervasive within healthcare operations is that they take precious time away from our healthcare workers and ultimately lead to poor patient experiences.
+During this talk, the panelists delved into these topics to start a conversational sea change that can help bring about positive changes and better experiences for all involved across the healthcare continuum.
+Management Debt in Healthcare
+Many healthcare organizations have accumulated decades of what’s known as management debt. This is a direct result of prioritizing quick fixes to issues — common or specific to individual organizations — or simply adding people to quickly fix the issues, rather than investing in long-term process and technology changes.
+Software programmer Ward Cunningham coined the debt metaphor “technical debt” and it’s now commonly understood and accepted as a business reality in the technology space. Management debt is similar in concept. It’s the infrastructure that organizations should create but instead defer to later.
+This can take many shapes. Like technical debt, management debt is incurred when an organization makes fast, short-term management decisions — like adding people rather than investing in new, long-term processes. These actions have expensive, long-term consequences. Sometimes these decisions make sense; often they don’t.
+There’s a famous book in the software industry called “The Mythical Man-Month” by Turing Award winner, Fred Brooks. The essays in this book highlight that adding more people actually increases how long it takes to complete a task after a certain point. Every new person joining needs to understand everyone else’s role on the project and how their role fits. Adding more people to a late software project delays it even more. This solve is not efficient and creates an enormously complex environment within which the task must be completed and increases overhead metrically.
+Sutter Health, for example, went from 7,400 to 1.1 million telemedicine video visits last year. They scaled quickly, adding a lot of staff and technology quickly. But it had to be done.
+With this in mind, the idea of automation in the healthcare revenue cycle has gained a strong foothold in the last 4–5 years. How can we finally pay down this management debt? With AI-enabled automation.
+Automation in Healthcare Revenue Cycle Operations is Increasing
+To no surprise, the challenges of these last two years — due to COVID and the need for new in-office/in-home workplace strategies — have massively accelerated the automation movement.
+The use of automation in the revenue cycle has increased 12% in the past year alone, according to a survey AKASA commissioned with the Healthcare Financial Management Association (HFMA).
+More than 66% of Health Systems and Hospitals Use Automation Tools for Revenue Cycle Operations, According to Survey.
+Clearly, health systems are investing in automation solutions for management debt programs.
+The Worry About Vacancy Rates
+When you add more people,  you add more leadership — and that means you add more overhead. Leadership positions are needed and highly valued. The question is, which positions are needed, when, and how many? Should you solve a problem with a new management position or with technology? What is the best use of human capital?
+In our current work landscape, driven by the COVID-19 pandemic and its long continuing legs, we have more and more people working from home and more and more people getting sick. This is resulting in more sick time use and an increase in extended leaves. There are many new challenges with exponential consequences than we’ve ever faced before.
+We need help, and more human capital can’t always be the answer. There are technological or automation solutions that can better fill some of these needs, and it’s time that we seriously evaluate which are the right solutions.
+Technology in Search of a Problem Doesn’t Work in Healthcare
+Early in the technology explosion, there was a tendency — and there still is to some extent — for the technology to come first and then search for a problem. This isn’t what the healthcare industry needs.
+But this industry has real problems, right now. What we need is technology companies developing solutions to solve those very specific problems. Many are under the radar, not obvious to the masses. We need to talk about them more and solve for them.
+Our Problems Aren’t Sexy
+When you think of solving big problems that have big impacts, it sounds elegant and exciting, with a positive impact that will be immediately evident.
+The reality is, when we think about the day-to-day problems within the healthcare revenue cycle, they aren’t sexy problems. But with the right automation solution, the fixes can be life-changing.
+We need solutions that actually solve the real problems. This means technology companies need to understand the problems and then purpose-build solutions for them.
+The Healthcare Machine Learning Solution
+Automation with machine learning applications can offer many benefits over traditional automation solutions.
+At AKASA, we’ve taken the observe, learn, and perform approach. Our team gets a 360-degree view of a partner’s RCM processes and our proprietary software gathers multi-modal data to capture work variations.
+Our team discretizes the data to train our generative AI-powered AKASA platform. Then the algorithm automatically constructs complex flows that would be impossible to script by hand. Our model also identifies broken workflows and corrects them, often eliminating unnecessary work. It’s flexible and resilient.
+Technology Can Enable Life-Saving Care
+Let’s apply this process to the care received from the Moffitt Cancer Center. They’re in the business of researching and delivering cancer care.
+When bringing in the AKASA automation solution, Dr. Robinson calmed his team’s nervousness about a new solution not meeting their needs by stating the new technology was being piloted. Day 1 was the start of a long-term contract that acted like a pilot project in the beginning because it was scalable. Because that’s how it was built.
+“If the automation solution doesn’t scale from the very beginning, even in the pilot phase, then it doesn’t work.”
+~Dr. Edmondo Robinson, chief digital officer at Moffitt Cancer Center
+This was only possible because AKASA has built a bilingual team. Its engineers and healthcare revenue cycle experts work together to ensure the automation solution solves the real problems — sexy or not. Because what’s most important is the outcome: a better patient experience and the potential to save lives.
+How AI-enabled Automation Elevates the Health Care Worker
+What may seem counterintuitive to some is that the addition of automation not only helps pay back accumulated management and technology debt, while avoiding additive future debt. But also it helps elevate the healthcare workers already involved.
+A common fear is that jobs will be lost to automation; however, automation can improve productivity while offering long-term benefits for employees.
+Many tasks in the revenue cycle can become monotonous. Tasks that are repetitive and don’t require much critical thinking can lead to job dissatisfaction and burnout.
+When the right technology solution is engaged, staff can be retained and freed up to focus on more engaging tasks that require human interaction and higher-level tasks that are a better use of an employee’s skill set. This means deeper learning for employees and increased value to current and future employees, as well as the patients these organizations serve.
+Automation Partners Can Do What Healthcare Systems Can’t
+It’s important to understand that, when used correctly, automation doesn’t replace people. It serves a function that healthcare systems themselves can’t.
+Many healthcare organizations are simply not set up or funded to create the technological and automation solutions they need themselves.  This is why automation partners need to be entrenched in and have first-hand knowledge of the very specific problems health systems face — they need help that understands their needs and can create actionable and effective solutions.
+What automation can do is free up staff to provide better patient experiences. Patients may not be aware of the intricacies happening in the back office, but they will feel the difference in their interaction with the billing process. And that will create fewer issues with the health system workflow. This, in turn, creates better bottom lines and happier employees.
+It’s Dangerous to Think of Healthcare as a Single Entity
+When people outside of healthcare evaluate the industry, they often look at it as a whole. As a broad single, $3.5 trillion dollar industry. Then they try to solve it as a whole.
+But it’s not the right lens.
+The healthcare industry is actually hundreds of $10 billion industries, all with unique challenges. We can’t simply copy one solution from one entity to the next. While this approach works in the tech industry, it doesn’t in healthcare.
+What one attendee of the roundtable pointed out is that sometimes big tech doesn’t have the proximity to really understand what the problems are. When there’s a company that actually does, that’s where partnerships become so incredibly powerful.
+Digital Transformation is a Change Management Exercise
+Solutions that truly transform operations are sometimes incremental.
+This also means that change management expertise can be essential since it’s a longer, strategic play. The process is just as essential as the technology. Understanding how to bring and implement transformative approaches to an organization is key.
+A consideration in this is that there are many different problems with many different parts that need solving. The fundamental challenge is that there is way too much work that can be effectively and efficiently managed. This is where the strategic, long view of change management partners with a solution provider who has the same forethought.
+Case Study: ATMs and Automation
+Managing this work overload is not new. Other industries have effectively implemented automation in a meaningful way.
+In the early 1990s, ATMs were introduced into our banking system. The prevailing thought was the number of bank staff would significantly drop as a result. But the opposite actually happened.
+As ATMs increased across the banking industry, the number of tellers also increased over time.
+With the automation of ATMs saving banks time and money, they began to expand and open more branches to widen their services. As the number of branches increased, so too did the number of tellers.
+There was also another benefit. The ATMs were handling the bulk of the monotonous cash deposits and withdrawals. This freed tellers to work on more complex and interesting tasks, like improving customer relationships.   Automation improved the banking industry in three ways:
+Paying off management debt by lessening the number of staff at each branch
+Increasing employment industry-wide by adding more branches
+Improving the job satisfaction for tellers
+Takeaway: This elevation is what can happen today in health systems with the right automation partner.
+The Tech that Called Wolf: The Overpromise Effect
+In this industry, there’s a lot of overpromising about results. And those investing in these solutions have been burned. What this means is it’s crucial for automation and technology partners to deliver on their promises.
+In-depth knowledge that directly applies to the healthcare revenue cycle is imperative when building automation solutions. When this doesn’t happen, trust erodes and the entire industry suffers.
+As Walaliyadde discussed, it’s very common to have early-stage technology companies with excellent technical talent, but very little domain expertise. You can also have really great healthcare staff. But if they don’t have a deep technology background, they’re not going to innovate. Neither works.
+It sounds simple: we need both healthcare and technological expertise to craft the most effective solutions and partner in the right ways to really move the needle.
+The industry needs to hold itself to the same rigor. Apply that same model of thinking so we benefit from truly researched solutions.
+Are We Exchanging Management Debt for Technology Debt?
+We’ve discussed both technology and management debt, and automation as a helpful solve for management debt. But what about the cyclical accumulation of the technology debt taken on to reduce the management debt?
+With management debt, it’s fundamental. There’s no way around taking on management debt when you hire. But the right technology is more scalable and therefore more fiscally responsible.
+Summary: Let Them Learn from Us
+When talking about operational efficiency, we don’t often hear executives ask “How does healthcare do this?” That’s a powerful non-statement. As an industry, we haven’t been on the right track for decades. But we have an opportunity now.
+We have the opportunity to create a new path forward. New partnerships. New back end of healthcare. New revenue cycles. New opportunities for patients, employees, and all the treating clinicians who are saving lives. Let’s continue to enable this path.
+You may also like
+Blog
+Jun 12, 2024 Waiting to Deploy RCM Automation Is Costing Your Health System
+About 78% of health systems are currently using or are in the process of implementing automation in their revenue...
+READ MORE
+Blog
+Jan 16, 2025 How Top RCM Leaders Are Prepping for the Future: Becker’s Annual Meeting Panel Recap
+At the 2023 13th Annual Meeting of Becker’s Hospital Review in Chicago, healthcare leaders met to discuss the industry’s...
+READ MORE
+Blog
+Jan 14, 2025 How Automation Drives RCM Employee Engagement
+Who are engaged employees in the revenue cycle? You know them when you see them — they’re the ones...
+READ MORE
+Blog
+Jan 14, 2025 Cross-Training in Healthcare RCM: The Secret to a More Productive, Engaged Team
+It’s a scene all healthcare RCM leaders have experienced: an overworked revenue cycle team, aging accounts, high employee turnover,...
+READ MORE
+Blog
+Dec 14, 2022 A Reason to Stay: Driving RCM Employee Engagement Through Purpose
+As revenue cycle leaders, we all know the telltale signs of a disengaged healthcare RCM employee: they do the...
+READ MORE
+Blog
+Aug 2, 2024 What Is Change Management in Healthcare?
+Although healthcare tends to lag behind other industries in embracing and adopting new technologies, processes, and perspectives, it continues...
+READ MORE
+Blog
+Nov 12, 2024 32 of the Best AI and Automation Quotes To Inspire Healthcare Leaders
+Automation technologies, including artificial intelligence (AI) and the newer generative AI (GenAI), are not novel ideas by any means,...
+READ MORE
+Blog
+Dec 5, 2024 Deploying AI-enabled Automation to Improve Operations and Patient Experience
+AKASA recently hosted a Brass Tacks roundtable at Health Evolution Summit, led by AKASA CEO and co-founder, Malinka Walaliyadde, with panelists Dr....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

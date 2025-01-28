@@ -1,0 +1,66 @@
+URL: https://akasa.com/blog/reaffirming-our-commitment-to-data-security-and-privacy/
+
+Reaffirming Our Commitment to Data Security and Privacy | AKASA
+Blog
+Reaffirming Our Commitment to Data Security and Privacy
+Andy AtwalSeptember 14, 2022
+The Gist
+Andy Atwal, co-founder and VP of engineering at AKASA, shares how the company prioritizes data security and privacy and what AKASA’s recent achievement of earning HITRUST Certification — the gold standard in the healthcare industry — means for the company and its clients.
+Blog Contents
+What Is HITRUST and Why Is It Important?
+How Does HITRUST Impact AKASA and Its Clients?
+Data plays a vital role in our work at AKASA — without it, we wouldn’t be able to provide the leading-edge automation that allows healthcare providers across the United States to streamline their operations.
+We understand the importance and sensitivity of the patient data we touch as part of the revenue cycle. At AKASA, we take security — and in turn the security of our clients and their patients — very seriously. By making it our top priority, we protect not only our business but also the availability, integrity, and confidentiality of protected health information (PHI).
+To protect our clients’ data at all costs, our security infrastructure is HIPAA-compliant and built upon on a foundation of the highest industry security standards, including SOC 2 Type 2 and NIST Cyber Security Framework.
+Now, we’re happy to announce we are also HITRUST certified — a certification that is considered the gold standard in the healthcare industry and one of the most difficult to achieve.
+What Is HITRUST and Why Is It Important?
+HITRUST is an extensive framework created by security industry experts, covering 19 different domains related to security and risk. These domains involve vulnerability management, network and transmission protection, third party assurance, risk and incident management, audit logging and monitoring, and more.
+As one of the most extensive and robust certifications, HITRUST reconciles a variety of relevant regulations and standards into one single overarching security and privacy framework — combining HIPAA with other data security standards, such as HITECH, NIST, ISO, PCI, FTC, COBIT, and GDPR.
+Thanks to the overlap HITRUST requirements have with other certifications, we were also able to achieve the above mentioned SOC 2 Type 2 and NIST Cyber Security Framework certifications — further proving our commitment to complying with the highest security and privacy standards in the world.
+HITRUST is the second-most adopted security framework in healthcare. By following it, we’re showing a large audience of providers how seriously we take security.
+We’re happy to have achieved this important certification, allowing us to ensure appropriate administrative, technical, and physical safeguards are in place to keep our clients’ data secure.
+How Does HITRUST Impact AKASA and Its Clients?
+Having earned this HITRUST certification not only allows us to provide value to a larger customer base — i.e. serve the health systems and hospitals that require HITRUST — but also provide value to them faster by showing evidence of our compliance with HIPAA-mandated security controls from the onset.
+Our clients can enjoy peace of mind that their sensitive data is secure, allowing them to confidently implement AKASA’s automation for their complex revenue cycle workflows.
+The HITRUST certification will also help ensure we continue to act as good stewards of our customer’s PHI by having appropriate — and third-party-approved — internal processes and controls in place.
+For example, we established a dedicated compliance team and formed the “AKASA Security Committee” to address the complex requirements needed for the certifications. Now, these teams will continue to uphold our security infrastructure to the highest standards.
+I’m incredibly proud of our team at AKASA for achieving this important milestone. The process required a lot of cross-functional effort and dedication — from implementing new technologies to facilitating broader organizational changes.
+Obtaining these security certifications reaffirms AKASA’s commitment to adopting and exceeding industry-leading standards and, ultimately, enables us to stand out as a top technology provider for healthcare providers.
+WRITTEN BY
+Andy Atwal
+Andy Atwal is the vice president of engineering and co-founder of AKASA. Prior to AKASA, Atwal served in senior product management and operations roles and was the founding software engineer at Counsyl, a health technology company that offers DNA screening for diseases that can impact women, men, and their children. He has a degree in computer science from UC Berkeley.
+You may also like
+Blog
+Feb 20, 2024 How the AKASA Engineering Team Created an Automation Solution for Database Migrations
+AKASA builds products and tools to improve the various components of revenue cycle management (medical billing) for hospital systems....
+READ MORE
+Blog
+May 1, 2023 ChatGPT and Healthcare: Exciting Potential That Needs To Be Channeled
+Recently I heard that as a fun exercise, the security officer at one of our healthcare clients tried asking...
+READ MORE
+Blog
+Jun 12, 2023 Overcoming the Top 3 Challenges Holding Back Healthcare Innovation
+Healthcare is notoriously slow at adapting and incorporating new technologies into day-to-day operations. Healthcare lags behind as one of...
+READ MORE
+Blog
+Jan 16, 2025 7 IT Mistakes You’re Making With Your RCM Automation Partner
+The right revenue cycle management (RCM) automation is capable of helping healthcare organizations overcome a litany of issues —...
+READ MORE
+Blog
+Jan 16, 2025 Questions Healthcare IT Teams Should Ask About Revenue Cycle Automation
+RCM leaders at your organization are discussing automation. Period. The healthcare revenue cycle is fighting non-stop battles. Staffing challenges...
+READ MORE
+Blog
+Jan 16, 2025 9 Healthcare Technology Trends To Watch
+Keeping track of the rapid changes in healthcare technology is no small task. The industry has seen numerous healthcare...
+READ MORE
+Blog
+Nov 30, 2022 The Gradient Podcast: An Interview on AI and Healthcare With AKASA CTO and Co-Founder Varun Ganapathi
+On a recent episode of the Gradient Podcast, host Daniel Bashir sat down with AKASA CTO and co-founder, Varun...
+READ MORE
+Blog
+Sep 1, 2022 Machine Learning in Medicine: Using AI to Predict Optimal Treatments
+At AKASA, we’re always thinking about how we can use machine learning (ML) and artificial intelligence (AI) to better...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

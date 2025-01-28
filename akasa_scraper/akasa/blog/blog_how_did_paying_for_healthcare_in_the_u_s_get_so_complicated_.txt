@@ -1,0 +1,74 @@
+URL: https://akasa.com/blog/how-did-paying-for-healthcare-in-the-u-s-get-so-complicated/
+
+How Did Paying for Healthcare in the U.S. Get So Complicated? | AKASA
+Blog
+How Did Paying for Healthcare in the U.S. Get So Complicated?Healthcare in the US is notoriously complicated and expensive. How did we wind up with such a complex system, and does it have to be this way?
+Malinka WalaliyaddeDecember 05, 2024
+The Gist
+The healthcare system in the U.S. is notoriously complex and expensive. Where other countries often have a single healthcare or payer setup, we have several at work. How did we wind up here, and does it have to be this way? Or, is there a better way forward using technology?
+Blog Contents
+Understanding the U.S. Insurance Model
+Is There Any Fixing the U.S. Healthcare Situation?
+Global healthcare statistics show that the U.S., by far, has the world’s most expensive healthcare system. Despite this massive spend, our outcomes are middling at best.
+Why is it so expensive for us when there are so many more efficient healthcare payment models around the world?
+Canada follows the National Health Insurance model, where the payer is public and providers are private. The U.K. follows the Beveridge model, where both the payer and providers are mostly public. Many countries, including Germany and Japan, follow the Bismarck model where both payers and providers are private entities, a model that should be familiar to many Americans. And of course, there is the out-of-pocket model, primarily in use in developing countries, where healthcare insurance is not prevalent and patients pay out of pocket for healthcare services.
+Why didn’t we pick one of these models, since they appear to enable high-quality healthcare at low cost? It turns out, we didn’t pick just one of them, we use all of them.
+In the U.S., the National Health system model (public payer + public providers) is used to serve the military and veterans through TRICARE and Veterans’ Affairs. The same public payer + public providers model is used by the Indian Health Service to provide healthcare for Native Americans. The Bismarck model (public payer + private providers) is utilized by Medicare, for those Americans over 65. The Beveridge model (private payer + private providers) is probably the most familiar to working Americans — you can choose from multiple private insurance companies during the course of your working life, and see private providers.
+Finally, those that are uninsured in the US will pay out of pocket, often at exorbitant costs. While the Affordable Care Act (ACA) significantly reduced the number of uninsured Americans, nearly 28 million Americans remain uninsured (and likely more today, given the millions of people losing their employer-sponsored insurance due to COVID-19).
+This is not to say that other countries follow one model exclusively, they often have pockets of these other models. The US is unique, though, in that all four of these models are used at significant scale, and having to accommodate all these models means that we’ve built massive complexity into our system.
+Understanding the U.S. Insurance Model
+The result is that we had to build multiple different processes and coding systems — HCPCS, CPT, ICD, DRG — to make it work. We had to develop an entirely new profession, medical coders and billers, to communicate what a provider did and how much they should get paid to a payer. Every year, these folks have to learn an increasingly more arcane set of rules and codes (occasionally resulting in extremely specific codes like ICD-10 code Y93.D: V91.07XD — “Burn due to water-skis on fire, subsequent encounter”).
+Reimbursement complexity takes a toll on every participant in the ecosystem, and there are no winners. Administrative costs now make up about 34% of total health care expenditures in the U.S., according to a study published in Annals of Internal Medicine.
+According to a study featured in Harvard Business Review, for each doctor hired, health systems routinely hire 16 additional staff members. Of this total of 16 staff members, 10 are administrative while only 6 are providing clinical care. According to some estimates, we waste more per year ($760B — $935B) than the next highest healthcare spending country spends per year for all their healthcare.
+Despite all of this complexity and money spent, the patient experience is often atrocious.
+Here is one of my favorite analogies for the patient experience: Imagine going to a restaurant, not getting a menu, being told what to eat, not being told what it costs, and then getting your bill about a month after you’re done with the meal. And you’re required to pay the bill under threat of a crippling hit to your credit score. That’s healthcare in the U.S.
+In my prior role at Andreessen Horowitz (a16z), I had the opportunity to dive into the messy guts of healthcare. I worked on investments and investment opportunities into providers, payers, biotech companies, and healthcare technology companies. A single common hurdle faced them all — efficiently navigating the financial system of healthcare.
+It wasn’t just early stage companies that had this problem, the largest health systems in the U.S. faced challenges with Revenue Cycle Management (RCM) as well — at a16z, I was able to deeply dig into and understand these challenges with them. It was clear to me that the problems and lack of technology innovation in the revenue cycle are a systemic and significant obstacle for every single organization operating in the US healthcare system.
+Is There Any Fixing the U.S. Healthcare Situation?
+While policy changes could address some of the fundamental complexity and issues in RCM, it would require incredibly sweeping changes, which are likely to take generations to develop and enact. We can’t afford to wait. Yes, we pay in terms of dollars spent, but more importantly, we pay more in poor patient experiences and poor health outcomes.
+My cofounders and I have a deep sense of urgency for addressing complexity in healthcare with new technologies. If we can’t immediately remove complexity from our healthcare system, let’s arm healthcare providers and innovators with better tools. Now! Today! So they can effectively navigate complexity and lessen the negative impacts those complexities have on patients.
+We intentionally convened a team uniquely qualified to bring modern solutions and some of the most advanced technologies to healthcare RCM — a team composed of experts in multiple, complementary disciplines. This unique blend of talent is exemplified by our founding team — Varun Ganapathi, Andy Atwal, and Ben Beadle-Ryby, along with myself — represent deep expertise across both technology and healthcare revenue cycle operations.
+We’ve built this cross-functional skillset deep into the DNA of the company. We have technology experts from the top Silicon Valley technology powerhouses (places like Google and Facebook), many with graduate degrees in machine learning.
+We also have senior leaders from the frontlines of healthcare with decades of experience leading revenue cycle teams at some of the most prominent healthcare institutions in the US. And we have a deep bench of talent from premier healthcare services firms like the Advisory Board, Optum, and Triage Consulting.
+Only with this unique blend of talent could we develop an entirely new approach to AI-powered RCM that is purpose-built for healthcare revenue cycle management.
+Our team has grown rapidly over the last year, in parallel with the results we’ve delivered to our clients. We believe we can help restore trust in healthcare, by bringing together the best of people, data and technology to address financial complexity in the US healthcare system.
+If you’re interested in helping us change healthcare and want to work with some of the brightest minds in the industry, join our team today.
+WRITTEN BY
+Malinka Walaliyadde
+Malinka Walaliyadde is the CEO and co-founder of AKASA. Prior to AKASA, Walaliyadde was a partner at Andreessen Horowitz (a16z), a $16.5B venture capital firm based in Silicon Valley. At Andreessen Horowitz, he helped start and build their healthcare investment team which focused on investments at the intersection of software and healthcare; he worked on almost 20 investments totaling over $250M in deal value. Walaliyadde previously worked at Corning Life Sciences, Counsyl, and on the healthcare team at Deloitte.
+Walaliyadde has previously been named to the Forbes 30 under 30 list and holds a bachelor’s degree in materials science and engineering, graduating cum laude with honors from Cornell University.
+You may also like
+Blog
+Nov 29, 2022 A Facial Focus on Health: My Movember Experience and Commitment to Making a Difference in Men’s Health
+Nearly 20 years ago, two gentlemen and a small group of their friends in Australia decided to bring awareness...
+READ MORE
+Blog
+Nov 13, 2023 Becker’s Hospital Review Podcast: An Interview with AKASA Co-Founders
+On a recent episode of the Becker’s Hospital Review Podcast, Scott Becker sat down with AKASA co-founders, Malinka Walaliyadde...
+READ MORE
+Blog
+Aug 9, 2024 Senior Software Engineer Armaghan Behlum on Why He Joined AKASA
+It’s been nearly two years since I left Verily, an Alphabet company focused on using advanced technology to improve...
+READ MORE
+Blog
+Jun 17, 2022 9 Trends from HIMSS 2022
+A World Unto Itself It’s difficult to communicate the sheer magnitude of the 2022 HIMSS Global Health Conference &...
+READ MORE
+Blog
+Jul 27, 2022 10 Questions for Military Spouses at AKASA
+There are more than seven million military spouses in the United States, between active duty and surviving spouses of...
+READ MORE
+Blog
+Jul 10, 2024 10 Questions for Amy Raymond, Head of Revenue Cycle Operations at AKASA
+As a part of our People of AKASA series, we’re interviewing the folks behind the brand. From engineering to...
+READ MORE
+Blog
+Dec 5, 2024 Using Machine Learning to Enable Autonomous Medical Coding
+It’s no secret that the healthcare industry is complex. Medical coding, the act of transcribing each medical condition into...
+READ MORE
+Blog
+Jul 25, 2022 10 Questions for Sanjay Siddhanti, Director of Engineering at AKASA
+As a part of our People of AKASA series, we’re interviewing the folks behind the brand. From engineering to...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

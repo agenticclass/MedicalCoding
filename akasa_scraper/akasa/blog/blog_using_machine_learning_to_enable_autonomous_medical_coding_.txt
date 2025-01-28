@@ -1,0 +1,124 @@
+URL: https://akasa.com/blog/using-machine-learning-to-enable-autonomous-medical-coding/
+
+Using Machine Learning to Enable Autonomous Medical Coding | AKASA
+Blog
+Using Machine Learning to Enable Autonomous Medical CodingMedical coding is essential to accurate billing in the healthcare revenue cycle, but also notoriously time-consuming. Fortunately, AKASA's AI technology could lead to a solution.
+AKASA December 05, 2024
+The Gist
+Medical coding is a complex piece of the healthcare industry, rife with errors and difficult to automate. AKASA AI technology lead, Byung-Hak Kim, Ph.D., used a combination of machine learning approaches to develop the Read, Attend, and Code model for autonomous medical coding. The end result is a new state-of-the-art deep learning solution, employing attention mechanisms and transformers to overcome a human challenge and help ease the burden of healthcare coders everywhere.
+Blog Contents
+How did you first come up with the idea for Read, Attend, Code?
+How did you go about isolating a single problem to solve in this complex area?
+Once identified, how did you tackle the problem of autonomous medical coding? And how did those efforts go?
+How did you refocus after your earlier attempts didn’t go as planned?
+What’s the secret sauce? How did you build such an effective solution for autonomous medical coding?
+What does this blend of ingredients look like in action?
+How has this research been received?
+What does autonomous medical coding mean for the healthcare industry?
+What do you think this technology could mean outside of healthcare organizations?
+What are you proudest of with this new research?
+It’s no secret that the healthcare industry is complex. Medical coding, the act of transcribing each medical condition into a code within a patient’s file, is one of the more complex pieces of the healthcare puzzle.
+Coders have to quickly make sense of medical notes and even navigate typos from physicians, while avoiding any mistakes of their own. On top of it all, coders have to be accurate, otherwise patient data is incorrect and physicians can’t do their jobs either. And, inaccurate coding can result in medical billing horror stories for patients.
+So, it should come as little surprise that medical coders are often included in the conversation around burnout.
+AKASA AI technology lead, Byung-Hak Kim, Ph.D., recognized the complex nature of medical coding and decided it was time to help these professionals by automating as much of the process as possible. Autonomous medical coding would allow medical professionals to work on other tasks at a higher skill set. But, would it be possible? With machine learning, yes.
+The research, “Read, Attend, and Code: Pushing the Limits of Medical Codes Prediction from Clinical Notes by Machines,” was presented at the 2021 Machine Learning for Health Care Conference in August.
+Learn more about how this new approach came to fruition in this Q&A with Kim.
+For more details on the study, read the press release: New AI Approach Exceeds Performance of Traditional Models For Automatic Coding of Medical Notes.
+Q: How did you first come up with the idea for Read, Attend, Code?
+I was on parental leave last summer after my daughter, Hayden, was born. During that period, my brain had time to think about what was next. What problem needed to be solved? What research did I want to pursue?
+My role at AKASA involves advancing AKASA’s machine learning research vision, including choosing impactful problems, carrying out projects autonomously, and working closely with engineers to build.
+Learn more about Kim and his role by checking out his employee spotlight, a part of our People of AKASA series.
+Right before going on leave, I presented at the International Conference of Machine Learning (ICML) on using a neural network to predict health care billing claim denials. I knew there was a lot of untapped potential in the autonomous medical coding area. We deal with a lot of electronic health record (EHR) data from our different clients. It was a clear next move to switch to this other landscape.
+Clinical coding, or manual coding, is the very first step in the insurance claim filing process. Once a patient has any kind of medical service, those services, the procedure, and the diagnosis are written electronically in the clinical chart. Then those charts are coded and passed to the billing department to generate the claim.
+Humans have traditionally done this coding. But it’s very manual and susceptible to errors. It’s also time-consuming, with each case taking an average of 20 minutes or more for coders to complete inpatient charts. Plus, coders need a very high level of expert knowledge and training to be able to perform these tasks, in general.
+To augment and help medical coders, computer-assisted coding technologies were invented about ten years ago. But they’re far from perfect.
+All of this told me there was an opportunity for a more efficient machine-learning-based process that would improve the medical billing sector of healthcare.
+Q: How did you go about isolating a single problem to solve in this complex area?
+I like to formulate ideas into a machine learning problem first, with inputs and outputs. In this case, I realized this issue involved the free-text input from doctors and medical staff, with the output being a set of structured medical codes.
+Our challenge: can we translate this problem from free-text to structured code into a machine learning problem? In machine learning language, it’s a highly multilabel classification and prediction problem.
+Q: Once identified, how did you tackle the problem of autonomous medical coding? And how did those efforts go?
+Our first solution for autonomous medical coding didn’t work out very well. It improved the coding, but it wasn’t the state of the art.
+The very first idea I had was using pre-trained transformers. A transformer is one architecture that has led to incredible advances in natural language processing (NLP). I thought we might utilize this pre-trained transformer technology to address this problem.
+But we ran into three main problems with this approach:
+The first was that the standard transformer allows clinical notes up to 512 words or tokens. Typically, the type of clinical charts we’re interested in is much longer — an average of 1,500 words. We would lose too much information with this approach.
+The next was the issue of free text. Clinical notes are often unstructured, with spelling errors and complex medical language. Would attention focus on the correct elements if there were structural issues and spelling errors?
+Lastly, the number of medical codes is vast. There are more than 70,000 different codes in the ICD-10 system, and even more are anticipated with the forthcoming ICD-11 codesets. The codes are assigned to various conditions and diagnoses, and used by insurers and payers for billing purposes. Hundreds are added, altered, or deleted every year. Further complicating matters, only two or three codes or procedures are assigned to each patient. There is a severe sparsity in the output labels, with very few ones compared to zeros.
+We had to account for all of these variables. The attempt was successful, but not the complete success for which we were looking.
+Learn how this process fits into what AKASA considers to be the principles of a successful engineering team.
+Q: How did you refocus after your earlier attempts didn’t go as planned?
+I had to take a step back to figure out the next step. Our number one goal was to create a state-of-the-art technology that beat others in the autonomous medical coding literature by a large margin, setting our research up to be publishable and presentable.
+I thought a lot about the broader impacts as well. Once we have this advanced technology, what would be the broader impact on clinical documentation improvement in general? Clinical documentation is one of the biggest reasons for doctor and medical staff burnout. They need to type all the time, throwing whatever the patient says into the system. If we could make the documentation process easier, that would be a big win for healthcare staff.
+We started pushing harder into the problem with those goals in mind, bringing in new ideas. After a few weeks of modifying our approach, we outperformed the most recent automatic coding of inpatient clinical notes by more than 18% in the Macro-F1 metric.
+Once we reached that level of success, it was time to bring in humans to measure their performance, compare it to the AI, and create a human coding baseline.
+We hired four experienced CPC-certified professional coders and asked them to annotate medical charts, adhering to standard coding guidelines.
+In terms of speed, it’s challenging for humans to beat the machine. It often takes coders about 20 minutes per chart. For the machine, less than a second. But we also wanted to measure for accuracy. In accuracy, our test showed that our system reached past the human-level coding baseline in accuracy. The results highlight that our ML system is advanced enough to increase efficiency in the complex clinical coding industry. We’ve reached a new milestone in autonomous medical coding through machine learning.
+But autonomous medical coding is much like autonomous driving. Self-driving cars need human assistance. Likewise, you’ll always need human input — with different autonomy levels — to improve the overall quality of the medical coding. Our best practices are an expert-in-the-loop system, like we’ve created for the healthcare revenue cycle here with the AKASA platform. This means there’s always a specialist ready to step in and help the machine learning technology with any issue it hasn’t encountered before.
+Q: What’s the secret sauce? How did you build such an effective solution for autonomous medical coding?
+Our solution is based on deep learning technology, with a couple of new ingredients we combined to make this new system.
+We developed a model called Read, Attend, and Code (RAC) for this particular medical coding problem. It involves attention mechanisms, which have been popular in the deep-learning research community for the last few years. And then, we layered in transformer architecture to our model development.
+Convolutional neural networks (CNN) and Long Short-Term Memory (LSTM) networks have emerged in the past few years to tackle some of the challenges of medical coding, but fully autonomous medical coding is still in its early days. These two approaches have their pros and cons. Our high-level goal was to replace the two and design a new system that incorporates the best of each.
+Using these attention mechanisms and transformer encoders in our design was a key difference from other literature or approaches to developing a new autonomous medical coding system.
+Read what AIMed had to say about this research.
+Q: What does this blend of ingredients look like in action?
+Let’s say we’re solving a medical coding problem…
+One way of focusing on the issue is taking a linear approach of going through the whole document from beginning to end and tackling problems as they find them.
+But humans don’t do that. Instead, they go through a cognitive process to understand what they’re dealing with, and then basically assign a code to a particular portion of the medical chart.
+That’s why we decided to build our RAC system similarly.
+RAC takes this medical chart and reads it as step one. Just like a human coder reading it through, from beginning to end, to get a sense of what they’re dealing with. That’s the “read” part of Read, Attend, Code.
+The second step is pulled from readers’ output. RAC decides to focus on a particular spot — those spots where the medical code will be assigned, most likely. That’s the “attend.” It attends a specific spot in the code and focuses there.
+Finally, RAC identifies the problem or field to fill and codes it. Hence, the “code.”
+Q: How has this research been received?
+The feedback is mainly positive so far. For example, one peer reviewer said:
+“The paper solves an important clinical problem and the proposed method is well described, motivated, and vetted.”
+I presented this study at the Machine Learning for Health Care conference and people recognized the need for this research. Papers with Code even created an interactive leaderboard in the Medical Code Prediction task and ranked our RAC paper as #1 and the state of the art. So, it’s gone over very well.
+Q: What does autonomous medical coding mean for the healthcare industry?
+All healthcare delivery organizations (HDO) want this type of advanced technology. Because medical coding is one of the biggest challenges for every HDO, every healthcare organization — whether big or small — has a need for more advanced technology.
+RAC addresses those big medical coding challenges, which is good. But there are several further steps you can take.
+For example, inpatients are the most challenging type of coding because inpatients often stay longer than outpatients. This makes their charts longer and more complex. During the patient stay, they get more services than someone during a one-off emergency visit, etc.
+RAC is a good technical solution for this highest level, most difficult type of automation task.
+This can transform the coding process to make it more official. I feel like the grander vision is overall coding processes that can be improved beyond what’s currently possible with human efforts — including reducing coding errors.
+Q: What do you think this technology could mean outside of healthcare organizations?
+I think it could have a significant impact on drug development.
+Typically, drug development, drug R&D, is high cost and low productivity. That’s why lots of pharmaceutical and ML-based startups accept investments to improve their processes and efficiencies.
+I see a high potential that we can utilize similar technology we develop for this angle too. Imagine: all the employee health record (EHR) data is autonomously coded. That improves EHR quality overall. With more structured EHR data, there’s a higher chance of using that data for development purposes.
+When a drug is tested and FDA approved, we can look at the EHR data and realize, “Oh, this drug has been very helpful in curing this particular disease. We didn’t realize that.”
+If clinical notes are disorganized and improperly coded, they’re hard to mine. By looking at EHR data that has been cleanly processed, we can realize that medicine developed for a cold might also be good for diabetes.
+Q: What are you proudest of with this new research?
+We addressed an important problem in healthcare with the very latest technology. Many people have attempted a similar initial path that I took with this approach. But it didn’t turn out well and then they stopped. We pushed it further and saw dramatic success. I’m very proud of that.
+AKASA is often hiring machine learning research interns. This internship is for grad students who are passionate about ML, enjoy making core algorithmic advances and publishing at top-tier conferences, and want to spend 16 weeks solving real-world healthcare problems.
+We’re also always looking to grow our team with top engineering talent. Check our available job postings and consider joining our team today.
+You may also like
+Blog
+Nov 29, 2022 A Facial Focus on Health: My Movember Experience and Commitment to Making a Difference in Men’s Health
+Nearly 20 years ago, two gentlemen and a small group of their friends in Australia decided to bring awareness...
+READ MORE
+Blog
+Nov 13, 2023 Becker’s Hospital Review Podcast: An Interview with AKASA Co-Founders
+On a recent episode of the Becker’s Hospital Review Podcast, Scott Becker sat down with AKASA co-founders, Malinka Walaliyadde...
+READ MORE
+Blog
+Aug 9, 2024 Senior Software Engineer Armaghan Behlum on Why He Joined AKASA
+It’s been nearly two years since I left Verily, an Alphabet company focused on using advanced technology to improve...
+READ MORE
+Blog
+Jun 17, 2022 9 Trends from HIMSS 2022
+A World Unto Itself It’s difficult to communicate the sheer magnitude of the 2022 HIMSS Global Health Conference &...
+READ MORE
+Blog
+Jul 27, 2022 10 Questions for Military Spouses at AKASA
+There are more than seven million military spouses in the United States, between active duty and surviving spouses of...
+READ MORE
+Blog
+Jul 10, 2024 10 Questions for Amy Raymond, Head of Revenue Cycle Operations at AKASA
+As a part of our People of AKASA series, we’re interviewing the folks behind the brand. From engineering to...
+READ MORE
+Blog
+Dec 5, 2024 Using Machine Learning to Enable Autonomous Medical Coding
+It’s no secret that the healthcare industry is complex. Medical coding, the act of transcribing each medical condition into...
+READ MORE
+Blog
+Jul 25, 2022 10 Questions for Sanjay Siddhanti, Director of Engineering at AKASA
+As a part of our People of AKASA series, we’re interviewing the folks behind the brand. From engineering to...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

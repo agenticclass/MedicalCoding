@@ -1,0 +1,65 @@
+URL: https://akasa.com/blog/published-research-machine-learning-model-deep-claim-successfully-predicts-claims-outcomes/
+
+Machine Learning Model Successfully Predicts Claims Outcomes | AKASA
+Blog
+Published Research: Machine Learning Model, Deep Claim, Successfully Predicts Claims OutcomesDenials are a common occurrence in the world of healthcare operations, and result in lost revenue for providers and a poor patient experience. What if it was possible to predict denials using AI? A recently published paper from AKASA's AI technical lead, Byung-Hak Kim, points toward a future where that possibility is a reality.
+AKASA July 26, 2022
+The Gist
+Deep Claim is a machine learning model that predicts whether, when, and how much a payer will pay for a given hospital expense or claim. This innovative neural network-based framework demonstrates the opportunity to apply artificial intelligence and machine learning approaches at scale to the back office of healthcare, which could save the United States billions annually in wasted healthcare spending.
+Blog Contents
+What Is Deep Claim Machine Learning?
+A Future with Deep Claim
+The United States spent about $3.6 trillion on healthcare in 2018, more than $11,000 per person, according to the Centers for Medicare and Medicaid Services.
+Recent studies have found that fully one-quarter of healthcare spending in the United States is wasteful. Administrative costs contribute the most significant share of that wasteful spending and were estimated to cost about $266 billion annually.
+Estimates are that hospitals and healthcare systems spend about $120 in administrative costs for each claim just to recoup money owed them. This system of claim preparation and billing is at the core of the healthcare system in this country, and is a key driver of healthcare costs. Identifying ways to eliminate some of it by improving efficiency, correcting billing errors, and saving time could significantly reduce wasteful spending.
+Peer-reviewed published research has long been the cornerstone of advancing the practice of medicine. At AKASA, we believe the same scientific rigor should be applied to advancing practices in the business of healthcare.
+We are honored to have our first paper featured in a spotlight session during the Healthcare Systems, Population Health and the Role of Health-Tech Workshop at the International Conference of Machine Learning 2020 (ICML2020).
+What Is Deep Claim Machine Learning?
+The paper describes one of the company’s machine learning models — believed to be the first published deep learning-based system that successfully predicts how a claim will be paid in advance of submission to a payer. Called Deep Claim, this machine learning model predicts whether, when, and how much a payer will pay for a given hospital expense or claim.
+Lead author of the paper, Byung-Hak Kim, Ph.D., and AI technical lead at AKASA, was featured in the pre-recorded spotlight session.
+The paper was co-authored by other members of the AKASA technical team, including co-founder and chief technology officer, Varun Ganapathi, Ph.D.; co-founder and vice president of engineering, Andy Atwal; and lead machine learning engineer, Seshadri Sridharan.
+Deep Claim is an innovative neural network-based framework. It focuses on a part of the healthcare system that has received very little attention thus far. While much attention has focused on the potential of artificial intelligence and machine learning in diagnostics and drug discovery, this paper demonstrates the opportunity to apply these same approaches at scale to the back office of healthcare, which could save the United States billions annually in wasted healthcare spending.
+~ Varun Ganapathi, Ph.D., Chief Technology Officer and Co-founder at AKASA
+“I am deeply honored to have my work and the work of the team at AKASA featured in the Spotlight Session alongside five other papers from prestigious academic research centers, including the University of Cambridge, Johns Hopkins University, and NASA Frontier Development Labs, among others,” said Kim.
+“The fact that our model was trained on real-world claims data and that development included real deployment scenarios will enable us to integrate our research directly into our solution more quickly than a conceptual or theoretical research approach would otherwise allow. This ensures that our research will directly benefit our health system customers as quickly as possible.”
+A Future With Deep Claim
+For this paper, Kim and the AKASA team used almost three million de-identified claims to test the Deep Claim system. The data included demographic information, diagnoses, treatments, and billed amounts as inputs. The Deep Claim system then uses those inputs to predict the first response date, denial probability, denial reason codes with probability, and questionable fields in the claim.
+The ability to predict denial reason codes and questionable fields is especially promising as these key insights are required to proactively improve claims before they are submitted. The developers of Deep Claim demonstrated that the system performed about 22% better than the best baseline system.
+The paper demonstrates that this deep learning system can accurately predict how an insurance company will respond to a claim. Automating this process could save individual hospitals millions of dollars each year.
+One of the machine learning scientists who reviewed the paper said it was “excellent work.”
+“Grappling with the claims system is a key question that has been understudied in [Machine Learning] for health,” another reviewer wrote.
+You may also like
+Blog
+Feb 20, 2024 How the AKASA Engineering Team Created an Automation Solution for Database Migrations
+AKASA builds products and tools to improve the various components of revenue cycle management (medical billing) for hospital systems....
+READ MORE
+Blog
+May 1, 2023 ChatGPT and Healthcare: Exciting Potential That Needs To Be Channeled
+Recently I heard that as a fun exercise, the security officer at one of our healthcare clients tried asking...
+READ MORE
+Blog
+Jun 12, 2023 Overcoming the Top 3 Challenges Holding Back Healthcare Innovation
+Healthcare is notoriously slow at adapting and incorporating new technologies into day-to-day operations. Healthcare lags behind as one of...
+READ MORE
+Blog
+Jan 16, 2025 7 IT Mistakes You’re Making With Your RCM Automation Partner
+The right revenue cycle management (RCM) automation is capable of helping healthcare organizations overcome a litany of issues —...
+READ MORE
+Blog
+Jan 16, 2025 Questions Healthcare IT Teams Should Ask About Revenue Cycle Automation
+RCM leaders at your organization are discussing automation. Period. The healthcare revenue cycle is fighting non-stop battles. Staffing challenges...
+READ MORE
+Blog
+Jan 16, 2025 9 Healthcare Technology Trends To Watch
+Keeping track of the rapid changes in healthcare technology is no small task. The industry has seen numerous healthcare...
+READ MORE
+Blog
+Nov 30, 2022 The Gradient Podcast: An Interview on AI and Healthcare With AKASA CTO and Co-Founder Varun Ganapathi
+On a recent episode of the Gradient Podcast, host Daniel Bashir sat down with AKASA CTO and co-founder, Varun...
+READ MORE
+Blog
+Sep 1, 2022 Machine Learning in Medicine: Using AI to Predict Optimal Treatments
+At AKASA, we’re always thinking about how we can use machine learning (ML) and artificial intelligence (AI) to better...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

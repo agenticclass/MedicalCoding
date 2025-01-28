@@ -1,0 +1,15 @@
+URL: https://akasa.com/press/use-of-generative-ai/
+
+70% of Healthcare Providers Actively Considering Use of Generative AI | AKASA
+Press
+70% of Healthcare Providers Actively Considering Use of Generative AI
+Revenue cycle operations leading area of focus, with nearly 60% of organizations eyeing it for implementation
+South San Francisco, Calif. — November 16, 2023 — AKASA, the leading developer of AI-powered automation for the revenue cycle, released new survey results showing more than 70 percent of healthcare organizations are actively considering the use of generative AI. In the same survey of more than 250 CFOs and financial leaders at health systems and hospitals across the U.S., nearly 60 percent of respondents indicated they are actively considering these new technologies for their revenue cycle operations.
+“Advancements in the large language models (LLMs) that enable generative AI add structure to unstructured clinical text. This unlocks clinical records in ways that were previously impossible,” said Varun Ganapathi, Ph.D., chief technology officer and co-founder of AKASA. “Technology can now rapidly and accurately understand complex clinical documents (such as chart records), extract information from documents at scale, and meaningfully use the data across the revenue cycle.”
+“Healthcare organizations face slim operating margins, staffing shortages, high costs, and growing volumes. These pressures are driving urgency to embrace innovation that can relieve these burdens and improve efficiency,” added Malinka Walaliyadde, CEO and co-founder of AKASA. “Revenue cycle is a natural area to deploy LLMs and generative AI because it involves complex and dynamic processes that can significantly increase revenue yield and reduce costs when improved, but does not pose direct risk to patient health — it’s a safe and efficient place to start.”
+Source: Commissioned by AKASA, the survey fielded responses from more than 250 chief financial officers and revenue cycle leaders at hospitals and health systems across the United States through the Healthcare Financial Management Association’s (HFMA) Pulse Survey program.
+About AKASA
+AKASA is the leading developer of AI-powered automation for the revenue cycle. AKASA scales human intelligence with leading-edge AI and ML to deliver comprehensive automation for complex workflows. The result is an integrated solution that reduces operating costs, frees up staff to do the most valuable work, and helps health systems allocate resources to where they matter most.
+WRITTEN BY
+Tiffany Smith
+Tiffany Smith is the editorial director at AKASA. A former magazine editor, she has more than 25 years of experience in content, across healthcare, higher education, and finance, among others.

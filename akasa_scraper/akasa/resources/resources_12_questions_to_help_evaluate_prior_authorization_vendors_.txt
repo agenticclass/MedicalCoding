@@ -1,0 +1,9 @@
+URL: https://akasa.com/resources/12-questions-to-help-evaluate-prior-authorization-vendors/
+
+12 Questions to Help Evaluate Prior Authorization Vendors | AKASA
+GUIDE12 Questions to Help Evaluate Prior Auth VendorsAsk the right questions to find your right prior auth partner.
+Choosing the right prior auth vendor can make all the difference in your organization’s RCM efforts. This guide will help you find a vendor that aligns with your goals by asking questions about:
+If a prior auth vendor will work with your EHR and payers
+Whether or not a prior auth vendor can scale with your org
+The burden left on your team whenever workflow changes occur
+And more

@@ -1,0 +1,90 @@
+URL: https://akasa.com/blog/what-is-denial-management-in-healthcare/
+
+Improving Denial Management in Healthcare | AKASA
+Blog
+What Is Denial Management in Healthcare?Claim denials eat precious time, cost you revenue, and impact the patient experience. With the right denial management strategy you can overcome this troublesome hurdle.
+AKASA January 13, 2025
+The Gist
+Claim denials are a constant challenge for healthcare revenue cycle teams. What claims go through and which are kicked back? Denial management is how organizations investigate each denial, figure out why it was denied, and assess how to fix the problem — including decreasing the risk of future denials. Sophisticated and robust technology, designed to meet the needs of providers and achieved through artificial intelligence (AI) and large language models (LLMs), empowers organizations to realize overarching process improvement that reduces denials on the first pass and better addresses them when they occur.
+Blog Contents
+Eligibility Claim Denials
+Pre-authorization Claim Denials
+Incomplete or Incorrect Information Claim Denials
+Modifications, Bundled Services, and Other Claim Denials
+Achieving Effective Denial Management
+Increased complexity, delayed reimbursement timelines, and more work for staff are all common outcomes of denied claims in healthcare — in addition to the ultimate consequence of decreased profitability and revenue loss. Unfortunately, high claim denial rates are a current and serious issue for many hospitals and health systems.
+A survey conducted in 2021 by Harmony Healthcare found that 33% of hospital executives reported an average claims denial rate in their organization above 10%. An additional 18% of respondents cited an average denial rate of 8–10%.
+Providers use a variety of strategies to support denial management in healthcare, with the ultimate objective of achieving lower rates and more efficient operations. Selecting the right denial management solution directly supports this goal, but there are many options available on the market. With so many potential causes for a denied claim, traditional tools and systems to manage them often fall short.
+Solutions powered by AI and large language models (LLMs), designed specifically for the claims-related needs of healthcare providers, support a holistic approach to denial management.
+When thinking about the biggest bang for your buck as a revenue cycle leader, few things are as effective as denials management. But it’s important to avoid the common mistake of only focusing on working denials, and instead look at the root causes. Focusing on front-end issues, using both efficient workflows and technology, can make denials management as a whole easier for your organization.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments at AKASA
+Denials can arise throughout the claims management process. As a result, it’s important to know the key areas where denials commonly occur. Then, we can look at the role of automation in a denials management strategy that helps your healthcare organization prevent denials and increase cash flow.
+Eligibility Claim Denials
+Eligibility can seem like a simple concept on its surface: Either a patient is eligible for a service or they aren’t. Yet, eligibility is one of the more common denial reasons hurting providers’ bottom lines.
+However, changes to a patient’s insurance status, updates by payers related to the services, medications, and equipment that specific plans cover, and other factors can all lead to a medical billing denial.
+A 2020 Change Healthcare report found “Registration/Eligibility” was the top cause of denials, accounting for 26.6% of rejected claims. That category has led all others in terms of total claims denials since 2016.
+This makes eligibility a core concern for providers — a need that must be addressed to realize improvements in claims management and denial prevention.
+It’s not enough to depend on staff — or an outsourced provider that relies on human processes — to collect and enter the key information that determines eligibility. The workflow is time-consuming and rife with opportunities for human error.
+A purpose-built AI solution for revenue cycle management, including denials, should have the power to capture relevant information and determine eligibility directly by reading an insurance card. This approach to determining eligibility prevents errors from arising early on and addresses a key factor in the leading cause of denied claims.
+Pre-authorization Claim Denials
+Pre-authorization standards, rules, and processes are far from static.
+An update on the payer’s side related to which procedures, medicines, equipment, or other services requires prior authorization can quickly lead to increased denials without a corresponding adjustment by the provider. So can the introduction of new codes, forms, or claim submission processes.
+Systems that can’t adapt to new requirements force providers to use time-consuming processes for managing denials, exposing them to increased uncertainty.
+An American Hospital Association report pointed out a significant disparity in prior authorization denial rates based on the type of health plan involved. Medicaid Managed Care (14.7%) and Medicare Advantage (12.4%) topped the list, while commercial PPOs (11.3%) and HMOs (9.6%) rounded out the bottom. This variation in likelihood of a denial based on the type of health plan used by a patient only adds to the complexity of managing pre-authorization.
+Providers may turn to consultants, increased employee counts, robotic process automation (RPA), and similar bolt-on products in an attempt to address key needs related to prior authorization. Those requirements include updating patient data and verifying medical insurance as part of the pre-authorization process as well as contesting related denied claims.
+These approaches often require continued investment, maintenance, and oversight. In the case of RPA and similar tools, brittle processes that can’t adapt to regular changes in pre-authorization workflows can greatly limit effectiveness and increase medical claim denials.
+Effective AI is just as dynamic as the pre-authorization environment itself. The right combination of AI and LLMs adjusts to new workflows and scenarios as they arise in order to perform consistently and capably.
+AKASA has built a platform that does just that. Through targeted human involvement with an expert-in-the-loop process, revenue cycle experts teach the technology how to handle the intricacies of the claims process — a true AI solution that supports more robust operations now and in the future.
+Incomplete or Incorrect Information Claim Denials
+Accurate and complete information capture is crucial for effective claims processing and avoiding denials. Every detail must be accurate before a provider can reasonably expect to receive compensation from a payer.
+The same 2020 Change Healthcare survey found incomplete or incorrect information accounted for 17.2% of denials. In other words, nearly 2 out of every 10 denied claims stem from missing or inaccurate information shared with an insurance company.
+Correcting a rejected claim after the fact can lead to fewer denials, but this strategy places additional demands on staff. Other common denial management services can require more money to be invested with a consultant, service provider, or bolt-on digital tool. A solution that can ensure all necessary information is gathered and shared when a claim is first submitted leads to a more efficient process. Providers can both better avoid denials in the first place, and more capably address them when they do occur.
+A robust healthcare RCM AI platform is more than capable of addressing this need, ensuring that everything from relevant codes to patient and provider details are included. And, with the support of revenue cycle experts, the system can learn how to handle rare and unique instances over time.
+Modifications, Bundled Services, and Other Claim Denials
+Claim denials can stem from a service that is already bundled with another billed service, modifiers applied incorrectly, failure to include the proper documentation along with a modifier, and similar errors.
+There are so many potential issues that can arise from a particular combination of services, modifiers, and other considerations that it can be overwhelming for even experienced specialists to keep track of every need, exception, and detail.
+Robust AI is a powerful alternative to human-led workflows and more limited technology that can’t adapt to new rules, forms, and processes over time. The human in the loop — the revenue cycle experts who support the continued development of the solution — provided targeted support as needed, while the solution itself handles the vast majority of the work.
+Achieving Effective Denial Management
+Denials not only impact your bottom line, they also impede affordable and effective patient care. An effective denials management program can go a long way toward curbing this costly thorn in your side. But implementing a denials management strategy takes time and effort. With staffing challenges plaguing most providers, it’s difficult to find the time to implement changes.
+The right AI solution can help your organization curb front-end issues, and even tackle denials directly — regardless of current staffing challenges or a shortage of time.
+Eligibility Denials Resolution from AKASA streamlines the denial process, allowing your staff to focus their valuable time on other revenue-generating tasks. Our solution uses advanced machine learning and revenue cycle experts-in-the-loop to optimize the management of coverage- and eligibility-related denials and improve claims resubmissions for providers. It automatically:
+Analyzes in-scope denied claims based on specific CARC codes
+Takes action by checking insurance
+Verifies eligibility
+Determines how best to resolve the denial
+Create the ultimate denials management process with AKASA at your side. See for yourself how our unique platform can help you accelerate your claims resolution, lower A/R days and denials write-offs, save staff time, and drive down cost-to-collect. Schedule a free demo to learn more.
+You may also like
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Dec 5, 2024 How to Address the Challenges of Eligibility Denials
+Real-time eligibility (RTE), patient eligibility verification that allows medical staff to electronically verify patients’ insurance coverage for medical treatment,...
+READ MORE
+Blog
+Aug 16, 2023 Claims Automation AI: The Ticket to Cleaner Claims and a More Efficient Revenue Cycle
+Claims management has long been a concern for healthcare providers and revenue cycle teams. Denials, prior authorization requirements, and...
+READ MORE
+Blog
+Jan 13, 2025 What Is Denial Management in Healthcare?
+Increased complexity, delayed reimbursement timelines, and more work for staff are all common outcomes of denied claims in healthcare...
+READ MORE
+Blog
+Sep 23, 2022 A Blueprint for Modernizing Your Denial Management Strategy
+Denial management in the healthcare revenue cycle is an inherently complex task — one that, at first glance, might...
+READ MORE
+Blog
+Dec 5, 2024 How AI-Powered RCM Solutions Can Fix Hospital Bad Debt
+With high health insurance premiums, deductibles, and cost of care, patients are shouldering more of the financial burden of...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

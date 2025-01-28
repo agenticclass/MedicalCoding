@@ -1,0 +1,128 @@
+URL: https://akasa.com/blog/change-management-in-healthcare/
+
+What Is Change Management in Healthcare? | AKASA
+Blog
+What Is Change Management in Healthcare?Technology is allowing for vast improvements in healthcare and the revenue cycle — at a rapid pace. Before implementing anything, change management needs to become a core part of your RCM organization and decision-making process.
+AKASA August 02, 2024
+The Gist
+Change management in healthcare is about preparing and supporting an organization as changes such as new technologies, processes, or workflows are rolled out. It’s fundamental for hospitals and health systems looking to implement new efficiences, drive operational growth, and increase revenue. Yet change takes time, and it’s often met with resistance — leading many initiatives to fail. Understanding how to overcome challenges, address pushback, and implement a model that works, however, can help organizations achieve their goals and find success.
+Blog Contents
+What Is Change Management in Healthcare?
+Why Does Change Management in Healthcare Fail?
+Implementing a Change Management Model
+Automation and Change Management in Healthcare
+Although healthcare tends to lag behind other industries in embracing and adopting new technologies, processes, and perspectives, it continues to adapt, evolve, and innovate — because it has to. With ever-changing payer rules, new legislation like the No Surprises Act, workforce shortages, and the COVID-19 pandemic, proper change management in healthcare is vital for any U.S. provider looking to stay afloat.
+Before implementing change management practices into your RCM organization, it’s important to understand what change management in healthcare is, how to deal with resistance and common obstacles, and how to implement a model that works for the revenue cycle’s unique needs.
+“A change management strategy is crucial to making any updates to any part of an organization, including healthcare operations and the healthcare revenue cycle.”
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+What Is Change Management in Healthcare?
+Change management is the practice of preparing and supporting people at an organization as changes such as new technologies, processes, or workflows are rolled out. This allows people to grow and change as the organization does. Imagine trying to fit a square peg into a round hole. Change management is the act of reshaping things until they fit well together.
+With an effective change management program in place, staff is empowered, projects have a higher likelihood of success, and the organization as a whole wins. It’s also more likely successful change will take place.
+When it comes to using new technology, change management may include the design, development, and implementation of the solution. It will also require change management as it pertains to employees and how they will embrace, adopt, and use it.
+Change management in healthcare involves innovation, with new perspectives, processes, and approaches to enable improvements in areas such as care delivery, patient utilization, satisfaction, and engagement.
+It can occur anywhere in healthcare — whether it’s in the provider’s office, a patient’s home, or the back office. It could include implementing a new EHR, patient access process, or automation solution for revenue cycle management (RCM), for example.
+Regardless of where in the process it occurs, change management in healthcare is more important than ever. The COVID-19 pandemic spurred significant organizational change across all areas of the healthcare industry, including the rapid adoption of telehealth, digital solutions like mobile patient registration, new clinical applications, artificial intelligence solutions, and new processes in every facet of the industry.
+If care organizations want to adapt to these trends and prepare for the future state of health services as a whole, a successful change management strategy is key. Your organization’s success and its ability to meet the rising public health demands depend on it.
+Why Does Change Management in Healthcare Fail?
+According to a 2019 report by Gartner, typical organizations have experienced five major firm-wide changes in the past three years, yet 50% of initiatives fail, and only 34% are totally successful. There are many possible reasons for this low success rate.
+People have change fatigue
+Change management often fails because of change fatigue. This happens when an organization experiences too many changes at once, changes too often, or has a history of poor change implementation. This can make people resistant to change and doom projects from the start.
+Organizations don’t prepare for change
+Healthcare organizations may not be prepared for the new variables and work that come with any kind of change. Major changes often result in new workflows, changes in leadership and re-defined roles, roadblocks and disruptions, and the need to track long-term progress. A step-by-step analysis of how the change impacts everything and everyone at your organization is a must.
+Employees aren’t sold on change
+Change is often implemented with a top-down approach, in which leadership decides what needs to change. This often comes with the expectation that everyone at the organization will follow suit once the change is implemented. But, that expectation doesn’t always translate to employees going along with or agreeing with the change.
+Although transparency and communication are vital to rolling out change, many falsely believe that because the new solution, process, or culture shift was communicated, employees are on board. That’s not always the case, either. Leaders need to involve all levels of employees and get their feedback, while also selling them on the change.
+In short, if leaders are the only ones sold on the change, the change isn’t going to stick.
+“Leaders have a tendency to fully understand what they need from a high level, but not on the ground level. If I told you everything our revenue cycle operations department needed today, I’d be wrong. I need members of my team to help me fill in the blanks. I’m not at the level they are in the day-to-day enough to have a full understanding. I know what direction I want my team to move in. I know growth that’s going to happen before they do. So, I while I know what the main goal I’m reaching for and some of the milestones to get there, I don’t have all the details.”
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+Organizations underestimate how long change takes
+Effective change takes time. According to the Harvard Business Review (HBR), major changes take five to seven years, and improvements rarely stick.
+Plus, creating lasting change in healthcare is more challenging than in other industries because “clinical and administrative staff often view their work as a vocation as much as a profession, and they are historically suspicious of senior administrators and resistant to strategic agendas,” said Jeffrey Brickman, president and CEO of Central Maine Healthcare and author of the HBR article.
+When a change management initiative fails, organizations waste resources and morale suffers. Employees that push back on change management can interfere with the initial momentum and prevent the program from being properly executed and successful.
+Individual employees, groups, or entire departments can be resistant to change simply because “it’s how it’s always been done,” or because the systems or processes are outdated or are not aligned with the current business environment.
+Implementing a Change Management Model
+While resistance to change is inevitable and should be expected, addressing it is key for any change management techniques to work. Fortunately, a well-thought-out change management model will help your organization roll out change in an effective, clear manner.
+Change management plans are unique to every organization, but there are still universally applicable steps you can take to maximize success and create an organizational culture.
+At AKASA, Raymond uses the ADKAR model, pioneered by author and entrepreneur Jeff Hiatt. This model breaks change management down into five steps, which you tailor to fit your organization.
+1. Awareness
+Before implementing any change, it’s essential leadership announce it to the organization and spread awareness. This includes:
+The current state of things
+The reason for the upcoming change
+How the change helps the organization and team
+Why this change is important overall
+The ultimate goal of this step is to not only drive awareness but also warm your team members up to the idea of the change.
+“You have to start by getting buy-in on change. Including your team in those conversations is both a great way to get that buy-in and ensures you’re actually delivering what your team needs.”
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+2. Desire
+You need to build a desire for the change. You’ve pitched your organization the change. Now you need to explain what’s in it for them. How will this change benefit them? How will this change impact their roles? Will this result in improved healthcare delivery?
+Things move quickly in a healthcare setting. If this change will make tasks shorter or provide relief for short-staffed teams, drive that home.
+If the previous step was introducing the product, this is the step where you sell your team on the change. To make this “sale” happen, clearly explain to your team how this change will improve their lives, better the patient experience, and help the organization as a whole work toward achieving its mission.
+This desire can also create a sense of urgency around the change, making people more excited and willing to drive that change.
+3. Knowledge
+In order for change to be effective, you need proper training around the new tool, technology, or process. This training also needs to cover how the change will impact roles, reporting, and so on.
+When developing training, consider the following:
+How will this change impact each individual role?
+Do these role changes create any skill gaps?
+Are there skill gaps related to the new tool, process, or technology itself?
+Do you have the resources to provide sufficient training, or do you need an outside firm?
+Knowledge is a vital piece of change management. To ensure your team is learning what they need to for the change to be effective, set goals that your organization can work toward as they operate post-change.
+4. Ability
+With your team sold on the change and skills gaps filled, it’s time to put the change into action. Don’t implement change all at once, or you risk overwhelming your team, failing to capture performance, and ultimately failing to effect change.
+Give your team the time and space to practice the new processes or use the new tools or technology. Monitor their performance and provide feedback and further training.
+Continue to refer to the goals you set in the previous step and determine if your organization is progressing toward those goals. Revise your training, goals, and even the implementation process as needed to prevent change fatigue or overwhelming your organization.
+5. Reinforcement
+Lastly, you need to continue reinforcing the change. Provide ongoing training as needed, monitor your organization’s progress and metrics following the change, and continue to discuss the change and why it’s important.
+It’s important your leadership continue to champion the change even at this stage, as it’s easy for old habits and processes to return. Make sure to also celebrate any major or short-term wins related to the change, as this will help motivate your team to continue on with the new processes.
+“You need to be actively analyzing current performance and ask, ‘now what is the new technology doing and what should I be doing?’ Yes, it’s important people level up, but they don’t just all of a sudden do that. You have to actively shepherd them through, reminding them they used to be working this task and now they’re working this. Ask them how they feel about the changes. Walk through a few together and talk about it. If it doesn’t go well, focus on training. If it goes well, great, now onto the next skill.”
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+Ultimately, if the change is helping your healthcare organization progress toward your mission and better things for your team and patients, consider your change management a success.
+There’s always the chance the change wasn’t for the better. If the organization isn’t performing well, and both your team and leadership have concerns, acknowledge this and either change course or consider reverting back to pre-change workflows until a better process or tool is found. Admitting when something isn’t working is a sign of a strong leader.
+Automation and Change Management in Healthcare
+When you decide to bring in automation to improve your revenue cycle, change management needs to be a crucial part of the overall strategy.
+“Automation is essentially a new team. Just as I would when I bring in a new team of five people, I need to decide what to do with my existing team after I bring on automation. If you’re not managing your staff properly after automation, you’re not getting the most out of your automation.”
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+A leadership mind shift is required to optimize people operations within RCM once automation is deployed. Now that staff is freed up to take on more complex work, leaders must create a game plan to incentivize the workforce to shift gears and be equipped to tackle more complex work vs. the mundane, repetitive tasks they’re used to.
+Team members may not have the expertise to tackle the new projects assigned and may fall back into old patterns of work that can now be done by automation to meet productivity goals.
+This type of change requires strong people leaders that can also guide staff on how to do more complicated tasks and ensure they know the guardrails in place, so they aren’t duplicating work or falling back into old patterns or processes.
+Additionally, KPIs like productivity should be reconsidered and lowered, as the more challenging work often takes longer to learn and to complete.
+Leaders should have daily monitoring in place to understand what the team is working on, while the automation is working in parallel to ensure operational excellence.
+If RCM teams don’t have tools for success within the new ecosystem, then what’s the point of employing automation in the first place? Conversations must shift from “how should we staff up or how many people should we have on a project” to how to actually activate on a day-to-day perspective in terms of management, team productivity, incentives, etc.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+AKASA’s unique expert-in-the-loop approach, driven by our Unified Automation® platform, combines modern machine learning with human judgment and subject matter expertise to deliver robust and resilient automation that has been purpose-built for healthcare revenue cycle operations.
+Our automation makes it possible to remove time-consuming tasks from your staff’s work queue — from prior authorization to claim status checks to follow-ups. Because the automation sits upstream, working efficiently in the background, and your team doesn’t have to interact with it, you can focus on developing a change management strategy that enables your team to focus on higher-value tasks and better patient care.
+Ready to create meaningful change in your organization? Schedule a demo to see how AKASA can help you streamline your operations and improve your healthcare operations.
+You may also like
+Blog
+Jun 12, 2024 Waiting to Deploy RCM Automation Is Costing Your Health System
+About 78% of health systems are currently using or are in the process of implementing automation in their revenue...
+READ MORE
+Blog
+Jan 16, 2025 How Top RCM Leaders Are Prepping for the Future: Becker’s Annual Meeting Panel Recap
+At the 2023 13th Annual Meeting of Becker’s Hospital Review in Chicago, healthcare leaders met to discuss the industry’s...
+READ MORE
+Blog
+Jan 14, 2025 How Automation Drives RCM Employee Engagement
+Who are engaged employees in the revenue cycle? You know them when you see them — they’re the ones...
+READ MORE
+Blog
+Jan 14, 2025 Cross-Training in Healthcare RCM: The Secret to a More Productive, Engaged Team
+It’s a scene all healthcare RCM leaders have experienced: an overworked revenue cycle team, aging accounts, high employee turnover,...
+READ MORE
+Blog
+Dec 14, 2022 A Reason to Stay: Driving RCM Employee Engagement Through Purpose
+As revenue cycle leaders, we all know the telltale signs of a disengaged healthcare RCM employee: they do the...
+READ MORE
+Blog
+Aug 2, 2024 What Is Change Management in Healthcare?
+Although healthcare tends to lag behind other industries in embracing and adopting new technologies, processes, and perspectives, it continues...
+READ MORE
+Blog
+Nov 12, 2024 32 of the Best AI and Automation Quotes To Inspire Healthcare Leaders
+Automation technologies, including artificial intelligence (AI) and the newer generative AI (GenAI), are not novel ideas by any means,...
+READ MORE
+Blog
+Dec 5, 2024 Deploying AI-enabled Automation to Improve Operations and Patient Experience
+AKASA recently hosted a Brass Tacks roundtable at Health Evolution Summit, led by AKASA CEO and co-founder, Malinka Walaliyadde, with panelists Dr....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

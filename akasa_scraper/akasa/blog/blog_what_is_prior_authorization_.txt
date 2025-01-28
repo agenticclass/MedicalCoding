@@ -1,0 +1,149 @@
+URL: https://akasa.com/blog/what-is-prior-authorization/
+
+What Is Prior Authorization? | AKASA
+Blog
+What Is Prior Authorization and How Can It Be More Efficient?Prior authorization is a core part of the revenue cycle, but also a frequent source of frustration for providers. Learn how to streamline this process and do more with the team you have.
+AKASA May 23, 2023
+The Gist
+Prior authorization is essential to the healthcare revenue cycle. Yet, prior auth is also a hurdle for patients and providers alike, resulting in the impediment or outright denial of care in some cases. In order to navigate this essential but frustrating piece of RCM, it’s important you understand why payers deem prior authorization essential. Then, you can focus on answering prior auth FAQs, streamline this process, and learn how to automate it out of the picture entirely.
+Blog Contents
+What Is Prior Authorization?
+The Cost of Ignoring Prior Authorization Challenges
+Streamlining Prior Authorization
+Automating Your Prior Auth Processes
+For RCM leaders and specialists, prior authorization is not only a part of daily life. It’s also a common pain point. Payers (health insurance companies) argue prior authorization is essential to preventing medical waste, but many health professionals argue it’s unnecessary and prevents timely care.
+60% of healthcare leaders say prior auth is the second most time-consuming task in the revenue cycle
+35.6% of healthcare organizations say prior auth and pre-certifications are their leading cause of initial denials
+91% of providers say prior auth negatively impacts patient outcomes
+As prior auth demands increase and the process becomes increasingly time-consuming, many healthcare systems are looking for ways to streamline this administrative burden.
+What Is Prior Authorization?
+Prior authorization is a process where healthcare providers need to check with a patient’s insurance plan to make sure the cost of a service, treatment, or medication is covered before taking action. It’s sometimes called precertification, preauthorization, or prior approval, and isn’t limited to one type of care, but is frequently required for:
+Inpatient treatment
+Outpatient treatment
+Specialist appointments (e.g., imaging, acupuncture, physical therapy)
+Surgery
+Medication
+and more
+If prior authorization is achieved, the provider moves forward with care and the patient receives the appropriate bill.
+While prior authorization is mainly associated with inpatient and outpatient care, it’s also required for prescription drugs, at which point the healthcare provider sees if the patient’s health insurance covers the medication. If the auth request is rejected by the payer, the pharmacist has the option to find an alternative medication covered by a patient’s plan.
+While payers claim prior auth prevents unnecessary medical services and lowers healthcare costs as a result, others argue it’s ultimately a form of utilization management and gatekeeping. Regardless, it’s a hurdle your organization will have to clear — time and time again.
+Note: Prior authorization is not the same as medical necessity, a process used to determine if a procedure or medication is necessary to save the life of the patient or prevent unnecessary suffering. While not the same, medical necessity is sometimes grounds for approval or denial of a prior auth request.
+What happens if prior authorization is denied?
+A prior auth denial occurs when the payer rejects the request, which happens for any number of reasons: inaccurate patient or insurance info, the form of care isn’t covered by the patient’s plan, etc.
+When a provider receives a prior auth denial, they can correct the error and try again via the appeals process. This process allows the provider to fix the issue and make the request again in hopes the healthcare service is approved. In some cases, this is a quick process — fixing a typo or dated insurance info — but in others, it could result in having to contact the patient about missing information.
+No matter the situation, a denial leads to delayed care, no care at all, or an expensive treatment the patient pays for out of pocket.
+Common questions about the prior authorization process
+Prior authorization is a common occurrence, but unfortunately, the process is anything but simple. Prior auth is rife with hurdles, from complications around Medicare Advantage plans to prior authorization forms varying by payer to shifting prior authorization requirements. As a result, questions around prior authorization are plenty:
+How many prior auths do providers handle each week?
+How long does prior authorization approval typically take?
+Is it possible to automate prior auth in its entirety?
+Prior auth isn’t new and it isn’t uncommon. Yet it’s a huge source of frustration and confusion. I can’t even begin to count the number of prior auth-related discussions I’ve had with healthcare leaders. ‘Prior auth is killing us,’ or ‘I simply can’t hire enough people to tackle prior auth,’ or ‘Time’s the last thing we have to spare.’ Healthcare leaders are always juggling a million priorities. But right now, the most important one needs to be fixing the growing burden of prior authorization.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+Read the 15 Most Common Questions About Prior Authorization
+Prior authorization trends to watch
+Healthcare is typically slow to adopt technology. Despite this, prior authorization itself is in a state of flux.
+Many healthcare organizations recognize the burden of prior auth and are attempting to streamline the process and make it more cost-effective.
+Meanwhile, advocacy groups are trying to overhaul the process as a whole, with proposed bills and legislation, like the Improving Seniors Timely Access to Care Act of 2022.
+Despite the best efforts of organizations, it’s unlikely prior authorization is going away anytime soon. In the meantime, stay on top of the most pressing prior auth trends to ensure your organization operates as efficiently as possible and gets patients the care they deserve.
+Learn About the Latest Prior Authorization Trends
+The Cost of Ignoring Prior Authorization Challenges
+Prior authorization isn’t just at the forefront of the healthcare experience for payers and providers, it’s also at the forefront of the entire healthcare journey for patients. When prior authorization falls to the wayside, denials increase, margins take a hit, and the patient experience suffers.
+As prior auth demands increase and healthcare continues to increase in complexity, the cost of neglecting prior auth has never been greater.
+Prior authorization is a problem that can’t be ignored.
+The ripple effect of inefficient prior authorization
+When the prior authorization process is running efficiently, things are simply better for everyone involved — providers waste little time on auth, patients receive the care they need and are owed, and payers can quickly move on to the next case. However, when your prior auth process is inefficient, a ripple effect occurs and carries severe implications with it.
+It’s easy to think of prior authorization as primarily a revenue cycle issue. But an inefficient prior authorization process can impact your organization, your patients, your reputation, and beyond. Denials, delayed care, unexpected bills — prior authorization can cause them all.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+Discover the Ripple Effect of Inefficient Prior Authorization
+7 costly prior authorization mistakes
+Prior authorization is critical to both care and the entire billing process. When prior auth isn’t handled properly, the patient experience and your organization’s finances both take a hit.
+There are a number of prior auth challenges providers face, but several in particular cause the most headaches. There’s no avoiding prior authorization, but you can avoid these common, costly prior auth mistakes.
+How to Overcome These 7 Costly Prior Authorization Challenges
+It’s important to avoid as many mistakes as possible in healthcare RCM, obviously. But few mistakes have the ripple effect that prior auth has. When you make a prior auth error, you’re not only costing your organization, you’re potentially impeding care for a patient that needs it. It’s truly mission critical that leaders minimize the room for errors in their prior auth process.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+Streamlining Prior Authorization
+Prior authorization is here to stay, at least for the foreseeable future. While prior auth is the second most time-consuming task in the revenue cycle, it doesn’t have to be.
+There are a number of ways you can speed up prior authorization workflows, from evaluating and streamlining manual processes to deploying advanced automation. Not only will streamlining prior auth help your organization drive more revenue, it will also change the very ways in which your team works.
+For those that work outside the revenue cycle, prior auth and other RCM processes are a mystery. Wrapping arms with the patient the moment they arrive and involving them in the process can make such a world of difference. But this requires time — time your team can get if you take the right steps to streamline prior auth and elevate your people to new heights.
+~ Sequita Myers-Carlisle, Director of RCO Projects at AKASA
+You need to stop wasting time on prior auth. Read our ebook to find out how.
+How to speed up your prior authorization workflow
+Prior authorization workflows are complex, with multiple handoffs and points of potential breakdown. While technology is capable of streamlining prior auth, there are still numerous tweaks you can make to your actual workflows to ensure the process is smoother.
+Improving your prior auth workflow doesn’t have to result in a huge undertaking. Something as small as calling payers at the right time can add up to a significant amount of time saved in the long haul.
+Prior authorization is already a burden for overwhelmed staff. With the number of prior authorizations hospitals and health systems face each day increasing, this burden is only getting worse.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+Learn how you can speed up your prior authorization workflows by making adjustments throughout your processes and free your team up to focus on higher-priority tasks today.
+9 Ways to Speed Up Your Prior Authorization Workflow
+Automated prior authorization 101
+Automating prior authorization can help your organization combat denials, deliver a better patient experience, save time, and focus efforts elsewhere. But there are a number of considerations before picking a prior auth automation vendor:
+Are you wanting to automate only prior auth, or more RCM processes?
+What kind of tech does your prospective prior auth vendor use?
+How will you redeploy people after automation?
+What data are you already capturing?
+If you’re looking to lessen the burden of prior auth, automation is a natural next step. Make as informed a decision as possible using our guide, which covers the above and more.
+Everything You Need to Know About Automating Prior Authorization
+When you automate prior auth, you remove so much of the noise. Imagine what your team could work on with the bulk of prior auth out of the picture — more time for clinical calls and complex auth cases, more time tackling denials, and more time driving value to your organization and community.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+Prior auth processes best suited for automation
+Automation isn’t a “plug-and-play” solution. Getting the most out of your RCM automation requires knowing which processes to start with for the quickest impact, with the opportunity to scale into other areas afterward.
+Automating anything in the revenue cycle requires more than simply flipping a switch. You need to know which workflows or tasks are best suited for automation. The same goes for automating a single piece of the revenue cycle, like prior auth.
+To get the most out of your automation, learn which prior auth processes are best suited for automation. This will allow you to hit the ground running and quickly see results and save time, paving the way for scaling into other areas.
+Discover the 3 Most Important Prior Auth Processes to Automate
+Payer changes around preauthorization requirements and increased demand to schedule diagnostic procedures as soon as possible is driving significant volumes for financial clearance. Hiring to handle these volumes can be challenging and isn’t always the most strategic solution.
+~ Cynde McCall, Director of Patient Access and Health Information at Methodist Health System
+Evaluating prior authorization vendors
+While automation is seeing a boost in popularity within healthcare RCM, so too is the number of prior authorization vendors. It’s great to have options, but this also makes it difficult to determine which prior authorization vendor can deliver the results you’re looking for.
+Picking the wrong automation vendor for your prior auth process can be catastrophic. It hampers your people, budget, and organization during a time when resources are scarce. Take the time to evaluate your options and make the best choice.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+The right prior auth vendor will help your organization streamline this time-consuming process and get more out of your current RCM team. But the wrong vendor can result in technical headaches, incomplete or inaccurate work, and damage to your organization’s reputation.
+Few prior authorization vendors take the same approach, so it’s important to know which questions to ask when evaluating prospective partners. By asking the right questions you can determine what kind of technology the vendor uses, if they can scale to meet your needs, how they handle support, and more.
+Streamline your search for the right prior authorization vendor with our in-depth guide, which features numerous questions to ask prospective vendors.
+How To Evaluate Prior Authorization Vendors
+Automating Your Prior Auth Processes
+Healthcare providers everywhere are facing staffing shortages, making it more and more difficult to stay on top of ever-changing and rising prior authorization requests. Time is precious, and simply put — prior authorization is taking away too much of it.
+The average prior auth initiation and status check takes 12 minutes and 7 seconds
+Many prior auth automation solutions fall short, streamlining only a portion of the prior auth process while burdening your RCM staff with the actual submission.
+AKASA Authorization Management builds on robotic process automation (RPA) with AI and machine learning (ML), with support from a dedicated team of RCM experts. The end result: holistic prior auth automation with no training for your team, and no interruption to workflows.
+Because Authorization Management uses AI, ML, and human expertise, it’s capable of learning as it goes, navigating complex workflows and changing payer rules, and more:
+Holistically address prior authorizations: Our automation identifies payer requirements, submits requests, and checks statuses — freeing your staff from tedious prior authorization tasks.
+Intelligently navigates complex auth processes: Our AI intelligently navigates complex auth processes, payer rules, and portals, ensuring tasks get done.
+Ensures auth requests are thorough and accurate: Reduce back and forth with payers by ensuring all required information, such as clinical documentation and supplemental CPT codes, are submitted the first time.
+No disruption to your current workflow: Our AI works alongside your existing systems and third-party tools, optimizing prior authorization processes.
+Machine-learning-based technologies such as AKASA have been critical to ensuring our teams can provide rapid turnaround for verifying eligibility, covered benefits, and securing an authorization.
+~ Cynde McCall, Director of Patient Access and Health Information at Methodist Health System
+Stop wasting time on prior authorization and give your staff the time and freedom to work on other revenue-generating, more critical tasks.
+You may also like
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+May 23, 2023 What Is Prior Authorization and How Can It Be More Efficient?
+For RCM leaders and specialists, prior authorization is not only a part of daily life. It’s also a common...
+READ MORE
+Blog
+May 17, 2023 Authorization Management: Your Holistic Prior Authorization Solution
+Prior authorization is a vital function of the healthcare revenue cycle. Although it’s seemingly simple and straightforward, in reality,...
+READ MORE
+Blog
+Jan 16, 2025 7 Prior Authorization Challenges and How To Overcome Them
+Prior authorization is a vital function of the healthcare revenue cycle. While vital, prior auth is also one of...
+READ MORE
+Blog
+May 11, 2023 7 Prior Authorization Trends Revenue Cycle Leaders Need To Know
+While healthcare itself is often in flux, with changing payer rules and patient volumes, healthcare as an industry is...
+READ MORE
+Blog
+May 11, 2023 Automating Prior Authorization: Everything You Need to Know
+Prior authorization is a critical part of the healthcare revenue cycle and patient access. But because it requires several...
+READ MORE
+Blog
+Jan 16, 2025 15 Common Questions About the Prior Authorization Process
+Prior authorization is a necessary function of healthcare revenue cycle management. But like most things in healthcare, it’s neither...
+READ MORE
+Blog
+Jan 16, 2025 How To Speed Up Your Prior Authorization Workflow
+Prior authorization is a necessary function of the healthcare revenue cycle, but it’s also a significant pain point for...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

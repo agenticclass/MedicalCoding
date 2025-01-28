@@ -1,0 +1,19 @@
+URL: https://akasa.com/press/denials-management-requires-the-most-subject-matter-expertise-in-the-revenue-cycle/
+
+Denials Management Requires the Most Subject Matter Expertise in the Revenue Cycle | AKASA
+Press
+Denials Management Requires the Most Subject Matter Expertise in the Revenue Cycle
+Coding and prior authorization also require special skills and experience, according to new survey.
+South San Francisco, Calif. — May 23, 2023 — AKASA, the leading developer of AI for healthcare operations, released new survey results showing denials management, coding, and prior authorizations are the revenue cycle tasks that require the most subject matter expertise.
+More than 550 healthcare financial and revenue cycle leaders were asked: Which revenue cycle tasks require the most subject matter expertise? They could select up to five out of a list of 15 tasks.
+78.7% said denials management
+50.1% said coding
+49.7% said prior authorization
+Denials management not only requires the most subject matter expertise, but it’s also the most time-consuming task within revenue cycle management (RCM) — followed by prior authorization and insurance follow-up.
+As health systems and hospitals continue to experience major staffing gaps, advanced automation driven by artificial intelligence (AI) and machine learning (ML) can help streamline these complex tasks and save providers valuable time and revenue.
+“Revenue cycle leaders are being challenged to do more with less as they’re strapped for resources, while also experiencing higher volumes of claims,” said Amy Raymond, VP of revenue cycle operations at AKASA. “To continue to improve yields and meet revenue goals in this environment, leaders must leverage automation and AI-driven solutions that help reduce burnout for existing employees and ensure workflows still get done reliably.”
+To make the biggest impact, health systems and hospitals should consider automating repetitive work (such as claim status checks) so teams can focus their time and attention where it’s needed most: tasks that require human judgement and revenue cycle expertise. The ideal automation tool can handle both the mundane and the more nuanced, complex tasks to provide the support RCM teams need — while ensuring processes are more streamlined and efficient.
+“Experienced revenue cycle staff is hard to find. Deploying automation for more repetitive work can be a key retention strategy for training up junior staff, giving them an opportunity to build their areas of expertise, while allowing experienced staff to focus on the more challenging claims that return more value to the organization,” said Raymond. “This creates an environment where individuals feel the organization is invested in their career development and success while also improving the bottom line.”
+Commissioned by AKASA, the survey fielded responses from 556 chief financial officers and revenue cycle leaders at hospitals and health systems across the United States through the Healthcare Financial Management Association’s (HFMA) Pulse Survey program between July 8, 2022, and August 2, 2022. The national survey was designed to assess revenue cycle challenges at hospitals and health systems across the U.S.
+About AKASA
+AKASA is the leading developer of AI for healthcare operations. AKASA scales human intelligence with leading-edge AI and ML to continuously adapt to changing environments and deliver comprehensive automation for complex workflows. The result is an integrated solution that reduces operating costs, frees up staff to do the work they love, and helps health systems allocate resources to where they matter most.

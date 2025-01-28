@@ -1,0 +1,59 @@
+URL: https://akasa.com/case-studies/montage-claim-status-case-study/
+
+Driving RCM Claim Status Efficiency With AI-Based Automation | AKASA
+Client Case StudyDriving RCM Claim Status Efficiency With AI-Based AutomationHow a regional hospital and provider group experienced early wins automating its claim status follow-up workflow and expanded its engagement with AKASA.
+DOWNLOAD CASE STUDY
+13%DECREASED DAYS IN A / R
+5kCLAIMS WORKED PER MONTH
+300+HOURS OF STAFF TIME SAVED PER MONTH
+97%CLAIMS CHECKED
+Montage Health is the nonprofit parent company of a family of organizations dedicated to improving lives by delivering exceptional care and inspiring the pursuit of optimal health. Based in Monterey County, California, it focuses on preventive, restorative, palliative, and coordinated care.
+2,500Non-medical staff
+256Hospital beds
+$787MNet operating revenue
+EpicEHR
+ChallengeMontage Health had a high-performing revenue cycle team that was achieving its key performance indicators (KPIs). But its leaders knew automation would be necessary to drive efficiency, transition the staff to more complex work, and continue to meet benchmarks for years to come.
+SolutionMontage Health brought AKASA in to collaborate on AI-powered automation. The two decided to kick off the relationship by focusing on claim status. Starting the automation journey with a simpler workflow is a useful strategy, as it allows healthcare organizations to see how the technology and vendor work and get the right processes in place.
+AKASA deployed Claim Status to automatically obtain up-to-date status information for Montage Health. Our AI simultaneously works on a batch of accounts at a time and cascades through various search options to find a matching claim with payers. Status check results are interpreted by our machine learning or RCM experts in the loop and returned to your EHR. Accounts requiring intervention are routed to different work queues for your staff or AKASA to prioritize follow-up, helping prevent reimbursement delays.
+It automated the Montage Health claim status follow-up workflow, helping the organization speed up claim resolution, improve cash flow, and free staff from manual claim status checks. The technology worked alongside their EHR (Epic), with no disruption to existing workflows.
+Learn how AKASA can automate your business office.
+ResultsThe project took four months to build. Within three months of going live, AKASA worked about 3,000 claims across five payers for Montage Health’s hospital. Six months into the initial project, Montage Health expanded its engagement to include more payers within Community Hospital of the Monterey Peninsula (CHOMP) and then Montage Medical Group (MMG).
+Here are the goals that AKASA and Montage Health agreed on at the start of the project — and the results!
+01Accelerate cash flow
+13%Decrease in A/R days
+02Reduce mundane, time-consuming tasks
+5k+Claims worked per month
+03Allow staff to focus on work requiring human attention
+300+Hours of staff time saved per month
+04Increase quality of claims follow-up process
+97%Claims checked
+Matt Morgan
+CFO | Montage Health
+“Unlike other solutions we considered, AKASA takes a holistic view. They plan for not only how to automate the revenue cycle, but how to continue to optimize it into the future. We knew we could grow with them.”
+Automation Success With AI
+Being proactive about automation
+While Montage Health was achieving its revenue cycle KPIs, it knew the healthcare industry was becoming more reliant on automated solutions to drive efficiency. Its leaders wanted to proactively implement digital innovations and integrate AI-based automation to improve operations even further.
+After an RFP process, Montage Health chose AKASA as its partner. Unlike other vendors, AKASA had a comprehensive understanding of the revenue cycle and how to automate it, with technology purpose-built for it.
+How AKASA brought peace of mind
+AKASA and Montage Health decided their first project would be automating the claim status workflow. Four months after kickoff, the project went live. Unified Automation enabled complete follow-up on claims with no payer response by checking the claim status on the payers’ portals, pulling back relevant information into Epic, and prioritizing the need for escalation with the payer.
+Because of its strong relationship with Epic, AKASA could interface directly with that team and work officially within its system, which was vital for rapidly helping Montage Health.
+Increasing claims volume and expanding automation
+Within six months of launch, Montage Health realized the value the AKASA solution had on its revenue cycle. Their team was able to focus on more complex work that required human touch and were more productive and efficient overall.
+As a result, Montage Health increased its engagement to include seven payers with CHOMP, and shortly thereafter, moved to the physician side as well with MMG.
+Within six months, AKASA worked more than 23,000 claims for both their hospital and provider groups. It also played a role in improving days in accounts receivable (A/R) by 13%.
+Due to the success that Montage Health has seen with automating claims status, it is expanding its relationship with AKASA and automating additional tasks, such as prior authorizations.
+Want to learn how AKASA and AI-powered automation can help your organization?
+GET IN TOUCH
+You may also like
+Blog
+Jul 29, 2021 Healthcare Claims Denials Are at an All-Time High: Here’s What You Can Do
+Increasing healthcare claim denial rates have been a persistent, industry-wide problem for years that show no signs of slowing...
+READ MORE
+Blog
+Mar 16, 2022 Unpaid Claims? Poor Patient Experience Might Be To Blame
+Hospitals and health systems in the U.S. have been hyper-focused on improving the patient experience in recent years —...
+READ MORE
+Blog
+Apr 4, 2023 How Automation Elevates Your RCM Team
+Healthcare RCM automation is increasingly common. In just one year, automation use in healthcare jumped 10%, with 78% of...
+READ MORE

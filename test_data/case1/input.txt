@@ -1,0 +1,49 @@
+SOAP Note
+
+Subjective:
+CC: Chest pain radiating to left arm x 2 hours
+HPI: 58 y/o male with known CAD presents with acute onset of substernal chest pain radiating to left arm. Pain began 2 hours ago while watching TV, described as pressure-like, 8/10 intensity. Associated symptoms include nausea, diaphoresis, and mild shortness of breath. No relief with rest.
+PMH: Hypertension, Hyperlipidemia, CAD
+Medications: Lisinopril 10mg daily, Atorvastatin 40mg daily
+Allergies: NKDA
+Family History: Father - MI at 62, Mother - HTN
+Social History: Smoker (1ppd x 30 years), occasional alcohol use
+ROS: Positive for chest pain, nausea. Negative for fever, chills, recent illness.
+
+Objective:
+Vitals:
+- BP: 145/90 mmHg
+- HR: 110 bpm
+- RR: 22/min
+- Temp: 98.6°F
+- O2 Sat: 96% RA
+
+Physical Exam:
+- General: Appears uncomfortable, diaphoretic
+- Cardiac: Tachycardic, S1S2 normal, no murmurs
+- Lungs: CTA bilaterally
+- Extremities: No edema, pulses 2+ bilaterally
+
+Diagnostics:
+- ECG: ST elevation in II, III, aVF
+- Troponin I: 5.2 ng/mL (elevated)
+- CK-MB: 45 U/L (elevated)
+- Lipid Panel: LDL 145, HDL 35
+
+Assessment:
+1. Acute STEMI, inferior wall
+2. Hypertension
+3. Hyperlipidemia
+4. Tobacco use disorder
+
+Plan:
+1. Admit to CCU
+2. Start ACS protocol:
+   - Aspirin 325mg PO
+   - Nitroglycerin 0.4mg SL x3
+   - Morphine 2mg IV PRN pain
+   - Heparin drip
+3. STAT cardiology consult
+4. Prep for PCI
+5. Smoking cessation counseling
+6. Follow-up lipids in 6 weeks

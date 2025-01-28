@@ -1,0 +1,74 @@
+URL: https://akasa.com/blog/a-new-approach-automation/
+
+From Assembly Lines to Machine Learning: A New Approach to Automation | AKASA
+Blog
+From Assembly Lines to Machine Learning: A New Approach to AutomationAutomation's roots are much older than you likely believe. Varun Ganapathi, CTO and co-founder at AKASA, connects the dots between the 1900s and the AI of today.
+Varun Ganapathi, Ph.D.August 09, 2022
+The Gist
+What does automation have to do with the early 1900s? Everything. Henry Ford sparked the beginnings of modern automation in 1913. This led to further innovations, eventually landing us where we are today: a world with advanced AI and machine learning capable of taking on increasingly-complex tasks. Varun Ganapathi, CTO and co-founder at AKASA, is here to connect the dots.
+Blog Contents
+Innovation in the Revenue Cycle
+Ensuring Quality Assurance with Machine Learning
+Around the Clock Relief with Automation
+Varun Ganapathi
+The following post first appeared June 11, 2020 on Becker’s Hospital Review
+The world was forever changed in 1913, when Henry Ford launched his first assembly line for automobiles.
+The time to build a car went from more than 12 hours down to about two and half hours. Other innovators brought assembly lines to other industries in generations to come. Perhaps just as famously, is Ray Kroc, who brought the assembly line to restaurants – in McDonald’s.
+Assembly lines increased productivity while also providing consistency in quality, allowing business to scale in ways never before possible. Fortunately, revenue cycle management parallels an assembly line in many ways, making it an ideal area of healthcare to apply automation.
+Innovation in the Revenue Cycle
+Revenue cycle processes in healthcare are well overdue for a healthy dose of innovation. In fact, there are few technologies on the market today that have been designed specifically for the industry. Most existing solutions available for revenue cycle automation use decades-old technology that was never designed with the complex and dynamic nature of healthcare in mind.
+We started AKASA to develop a solution that is purpose-built for the unique demands of revenue cycle management in healthcare.
+Much like a production line, revenue cycle staff work out of queues with work divided into different types of tasks. The first step to optimizing consistency, efficiency and accuracy is to observe and record all of the actions required to perform any given task. At AKASA, we developed proprietary software to capture multi-modal data of work performed. This data allows continuous analysis of the time taken by every task and ultimately guides comprehensive automation.
+Labeling and categorizing information is the next step. What information do staff look at and use to inform their work? What are the outputs they produce? The main goal of supervised machine learning is to learn from examples of inputs and outputs to generate a piece of code that can automatically produce the same results. The machine learning algorithm is trained on the input and output data to develop both the code that extracts the required inputs and to learn the decision-making process that produces the outputs.
+Finally, the system can then put the outputs back into the appropriate financial information systems, be they electronic medical records or other billing and enterprise resource planning systems, completing the task. Almost every task can be cast into this form, whether it is checking the status of a submitted claim, or reading insurance cards and checking coverage, or drafting and submitting an optimal appeal letter for a denied claim.
+AKASA is tackling all of these tasks with one unified and comprehensive approach: Unified Automation®.
+Ensuring Quality Assurance with Machine Learning
+Just as in any factory, quality assurance is critical. This is why we use both machine-learning-based auditing and expert human auditors to continuously monitor the quality of the work our Unified Automation solution performs.
+Ray Kroc is famous for holding a stopwatch while timing employees at each station on his burger assembly lines. Kroc then reordered and rearranged the stations to minimize the total time it took to construct a burger. Since our proprietary software handles that kind of observation, I’ve had the opportunity to make other kinds of observations in my work both here at AKASA, and during my work at Google.
+Humans, while unique and wonderful in many ways, are prone to errors in our work. We’ve developed special machine learning algorithms to automatically detect and learn robust, outlier data. We’ve found that machine learning can actually achieve superhuman accuracy by detecting and ignoring bad data, and by combining good data from different sources. In this way, our Unified Automation solution provides revenue cycle leaders with superpowers when it comes to accuracy.
+Our experience has shown that there are benefits to focusing on four core areas of the revenue cycle for initial automation efforts. These four activities include eligibility, prior authorizations, claim status, and denials (including adjustments and appeals).
+In addition to being the highest volume activities, these areas also represent the bookends of the healthcare revenue cycle. Utilizing automation to solve upfront issues also eliminates a number of downstream activities based on correcting errors. However, there are some claims where you have to get an initial denial before payment so that’s just one reason why denials should also be high on the list for automation. Once these four areas are addressed, automation can expand across the revenue cycle.
+Around the Clock Relief with Automation
+Technology, of course, also has the benefits of working around the clock without ever taking a sick day, and automatically scaling to the work available. However, technology does have its limits. When our system encounters something different or new from what it expects, it flags the item to our team of revenue cycle experts who resolve the issue in real-time while the system learns from the actions they take.
+With continuous learning built-in, our system provides peace of mind to revenue cycle leaders. They don’t have to worry about being blindsided by a broken bot and the consulting and technology costs that will be required to fix it every time some small variable in a process changes.
+Most importantly, our solution seamlessly integrates the best of machine learning technology with the human judgment and subject matter expertise required in revenue cycle management. This is why we call it Unified Automation.
+Henry Ford once said, “Don’t find fault, find a remedy, anybody can complain.” Financial complexity in healthcare with countless codes and complicated steps for billing and reimbursement is easy to complain about. And while “fixing” the complexity in our healthcare system will likely require massive national healthcare policy reform, at least for revenue cycle management in healthcare there is now a remedy: Unified Automation.
+See for yourself how Unified Automation can help you streamline your revenue cycle processes and schedule a free demo today.
+WRITTEN BY
+Varun Ganapathi, Ph.D.
+Varun Ganapathi, Ph.D., is the chief technology officer and co-founder of AKASA. His passion is developing novel algorithms to power great products, with a focus on healthcare and improving the patient experience. Ganapathi has a bachelor’s in physics and an M.S. and Ph.D. in computer science from Stanford University. During his time at Stanford, he focused on machine learning and computer vision. His doctoral thesis was the basis of his first company, Numovis, which was acquired by Google. After his time at Google as a research scientist, Ganapathi went on to create Terminal.com, which was acquired by Udacity.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

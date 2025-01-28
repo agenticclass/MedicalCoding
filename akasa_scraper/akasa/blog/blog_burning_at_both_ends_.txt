@@ -1,0 +1,97 @@
+URL: https://akasa.com/blog/burning-at-both-ends/
+
+Thoughts on COVID-19 and Revenue Cycle Staffing | AKASA
+Blog
+Burning at Both Ends: One Leader's Thoughts on Revenue Cycle StaffingStaffing challenges are hitting healthcare systems everywhere. Here's what George Ann Phillips, an administrative director of revenue cycle, has to say about it.
+George Ann PhillipsJune 26, 2023
+The Gist
+Staffing challenges, plunging margins, automation, COVID-19. Healthcare providers have had a truly turbulent couple of years. George Ann Phillips, administrative director of the revenue cycle at University Health Care System in Augusta, Georgia, is here to shine a light on the reality healthcare providers are dealing with today.
+Blog Contents
+From Too Many to Too Few
+A Dip in Staff
+Pulling Every Lever
+The Revenue Cycle in a Post-COVID World
+The healthcare revenue cycle has been coping with many of the same struggles for decades. Whether you’re at a hospital in New Jersey or a healthcare system in Georgia, revenue cycle leaders are facing issues like low pay, tight margins, and high turnover. Many of these challenges have been exacerbated by COVID-19. Chief of which is staffing.
+At AKASA, we are using leading-edge artificial intelligence and machine learning to develop seamlessly integrated, customized solutions that reduce operating costs and help health systems allocate resources where they matter most. Many of the industry leaders we speak with are facing staffing challenges. So we are providing resources (including a trend report on revenue cycle staffing solutions) to help.
+As a part of that effort, we’ve invited George Ann Phillips, administrative director of the revenue cycle at University Health Care System in Augusta, Georgia, to share her own staffing challenges story in hopes of shining a brighter light on the issues healthcare providers around the country face.
+From Too Many to Too Few
+You could not have told me at the beginning of 2020, when COVID hit, that we’d have too many people working in the revenue cycle department. But it was true.
+~ George Ann Phillips, Administrative Director of the Revenue Cycle at University Health Care System
+Our revenue cycle team is currently about 250 people — across access services, medical records, patient financial services, collections, and revenue management.
+When COVID first hit, our hospital beds quickly filled up, and in-patient needs became an all-hands-on-deck situation for our revenue cycle and related departments. We quickly took two actions to reallocate resources.
+First, we canceled scheduled surgeries and other outpatient procedures, allowing physicians to focus on COVID patients.
+Then we shifted focus to our office staff. We had people standing by to schedule appointments, handle prior authorizations, and so on. But, there was a problem — we didn’t have any patients. We had more employees than there was work — not something any of us envisioned when COVID hit. So, we redeployed those staff members, too.
+There are five locations at University Hospital that needed coverage, so many of our office and revenue cycle staff moved to these locations. Some worked as greeters, taking temperatures and checking for COVID symptoms before allowing people in. Other staff were tasked with producing surgical masks and gowns that met the criteria for surgical services. When masks and gowns couldn’t be purchased, we set up shops and had staff make the kits themselves.
+Unfortunately, the transition wasn’t an easy one for many of our people. A lot of our team were faced with the tough reality that they’d soon be working in the emergency room, where every other patient was coming in with COVID. This wasn’t, and still isn’t, an easy reality for anyone, let alone those making less than some retail and fast-food workers.
+This marked a turning point and the end of our hospital having sufficient staff. It’s a reality all of healthcare is facing right now.
+A Dip in Staff — and Morale
+We lost some of our revenue cycle staff as it became clear more and more help was required in the emergency room. Many of our team signed up to help in the revenue cycle, not venture into the frontlines of battling a pandemic.
+Accelerating our staff churn was the rapid closure of schools and daycares, along with both children and elderly parents getting sick. This resulted in a sandwich generation at our hospital, leaving many of our workers with one choice: leave the hospital to stay home and care for family.
+As more and more people made the tough decision to stay home, our existing staff quickly found themselves with more work than they could handle. In the early days, there was some cushion to the blow, with people celebrating healthcare workers as heroes. The Air Force flew over our hospital, 150 firetrucks pulled through with lights flashing, and a local nursery brought in more than 5,000 plants to celebrate our staff.
+But, as the celebrations stopped and the workloads worsened, our staff grew more and more exhausted. And soon, we found ourselves competing with, and often losing to, places like Amazon, retail, and fast food. Amazon’s new distribution center in our area paid $15 an hour, removing us as a local salary leader. The revenue cycle operates on razor-thin margins, so we simply couldn’t compete.
+We did quickly pivot to a remote model, allowing most of our staff to work from home full-time if they desired. All of medical records and revenue management are offsite, along with a portion of our access services team. We gutted the old business center and created a cube farm where people can come in and work from a desk if they’d like, too. But, other revenue cycles in Georgia went remote as well, meaning we quickly found ourselves competing with Atlanta salaries.
+Then, loss hit home in the revenue cycle — our department was the first to lose two team members to COVID. It was a blow to our entire team, serving as a reminder of just how dangerous and dire the entire situation was, and still is.
+Pulling Every Lever
+Now, the pendulum swung from “we have too much staff because our volume dropped off” to “Oh my gosh, we don’t have enough staff.”
+While we started COVID with excess staff making masks and gowns, we quickly found ourselves with more patients than we had hands to care for them. In patient access alone, we had more openings than we could fill in a timely manner.
+Simply put: there were too few applications coming in.
+We’re having to be extremely creative about the scheduling. All of my managers and leads are sitting in desk chairs, registering patients.
+~ George Ann Phillips, Administrative Director of the Revenue Cycle at University Health Care System
+We outsourced what we could to keep things operational while we looked for permanent hires. It’s not easy to find experienced people in the revenue cycle, so for the first time, we had to reevaluate our job descriptions and requirements. Where we once looked for two years, we looked for one. But, the job grade and salary stayed constant.
+In time we did start getting applicants and new hires, which was great. But, as anyone in the revenue cycle knows, there’s a big learning curve. With that learning curve comes slower operations and more errors on the backend. As a result, our AR over 90 increased, denials increased, and our likelihood of not getting paid increased.
+It’s very difficult in a revenue cycle to have initiatives where you’re trying to move things forward, like focusing on upfront collections.
+During the early days of COVID, everyone was worried about touching credit cards and paperwork, so we suspended upfront collections and they slipped across the industry. It has been really hard to get everybody cranked back up into the mode of patients making payments. It’s also hard for all of our new staff members to ask for payments, as that request usually takes a more seasoned person.
+We’ve made strides toward lessening the workload for our frontline revenue cycle specialists. We’re an Epic shop with MyChart set up, allowing patients to update insurance and add their driver’s license, make payments, sign HIPAA forms, and so on — all before they walk in the door. All they really need to do when they come in is identify themselves and get an armband, and they’re off.
+But — and it’s a big but — not enough people use these services yet. Because of this, we can’t dedicate a full-timer to handling these digital patients. Those who do take advantage of MyChart don’t see a big benefit. And if there’s little benefit, they stop doing it.
+We were pulling every lever we could in hopes of getting back to where we once were. But it didn’t feel like enough.
+~ George Ann Phillips, Administrative Director of the Revenue Cycle at University Health Care System
+The Revenue Cycle in a Post-COVID World
+Many of the problems will get better over time, especially as our new hires grow in experience.
+But, my fear is that what were once problems in a COVID world, will continue to exist in a post-COVID world.
+~ George Ann Phillips, Administrative Director of the Revenue Cycle at University Health Care System
+We’re going to continue pulling every lever we can: relax job descriptions and requirements, outsource when necessary, push for more use of MyChart. And I fully encourage other healthcare organizations to take similar steps.
+But there’s more that can be done.
+Hospitals need to take a page out of hotel playbooks. Patients should have the option of doing everything digitally. They should be able to check in and out with almost no requirement for human interaction. All the necessary support is available through a smartphone, where people can call or text in. Otherwise, they should have the seamless experience hotels provide.
+Going forward, we’ve got to be able to do more with less in the revenue cycle. And this is where I see automation and AI truly shining.
+~ George Ann Phillips, Administrative Director of the Revenue Cycle at University Health Care System
+Imagine all those new hires, brought in under reduced job requirements, having the time and bandwidth to learn the ropes, while AI handles a large portion of patient access. Those revenue cycle specialists could become the concierge equivalent in the revenue space, giving patients that hotel-like experience.
+The idea might sound far-fetched, but so did a global pandemic a few years ago. As revenue cycle leaders, we have the opportunity to spearhead the change necessary to make the future we want for our teams, for our communities.
+At University Health Care System, we’re pulling every lever available and dreaming of new levers entirely. And I challenge you to do the same.
+WRITTEN BY
+George Ann Phillips
+George Ann Phillips brings more than 39 years of healthcare management and leadership experience to her current position as the administrative director of the revenue cycle for University Health Care System. Her scope of responsibility includes Access Services, Health Information Services, Patient Financial Services and the Collections agency, which UHCS owns and operates.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

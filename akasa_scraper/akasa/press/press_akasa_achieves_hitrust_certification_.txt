@@ -1,0 +1,17 @@
+URL: https://akasa.com/press/akasa-achieves-hitrust-certification/
+
+AKASA Achieves HITRUST Certification
+Press
+AKASA Achieves HITRUST Certification, Reinforcing Commitment to Healthcare Third-Party Privacy, Security, and Compliance
+HITRUST Risk-based, 2-year Certification validates that AKASA is committed to meeting key regulations, mitigating risk, and protecting sensitive information in healthcare.
+South San Francisco, Calif. – August 23, 2022 – AKASA™, the leading developer of AI for healthcare operations, today announced the company’s Unified Automation® platform has earned Certified status for information security by HITRUST.
+HITRUST Risk-based, 2-year (r2) Certified status demonstrates that AKASA’s Unified Automation® platform hosted in Amazon Web Services (AWS) has met key regulations and industry-defined requirements and is appropriately managing risk. This achievement places the company in an elite group of organizations worldwide that have earned this certification. By including federal and state regulations, standards, and frameworks, and incorporating a risk-based approach, the HITRUST Assurance Program helps organizations address security and data protection challenges through a comprehensive and flexible framework of prescriptive and scalable security controls.
+“Operating in an industry like healthcare, security has to be a top priority for any organization that touches patient data,” said Andy Atwal, co-founder and vice president of engineering at AKASA. “At AKASA, we intentionally make security, compliance, and privacy top priorities when working with hospitals and health systems. We are SOC 2, NIST-800-53, and CIS certified, and pleased to now add HITRUST CSF to demonstrate to our customers that our practices align with the highest standards for data protection and information security.”
+“In today’s ever-changing threat landscape, HITRUST is continually innovating to find new and creative approaches to address challenges,” said Jeremy Huval, Chief Innovation Officer, HITRUST. “AKASA’s HITRUST Risk-based, 2-year Certification is evidence that they are at the forefront of industry best practices for information risk management and compliance.”
+About AKASA
+AKASA is the leading developer of AI for healthcare operations. AKASA scales human intelligence with leading-edge AI and ML securely trained on customer data to learn unique systems, continuously adapt to changing environments, and deliver comprehensive automation and analytics for complex workflows. The result is a seamlessly integrated, customized solution that reduces operating costs, frees up staff to do the work they love, and helps health systems allocate resources to where they matter most.
+AKASA has a work-from-anywhere attitude and we are hiring. Step into the future of healthcare with AKASA. Learn more at AKASA.com/careers.
+Media Contact
+Kate Enos
+AKASA
+[email protected]

@@ -1,0 +1,73 @@
+URL: https://akasa.com/blog/why-medical-coding-needs-generative-ai/
+
+Why Medical Coding Needs Generative AI | AKASA
+Blog
+Why Medical Coding Needs Generative AIKey insights from AHIMA
+Tiffany SmithNovember 08, 2024
+The Gist
+At AHIMA24, Mindy Harris, director of coding at AKASA, shared how generative AI (GenAI) is transforming medical coding. In her session Why Medical Coding Needs Generative AI, Harris highlighted how this innovative technology simplifies coding by intuitively understanding clinical documentation, offering precise code suggestions, and boosting coder productivity. This approach improves accuracy, speeds up onboarding, and identifies overlooked codes, helping health systems recover valuable revenue. Harris emphasized that GenAI is a supportive tool, enabling coders to focus on high-value cases and achieve better outcomes. Read this post to discover how GenAI is shaping the future of coding in healthcare.
+Blog Contents
+When you think of medical coding, you immediately think of Salt Lake City.
+Or at least you did recently.
+Revenue cycle and coding experts gathered at the end of October in the Crossroads of the West to attend the AHIMA Annual Conference. Amidst conversations with colleagues, networking, workshops, and happy hours, there was an impressive lineup of sessions that discussed the latest trends in coding.
+One of the most popular sessions during the conference was Why Medical Coding Needs Generative AI.
+Led by Mindy Harris, RHIA, CCS, CDIP, CPC, CPMA, CRC, director of coding at AKASA, this talk centered on the transformative potential of generative AI in enhancing the medical coding process. With more than three decades of experience in coding, Harris brought a wealth of knowledge and firsthand insights into how generative AI (GenAI) can tackle the inherent challenges of the revenue cycle.
+And leaders agree. In fact, 65% of health systems believe that GenAI will have a substantial impact on the future of coding operations.
+Here are some key takeaways from her presentation, showcasing why GenAI is set to be a crucial tool in a coder’s arsenal.
+1. Understanding Clinical Documentation Intuitively
+One of the most impressive features of generative AI is its intuitive understanding of clinical documentation. It analyzes unstructured text to extract crucial details without requiring changes in existing documentation styles. This capability minimizes payers’ denials and rejections.
+2. Bridging the Productivity Gap in Coding
+Coding is one of the most labor-intensive areas in healthcare administration, and organizations are always striving to balance quality with speed. According to Harris, many coders feel overwhelmed by the sheer volume of documentation they must process daily. GenAI helps alleviate this pressure by providing accurate code suggestions, speeding up the review process, and freeing coders to focus on cases requiring their expertise.
+One audience member asked how GenAI performs in inpatient settings, which are typically complex and documentation-heavy. Harris explained that GenAI is well-suited for such scenarios, as it can scan through vast amounts of information to identify and pull out relevant diagnoses from multiple documents, like progress notes and lab results. With abilities that allow coders to drill down into specific documents, GenAI brings efficiency to even the most challenging environments.
+3. Increasing Coding Accuracy and Reducing Errors
+Coding inaccuracies can be costly, often resulting in denied claims or inaccurate reimbursements. A major advantage of GenAI, Harris shared, is its ability to generate highly accurate code suggestions by deeply analyzing clinical text. Instead of relying on keyword matching, which can lead to errors, GenAI processes structured and unstructured data, making it particularly effective for complex cases.
+During the Q&A, an attendee asked about GenAI’s accuracy in comparison to other automated coding tools. Harris pointed out that the AKASA GenAI model alone has shown an overall accuracy rate of 85% on complex inpatient major diagnostic categories (MDCs), adding that the model has been trained on coding guidelines and medical record standards to deliver high reliability. When pairing that with coders, it will result in high accuracy rates. She emphasized that while the technology doesn’t replace human coders, it provides substantial support by catching codes that might otherwise be missed and flagging potential errors.
+4. Enabling Comprehensive Coding for Reimbursement and Compliance
+According to the same HFMA survey, these are the most critical coding metrics that leaders are tracking right now:
+Coding accuracy
+Productivity
+Rate of coding-related denials
+DNFB
+Clean claim rate / first pass rate
+Comprehensiveness (HCC, CC, MCC Capture Rate)
+DNFC
+Speed (DNFC / DNFB)
+Case mix index (CMI)
+In her talk, Harris highlighted that GenAI’s ability to identify hidden or missed codes is vital for comprehensive coding. Managers are typically focused more on DRG and productivity metrics, but CFOs prioritize comprehensive coding to ensure that all possible reimbursement opportunities are captured, including those tied to quality metrics.
+Read why comprehensiveness matters so much in coding.
+In one example, Harris shared how a health system used GenAI to find missed DRG-impacting codes, resulting in an average additional revenue of more than $1,200 per encounter.
+By identifying undercoded cases, GenAI has not only helped healthcare providers improve revenue but also meet quality standards that factor into hospital rankings and reimbursements. As Harris put it, GenAI empowers coders to meet financial, quality, and regulatory goals without sacrificing productivity.
+5. Simplifying Onboarding and Training for New Coders
+Hiring and training new coders is a significant challenge in healthcare, as many coding leaders know.
+In a recent HFMA survey, sponsored by AKASA, 64% of coding leaders say that it takes 6+ weeks to onboard a new coder and get them to an optimal accuracy level. With the use of computer-assisted coding, that number increased by 14%!
+Harris explained that GenAI streamlines onboarding by suggesting codes with embedded explanations. New coders can understand not only which codes to apply but also why each code was suggested, building their confidence and knowledge over time.
+An attendee asked if GenAI could be used in other areas of documentation or for coding audits. Harris responded that while GenAI is currently focused on coding, the tool’s foundational technology could be extended to support areas like clinical validation in the future. She added that because GenAI explains its choices and provides clickable justifications from source documents, it’s also a valuable tool for auditors and those seeking to understand coding rationale.
+6. Preparing Your Team to Embrace GenAI
+Adopting a new technology can be daunting, and Harris was transparent about the importance of change management. She recommended that leaders first familiarize themselves with the GenAI tool to become champions for their teams. Coders, she emphasized, should be reassured that GenAI is designed as a supportive tool, not as a replacement for their roles.
+In response to a question about accuracy metrics, Harris noted that while GenAI has high accuracy, human expertise is essential, especially in complex cases. As coders grow accustomed to the technology and recognize its value, they are likely to become more efficient, freeing up time to work on other professional goals.
+Harris suggested that organizations measure GenAI’s impact using key performance indicators (KPIs) such as productivity, code capture rates, and accuracy improvements to track progress and adjust as needed.
+GenAI’s Role in the Future of Medical Coding
+Overall, Harris reflected on how rapidly GenAI has evolved and how its ability to process complex clinical data with high accuracy makes it an ideal partner in coding. By reducing the burden of repetitive tasks, GenAI enables coders to focus on high-value cases, ultimately leading to better financial and patient outcomes.
+As GenAI continues to advance, it’s becoming clear that this technology will be integral to a future where coders are not bogged down by administrative tasks but are empowered to work more strategically. As healthcare organizations strive for efficiency and precision, embracing this technology is not just an option but a necessity for future success.
+Read more about how AKASA is using GenAI to improve medical coding and drive results for leading health systems.
+Mindy Harris, RHIA, CCS, CDIP, CPC, CPMA, CRC, is the director of coding at AKASA. With more than 28 years of experience in the revenue cycle field, she has built a comprehensive career spanning various roles such as biller, coder, auditor, consultant, manager, and director of coding for small critical access hospitals, large multi-state health systems, and revenue cycle services vendors.
+In her current role at AKASA, Harris acts as a coding subject matter expert, working with clients and contributing to the development of generative AI-powered medical coding tools. She works closely with machine learning teams to improve coding suggestions, manage and audit medical coders, and ensure quality and productivity standards are met.
+Harris holds a degree in health information management and has dedicated her career to maintaining high standards in revenue cycle operations.
+WRITTEN BY
+Tiffany Smith
+Tiffany Smith is the editorial director at AKASA. A former magazine editor, she has more than 25 years of experience in content, across healthcare, higher education, and finance, among others.
+You may also like
+Blog
+Nov 19, 2024 AHIMA24 Report for Medical Coding Leaders
+This year’s AHIMA conference in October in Salt Lake City underscored AI’s rapid evolution and potential impact on healthcare...
+READ MORE
+Blog
+Nov 8, 2024 Why Medical Coding Needs Generative AI
+When you think of medical coding, you immediately think of Salt Lake City. Or at least you did recently....
+READ MORE
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

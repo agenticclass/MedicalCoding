@@ -1,0 +1,23 @@
+URL: https://akasa.com/press/consumers-look-to-health-insurance-companies/
+
+Survey Finds People Look to Health Insurance Cos. for Pricing | AKASA
+Press
+Survey Finds 36% of Americans Have Researched Healthcare Service Prices, 60% of Those Who Do Would Look to Health Insurance Companies for Pricing
+For price transparency to truly be effective, both payers and providers must do their part to support the patient financial experience.
+South San Francisco, Calif. – July 21, 2022 – AKASA™, the leading developer of AI for healthcare operations, released findings from a new survey ​​conducted on its behalf by YouGov, which highlights how Americans often turn to health insurers for pricing information for healthcare services over other sources.
+The findings underscore the need for both payers and providers to be proactive on price transparency measures — to satisfy regulatory requirements and to reduce the opacity of healthcare pricing for patients.
+In the national survey of more than 2,000 adults, 36% indicated they have researched prices for healthcare services. Of these individuals, 60% would look to their insurance provider for pricing information, with nearly half (44%) reporting they would look on the websites of health insurers, and more than a quarter (29%) would call their health insurance company. (Respondents could select more than one option):
+44% would try looking for pricing information on the health insurance company website
+39% would visit a physician or hospital website
+34% would opt to call their physician or hospital for pricing information
+32% would access a patient portal for the information
+29% would call their insurance company
+Additionally, 44% of survey respondents say their health insurance company does not provide pricing information for local healthcare providers, and 34% don’t know if this information is available.
+“As the data indicates, patients are most often either turning to their insurance company or to their care provider through a variety of platforms to understand their price of care,” said Ben Beadle-Ryby, co-founder of AKASA. “Clearly, both providers and payers have a critical role to play, and the healthcare industry as a whole must work together to holistically improve price transparency, which is a key piece of the puzzle to improving the overall patient financial experience.”
+As of July 1, 2022, the Centers for Medicaid and Medicare Services require health plans to be compliant on a number of initiatives related to price transparency, including making “machine-readable files” (MRF) available to the public which offer information on in-network insurance rates and out-of-network charges. However, consumer advocates question the value to patients as the MRF format is not user-friendly nor easy to interpret.
+The YouGov survey, commissioned by AKASA, fielded responses from 2,026 Americans between March 9–14, 2022. The online survey was conducted at a confidence level of 95% and results for the total sample have a margin of error of +/- 2.18%, while results among those who have sought prices for healthcare services have a margin of error of +/-3.65%. The figures have been weighted and are representative of all US adults 18 and older.
+Survey Methodology
+All figures, unless otherwise stated, are from YouGov Plc. Total sample size was 2026 adults, of whom 721 confirmed having ever tried to look for prices for care or services needed. Fieldwork was undertaken between 9th – 14th March 2022.  The survey was carried out online. The figures have been weighted and are representative of all US adults (aged 18+).
+About AKASA
+AKASA is the leading developer of AI for healthcare operations. AKASA scales human intelligence with leading-edge AI and ML securely trained on customer data to learn unique systems, continuously adapt to changing environments, and deliver comprehensive automation and analytics for complex workflows. The result is a seamlessly integrated, customized solution that reduces operating costs, frees up staff to do the work they love, and helps health systems allocate resources to where they matter most.
+AKASA has a work-from-anywhere attitude and we are hiring. Step into the future of healthcare with AKASA. Learn more at www.AKASA.com/careers.

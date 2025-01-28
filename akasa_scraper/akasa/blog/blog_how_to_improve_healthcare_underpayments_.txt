@@ -1,0 +1,125 @@
+URL: https://akasa.com/blog/how-to-improve-healthcare-underpayments/
+
+How To Improve Healthcare Underpayments | AKASA
+Blog
+How To Improve Healthcare UnderpaymentsHealthcare underpayments cost organizations millions every year. How does this happen, and what can RCM teams do?
+AKASA January 15, 2025
+The Gist
+Underpayments are a common challenge for hospitals and healthcare systems in the United States and require a significant amount of time and resources to re-work claims. Understanding the various data inputs and factors at play and deploying an RCM solution, like one powered by generative AI, however, can close gaps and drive full reimbursement.
+Blog Contents
+What Are Healthcare Underpayments?
+Are Healthcare Underpayments Common?
+How Are Healthcare Underpayments Identified?
+Why Do Healthcare Underpayments Occur?
+How to Resolve Healthcare Underpayments
+How AI-Powered Solutions Can Help With Healthcare Underpayments
+Hospitals and health systems in the United States are continually looking to drive efficiencies, reduce operating costs, and improve cash flow. But underpayments are a significant challenge to that.
+Underpayments can occur for various reasons — incorrect coding, denials, a misinterpretation of the payer contract terms, changing fee schedules, health insurance errors, and more — and oftentimes take a long time and numerous resources to re-work and get full reimbursement.
+In the current healthcare climate, it’s difficult to find sufficient staffing, meaning it’s difficult to devote the time to focus on underpayments. This means the dream of combatting underpayments and prioritizing revenue recovery is far from reality.
+That is, unless the right healthcare tech helps with the other tasks.
+I’ve personally hired 30 people in the last 10 years to do underpayments in a previous organization. So, how many times does this same story exist over the hundreds of thousands of people that are a part of fighting underpayments on a daily basis? It’s an issue of time and people. Without automating processes, organizations simply can’t focus on underpayments.
+~ Sean Furlong, Senior Manager of Solution Architects at AKASA
+Here, we talk about what healthcare underpayments are, why they occur, and common challenges in identifying them. Lastly, how an AI-powered solution can help providers save time, properly allocate their resources where they matter most, and drive revenue for their organizations.
+What Are Healthcare Underpayments?
+In healthcare revenue cycle management, underpayments occur when a hospital or health system receives reimbursement for services, but the amount is less than expected.
+The expected amount can be based on their contract with the payer, government regulations, or the patient’s portion. No matter the reason, underpayments contribute to higher contractual write-offs, which results in less revenue.
+Although underpayments are sometimes pulled into conversations around denials, denials are not necessarily underpayments. But they can cause underpayments.
+It’s important to differentiate between an underpayment and a denial. A denial occurs when the insurance company determines that a claim (or a portion of the claim) should not be paid. While a denial may result in an underpayment, it’s not the only cause of an underpayment. Oftentimes, underpayments occur absent any denial from the insurance company.
+(Did you know that healthcare claims denials are at an all-time high? Here’s what you can do about it.)
+When providers know the reason for an underpayment, they re-work the claim, send it back to the payer, and are reimbursed. But it’s never that easy.
+There can be a lot of back and forth with the payer to determine the reason for the underpayment and re-work the claim to hopefully get reimbursed. Significant resources are involved in pursuing the underpayment.
+For example, provider representatives will spend time on the phone with insurance reps, draft and send appeal letters with supporting documentation, follow up on those appeals, and sometimes escalate to provider relations representatives at the insurance company.
+Also, there may be nothing wrong on the provider side in the first place. It could be just an administrative headache. The provider team could be spending its time appealing and researching, without having to actually adjust the claim.
+Determining the root cause of the underpayment can take unnecessary effort and require lengthy payer dispute resolution.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+Want a crash course in RCM? Read What Is Healthcare Revenue Cycle Management?
+Are Healthcare Underpayments Common?
+Unfortunately, healthcare underpayments are a significant struggle for many healthcare providers. According to the Medical Group Management Association (MGMA), payers underpay providers by 7–11%.
+Plus, in 2019, combined underpayments for Medicare and Medicaid were $75.8 billion, according to the American Hospital Association’s Annual Survey of Hospitals.
+Of course, healthcare underpayments are also costly.
+An Advisory Board analysis found that hospitals lose, on average, five percentage points of their margin to underpayments, denials, and suboptimal contract negotiations.
+For a hospital with a $98M profit margin, that’s $5M a year — a significant amount that could go toward a new hospital wing or additional services.
+How Are Healthcare Underpayments Identified?
+Providers typically use contract management solutions to identify underpayments. They price the claims according to the contract terms to determine the expected reimbursement amount. When the payment is made, it’s analyzed, and that information triggers the underpayment or overpayment.
+One challenge, however, can be with the patient accounting systems.
+Patient accounting systems compare the payment received from the payer to the pricing from the contract management solution and then queue the variances for the staff to review.
+If there are issues with the pricing or account details, it can look like an underpayment. But it’s really a transactional or calculation error that requires staff to analyze and correct.
+~ Sean Furlong, Senior Manager of Solution Architects at AKASA
+Underpayments related to charge capture and coding issues are some of the most difficult to identify because the contract management solution will only price the claim based on the charges and codes that are added.
+Why Do Healthcare Underpayments Occur?
+To understand the causes of healthcare underpayments, you need to know a few key data points that drive reimbursement:
+Diagnosis: Reason for the visit classification
+DRG: Diagnosis-related group
+HCPC/CPT codes: Outpatient service classification
+Revenue codes: In-patient and outpatient service classification
+Units: Number of days or units of service
+Total and service line charges: Total amount for the stay and per-service costs
+Modifiers: Circumstances around the procedure or visit
+Physician specialties: Code that details the attending physician’s specialty area
+Length of stay: Amount of time patient stayed at the facility
+Discharge disposition: Location to where the patient is being discharged
+Most of these data inputs will be submitted on one of the following three forms: HCFA 1500, UB 04-IP, and UB 04-OP.
+Some of these forms can have up to 80 specific fields for data. Additionally, each payer, whether government (Medicare, Medicaid, Tricare) or commercial, has specific rules around how the codes must be recorded.
+This dictates reimbursement and, ultimately, whether it’s paid appropriately or will result in an overpayment or underpayment.
+The reasons underpayments occur fall into one of the following four categories:
+1. The provider billed incorrect codes or didn’t provide the appropriate clinical documentation
+2. The payer priced the claims using incorrect contract terms
+3. The payer calculated the incorrect allowed amount
+4. The payer and provider interpret the contract terms differently
+For example, the payer “downgrades,” or lowers the severity of the DRG, or the level of care, which results in a lower payment. Or the provider misses a diagnosis or procedure code, or miscodes a claim that results in a lower payment.
+Underpayments can also occur if the payer denies days due to medical necessity or insufficient authorization or denies charges that will bring the total charges below the stop-loss threshold, so they don’t have to pay the add-on payment.
+There are also some unique underpayment scenarios.
+For example, suppose a patient carries both a primary and secondary insurance. In that case, the provider may be entitled to a full payment from both (depending on contractual agreements with the payers). However, the payment from the secondary insurance is the full contractual payment, less the primary payment amount.
+How To Resolve Healthcare Underpayments
+There are two main schools of thought for efficiently resolving healthcare underpayments. Work the high-dollar item first and sort descending, in order to get the biggest bang for your buck. Or focus on the highest trend, taking accounts with similar variances and working the group of accounts as one issue. The latter provides for a more robust approach to tackling underpayments, while the former ensures the largest accounts are correct. Health systems will typically employ a mix of both when strategizing for underpayment recovery.
+~ Sean Furlong, Senior Manager of Solution Architects at AKASA
+Once a reimbursement is calculated, the provider receives payment and determines the claim has been underpaid. Then, the claim has to be resolved so the provider can receive the full payment.
+If there are billing or coding errors, the provider must submit a corrected claim. And, if the provider believes the payer is at fault, they will have to submit an appeal. That appeals process may lead to an arbitration or legal pursuit.
+For medical-related or clinical denials, the provider will work with a nurse or nurse auditor to draft a clinical appeal and submit it to the payer along with corresponding medical records.
+When fixing errors or submitting appeals doesn’t resolve the underpayment, providers can work with a third party, such as the Department of Managed Healthcare Services, to help to enforce the laws. For cases that are large, complicated, and have a lot of money on the line, providers often hire a lawyer to pursue payment.
+How AI-Powered Solutions Can Help With Healthcare Underpayments
+While many elements factor into underpayments, time is often the biggest limiting factor when it comes to tackling underpayments. Fortunately, advanced AI-powered platforms can give your healthcare organization valuable time — time it can use to focus on underpayments.
+The AKASA platform uses generative AI (GenAI) and large language models (LLMs), backed by a dedicated team of revenue cycle experts, to streamline RCM tasks across the board. Our platform learns as it completes tasks, getting faster as it goes. If it encounters something it can’t solve, our team steps in and completes the work — while the AI watches and learns.
+From Authorization Management to medical coding, our RCM solutions can take manual tasks off your team’s plate. This allows them to focus on more crucial tasks, like negotiating better rates with payers, staying current with payer rules, and getting your organization the money it’s owed.
+Here are some average times that common RCM tasks take staff, based on AKASA client data. Think of what your team could do by freeing up this time:
+EHR claim edit: 10m, 6s
+Payer-specific claim edit: 5m, 42s
+Claim status check: 8m
+Underpayments cost organizations millions every year. But they don’t have to cost you.
+See how AKASA can help you streamline workflows and find the time you need to focus your attention on underpayment recovery and getting the revenue you deserve.
+Schedule a free consultation today and see the AKASA difference.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

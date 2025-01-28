@@ -1,0 +1,113 @@
+URL: https://akasa.com/blog/great-resignation-healthcare/
+
+The Great Resignation and Healthcare Revenue Cycle | AKASA
+Blog
+There Is Hope: 5 Takeaways from the Great Resignation and the Added Impact on Healthcare Revenue CycleThe Great Resignation is sweeping the nation as a whole, hitting healthcare systems especially hard. We spoke about this at Becker's Hospital Review recently, discussing hope amidst these trying times.
+AKASA January 13, 2025
+The Gist
+Healthcare workforce shortages have been a concern for years, but COVID-19 and The Great Resignation have only made them worse. Becker’s Hospital Review recently hosted an AKASA-sponsored webinar, “The Great Resignation and the Added Impact on Healthcare Revenue Cycle,” to talk about the current state of affairs, how organizations can attract, retain and engage staff, and how automation can address today’s biggest revenue cycle staffing challenges.
+Blog Contents
+1. Healthcare Revenue Cycle Leaders Are Burdened by Staff Challenges
+2. Low Employee Engagement Is Costly, But Can Be Improved
+3. Attracting and Retaining Top Talent Is Possible
+4. Revenue Cycle Leaders Are Increasingly Looking to Automation
+5. Automation and Humans Can Work Together
+The Great Resignation has significantly affected all industries in the U.S., but suffice to say, healthcare has been one of the hardest hit.
+According to the U.S. Bureau of Labor Statistics, healthcare is among the top three industries with a 3% rise in monthly “quits rate” in November.
+Yet workforce shortages are nothing new to healthcare, with staff turnover rates reaching 19.5% in the last five years. At the same time, wages have steadily increased. This combination has led to increased costs and lost productivity every time an organization has a team member resign.
+Staff shortages are particularly concerning for healthcare revenue cycle leaders contending with a high cost-to-collect, which remains stagnant at 3.3%.
+With patient volumes expected to grow by nearly 15% over the next few years, more work with less staff isn’t likely to be sustainable for organizations for much longer.
+At AKASA, we regularly hear from revenue cycle leaders about the staffing challenges they are currently facing. To help with that, we’ve created a report called No Resignation: Solving Today’s Greatest Staffing Challenges in the Healthcare Revenue Cycle.
+Becker’s Hospital Review recently hosted an AKASA-sponsored webinar based on that report. “The Great Resignation and the Added Impact on Healthcare Revenue Cycle” was run by Amy Raymond, SVP of Revenue Cycle Operations and Deployments at AKASA.
+In the webinar, Raymond talks about the current workforce shortages affecting healthcare revenue cycle teams, how organizations can recruit, retain and engage top talent, and how automation can solve today’s biggest staffing challenges.
+Here are five takeaways from the webinar you need to know:
+1. Healthcare Revenue Cycle Leaders Are Burdened by Staff Challenges
+The Great Resignation has caused significant challenges for healthcare revenue cycle leaders who are worried about having enough staff, reducing staff turnover, and how to augment their current teams to get the work done and meet their key performance indicators (KPIs).
+About 75% of the webinar attendees reported that their hospitals, healthcare systems, and medical groups have been affected by the Great Resignation, particularly in areas like clinical staffing and patient access.
+Consider these sobering statistics:
+3.6% more healthcare employees quit their jobs than in the previous year
+18% of healthcare workers have already left their jobs in the past year
+12% of healthcare workers plan to retire early or resign because of federal vaccine mandates
+This comes as no surprise, given that 93% of healthcare workers say they’re stressed, and 76% are exhausted and burned out, according to Mental Health America.
+To complicate matters further, revenue cycle leaders usually have poor insight and a lack of data about productivity and time-per-task, so they’re unable to predict adequate staffing levels.
+Additionally, staffing challenges can bleed into other areas of healthcare operations.
+Unfortunately, when you have to stack budgets up against patient care departments, the revenue cycle is often considered less essential and loses out. But it plays a key role in the patient experience and needs to be valued as such.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+In fact, when patients are satisfied with the business office experience, the paid-in-full percentage reaches nearly 75%, and patients are significantly more likely to recommend (82%) and return (95%) to the hospital for elective services.
+Now is the time for the revenue cycle to evolve to a patient advocacy organization, shifting from a reactive, back-end process to a front-end, essential function.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+2. Low Employee Engagement Is Costly, But Can Be Improved
+With only 36% of U.S. employees engaged in their work, attrition is inevitable — and very costly.
+According to the latest AKASA research, replacing revenue cycle specialists with 0-5 years of experience takes 84 days and costs $2,167, while those with 10 or more years of experience take 207 days and costs $5,699.
+That’s a significant amount of unworked accounts, low productivity, and current resources spread thin to fill those gaps.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+Fortunately, there are effective ways for healthcare revenue cycle teams to improve engagement.
+For example, you can employ automation so team members can work at the top of their skillsets and use their strengths to tackle more complex, value-add work, as well as provide training to upskill less experienced staff.
+In fact, according to a survey by Axonify, 92% of employees say the right kind of formal training impacts their job engagement positively.
+Ongoing training is vital, but how it’s delivered is important too. Consider offering self-led training, digital presentations and videos, peer-to-peer training, and documentation to keep track of processes and exceptional cases.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+3. Attracting and Retaining Top Talent Is Possible
+As a result of the COVID-19 pandemic and the shift to remote-based work, employees are re-evaluating what they want from an employer and new opportunities.
+For revenue cycle leaders looking to attract and retain the best talent, it’s imperative that they flex and evolve in how they hire.
+~Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+Some ideas discussed in the webinar included:
+Offer competitive benefits, including generous or flexible paid time off, gym memberships and wellness subscriptions, and industry-relevant memberships and certifications.
+Allow remote and hybrid work, which allows for broader recruitment efforts.
+Hire from unique groups, such as military spouses and those from undergraduate and master’s degree programs for healthcare administration.
+Create internship and fellowship opportunities for students who may become employees.
+Look beyond the resume and interview candidates with the right skill set instead of direct industry experience, and those with a passion and desire to learn.
+Lead with your values and talk about your mission. Employees want to work for an organization where they feel connected and part of the solution, offering contributions to the community.
+4. Revenue Cycle Leaders Are Increasingly Looking to Automation
+Hospitals and healthcare systems contending with staffing challenges are increasingly looking to automation solutions.
+In fact, a 2021 Healthcare Financial Management Association’s (HFMA) survey commissioned by AKASA found that 78% of health systems are currently using or are in the process of implementing automation in their revenue cycle operations.
+Automation increases staff productivity, immediately adapts to fluctuating volumes, provides an opportunity for cost restructuring, enables business continuity and the ability to ramp up or down as needed, and improves the patient financial experience.
+The goal of automation isn’t to replace staff — it’s to reduce operating costs so people can do what they love and so hospitals and health systems can allocate resources where they matter most.
+~Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+Additionally, Raymond noted that not all types of automation are created equal.
+For example, true AI-enabled automation is unlike RPA in that it automates logical, linear tasks, while also learning from exceptions. And it doesn’t require additional consulting costs.
+5. Automation and Humans Can Work Together
+Lastly, one of the major takeaways from the webinar was that automation can actually increase employee engagement and prevent staff turnover with the right approach, opportunities, and support.
+Automation should elevate and empower teams, so it’s important to make automation their revenue cycle team partner.
+~Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+For example, with automation, staff may worry they’ll have more work to do to keep an eye on the automation, feel disconnected and think, what’s in it for me?. Or have a complete lack of trust in the solution.
+Therefore, training them to collaborate with the automation and keeping them updated on the process and timeline can overcome some of these objections. Then, the time gained can be used to train and upskill them.
+Mentoring opportunities, lunch and learns, membership sponsorships, and engaging a consulting firm to provide professional training were discussed.
+Additionally, in the same way that organizations should look for employees who buy into their mission, they should continue to engage their team by talking about how the combination of automation and their work fits into the overall picture.
+Automation may be growing, but humans are still needed to do impactful, meaningful work and be patient advocates for those they serve.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+Are you facing staffing challenges? To learn how AKASA can help your organization solve those challenges and make your operations more efficient, request a demo.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

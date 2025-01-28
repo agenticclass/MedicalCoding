@@ -1,0 +1,51 @@
+URL: https://www.akasa.com/case-studies/montage-auth-status/
+
+Automating Authorization Status Checks With AI Reduces Queues and Staff Burden | AKASA
+Client Case StudyAutomating Authorization Status Checks With AI Reduces Queues and Staff BurdenBy expanding RCM automation efforts with AKASA to address  prior authorization, a regional hospital and provider group experienced a 22% reduction in their auth status Epic work queue volume, added new services, and freed staff from tedious tasks.
+DOWNLOAD CASE STUDY
+5,663AUTH STATUSES CHECKED IN 1 YEAR
+22%REDUCTION IN AUTH WORK QUEUE VOLUME
+Montage Health is the nonprofit parent company of a family of organizations dedicated to improving lives by delivering exceptional care and inspiring the pursuit of optimal health. Based in Monterey County, California, it focuses on preventive, restorative, palliative, and coordinated care.
+2,500Non-medical staff
+256Hospital beds
+$787MNet operating revenue
+EpicEHR
+ChallengeMontage Health already has a high-performing revenue cycle team. But their leaders wanted to improve efficiencies further. They’ve collaborated with AKASA on revenue cycle automation for the last two years — with great results. Successfully automating claim status (including more than 80,000 claims in about one year) contributed to saving the healthcare organization 300 hours of staff time per month, decreasing A/R days by 13%, and lowering HB No Response work queue volumes by 60%.
+As automating back-end functions was going so well, Montage Health wanted to carry that achievement upstream to their overburdened patient access team. After examining possible options with AKASA, they decided automating authorization status checks was the ideal next step.
+SolutionMontage Health implemented Auth Status Check, part of the larger AKASA Authorization Management product that helps holistically automate prior authorizations for providers. Through our unique artificial intelligence (AI) and machine learning (ML) decisioning platform and expert-in-the-loop approach, it obtains well-timed auth statuses via payer portals and returns detailed information in the EHR to drive follow-up workflows.
+This eases staff frustrations from performing monotonous status checks, enables the timely resolution of prior auth issues, and prioritizes patient care.
+ResultsAKASA is now automating auth status checks for Community Hospital of the Monterey Peninsula (CHOMP) and Montage Medical Group (MMG) within Montage Health. We’re fully ramped with nine payers (Aetna, Anthem BC, Aspire, Blue Shield, CCAH, Cigna, Coastal, Tricare, and UHC) across six work queues (such as surgical procedures).
+This automation has given Montage Health the additional efficiency it wanted. They’ve even been able to add new services without overwhelming existing staff. With the success of auth status automation, we’re expanding the project to include auth determination and initiation.
+Montage Health shares the AKASA vision of holistic revenue cycle automation. We both want to build and do more, implementing advanced AI-powered automation that improves the end-to-end revenue cycle for providers and patients.
+01Accelerate prior auth processes
+5,663Auth statuses checked in 1 year
+02Reduce mundane, time-consuming tasks
+22%Reduction in auth work queue volume
+Matt Morgan
+CFO | Montage Health
+“At Montage Health, we want to be at the forefront of healthcare  automation. AKASA is helping  with that. Using automation for prior auth has improved our efficiency. We’ve been able to grow and add new services without overburdening our staff. I love automated authorization checks.”
+RCM Efficiency With Automation
+Creating a strategic partnership
+Montage Health is a forward-thinking provider that wants to get the most out of Epic and layer automation on top of it. AKASA combines deep revenue cycle expertise with leading-edge, ML-based technology. Together, the two have developed a collaborative, strategic approach to automation.
+One of the Montage Health overarching automation priorities is using it for any straightforward work that doesn’t need a person. This allows their team to focus on more complicated tasks that drive value. To achieve that goal, we’re improving workflows and the value of automated auth status checks.
+Increasing the value of automation
+By creating a supportive culture, the two teams work efficiently and effectively. The result: quickly pivoting to improve workflows.
+As the teams were actively tracking metrics, we noticed that Auth Not Found returns were higher than expected. The technology was checking statuses too early. We threw aside industry standards the algorithms were based on and focused on Montage Health-specific data. After analyzing authorization time frames across payers and work queues, we refined the parameters. We were now checking auths at the right time, returning only the ones staff needed to work. This improved the Auth Status Check product, increased the value of the automation for Montage Health, and delivered on the organization’s automation goal.
+The lack of standardization around receiving auths from payers is an industry pain point. No two organizations’ timeframes look the same, as it’s based on payer mix. AKASA can work with providers to assess unique data and set appropriate timelines for reporting auths. Our technology is flexible and parameters sophisticated enough that we can configure date ranges based on payers, even localizing based on region.
+Seeing true impact
+Thanks to automating auth status, Montage Health has seen a 22% reduction in their Epic auth work queue volume for CHOMP. Reducing focus on such mundane tasks means they’ve been able to add new services without burdening staff.
+Want to learn how AKASA and AI-powered automation can help your organization?
+GET IN TOUCH
+You may also like
+Blog
+May 10, 2023 How To Speed Up Your Prior Authorization Workflow
+Prior authorization is a necessary function of the healthcare revenue cycle, but it’s also a significant pain point for...
+READ MORE
+Blog
+May 11, 2023 7 Prior Authorization Trends Revenue Cycle Leaders Need To Know
+While healthcare itself is often in flux, with changing payer rules and patient volumes, healthcare as an industry is...
+READ MORE
+Blog
+Jan 11, 2023 How To Evaluate Prior Authorization Vendors
+Think about the major struggles your revenue cycle team is facing right now. There’s a good chance prior authorization...
+READ MORE

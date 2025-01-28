@@ -1,0 +1,27 @@
+URL: https://akasa.com/press/survey-identifies-four-key-barriers-to-prevent-surprise-medical-bills/
+
+Four Key Barriers to Prevent Surprise Medical Bills | AKASA
+Press
+Survey Identifies Four Key Barriers to Prevent Surprise Medical Bills
+Out-of-network providers, limited resources deployed toward financial counseling, and outdated or erroneous information from both payors and patients stifle efforts to prevent surprise medical bills.
+December 9, 2021 — South San Francisco, Calif.  AKASA™  , the leading developer of AI for healthcare operations, released findings from a new survey highlighting the challenges hospitals and health systems face when trying to prevent surprise medical bills.
+Financial leaders at hospitals and health systems ranked the following as all high stressors in the push to prevent surprise medical bills, including:
+The inability to predict reimbursement for various providers of contracted clinical services who participate in procedures (i.e. anesthesiology)
+Limited resources and staffing to support patient financial counseling
+Delayed or erroneous responses from payors on eligibility inquiries
+Inaccurate or insufficient information collected during the patient registration process
+Of note, all of the barriers highlighted were ranked nearly equally as the biggest challenge facing healthcare financial leaders. For health leaders, this means investing and addressing all of these issues equally in order to effectively prevent surprise medical bills.
+“A patient’s healthcare experience is shaped by the care they receive and the support they get from healthcare’s administrative function,” said Amy Raymond, head of revenue cycle operations at AKASA. “From the time they schedule an appointment to the bill they receive after a visit or procedure, being proactive and transparent with patients on the financial aspects can go a long way in creating goodwill and demonstrating how providers have the patient’s best interest at heart.”
+Unexpected charges and surprise medical bills frequently haunt patients. <a href=”https://www.kff.org/health-costs/poll-finding/data-note-public-worries-about-and-experience-with-surprise-medical-bills/”> According to the Kaiser Family Foundation </a> , one in three insured adults (18-64) indicated their family had an unexpected medical bill, and one in six had a surprise medical bill related to an out-of-network. Those bills often required $500 or more in payment required – creating undue financial hardship on patients and their families.
+Regulators and policymakers have taken note of the widespread prevalence of surprise medical bills: the  No Surprises Act  , which goes into effect on January 1, 2022, protects patients by restricting excessive out-of-pocket costs caused when consumers are unknowingly treated by out-of-network providers. While this is a step in the right direction, errors in the medical billing process are still a major issue and the rise of high-deductible health plans often leaves consumers confused about what they’re required to pay.
+“A patient-first policy requires taking a close look at revenue cycle operations as this function serves as the foundation for the patient’s financial experience with providers,” continued Raymond. “To protect patients from erroneous, surprise medical bills at-scale, solutions are needed to address the root causes of the problem. When automation is embedded to make revenue cycle operations more efficient and accurate, it can help ensure patients get the care they need without surprise medical bills.”
+Commissioned by AKASA, the survey fielded responses from 514 chief financial officers and revenue cycle leaders at hospitals and health systems across the United States through the Healthcare Financial Management Association’s (HFMA) Pulse Survey program between September 30, 2021 and October 17, 2021. The national survey was designed to assess the adoption of automation in revenue cycle operations at hospitals and health systems across the U.S.
+About AKASA
+AKASA is the leading developer of AI for healthcare operations. AKASA scales human intelligence with leading-edge AI and ML securely trained on customer data to learn unique systems, continuously adapt to changing environments, and deliver comprehensive automation and analytics for complex workflows. The result is a seamlessly integrated, customized solution that reduces operating costs, frees up staff to do the work they love, and helps health systems allocate resources to where they matter most.
+AKASA has a work-from-anywhere attitude and we are hiring. Step into the future of healthcare with AKASA. Learn more at .
+Media Contact;
+Kate Enos
+Director of Media Relations
+AKASA
+[email protected]
+916.397.6400

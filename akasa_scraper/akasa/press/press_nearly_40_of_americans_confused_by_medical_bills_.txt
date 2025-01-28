@@ -1,0 +1,51 @@
+URL: https://akasa.com/press/nearly-40-of-americans-confused-by-medical-bills/
+
+Nearly 40% of Americans Confused by Medical Bills | AKASA
+Press
+Nearly 40% of Americans Confused by Medical Bills
+Survey finds uncertainty around what patients are being billed for as most frustrating; providers and insurers can take steps to alleviate patient burden on medical billing
+South San Francisco, Calif. – December 16, 2022 – AKASA™, the leading developer of AI for healthcare operations, released findings from a new survey conducted on its behalf by YouGov. The survey findings highlight uncertainty looms among patients about what is included in a bill and if they can pay – two factors that drive the most confusion on medical bills. However, there are strategies healthcare organizations can take to be proactive and prevent billing surprises from trickling down to patients.
+More than 2,000 Americans were asked: “On a scale from 1-5 (1 being not confusing at all, 5 being extremely confusing), how confusing are medical bills to understand?”
+11% found medical bills not confusing at all
+14% leaned toward medical bills not being confusing
+37% said they were neutral on the confusion of medical bills
+19% found medical bills somewhat confusing
+19% said medical bills were extremely confusing
+Additionally, respondents were asked: “Which, if any, of the following is most frustrating about the financial experience after seeking medical care?” Americans ranked the following statements as their most important frustrations:
+Being able to understand what they’re being billed for (29%)
+Uncertainty if they can pay the bill (27%)
+Not getting bill until weeks after they received service (24%)
+Uncertainty if the final bill will be consistent with the estimate of responsibility (20%)
+“The rise of high-deductible health plans, the uncertainty of what’s being billed, the complexities of in- and out-of-network charges, and how much patients are on the hook for makes understanding and managing medical bills challenging for many families,” said Amy Raymond, VP of revenue cycle operations. “Additionally, as errors in medical bills persist, patients should be diligent in reviewing their bills to ensure they’re getting an accurate bill. I strongly encourage individuals to ask questions of their providers or insurance company before paying a bill.” The survey also asked: “Which, if any, of the following would be most helpful to you in understanding how much you are expected to pay for care or services?”
+27% said a call before the procedure from the physician’s office or hospital staff to walk through what’s expected in terms of payment and discuss payment plans offered
+12% said an online calculator to help determine cost ranges for care or procedures
+11% said an email from the insurance company to walk through the bill after care or services are rendered
+9% said a call from the insurance company to walk through the bill after care or services are rendered
+9% said access to live online customer service through their insurer’s websites
+8% said a call from the physician’s office or hospital staff to walk through the bill after care or services are rendered
+24% said none of the above
+“These results show that medical billing is still a black box to patients,” said Raymond. “The onus is on healthcare organizations — both providers and insurers — to make medical billing less painful for patients, who may fear going into debt and avoid seeking out care. One critical tool healthcare leaders can leverage to course correct on medical billing and make it more seamless for patients is automation.”
+“Automation makes it possible to take a lot of the tedious work off the plates of revenue cycle specialists, freeing them up to become patient advocates,” said Raymond. “For example, automating authorization status frees them up to help with initiating an authorization in a more timely manner while also preventing appointments from getting canceled. Staff can also take on more patient-facing activities like financial counseling to deliver a better experience overall.”
+The YouGov survey, commissioned by AKASA, fielded responses from 2,026 Americans between March 9–14, 2022. The online survey was conducted at a confidence level of 95% and results for the total sample have a margin of error of +/- 2.18%, while results among those who have sought prices for healthcare services have a margin of error of +/-3.65%. The figures have been weighted and are representative of all US adults 18 and older.
+Survey Methodology
+All figures, unless otherwise stated, are from YouGov Plc. Total sample size was 2026 adults. Fieldwork was undertaken between 9th–14th March 2022. The survey was carried out online. The figures have been weighted and are representative of all U.S. adults (aged 18+).
+About AKASA
+AKASA is the leading developer of AI for healthcare operations. AKASA scales human intelligence with leading-edge AI and ML securely trained on customer data to learn unique systems, continuously adapt to changing environments, and deliver comprehensive automation and analytics for complex workflows. The result is a seamlessly integrated, customized solution that reduces operating costs, frees up staff to do the work they love, and helps health systems allocate resources to where they matter most.
+AKASA has a work-from-anywhere attitude and we are hiring. Step into the future of healthcare with AKASA. Learn more at AKASA.com.
+You May Also Like
+Press
+Sep 26, 2023 Denials Management Emerges as Area of Focus For Revenue Cycle Automation
+South San Francisco, Calif. — Sept. 26, 2023 — AKASA, the leading developer of AI for healthcare operations, released...
+READ MORE
+Press
+Dec 16, 2022 Nearly 40% of Americans Confused by Medical Bills
+Survey finds uncertainty around what patients are being billed for as most frustrating; providers and insurers can take steps...
+READ MORE
+Press
+Nov 15, 2022 Limited Vendor Support, Lack of Best Practices Hamper ROI Measurement for RCM Automation
+New survey of more than 550 healthcare financial leaders finds wide variability in how, when, and what is measured...
+READ MORE
+Press
+Sep 15, 2022 Survey: Cost-to-Collect Nearly .25% Lower for Hospitals and Health Systems That Leverage Automation in the Revenue Cycle
+Nearly 40% of organizations say their cost-to-collect has increased over past year South San Francisco, Calif. – September 15,...
+READ MORE

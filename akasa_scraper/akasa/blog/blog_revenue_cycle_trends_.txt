@@ -1,0 +1,124 @@
+URL: https://akasa.com/blog/revenue-cycle-trends/
+
+Top 8 Healthcare Revenue Cycle Trends for 2024 | AKASA
+Blog
+Top 8 Healthcare Revenue Cycle Trends for 2024What’s next for the RCM industry — and what revenue cycle leaders need to do about it now.
+AKASA November 28, 2023
+The Gist
+Profit margins continue to stabilize, but staffing shortages, denials, and prior authorization requests will continue to be challenges for health systems. With the new year right around the corner, revenue cycle leaders should have the latest industry trends on their radar — generative AI, large language models, and autonomous coding, to name a few, and the latest strategies to drive efficiency, reduce costs, and drive long-term profitability. Here are the revenue trends to watch.
+Blog Contents
+Trend #1: Rise of Generative AI and LLMs
+Trend #2: Increase in Denials
+Trend #3: Rising Healthcare Costs
+Trend #4: Labor Costs and Staffing Challenges Persist
+Trend #5: Autonomous Coding
+Trend #6: The Move to Value-based Healthcare
+Trend #7: The Patient Financial Experience
+Trend #8 Telehealth and Health at Home
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the end of many flexibilities and leaving millions of Americans uninsured due to Medicaid unwinding.
+Although hospital margins have rebounded and continue to move in a positive direction, staffing shortages and contract labor costs, which skyrocketed nearly 258% over the past four years, continue to plague the industry.
+At the same time, revenue cycle teams continue to grapple with high cost-to-collect, a rise in denials, and increased prior authorization requests.
+The challenges that have affected the revenue cycle for years show no signs of slowing down. In the new year, health systems will need to continue to be open to innovative solutions and new strategies to stay in the black.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments at AKASA
+As healthcare revenue cycle leaders look ahead to 2024, there will be a slew of industry trends taking shape. Here are eight, plus what you can do now to prepare.
+Trend #1: Rise of Generative AI and LLMs
+No one would argue that AI-powered automation is moving full speed ahead. About 70% of healthcare providers are actively considering the use of generative AI, with nearly 60% eyeing it for implementation in the revenue cycle.
+While there’s been a lot of hype about generative AI, it’s still very much in its infancy. It will transform the capabilities of the more rudimentary forms of automation (RPA, etc.) that have been in place for years. Going forward, expect to hear more about use cases for large language models (LLMs).
+LLMs are one of the most critical technological advances in recent decades, and the potential healthcare use cases are expansive — particularly in the revenue cycle and automation. They are uniquely suited to address the revenue cycle’s most significant challenges.
+LLMs unlock clinical records. They enable software to rapidly and accurately understand large, complex clinical documents (such as chart records) that were previously opaque to computers, comprehend the clinical context, extract information from documents at scale, and use the data in meaningful ways.
+Most revenue cycle tasks leverage patient clinical records to communicate with payers. Prior authorization uses clinical records to validate to payers that a procedure is necessary. Coding converts records to a structured format (medical codes) so payers can interpret, process, and remit payment. Denials management ensures that payers don’t miss critical clinical details when making decisions, and appealing them when they do.
+These are all areas where LLM technology can — and will — have a massive influence.
+When we show our LLM technology to healthcare leaders, they are particularly interested in how it can turn a mass of data into structured information. Think of all the use cases where your staff has to review a cluster of clinical records and then perform an action that requires human decision-making. That can now be done by LLMs. This is a lightbulb moment for revenue cycle leaders, and it’s going to be a game-changer for the industry.
+~ Varun Ganapathi, Ph.D., co-founder and chief technology officer at AKASA
+What organizations can do now
+About 80% of healthcare executives are increasing spending on IT and software — largely because of this emerging generative AI technology. Organizations must lay the groundwork to understand their role in the revenue cycle and implement the technology.
+When exploring this new technology, health systems should focus on automation that can reduce administrative burdens and enhance operational efficiencies. According to healthcare leaders, top priorities for generative AI in the next year include charge capture and reconciliation, structuring and analysis of patient data, and workflow optimization and automation.
+Trend #2: Increase in Denials
+Denials have been a challenge for decades and continue on an upward swing. According to a recent AKASA survey, 50% of providers report their denial rates increased in the past year.
+Among the top 3 reasons for initial payer denials, healthcare leaders cited:
+errors in patient access/registration
+lack of documentation to support medical necessity
+missing or incorrect patient information
+It’s no surprise, therefore, that denials management is the most time-consuming RCM task for three-quarters of healthcare leaders.
+What organizations can do now
+Denials management requires the most subject matter expertise, so assigning more staff isn’t the fix. Rev cycle leaders should start to scrutinize their patient access practices, including eligibility, financial clearance, and prior authorization processes and ensure everything is verified as far in advance as possible before the appointment in order to prevent denials from happening in the first place. Then, of course, also confirm those details as close to the appointment date — in case they change.
+When denials do occur, it’s important to develop a strategy to identify and prioritize denials by type. Or immediately assign high-dollar, time-sensitive claims that have the most opportunity.
+Leaders should also start to identify advanced automation solutions driven by artificial intelligence (AI) and machine learning (ML) that can handle simple, repetitive work (such as claim status checks) and also streamline complex tasks (such as prior authorization). There are opportunities across the entire revenue cycle to use advanced automation to save providers valuable time and effort. With automation, revenue cycle staff can focus on more challenging claims that can drive revenue for an organization.
+The right automation can even be used to help prevent denials in the first place.
+Here are nine ways to work medical billing denials more effectively.
+Trend #3: Rising Healthcare Costs
+Healthcare costs in the United States continue to rise, with some estimates showing they could increase by 7% next year. Between high deductible plans, the increase in patient cost-sharing, and the overall cost of care, people are struggling to pay for care and, as a result, are delaying or foregoing care.
+Limited price transparency is also impacting decisions to seek care. An AKASA survey found that uncertainty about healthcare costs deters 35% of Americans from seeking care, which can lead to poor health outcomes and drive up costs. Plus, a majority are unaware of financial resources like payment plans or financial assistance offered by their providers.
+What organizations can do now
+Prioritize efforts to determine eligibility and provide transparency on cost estimates, and financial counseling as early as possible to both increase the likelihood of collecting patient payments and decrease the likelihood of surprising them with burdensome medical debt. By leveraging automation, revenue cycle teams can focus on more challenging work, provide patient advocacy, and help ensure patients get the care they need without being hit with surprise medical bills.
+When you deploy advanced automation, the revenue cycle can shift from handling repetitive patient access and back-end tasks to focusing on front-end patient advocacy. This change in prioritization will improve the experience for both your staff and patients. It’s the true end game when you introduce automation.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments at AKASA
+Trend #4: Labor Costs and Staffing Challenges Persist
+Staff shortages have been an industry-wide problem for years and show no signs of improvement. Nearly 60% of hospitals and health systems have 100+ open roles to fill across their operations. And with increasing complexity, on top of time-consuming, mundane work, getting staff into these roles is becoming an impossible challenge.
+Even when you can hire and retain your staff, it costs much more. Hospital labor expenses are on the rise, which is hurting overall operating costs.
+What organizations can do now
+Organizations need new solutions.
+While overall expenses seem to be softening as volume decreases, labor costs continue to be a challenge for hospitals and health systems. Hospitals and health systems need to identify long-term solutions that can address persistent workforce issues.
+~ Erik Swanson, Senior Vice President of Data and Analytics at Kaufman Hall
+Leaders should identify training solutions that fit within their budgets, offer competitive pay and benefits, and provide opportunities for staff to upskill and move into roles that align with their interests.
+Plus, by leveraging automation, staff can be freed up to handle more complex tasks that require human intervention and be allocated where resources matter most — improving engagement and job satisfaction while reducing operating costs.
+Download our report for advice to help: No Resignation: Solving Today’s Greatest Staffing Challenges in the Healthcare Revenue Cycle
+Trend #5: Autonomous Coding
+Coding is among the most tedious, time-consuming processes in the revenue cycle and is prone to inefficiencies and errors. Coding automation is emerging as a new technology designed to improve accuracy, reduce denials, and accelerate claims. The industry is moving from computer-assisted coding (CAC) to autonomous coding. Most health systems of a certain size have a CAC in place, but newer technology allows us to really explore and deploy autonomous coding. Fully autonomous is not yet possible, but we’re getting closer.
+The technology can also allow coders to work on more complex tasks that require human expertise, such as auditing and chart review.
+While the industry is certainly moving in this direction, some healthcare leaders lack awareness. An HFMA survey found that while 60% of organizations use autonomous coding or plan to, more than half (52%) say they don’t know what it is.
+What organizations can do now
+Automation is the future of coding. Healthcare just can’t keep up with the current volume, given current hiring challenges. Organizations should start to research and size up various solutions, looking for those that have technology purpose-built for revenue cycle-focused tasks and that incorporate human coding experts. Explore the more sophisticated options that get you as close to fully autonomous as possible.
+Trend #6: The Move to Value-based Healthcare
+Although adoption has been slow, the industry continues to move to value-based care payment models. According to McKinsey, the number of patients treated under these models could roughly double in the next five years, growing approximately 15% each year.
+With more care tied to quality and outcomes, efforts to reduce administrative burdens and denials and improve accuracy and efficiency will be important for organizations focused on maximizing reimbursement.
+What organizations can do now
+While a majority of hospitals and health systems have adopted AI automation, they should look to holistic solutions that streamline processes, handle redundant administrative tasks, and ensure accuracy so that RCM staff can focus on revenue-generating tasks and providing an optimal patient experience.
+Trend #7: The Patient Financial Experience
+Despite so much innovation in recent years, many health systems still rely on paper-based billing. Healthcare consumers are demanding the same digital experiences they’ve come to expect in retail, food, banking, and other industries. In fact, 83% of consumers prefer electronic payment methods for medical bills, a survey found. In 2024, expect more health systems to get on board with easier, more convenient payment options.
+What organizations can do now
+Organizations should start to identify patient financial engagement technology that includes patient payment portals, electronic statements, text-to-pay, text reminders, interactive voice response, the development of a digital front door, and interactive cost estimation tools.
+Health systems must move toward easy, convenient options that capture revenue in a timely manner and make for a better patient financial experience.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments at AKASA
+Trend #8 Telehealth and Health at Home
+While rates of telehealth utilization have become steady since the end of the pandemic, experts say we could see a steady rise over the next five years, with utilization as high as 70%.
+More care is also moving to the home. By 2025, up to $265 billion worth of services for Medicare fee-for-service and Medicare Advantage beneficiaries could shift from traditional facilities to the home, a report from McKinsey found.
+What organizations can do now
+Providers will want to consider their strategies for telehealth and home health, think about staffing needs, and ensure they have the right technology in place to ensure seamless continuity of care between the home and hospital/physician’s office. Given the complexity around these care delivery models, revenue cycle leaders should look to holistic AI-powered automation technology to ensure accuracy, improve efficiency, and drive reimbursement.
+AKASA leverages the latest in artificial intelligence and machine learning to deliver revenue cycle automation that learns and scales with your organization. We can help you do more with less.
+Want to learn more? Let’s chat.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

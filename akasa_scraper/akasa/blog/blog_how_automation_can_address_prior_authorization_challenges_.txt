@@ -1,0 +1,67 @@
+URL: https://akasa.com/blog/how-automation-can-address-prior-authorization-challenges/
+
+How Automation Addresses Prior Auth Challenges | AKASA
+Blog
+How Automation Can Address the Challenges of Prior AuthorizationIs your organization struggling with prior auth? All of healthcare is. Automation can help.
+AKASA February 02, 2023
+The Gist
+Prior authorization is a well-intentioned part of the healthcare revenue cycle, and plays an integral role in both the patient and payer experience. It’s important to know whether a type of care is medically necessary, after all. But, prior authorization has turned into a burden for providers and patients alike, eating up precious time and impacting the patient experience, too. Automation could provide relief, but existing solutions often fall short. Until now.
+Blog Contents
+The Growing Burden of Prior Authorization
+Existing Authorization Solutions Fall Short
+Using Machine Learning for Prior Authorization
+The original concept of the prior authorization process was well-intentioned. Health plans are able to look across the continuum of care being provided to a patient and make determinations whether a single request for care is medically necessary, safe, and appropriate given everything else that is being provided to the patient. This would provide a complete view of the patient’s care.
+Unfortunately, prior authorization has turned into a burden for healthcare providers around the United States.
+The Growing Burden of Prior Authorization
+The challenges in the prior authorization process have grown significantly over the last five years. According to a survey performed by the American Medical Association in 2019, 86 percent of physicians report that the prior authorization burden has increased over the last five years; 30 percent of physicians have staff dedicated to work on prior authorizations exclusively; 74 percent report that it can lead to care abandonment at least sometimes, and 90 percent report that this process results in somewhat or significant negative impacts on clinical outcomes.
+In short, the process has become increasingly laborious. The burden of the process has eroded provider revenues and confidence in the health insurance industry. What’s most concerning is that it is directly affecting patient health. But the problem is more complicated than that.
+Existing Authorization Solutions Fall Short
+The de facto standard for prior authorization requests was introduced in 1997 and is known as  X12 278. This standard continues to have a very low adoption rate, largely because it fails to accommodate the need to provide appropriate clinical documentation required by payers. Instead, most providers return to the 20th century and lean on the phone and fax machine. Yes, the fax machine.
+The other approach that has gained traction over the last couple of years is the use of robotic process automation (RPA), which is often inappropriately described as artificial intelligence. The reason for the growth of this alternative is more and more payers are allowing for the request of an authorization via the payer portal. In this case, the computer attempts to mimic the steps that the human would take to request an authorization or determine the authorization status. The problems with this approach include:
+1. It requires complex integration into the EHR
+2. It is subject to changing payer web portals which can break the RPA
+3. It is subject to either the RPA vendor or the provider maintaining payer rule libraries which define when an authorization may be required by a payer
+4. It struggles to keep up with payer requirement changes, such as CPTs that need to be pre-authorized
+5. It is not able to navigate the EHR to obtain the appropriate clinical documentation
+6. And finally, and most importantly, it is not capable of making decisions
+With both manual and RPA approaches falling short, is there any hope for prior authorization?
+Using Machine Learning for Prior Authorization
+The future of the revenue cycle in general, and especially when it pertains to prior authorizations, is the use of machine learning. It is different from other technologies in that it can learn the decision-making processes that are normally performed by humans. So instead of just having a bot created by engineers to perform a single task or a portion of a task, it can apply its knowledge to the activity and make adjustments based on the dynamic nature of the revenue cycle. And instead of creating large databases of static payer rules maintained by humans, it can learn payer behavior and apply that to its decisions in real time.
+Modern machine learning approaches enable the complete automation of the prior authorization process in a way that builds in continuous learning. Your technology investment for automating prior authorization should be nimble and scale seamlessly with your claim volumes. And, ideally, your machine learning should help with other matters, like medical coding and areas beyond prior auth.
+Be careful of vendors that promise RPA + AI. Some may have true machine-learning capabilities, but many just use RPA to script individual bots. In these instances, the solution isn’t fully automating prior authorizations and is still subject to the six problems outlined above. Machine learning observes, learns, and corrects if the variables change, creating a cycle of continuous learning to ensure prior authorization is not the root of unnecessary burdens for providers, payers, or patients.
+To learn more about AKASA’s unique approach to automation, request a demo and see how our expert-in-the-loop approach can help you streamline the revenue cycle today.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

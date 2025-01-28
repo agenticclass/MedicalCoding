@@ -1,0 +1,85 @@
+URL: https://akasa.com/blog/extending-the-benefits-of-the-cloud-to-healthcare-revenue-cycle-operations/
+
+Extending the Benefits of the Cloud to Healthcare Revenue Cycle Operations | AKASA
+Blog
+Extending the Benefits of the Cloud to Healthcare Revenue Cycle OperationsThe cloud's made it possible for even small startups to utilize high-end computing at scale. Now, why isn't the cloud used more in the healthcare revenue cycle?
+Varun Ganapathi, Ph.D.January 22, 2025
+The Gist
+The cloud provides flexible computing that’s changed how many businesses meet their technology needs for the past decade. It’s little wonder, as the cloud is truly scaleable, more affordable than going in-house, and requires little overhead. Now, it’s time cloud technology revolutionize healthcare in the same way it’s changed so many other industries. And AKASA is at the forefront.
+Blog Contents
+The Current Problems with American Healthcare
+Cloud Computing, the AKASA Platform, and Healthcare
+Coding a Better Future for Healthcare
+The following post first appeared August 20, 2020 on the AWS Startups Blog
+Businesses of all sizes and from every industry have come to understand the benefits of embracing a cloud approach to computing, from immediate access to massive computing power to IT infrastructure costs that scale in alignment with business activity.
+While many may assume that the benefits of the cloud may stop with the IT department, solutions that build on the cloud can extend these same benefits to other areas of operations. In fact, our company, AKASA, is doing just that in healthcare revenue cycle management (RCM).
+The Current Problems with American Healthcare
+Healthcare reform has been a hot-button political issue for decades, and for good reason. Healthcare in America is deeply complex, and as a result, highly expensive.
+The U.S. spent about $3.6 trillion on healthcare in 2018 according to the Centers for Medicare and Medicaid Services. Recent studies have found that fully one-quarter of healthcare spending in the U.S. is wasteful. Administrative costs, which include medical billing and claims processing, contribute the most significant share of that wasteful spending. A recent JAMA study estimated that this administrative complexity accounts for $266 billion in wasted spending annually.
+Henry Ford once said, “Don’t find fault, find a remedy. Anybody can complain.” Financial complexity in healthcare with countless codes and complicated steps for billing and reimbursement is easy to complain about. “Fixing” the complexity in our healthcare system will likely require massive national healthcare policy reform and take decades to achieve. We simply can’t afford to wait.
+At AKASA, we believe every dollar spent on healthcare matters and our mission is to remedy the financial complexity that is crippling healthcare in the U.S.
+Cloud Computing, the AKASA Platform, and Healthcare
+Our team developed new approaches and built technology from the ground up that is purpose-built to streamline revenue cycle operations for healthcare. The AKASA platform combines generative AI (GenAI), large language models (LLMs), and human experts-in-the-loop. This allows it to streamline numerous RCM tasks within any EHR, and at scale.
+When creating our platform, we not only had to think about the goals of our solution, but also the foundation. What kind of security and servers would we want? Eventually, we landed on  Amazon Web Services (AWS), and for a number of reasons.
+Security
+Being in the healthcare operations space, security is of utmost importance. We needed to build our solution on a secure platform where we could value the security of our customer’s data as if it were our own.
+AWS’ HiTrust and HIPAA-compliant cloud provides healthcare organizations with immediate peace of mind. Building our solution on AWS bakes this high degree of security and compliance into our solution as well.
+Big financial wins
+A major reason cloud computing saw rapid, widespread adoption is because it minimizes an organization’s need to invest in physical hardware and other fixed costs. Access to on-demand computing power and capacity through the cloud allows these expenses to scale directly with operations. Likewise, AKASA can help health systems minimize the need to invest in a cumbersome patchwork of different technologies and services that may still require armies of staff or consultants to use.
+Additionally, using cloud-based technology to better align costs to revenue creates better financial health for healthcare. Many health systems operate with massive fixed or pseudo-fixed costs, this often creates an incentive to maximize procedures or laboratory tests with higher margins that provide the revenues to offset these fixed costs. When this dynamic overshadows simply doing whatever is best for patients, the quality of care can suffer.
+Health systems that proactively look for ways to restructure costs and keep them aligned with operational expenses ultimately protect their organization’s ability to put patients first while also protecting their bottomline. Finally, AKASA also uses a shared-value model so the more work health systems automate, the more they save. Financially, everybody wins.
+Building Flexibility
+Before cloud computing, computers, servers and other hardware often sat idle until it was needed to support a spike in demand for computing power or capacity. When work volumes normalized, those resources would sit idle until the next spike in activity occurred. Shifting to the cloud eliminates the need to invest in “stand by” resources since additional computing power and capacity is available “on demand” through the cloud.
+Similarly, revenue cycle leaders without a good cloud-based RCM technology partner may find that spikes in demand lead to the expensive and demoralizing cycle of going through layoffs one month only to be faced with trying to hire and train new employees as quickly as possible just a few months down the line. Revenue cycle operations are traditionally highly manual and work intensive, meaning health systems usually have hundreds if not thousands of employees working in revenue cycle operations so the business ramifications of volatility in demand can not be overstated.
+In a survey of more than 5,000 adults across the U.S. commissioned by AKASA and conducted by SurveyMonkey, more than 60 percent of Americans said they would wait at least one to six months after shelter-in-place orders have been listed to return to routine healthcare. More than 40 percent of survey respondents said that concerns of contracting COVID-19 in a healthcare setting was actively preventing them from seeking care.
+With case counts climbing across the country and many states facing extended or secondary shelter-in-place orders, it’s clear that health systems are facing a long period of market uncertainty and volatility due to COVID-19.
+Fully streamlining core revenue cycle tasks such as prior authorization and claim status provides on-demand access to capacity and maintains productivity for key RCM activities. Streamlining and largely removing these core workflows allow RCM leaders to have staff focus on work that returns the greatest value to the organization.
+In early March, we saw a 56 percent increase in demand at one of our health system customers. Our solution adjusted seamlessly, picking up the additional work volume. The additional output was equivalent to adding five full-time, highly productive team members in a single week with no advance notice.
+The AKASA platform scales up and down effortlessly with no burden on revenue cycle leaders to make those adjustments. This affords revenue cycle leaders with greater flexibility to adjust to volatile work volumes while also providing their team with some measure of insulation against volatility-driven layoffs.
+Building Resilience
+Natural disasters have historically been just as disastrous for businesses as they were for nature. If your organization’s hardware and servers were damaged in an earthquake or hurricane, the data and information stored on those assets were often permanently destroyed. Companies moved to establishing secondary server locations and/or co-locating in a server farm to mitigate this risk. Moving to the cloud has protected some IT operations against these kinds of external shocks all together.
+Likewise, the only way for revenue cycle teams to create an operational failsafe in today’s environment is to have support that lives in the cloud. Cloud based platforms, like AKASA, retain their knowledge and operability regardless of what happens to a physical space. This makes it possible for your team, and technology, to be up and running much faster in the wake of any kind of unforeseen circumstances.
+One of our health system clients told us in March, 2020 that AKASA served as just such an operational failsafe when their entire revenue cycle team made the abrupt and unplanned transition to remote work due to COVID-19 shelter-in-place orders. An extrapolation based on our data indicated that the customer’s staff output in the work queues that we streamlined fell by an estimated 40 percent in the last week of March, while the AKASA platform’s output was consistent across the same period of time. In that last week of March, our system performed work equivalent to 14 full-time and highly productive staff members.
+Working Smarter, Not Harder
+The combination of AWS’ S3, Application Load Balancer and Cognito features are critical foundational elements for running the proprietary software we’ve developed that captures multi-modal data of workflows at our health system customers to provide a 360 degree view of current revenue cycle processes. We use this data, along with your proprietary and EHR data, to train our platform, but we also return insights back to our customers that show how their team spends most of their time in the course of daily work. These insights are essential for helping teams work smarter not harder and AWS offers the best combination of features to ensure we work smarter rather than harder in our own efforts to capture these insights.
+Coding a Better Future for Healthcare
+Revenue cycle management solutions built on the cloud offer numerous business benefits to health systems. Perhaps most exciting, is that we are in the very early days in the technological development of these kinds of solutions that are purpose built for healthcare. AKASA’s unique approach to healthcare revenue cycle management unifies proprietary GenAI and LLMs with human judgment and deep expertise in revenue cycle management. Our solution brings together the best of people, data and technology to efficiently, accurately and safely navigate the complex state of medical reimbursement in the U.S. And we couldn’t possibly have built it without a cloud partner like AWS.
+Schedule a free demo and see for yourself how the AKASA platform can help you streamline your revenue cycle and do more with less.
+WRITTEN BY
+Varun Ganapathi, Ph.D.
+Varun Ganapathi, Ph.D., is the chief technology officer and co-founder of AKASA. His passion is developing novel algorithms to power great products, with a focus on healthcare and improving the patient experience. Ganapathi has a bachelor’s in physics and an M.S. and Ph.D. in computer science from Stanford University. During his time at Stanford, he focused on machine learning and computer vision. His doctoral thesis was the basis of his first company, Numovis, which was acquired by Google. After his time at Google as a research scientist, Ganapathi went on to create Terminal.com, which was acquired by Udacity.
+You may also like
+Blog
+Feb 20, 2024 How the AKASA Engineering Team Created an Automation Solution for Database Migrations
+AKASA builds products and tools to improve the various components of revenue cycle management (medical billing) for hospital systems....
+READ MORE
+Blog
+May 1, 2023 ChatGPT and Healthcare: Exciting Potential That Needs To Be Channeled
+Recently I heard that as a fun exercise, the security officer at one of our healthcare clients tried asking...
+READ MORE
+Blog
+Jun 12, 2023 Overcoming the Top 3 Challenges Holding Back Healthcare Innovation
+Healthcare is notoriously slow at adapting and incorporating new technologies into day-to-day operations. Healthcare lags behind as one of...
+READ MORE
+Blog
+Jan 16, 2025 7 IT Mistakes You’re Making With Your RCM Automation Partner
+The right revenue cycle management (RCM) automation is capable of helping healthcare organizations overcome a litany of issues —...
+READ MORE
+Blog
+Jan 16, 2025 Questions Healthcare IT Teams Should Ask About Revenue Cycle Automation
+RCM leaders at your organization are discussing automation. Period. The healthcare revenue cycle is fighting non-stop battles. Staffing challenges...
+READ MORE
+Blog
+Jan 16, 2025 9 Healthcare Technology Trends To Watch
+Keeping track of the rapid changes in healthcare technology is no small task. The industry has seen numerous healthcare...
+READ MORE
+Blog
+Nov 30, 2022 The Gradient Podcast: An Interview on AI and Healthcare With AKASA CTO and Co-Founder Varun Ganapathi
+On a recent episode of the Gradient Podcast, host Daniel Bashir sat down with AKASA CTO and co-founder, Varun...
+READ MORE
+Blog
+Sep 1, 2022 Machine Learning in Medicine: Using AI to Predict Optimal Treatments
+At AKASA, we’re always thinking about how we can use machine learning (ML) and artificial intelligence (AI) to better...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

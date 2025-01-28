@@ -1,0 +1,94 @@
+URL: https://akasa.com/blog/inaccurate-medical-bills/
+
+Inaccurate Medical Bills Cost US Billions Annually | AKASA
+Blog
+If Incorrect Medical Bills Cost Americans $88B Annually, Could AI Be the Solution?A new report shines a light on how costly inaccurate medical bills are. Could AI help solve this problem for providers, payers, and patients?
+AKASA January 13, 2025
+The Gist
+Medical billing errors are common, but a new report from the Consumer Financial Protection Bureau shows just how costly they are, and how they can negatively affect patients’ credit long-term. While recent legislation and proposed crackdowns are a good start, for hospitals and health systems, AI-powered solutions can help prevent errors from the get-go and solve for medical debt.
+Blog Contents
+4 in 5 Medical Bills Have Errors
+Medical Debt and the Negative Effects on Credit
+What Is Being Done to Solve for Inaccurate Medical Bills?
+How GenAI Can Help Prevent Medical Bill Errors and Debt
+With costly health insurance premiums, deductibles, and the cost of care, it’s no wonder more than a third of Americans are “very worried” about covering unexpected medical bills.
+People have a right to be very worried. A new report from the Consumer Financial Protection Bureau shows inaccurate medical bills are causing people to rack up a massive amount of debt — to the tune of $88 billion a year — and it’s affecting their credit.
+“When it comes to medical bills, Americans are often caught in a doom loop between their medical provider and insurance company,” CFPB Director Rohit Chopra stated in a recent press release. “Our credit reporting system is too often used as a tool to coerce and extort patients into paying medical bills they may not even owe.”
+Unfortunately, the number of errors is well beyond 50%. And worse, these errors are devastating the credit of families all over the United States.
+In the healthcare revenue cycle, reducing the number of touches for each claim is always a goal. Too often, there are inefficiencies in organizations, which lead to delays in care, delays in billing, and oftentimes, inaccurate bills. The sooner you can get a bill to a patient, the better. If it’s inaccurate, they can start disputing it sooner. If it’s accurate, they can make plans to pay it sooner. Everyone wins.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+4 in 5 Medical Bills Have Errors
+Medical billing errors are common, with 4 in 5 medical bills containing at least minor mistakes, and getting them corrected or resolved isn’t always easy.
+According to the report, medical bills often occur as a result of unexpected or emergency events, and opaque pricing, pricing rules, complicated insurance, or charity care coverage only complicate matters.
+In emergency medical situations, costs can run high. For example, patients in the ED may not sign a billing agreement until after services are rendered. Or those with chronic diseases who find themselves sick or injured may feel there’s no other option but to pay for expensive care.
+Oftentimes, many patients are in circumstances where unexpected care or expensive procedures could bankrupt their families due to out-of-pocket expenses.
+Amy Raymond — VP of Revenue Cycle Operations at AKASA
+The report also found:
+Approximately 20% of U.S. households have medical debt, and COVID-19 has only made it worse.
+As of Q2 2021, 58% of bills that are in collections and on credit reports are medical bills.
+It’s clear medical billing errors are costing people a significant amount. But what impact is this having on credit and financial stability?
+Medical Debt and the Negative Effects on Credit
+The healthcare revenue cycle is complicated and challenging for those working in the industry. But for patients, the process can have long-lasting, negative effects on their credit and their overall financial futures.
+If the unpaid medical debt is reported to collections and placed on a credit report, patients can have trouble getting access to credit, have an increased risk of bankruptcy, may have trouble being hired, and may avoid medical care.
+These effects can be more severe for those from Black and Hispanic communities, veterans, young and older adults, and those who are low-income.
+Even worse — medical bills can be sent to collection agencies by multiple parties, including doctors, hospitals, parent companies, or groups representing the provider, leading to multiple charges for a single visit. Plus, teasing out what’s correct and what’s not can be difficult for all parties to figure out.
+Unfortunately, the way medical debt is reported to credit agencies isn’t always indicative of a patient’s overall financial behavior.
+In fact, a previous report by the CFPB found that medical debt on a credit report doesn’t necessarily mean people will fall behind on other future repayments.
+Newer credit scoring models that weigh medical collections less heavily than other debt have resulted in an average 25-point increase in credit scores. But adoption has been low, and most models use the older, less accurate approach.
+The report notes that, as a result, Black and Hispanic patients in particular (who are affected by medical debt at a higher rate than white and Asian patients) are penalized with lower credit scores.
+What Is Being Done to Solve for Inaccurate Medical Bills?
+Although the government has taken some steps to tackle medical debt with the No Surprises Act, the Hospital Price Transparency Final Rule, and the Transparency in Coverage final rule that will take effect later this year, suffice to say, patients will continue to be plagued by incorrect medical bills, debt, and unfair credit reporting.
+In the report, the CFPB outlines ways that they plan to take action to ensure that patients aren’t forced to pay incorrect medical bills. They will:
+Push for accountability for credit reporting companies regarding procedures around debt accuracy and reporting
+Make efforts to support the U.S. Department of Health and Human Services in their monitoring of the No Surprises Act
+Investigate if there’s a need for policies around eliminating unpaid medical debt and expunging them from credit reports
+When it comes to healthcare operations and the revenue cycle though, preventing and solving incorrect medical bills or curbing medical debt has never been a primary goal.
+But that needs to change.
+The revenue cycle must evolve to focus on patient advocacy. It needs to become more holistic, bringing together both the front and back ends. That is the only way to eliminate bankruptcies caused by medical bills, reduce the amount of debt patients harbor, and create viable financing plans that benefit providers, payers, and patients.
+~Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+How GenAI Can Help Prevent Medical Bill Errors and Debt
+As the revenue cycle is already facing numerous organizational challenges, how can it take on inaccurate medical billing? Solutions powered by generative AI (GenAI) are the only viable solution.
+By leveraging advanced AI-driven technology, staff can more effectively manage tasks such as prior authorizations, cost estimates, denials, and payment posting. Automating and streamlining these tasks with AI allows staff to focus on improving the accuracy and efficiency of their operations and the overall financial experience for patients.
+Advanced AI helps protect patients from surprise medical bills and allows health system staff to spend more time on patient financial counseling and broadly improving the patient financial experience, while also improving their organization’s bottom line.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+Generative AI can also prevent costly coding mistakes, which are a common cause of billing errors. With autonomous medical coding, your team can focus on other matters while resting assured coding is both accurate and off their plate.
+AKASA recently published a study highlighting how a novel machine learning approach outperformed current state-of-the-art models for automatic coding of inpatient clinical notes by more than 18%. The technology surpassed current models in terms of both efficiency and accuracy, as well as the performance of professional human medical coders. The research was presented at the 2021 Machine Learning for Health Care Conference.
+By leveraging this model, teams can streamline coding tasks to reduce excessive costs and coding errors while deploying resources more strategically to the most complex cases that need extra attention.
+Byung-Hak Kim, Ph.D. — AI Technology Lead at AKASA and Study Co-Author
+AKASA delivers a holistic approach to solving the inherent complexity across the revenue cycle areas to help provider organizations redefine and build the future of the revenue cycle.
+Learn how AKASA can make your processes more efficient and improve the patient experience by requesting a demo.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

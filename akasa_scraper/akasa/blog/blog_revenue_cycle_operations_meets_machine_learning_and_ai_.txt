@@ -1,0 +1,97 @@
+URL: https://akasa.com/blog/revenue-cycle-operations-meets-machine-learning-and-ai/
+
+The Healthcare Revenue Cycle Meets Machine Learning and AI | AKASA
+Blog
+The Healthcare Revenue Cycle Meets Machine Learning and AIProcesses in the healthcare revenue cycle are largely manual, consuming precious time and resources. Machine learning and AI are here to change this.
+AKASA August 09, 2022
+The Gist
+Machine learning and AI are capable of powering automation that acts as a virtual full-time employee. Yet, until now, most machine learning applications in healthcare have been limited. AKASA is leading the charge in changing how we think about machine learning and AI in the healthcare space, and are applying it. directly to the revenue cycle.
+Blog Contents
+The Evolution of Revenue Cycle Management
+Demystifying Machine Learning
+Promising Areas of Opportunity for Advanced Technologies in RCM?
+What is RPA Suited for Versus ML?
+Key Questions to Ask AI/ML Vendors
+AKASA: Creating Smarter Automation for Healthcare
+To date, much attention has focused on the application of artificial intelligence (AI) and machine learning (ML) in healthcare in some of the most obvious areas to apply it:
+Drug discovery
+Diagnostics
+Patient care
+Protocol solutions
+However, there are areas of healthcare that are less obvious to the general public because these functions are rarely seen by patients, physicians, and other care providers. These opportunities require us to dig deeper into our healthcare system, but often offer the greatest potential to drive systemic improvement for how healthcare works in the U.S. — home of the world’s most expensive healthcare system.
+Revenue cycle processes are an area ripe with opportunity, but one that has historically been underserved by these technologies. AI/ML innovation has either been designed for other industries and adapted to healthcare with limited success or designed to address a limited scope of the healthcare revenue cycle.
+Against that backdrop, two leaders at AKASA, a revenue cycle expert and a machine learning expert, hosted a conversation this week to help their virtual audience understand how they’ve applied AI/ML specifically to Revenue Cycle Management (RCM).
+“We’ll take a look under the hood so you can see how we’ve done it,” said Verun Ganapathi, CTO and co-founder at AKASA.
+The Evolution of Revenue Cycle Management
+Before diving into the technology, Amy Raymond, VP of revenue cycle operations at AKASA, sought to contextualize the evolution of revenue cycle technology. Raymond has spent her entire career in medical billing, starting at a family friend’s medical billing company in 1995. Her work involved “sorting correspondence and returned claims, reading the letters the insurance companies had attached, and entering them onto a spreadsheet to be worked,” she explained. Greenbar paper was popular “because they had plenty of room for people to write their notes on it.”
+These experiences typified what Raymond characterized as the “Manual” stage of staffing for revenue cycle technology. Next, a degree of integration and “automation” took place in the “Staff Augmentation” phase as Excel Spreadsheets and later, electronic health records (EHRs) entered the picture.
+Understanding “automation” presented a challenge as Raymond transitioned from an analogue to a digital world. Knowing limitations of an IT department, discovering what bots could and could not do, and finding out how EHRs weren’t built for automation. “We not only saw the revenue cycle evolve and change, but we have seen the types of automation available to us evolve as well,” Raymond said.
+Understanding each type of automation is important because they each have their use and you want to make sure that you are selecting the right product for the job,” she said.
+In the robotic process automation (RPA) stage of automation, where many companies currently are, Excel based macros or RPA – based on specific rules can handle discrete tasks.
+The current stage, as Raymond and her colleagues see it, is “machine learning where we can begin to see much more sophisticated handling or work that entails full processes, which takes us through to the concept of Unified Automation®.”
+Demystifying Machine Learning
+Ganapathi opened the next phase of the presentation by explaining the differences between RPA, artificial intelligence, and machine learning before delving into Unified Automation.
+As the oldest of the technologies, RPA is the simplest, “a tool that enables other things to happen, such as macros that control graphical applications or web browsers.” Using a self-driving car as an example, Ganapthi added, “RPA is sort of the system that enables the steering wheel to turn 2 degrees, or press the accelerator or brake.” It’s limited to those specific functions and cannot easily adapt to changes or exceptions; it must be reprogrammed.
+AI, however, “is the brains that allow us to do smarter things with those controls,” Ganapathi said. “Tasks that normally require human intelligence such as visual perception, speech recognition, decision making, and translation between languages.”
+ML is a subfield of AI; while ML shares many similarities with AI, it differs because its systems can improve itself when exposed to more data. “Instead of programming the computer, you teach it by showing it examples of what you want to do,” Ganapathi said.
+Additionally, all ML uses optimization. The goal is to move a value of a function to the minimum or the maximum. “We’ve translated the problem of how to act into a minimization problem,” Ganapathi noted, “so it gives us the actions that yield the greatest reward.”
+Having a human in the loop is a critical safeguard in the process. In self-driving cars, the program has to continuously see the world and make decisions. “The cost of an error is very high,” Ganapathi said. “When the car sees something it isn’t sure of what to do, a human remotely situated takes over.” The same strategy for encountering a proverbial “mattress in the road” can be applied to ML in other applications like for RCM.
+Promising Areas of Opportunity for Advanced Technologies in RCM?
+The presenters spotlighted four priorities for revenue cycle automation that could lead to significant change for the industry.
+“Eligibility driven off insurance cards would be amazing,” Raymond said. ML could be used to automate card data input to eligibility checks in the near future.
+“Prior authorization is another top reason for denial of coverage,” she noted, and ML could be used to learn requirements, implement checks, and obtain authorizations.
+“Follow up to no response claims often feels like you’re throwing armies at one problem,” Ramond said. ML could be used to complete claim status checks on payer portals for all claims with no response and write a response back into the EHRs, then prioritize the next action based on the payers response.
+“Denials management– writing off uncollected dollars is a tough but important last step,” Raymond said. “When we improve the previous three areas we’ll have reduced the number of denials we deal with in the first place.” ML could appeal or rebill technical denials by understanding payer requirements, pulling necessary information from EHRs or writing them off if indicated.
+What is RPA Suited for Versus ML?
+“RPA would be ideal if the world was simple, the buttons on web pages never move, and there were no pop-ups,” Ganapathi said. Since that’s not the case, RPA requires extensive technical support for re-writes and updates to automation for changes in rules and processes. This, of course, is difficult to scale.
+But in ML solutions, automation handles full tasks and processes with decision-making. Technical support is needed during implementation but not for re-writing of rules. And when it encounters a problem or exception “the human in the loop” handles these edge cases.
+AKASA calls their solution “Unified Automation” because it seamlessly integrates AI and ML with human judgement and subject matter expertise in RCM. In it, AI observes RCM processes as they are undertaken, learns and identifies which processes can be automated, then performs them. When exceptions pop up that the AI can’t address, it doesn’t risk making a mistake, they’re flagged to a revenue cycle analyst to resolve. The AI observes the solution as it is performed, learning along the way.
+“We’ve created a very tight loop around the process,” Ganapathi noted, “optimized for your problems.” This process ensures high quality results, even in an environment where updates and changes are commonplace.
+Key Questions to Ask AI/ML Vendors
+In the home stretch of their presentation, the speakers sought to help their audience know where to start and what to look for when considering AI/ML vendors.
+“If they’re selling an AI or ML tool, it’s reasonable to ask how many experts they have on staff,” Raymond said. At AKASA, we have a number of PhDs specializing in AI and a team of revenue cycle experts on staff.
+“It’s really about seeing if the person knows what they’re talking about,” Ganapathi explained. “Are they knowledgeable enough to write their own algorithms or do research that moves the field forward?” In that vein, it’s fair to ask if the vendor or their experts have published peer-reviewed articles on the algorithms they’ve created in order to gauge their expertise.
+Additionally, RCM problems are unique to the field and solutions require extensive knowledge in two challenging fields. In response, “our AI experts have to learn RCM,” Raymond explained. “You have to understand RCM to effectively apply ML to it.”
+There aren’t solutions ‘on the shelf,’ Ganapathi added, “so you should ask your vendor if they have proprietary technology.” And if they do, does the provider have to outsource and bolt on 3rd party tools in order to meet your needs?
+AKASA: Creating Smarter Automation for Healthcare
+During the Q&A portion, one participant asked an important question about how AKASA ensures that the AI doesn’t learn errors. Ganapathi broke his answer down into two types of errors: systemic and random. In the case of the systemic error, “the human expert in the loop will say no, you should not have this bias in your learning problem.”
+Random errors are caught by being outliers. “If a label looks weird, the AI won’t be confident about it,” Ganapathi explained. “Or it will be confident in the answer and notice that the label is wrong as it considers the other labels it has seen. At which point the system will flag the outlier to a revenue cycle expert to triage. Allowing the system to continuously learn the correct way to handle that specific outlier in the future.”
+Our team developed new approaches and built technology from the ground up that is purpose-built to automate revenue cycle processes for healthcare. We call our solution Unified Automation and we built it on Amazon Web Services (AWS) for a number of reasons. AWS’ HiTrust and HIPAA compliant cloud provides healthcare organizations with immediate peace of mind. Building our solution on AWS bakes this high degree of security and compliance into our solution as well.
+AKASA and our automation are growing every day. Our AI is getting smarter by the day, bringing us closer and closer to giving the revenue cycle the overhaul it badly needs.
+Interested in learning more?
+Schedule a free demo today and see how Unified Automation can help you turn once-manual processes, into highly-efficient automated tasks your team no longer deals with.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

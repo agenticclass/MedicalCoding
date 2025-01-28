@@ -1,0 +1,100 @@
+URL: https://akasa.com/blog/new-healthcare-revenue-cycle-report-provides-industry-benchmarks/
+
+New Healthcare Revenue Cycle Report Provides Industry Benchmarks | AKASA
+Blog
+The Real Story: New Healthcare Revenue Cycle Report Provides Industry BenchmarksHealthcare revenue cycle leaders often base success on productivity and quotas, but without real-world metrics. For the first time, real-world time-per-task data is now available.
+AKASA December 05, 2024
+The Gist
+For years revenue cycle leaders have operated off inaccurate benchmarks that fail to provide the full truth. This new report uncovers accurate time-per-task data around several key revenue processes, giving revenue leaders the data they need to set accurate performance benchmarks.
+Blog Contents
+How AKASA Is Helping Create Industry Benchmarks
+How Much Time Do Revenue Cycle Tasks Really Take?
+Why Revenue Managers Need Accurate Time-Per-Task Data
+Look Behind the Curtain of the Revenue Cycle
+Improving Revenue Cycle Efficiency
+As a leader in healthcare operations, you know how essential but complex the revenue cycle is. When the revenue cycle is running smoothly, your staff is efficient, insurance companies are billed correctly and promptly, and your patients have a less stressful experience. But, understanding the nuances of when and why your revenue cycle is operating well goes beyond looking simply at the number of tasks completed within your EHR.
+We recently surveyed CFOs and revenue cycle healthcare leaders and found that roughly 84% of revenue cycle teams are setting productivity goals or quotas, and they’re using some form of tracking to streamline the process. This is an excellent start toward understanding your revenue team’s productivity.
+But there’s also an inherent problem:
+How can you set reasonable standards for your team when you don’t have meaningful insight into how long specific revenue cycle tasks should take?
+There are respected industry benchmarks on how long it should take to complete common revenue cycle tasks. But none tell the entire story. These benchmarks often average total productivity over hours worked, leaving out insights about individual tasks. They also don’t show which of the actions during that time were actually related to the task itself. They don’t figure out productivity on how long it takes to do each task individually. That’s crucial information.
+~ Amy Raymond, VP of revenue cycle operations at AKASA
+Yes, you can look at an EHR’s action code, but you don’t know if half of the time accounted for was grabbing a piece of correspondence or jotting a quick note in the file. How long does it really take to get into the account, work the file, and spend the time necessary to complete the task fully? That’s often the untold story.
+How AKASA Is Helping Create Industry Benchmarks
+Our platform documents hundreds of millions of instances of computer-based tasks that staff perform manually within EHRs and other billing systems. This provides valuable insights for our customers (a group that spans all 50 states and makes up more than $100B in net patient revenue) into where their staff spends their time and what baseline costs are involved.
+To help you get the information you need to benchmark your team correctly, we use our proprietary software to track the actual time our customers’ revenue cycle teams spend on various revenue cycle tasks — from beginning to end.
+With the “New Productivity Benchmarks for the Healthcare Revenue Cycle” report, we are providing a behind-the-scenes, unprecedented look at the revenue cycle and how long individual tasks genuinely take. This is the real story of the revenue cycle.
+Download Your Free Time-Per-Task Benchmark Report
+How Much Time Do Revenue Cycle Tasks Really Take?
+How long should it take your team to process a claim edit?
+6 minutes, 4 seconds, according to our new report.
+Do you agree? Are you surprised?
+The above time might look much too long. Your staff “never” takes that long. But keep in mind few people on your team complete every task without any kind of interruption. Someone performing a price estimation may switch gears and answer a call to resolve an authorization request or simply get pulled into a meeting or take lunch.
+EHR productivity reports showing completed tasks are also deceiving in that someone may hop into a task to grab some notes and then close out the task. This creates artificially low completion times, while interruptions create artificially high ones.
+Regardless of the reason behind each time, accurate benchmarks are essential for a number of reasons.
+Why Revenue Managers Need Accurate Time-Per-Task Data
+Revenue cycle operations keep the healthcare industry running smoothly. Too few people in a department and patients and insurance companies are left with delayed or inaccurate bills. Too many people in a department and your hospital is spending money that could go elsewhere.
+“This time-per-task report data acts as an equalizer across health systems and EHRs,” said Raymond.
+Accurate benchmarks help you create an environment grounded in reality.
+Make a Stronger Case for More Staff
+It’s no secret that revenue cycle departments are often staffing behind the curve. As a revenue leader, this is typically out of your control.
+During an economic downturn or slow period, your department is generally one of the first hit by layoffs. But, as healthcare demands ebb and flow, your department is inevitably in high demand again. This leaves you scrambling to hire revenue specialists and meet that demand, while patients wait to hear back on insurance eligibility or whether an appeal went through. It’s a constant battle.
+You have to know how many people you need and where to deploy them.
+With truly accurate time-per-task data, you can make a solid case for how many revenue specialists you need. CFOs want to know who’s working on what and for how long, especially when you’re asking for more staff. Proper time-per-task figures leave little to the imagination and allow you to predict the impact X more people would make in your department.
+Benchmark Productivity With Increased Accuracy
+Accurate data means accurate expectations. It’s hard to say who is and isn’t productive when your time-per-task data is a rough estimate.
+With our accurate time-per-task data, you can see who’s completing a task quickly and who’s at the back of the pack. From there, you can figure out a realistic average time grounded in reality and work with those struggling to complete tasks promptly. This also gives you the information to reward those who regularly complete tasks quickly and accurately.
+Our report also gives you the information you need to see if your department is meeting industry averages as a whole. If your department average for claim edits is 6 minutes, great. If it’s 10, there’s clearly room for improvement.
+Create a Healthier, More Realistic Work Environment
+The healthcare industry is stressed to the brink, with 76% of healthcare professionals saying they’re burnt out. The last thing you want to do is saddle your revenue team with unrealistic expectations around processes.
+These benchmarks aren’t all about making everyone work more or do more. It’s about recognizing employees where they are and recognizing your high performers. Do you have the right people on the right tasks?
+With accurate time-per-task information, you can set achievable expectations and create an environment that respects your team’s time and efforts.
+If you know claim edits are taking your team 6–7 minutes on average, you don’t want to set expectations that each revenue specialist completes them in 5 minutes. This will lead to added stress in an environment where there’s no room for additional stress or burnout.
+Look Behind the Curtain of the Revenue Cycle
+Revenue departments are often playing catch up, hiring based on unexpected trends after the fact (like an unexpected pandemic). This, coupled with the potential of creating unattainable benchmarks for your team, spells disaster for a department that’s necessary for the success of any healthcare operation.
+Particularly one that’s often boiled down to one figure: days in AR.
+Download your free copy of the “New Productivity Benchmarks for the Healthcare Revenue Cycle” report and start building a revenue department that’s appropriately staffed and accurately benchmarked.
+Improving Revenue Cycle Efficiency
+But what if you want more? How do you help your revenue cycle team be even more efficient? What if you wanted to take the benchmarks in this report and transform them into mere seconds?
+The answer: Automation grounded in generative AI and machine learning.
+The AKASA platform combines generative AI with human judgment and subject matter expertise to provide robust and resilient automation for healthcare revenue cycle operations. The AKASA platform adapts to the dynamic nature of revenue cycle operations and is purpose-built for healthcare.
+By automating the time-consuming and repetitive tasks within the revenue cycle, you’ll give your employees the time they need to focus on more critical, revenue-generating tasks, allowing them to work top of license. Our generative AI, machine learning, and expert-in-the-loop approach allows us to transform tasks that take several minutes into automated tasks that take mere seconds (or less).
+What’s the often unacknowledged secret in this industry? No one touches everything in the revenue cycle. Some bills go into a queue, are never touched, and are just caught in denial or written off — because teams lack the resources.
+But with automation, you can automate those untouched tasks and bring in revenue that never would have been realized. You’re giving your teams back some bandwidth to reallocate resources and generate more accounts receivable.
+Plus, we can take the benchmarking data from this report a step further and drill deeper into your staff’s productivity. Not only how long they’re taking to work a denial, but how long they’re taking based on the type of denial. Breaking it down by whether it’s an appeal vs. a call vs. a follow-up. And what percentage of those accounts are actually getting paid.
+By matching the 835s, 837s, and our technology, we show a whole other level of information outside of time-per-task data. This type of information will make a big difference in how you staff your teams and prioritize your accounts.
+Request a free demo of AKASA and see how we can give your specialists the bandwidth they need to work on what matters most: decreasing your cost to collect so you can invest more in patient care and be better stewards of the healthcare dollar.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

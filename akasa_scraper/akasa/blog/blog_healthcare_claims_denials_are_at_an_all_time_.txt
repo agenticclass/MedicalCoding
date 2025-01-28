@@ -1,0 +1,99 @@
+URL: https://akasa.com/blog/healthcare-claims-denials-are-at-an-all-time/
+
+Healthcare Claims Denials Are at an All-Time High | AKASA
+Blog
+Healthcare Claims Denials Are at an All-Time High: Here’s What You Can DoHealthcare claim denial rates are peaking, costing providers and hurting the patient experience. Fortunately, there's something you can do to combat this.
+AKASA January 22, 2025
+The Gist
+Healthcare claim denial rates are on the rise. New research shows hospitals and health systems have seen a 23% increase in claims denials rates in the last few years — with averages of more than 10%. While the issue is multi-faceted, high denial rates are often traceable to front-end inefficiencies that can be significantly improved with real-time, AI-powered technology. Innovative solutions are helping providers increase accuracy, reduce denials, and accelerate cash flow.
+Blog Contents
+What Are Healthcare Claims Denials?
+Why Are Healthcare Claims Denials on the Rise?
+The Impact of the Pandemic on Denials Management
+The Healthcare Claims Denials Process Is Broken
+Artificial Intelligence Is the Key to Healthcare Claim Denials
+The Future of Claims Denials: Denials Predictions
+Increasing healthcare claim denial rates have been a persistent, industry-wide problem for years that show no signs of slowing down. According to a December 2020 report by the American Hospital Association (AHA), 89% of hospitals and health systems have seen an increase in claim denials over the past three years, and 51% said the increase was “significant.”
+In the wake of the COVID-19 pandemic, it’s no surprise that claims denial rates saw even more of an uptick. A recent survey by Harmony Healthcare found 33% of hospital executives cited average claims denial rates of 10% or more.
+Although hospitals and healthcare systems have traditionally implemented strategies to prevent denials and more efficiently manage appeals, there hasn’t been a holistic solution that fills all the gaps — until now.
+Advanced AI-powered solutionats are the future of denials.
+What Are Healthcare Claims Denials?
+Healthcare denials occur when insurance companies refuse to honor the request by a patient or a provider to pay for healthcare services. The claims are submitted, received, and processed, but the insurance company denies reimbursement.
+High rates of claims denials cause a downstream of adverse effects. First and foremost, providers lose revenue.
+A July 2021 report by the Becker Friedman Institute found the costs of incomplete payments (CIP) average 17% for Medicaid, 5% for Medicare, and nearly 3% for commercial insurance.
+Yet providers must also invest a lot of time and effort to perform re-work. And even if they have all the correct data, getting denials overturned is often challenging because of the health plans’ processes.
+Why Are Healthcare Claims Denials on the Rise?
+In recent years, healthcare claims denials have been trending upwards. According to a December 2020 report by Change Healthcare, the average denials rate is up 23% since 2016.
+The upward trend of healthcare claims denials is multi-faceted. Hospitals and healthcare systems are contending with a host of factors, including complex billing systems, increased specificity and complexities around coding, new workflows, and ever-changing rules from the health plans. All of this only makes solving the denials issue more complicated.
+More than 60% of commercial insurance patients are covered by self-funded employer plans — which can have custom-designed benefits plans — making it difficult for providers to know which services different health plans cover.
+Another significant challenge is preventing claims denials in the first place, as a large portion of errors occurs before a patient even walks in the door. The same Change Healthcare report found that nearly 50% of denials are a result of front-end revenue cycle issues, including:
+Registration/Eligibility (26.6%)
+Authorization/Pre-certification (11.6%)
+Service not covered (10.6%)
+Provider eligibility (.9%)
+Between 30 and 40% of denials are caused by incorrect processes during pre-registration or financial clearance.
+And this all adds up. Although two-thirds of denied claims are successfully overturned and paid after they’re re-worked, that re-work is a significant cost for organizations. The remaining denials are written off, representing hundreds of millions of dollars that could otherwise have been directed to expanding services and saving patient lives.
+The Impact of the Pandemic on Denials Management
+Of course, the pandemic has only compounded the claims denials problem. Hospitals, healthcare systems, and health plans had to react to claim volumes skewed toward COVID-19 services and away from elective services — which created significant shifts in typical census and mix across the system.
+Additionally, the shift to working from home hurt organizations’ abilities to maintain high-quality and continuous administrative processes, including billing workflows. Many health systems had not invested in remote workforce management before the pandemic, as handling protected health information — while maintaining HIPAA compliance — was expensive and burdensome on IT departments that were already strained under the weight of maintaining complex EHR infrastructure.
+As the U.S. continues with a major vaccine push, healthcare systems aren’t following an exhaustive registration process with every patient, creating downstream eligibility issues and claims denials.
+What’s more, there are specific billing requirements for vaccines and for Medicare and Medicaid populations in particular, which have created new workflows that need to be adjusted to ensure claims are billed correctly.
+According to a recent survey AKASA commissioned, 75% of health systems had active technology deployments during the pandemic. While nearly 40% used fully remote deployment processes to keep projects on track, more than 35% experienced delays and 90% of the delays lasted 3 to 6 months — or longer.
+The Healthcare Claims Denials Process Is Broken
+Although healthcare claims denials have plagued the industry for years, 86% are potentially avoidable. The quality of the data drives everything, so the more accurate the information is upfront, the fewer denials, re-work, and lost revenue will impact the industry.
+The healthcare community has been trying to solve this well-known issue for years.
+But instead of solving this issue with the appropriate upfront workflows and processes to handle claims on a large scale, hospitals and healthcare systems have historically focused on expanding their bandwidth of resources. They hire more staff and consultants. They invest in expensive and limited systems, such as traditional robotic process automation (RPA) and other bolt-on products.
+However, these band-aid solutions still require staff to work the exceptions, introducing the possibility of human error on the complicated cases that often drive denials.
+While some of these solutions have marginally improved outcomes in specific areas, none have addressed the denials problem holistically.
+Artificial Intelligence is the Key to Healthcare Claim Denials
+With healthcare claims denials on the rise, now is the time for radical change. Revenue cycle management is poised for innovation and real solutions that will approach denials proactively, faster, and more accurately than ever before.
+Artificial intelligence will drive that change by:
+Reducing variability and increasing the robustness of front-end workflows, resulting in cleaner claims and fewer denials
+Reducing denials rework cost
+Increasing back-end denials overturn rates
+By deploying AI-powered technology throughout the revenue cycle, hospitals and health systems can rely on accurate and fast data, reduce rework, lower costs, and drive revenue. At every decision point, the technology can bring in as much historical data as possible and let the machine learning algorithm inform, predict, and guide the decision-making process.
+Previous attempts at streamlining RCM have largely relied on dated approaches to automation, based on a rigid and complex web of if/then questions. These approaches require that a fixed set of possible solutions are considered, rendering the automation inflexible and unable to adapt to changing conditions.
+A true healthcare denials solution must be able to learn what questions to ask and how to answer them. Although a self-driving car can accelerate, brake, and turn, it can’t be pre-programmed to navigate all possible road conditions successfully. In complex situations, the car will turn control back over to its driver and learn from what the driver does. After enough repetitions, the car will become increasingly confident in navigating that particular road condition until it can fully navigate it autonomously.
+An effective technological solution within the revenue cycle must be nimble and dynamic, utilizing a sophisticated software that can pivot, take on the complexities of claims, and respond to various scenarios and nuances. Yet regardless of how effective the solution is, there must also be an integration of humans to pause the process, make expert, in-the-moment decisions, and teach the technology what to do next.
+This expert-in-the-loop process is how the AKASA platform works under the hood. A team of revenue cycle experts is called in by the technology when it encounters edge cases and outliers, and they solve the issue so that the work can continue. This combination of generative AI (GenAI), large language models (LLMs), and human experts results in the ability to handle broad and complex problems while continually increasing the scope of the technology’s autonomy.
+The Future of Claims Denials: Denials Predictions
+As healthcare revenue cycle leaders look to the future of denials, implementing a 2-, 3-, and 5-year technology strategy will be vital to increasing efficiency, lowering claim denial rates, reducing costs, driving revenue for their organizations, and, ultimately, helping the patients they serve.
+The future will also involve predicting denials ahead of time. Last summer, AKASA presented a paper at the International Conference on Machine Learning that outlined the company’s method of using a neural network to predict health care billing claim denials. It’s believed to be the first published deep learning-based system that successfully predicts how a claim will be paid before submitting it to a payer. Called Deep Claim, this machine learning model predicts whether, when, and how much a payer will pay hospital expenses or claims.
+Innovative leaders need to start thinking about how denials predictions will influence their long-term revenue cycle strategies.
+The AKASA platform brings together GenAI, LLMs, and human interaction to fuel scalable and antifragile revenue cycle management streamlining that is continuously improving and built for a 24/7 reality.
+Schedule a free demo to learn how AKASA can help your organization.
+You may also like
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Dec 5, 2024 How to Address the Challenges of Eligibility Denials
+Real-time eligibility (RTE), patient eligibility verification that allows medical staff to electronically verify patients’ insurance coverage for medical treatment,...
+READ MORE
+Blog
+Aug 16, 2023 Claims Automation AI: The Ticket to Cleaner Claims and a More Efficient Revenue Cycle
+Claims management has long been a concern for healthcare providers and revenue cycle teams. Denials, prior authorization requirements, and...
+READ MORE
+Blog
+Jan 13, 2025 What Is Denial Management in Healthcare?
+Increased complexity, delayed reimbursement timelines, and more work for staff are all common outcomes of denied claims in healthcare...
+READ MORE
+Blog
+Sep 23, 2022 A Blueprint for Modernizing Your Denial Management Strategy
+Denial management in the healthcare revenue cycle is an inherently complex task — one that, at first glance, might...
+READ MORE
+Blog
+Dec 5, 2024 How AI-Powered RCM Solutions Can Fix Hospital Bad Debt
+With high health insurance premiums, deductibles, and cost of care, patients are shouldering more of the financial burden of...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

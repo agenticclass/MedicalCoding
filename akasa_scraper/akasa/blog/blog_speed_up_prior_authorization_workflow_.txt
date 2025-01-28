@@ -1,0 +1,139 @@
+URL: https://akasa.com/blog/speed-up-prior-authorization-workflow/
+
+How To Speed Up Your Prior Authorization Workflow | AKASA
+Blog
+How To Speed Up Your Prior Authorization WorkflowCheat sheets, effective communication, and rethinking old processes can ensure a quicker prior authorization process.
+AKASA January 16, 2025
+The Gist
+Like many areas of the healthcare revenue cycle, prior authorization is time-consuming, an administrative burden, and a cost-driver. Plus, any gap, error, or slowdown can negatively affect patient care, lead to denials, and impact revenue for an organization. With the right prior authorization workflow and strategy in place, however, hospitals, health systems, and providers can drive efficiency, save time, and improve both cash flow and the patient experience.
+Blog Contents
+The Impact of a Poor Prior Authorization Workflow
+9 Ways To Improve Your Prior Authorization Workflow
+The Ideal Prior Authorization Process Flow Chart
+Improving Prior Authorization Workflow With AI
+Prior authorization is a necessary function of the healthcare revenue cycle, but it’s also a significant pain point for providers.
+According to a 2021 report by the American Medical Association, 88% of physicians say the burden associated with prior authorizations is high or extremely high. Plus, 84% report that the number of prior auths for medical services has increased in the last five years (38% say it has jumped significantly).
+Prior authorization is a burden for overwhelmed staff. With the number of prior auths hospitals and health systems face each day increasing, this burden is only getting worse.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+The right prior authorization workflow and strategy, however, can resolve many of the challenges of this function. It can help revenue cycle departments gain efficiency, save time, drive revenue, and improve the patient experience. As prior authorization requests continue growing, improving your current workflows is more important now than ever before.
+You can’t afford NOT to improve your prior authorization processes.
+The Impact of a Poor Prior Authorization Workflow
+Prior authorization should, in theory, be a quick, simple, straightforward task.
+But when workflows aren’t set up correctly, prior auth becomes time-consuming, complicated, and costly.
+Prior authorization occurs early on in the revenue cycle. As a result, if requests take longer than they should, they can delay or affect patient care and lead to poor outcomes.
+In fact, a 2021 survey by the American Medical Association (AMA) found that 34% of physicians say prior authorization has led to a serious adverse event for a patient in their care.
+Plus, if care is urgent and providers aren’t able to get prior authorization requests approved quickly, a retro authorization can occur. This forces your RCM staff to submit auth requests quickly post-procedure, in hopes they’re approved.
+Prior authorization also requires multiple touchpoints. Because it’s often a manual process, these multiple touchpoints result in gaps, errors, and slowdowns.
+In the end, patients may receive care that isn’t covered, leaving them with surprise medical bills or your organization with a costly write-off. The former hurts the patient experience, while the latter cuts right into your bottom line.
+9 Ways To Improve Your Prior Authorization Workflow
+Developing a seamless prior authorization workflow ensures requests are accurate, complete, consistent, and facilitated in a timely manner.
+There’s no single way to increase prior auth efficiencies, but there are several steps you can take to improve your workflow for the long haul.
+1. Ensure complete registration
+Pre-registration and registration are the initial steps in the revenue cycle and play an integral role in every following function. Unfortunately, this is also an area where gaps and mistakes are common. This results in a host of downstream issues, including prior auth slowdowns and denials.
+The first step you can take to prevent this issue is to review your registration and intake forms, as well as your patient portal. The registration process should act as a catch-all for required information. This both reduces easily preventable denials and speeds up the auth submission process for your RCM staff.
+In addition to this, have patients review their information during check-in to ensure it’s accurate. It’s possible someone mistyped their name when registering, their insurance changed after registration, and so on. Catching this earlier rather than later prevents a number of headaches down the road.
+2. Utilize “smart phrases” in your charts
+Clear documentation improves coding and the likelihood that prior auth is not only approved, but also approved in a timely manner.
+To ensure accurate coding, establish a list of “smart phrases” that correspond with common exceptions or cases that arise during prior authorization.
+Smart phrases, which may be BMI or the medical reason for outpatient surgery, for example, should ideally appear at the bottom of the charts. This provides a quick way for your RCM staff to quickly identify additional details necessary for the request, without clinicians having to write out every last detail at the moment.
+Smart phrases not only improve documentation and coding but also increase efficiency and help staff save time.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+3. Keep lines of communication open
+Physicians, like everyone in healthcare, are short on time. Although they spend 40% of their workday on the EHR, documentation is one area that often has gaps — gaps that can impact the likelihood of a successful prior auth.
+As a result, your revenue cycle staff must detailed clinical notes. The more detailed the notes, the more complete a prior auth submission, and the less likely a denial from a payer.
+Detailed and timely documentation is particularly important when procedures or visits are vital to the outcome of a patient’s health. With the correct documentation, the authorization can be sent before the visit, if not on the same day. This ensures the patient’s care is approved by the payer, their appointment is still kept on time, and a retro auth isn’t required.
+Work with the leaders of the clinical team to establish communication guidelines between their department and RCM. If possible, hold regular meetings between the two teams so they can discuss what’s working, what’s not, and what they can improve to streamline sharing notes and codes.
+Timeliness is another reason the aforementioned smart phrases are helpful. They exist to help physicians, coders, and revenue cycle staff save time. When time is of the essence for a patient’s health, every second counts.
+4. Set coding guidelines for clinicians
+You can’t submit prior auth without accurate coding. Period.
+If the clinical team fails to add codes in a timely manner — or at all — your RCM staff has to reach out to them and ask for the codes and notes. This slows the entire prior auth process down, causing other accounts to age and increasing the chances of missing a submission window.
+When the work isn’t done right up front, it wastes time. It can be the difference between a patient getting a service they need or having it postponed.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+To prevent coding-related slowdowns, foster collaboration between your revenue cycle department and clinical team. Work together to create processes and guidelines around timely code entry, and make it clear who should contact who if there are issues.
+Again, if you’re encouraging open communication, this entire process becomes easier, too.
+5. Call payers in the morning
+Phone calls to payers are an unavoidable, time-consuming part of the revenue cycle. But your staff can improve the time it takes to hear from a payer and keep things moving. How?
+Call payers in the morning.
+As the day goes by, payers typically get busier and take longer to respond to requests. Every moment counts when you have timely prior auth or retro auth requests.
+If your team is calling payers near the end of the day for a retro auth request nearing the end of the submission window, and the payer doesn’t respond until the next day, you could end up writing that entire claim off.
+Even in the case of traditional auth requests, waiting to hear back from payers simply delays the entire process. If you can avoid this, you should.
+Make it part of your staff’s routine to call payers in the morning, especially for retro auths and in the case of payers who take longer to respond. This allows your team to shift to other tasks throughout the day, and follow up later in the afternoon with any payers they failed to get in touch with.
+6. Prioritize payers that take the longest
+Revenue cycle staff can do everything in their power to ensure a smooth prior authorization workflow. Unfortunately, some payers take longer than others to respond to requests.
+To address this, staff should have a list of the payers that take longer to respond. Or have extra challenging approval processes. Whenever possible, prioritize those prior authorization requests first to get the ball rolling. While waiting to hear back from the payer, your staff can switch to other accounts.
+If you have your staff make calls in the morning, have them focus on these particular payers as early as possible. Every second counts in RCM, and getting the ball rolling early on with slower payers can save precious time and stress later.
+7. Rethink your team structure
+Prioritizing the oldest accounts or visits happening the soonest are common RCM strategies. There is obvious merit to these strategies, but they can slow down the prior auth process in the long run.
+For example, if your RCM staff are working solely on the oldest accounts, a single specialist could end up working a Blue Cross account, then a United Health account, and so on. This is a lot of portal switching, which translates to lost time. Meanwhile, those accounts are already old, meaning any additional delays in payer response or missing information will push the account out even further.
+There are numerous alternative ways to split teams that prevent delays and time lost to portal switching. For example, you could split your teams by payer, allowing them to stay in one portal. You could also have a team specialized in submissions and another on follow-up. Or, you could have your teams split by payer and account age, ensuring there’s little portal switching and accounts are tackled in a timely manner.
+Examine your current team structure, see where you’re struggling or if certain payers are more problematic, and find a process that fits your organization.
+8. Stay up to date with the latest rules
+Failure to adhere to payer rules will result in a denial. Unfortunately, these rules change numerous times throughout the year, making it easy to get a rules-based denial.
+While not possible for every organization, usually because of financial or staff-related constraints, staying on top of payer rule changes as soon as they happen is ideal.
+Many payers offer the option to sign up for rules-related updates, which are a great way to stay in the loop. Additionally, you can set reminders for your RCM leaders to check for payer updates every X months. Whenever rules are updated and you or your RCM leads know about it, educate the rest of your revenue cycle staff on the updates ASAP.
+Although you can be up to speed on all the payer requirements, there will always be individual patient requirements based on the plan and benefits. Having a strong financial clearance process upfront for insurance verification and eligibility, however, can help to speed up the process and ensure prior authorizations will be approved.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+9. Choose the appropriate prior authorization method
+Prior authorization requests can be submitted via an EDI transaction, payer portal, fax, telephone, or email.
+The most efficient method, however, depends on your resources and the payer.
+Also, keep in mind that with EDI transactions, it’s not possible to add medical records, so they need to be sent another way. But this can also increase the chances for delays and denials.
+The Ideal Prior Authorization Process Flow Chart
+When it comes to mapping out a prior authorization process flow chart, it can vary depending on the provider, service (visit, surgery, lab, etc.), and the revenue cycle team’s resources.
+However, this prior authorization process flow chart provides a general overview of what an ideal workflow should look like for any RCM team.
+1. Register the patient
+2. Verify the insurance
+3. Determine if prior authorization is required
+4. Gather the necessary information, including medical records and orders
+5. Initiate the authorization request from the payer on the portal, or by fax or phone
+6. Check the status of the prior authorization
+7. When prior authorization is obtained, document it in the system with the number, the codes that were authorized, and other required details
+8. If denied, route to the staff for the next steps
+DOWNLOAD THIS FLOWCHART
+Improving Prior Authorization Workflow With AI
+The tips listed out in this piece can help you create more efficient prior authorization workflows with the setup you currently have. But the process itself is still inherently time-consuming.
+It takes more than 12 minutes to submit an authorization request and check the status. This isn’t including outliers, issues reaching payers, and other complications.
+With an AI-powered solution, you can free your RCM staff from the tedious and frustrating work of prior authorization, while also reducing denials and driving revenue.
+AKASA Authorization Management is powered by generative AI (GenAI) and large language models (LLMs), with support from our dedicated team of RCM experts. Our holistic prior authorization solution is capable of:
+Determining if prior auth is required
+Attaching necessary documentation and commonly-associated codes
+Submitting the auth request and checking the status
+Documenting auth results in the EHR
+Navigating complex workflows, ever-changing payer rules, and portals
+Reducing retro auths by adding common supplemental codes
+Prior authorization is a growing burden and time sink. But it doesn’t have to be.
+Watch a video of Authorization Management in action and see the difference our platform can make in your prior auth workflows today.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

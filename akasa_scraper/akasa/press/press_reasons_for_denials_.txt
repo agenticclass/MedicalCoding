@@ -1,0 +1,18 @@
+URL: https://akasa.com/press/reasons-for-denials/
+
+Errors in Patient Access Such as Eligibility or Missing Prior Authorization Cited as Top Reason for Initial Payer Denials by Financial Leaders | AKASA
+Press
+Errors in Patient Access Such as Eligibility or Missing Prior Authorization Cited as Top Reason for Initial Payer Denials by Financial Leaders
+Nearly 50% of providers reported an increase in denials rate over the previous year
+South San Francisco, Calif. — October 17, 2023 — AKASA, the leading developer of AI for healthcare operations, released survey results showing errors in patient access/registration, such as eligibility or missing prior authorization, as the number one cause of initial claim denials by payers according to more than 350 CFOs and financial leaders at health systems and hospitals across the U.S.
+Rounding out the top five reasons for initial payer denials, healthcare leaders cited lack of documentation to support medical necessity, missing or incorrect patient information, physician documentation issues, and utilization management. These were closely followed by coding, duplicate claims, and untimely filing.
+Additionally, nearly 50% of these same providers indicated they had seen an overall increase in their denials rate compared to the previous year. Another twenty-six percent reported a decrease in their denials rate over the previous year, and twenty-seven percent said they saw no change.
+“This new data confirms what we all know: Issues at the front end trickle down into the entire reimbursement process. When your patient access operations run smoothly, you’re setting your downstream workflows and teams up for success,” said Amy Raymond, SVP of revenue cycle operations and deployments at AKASA. “If you want to improve your overall claims processing and revenue capture, you need to address challenges holistically across the entire revenue cycle.”
+“And you need to be open to new strategies. In this climate, you can’t easily hire more people, so throwing more revenue cycle specialists at the problem isn’t an option. Evaluating processes and looking for strategic opportunities to streamline workflows with AI-powered automation can help fully utilize the team you have.”
+For helpful tips on how to decrease errors and denials that cause significant delays, send out more clean claims, and get more cash in the door, download AKASA’s free ebook, “10 Ways to Accelerate Your Claims.”
+Source: Commissioned by AKASA, the survey fielded responses from more than 350 chief financial officers and revenue cycle leaders at hospitals and health systems across the United States through the Healthcare Financial Management Association’s (HFMA) Pulse Survey program.
+About AKASA
+AKASA is the leading developer of AI for revenue cycle operations. AKASA scales human intelligence with leading-edge AI and ML to deliver comprehensive automation for complex workflows. The result is an integrated solution that reduces operating costs, frees up staff to do the most valuable work, and helps health systems allocate resources to where they matter most.
+WRITTEN BY
+Tiffany Smith
+Tiffany Smith is the editorial director at AKASA. A former magazine editor, she has more than 25 years of experience in content, across healthcare, higher education, and finance, among others.

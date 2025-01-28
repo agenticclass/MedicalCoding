@@ -1,0 +1,37 @@
+URL: https://akasa.com/press/survey-cost-to-collect-lower-with-automation/
+
+Survey: Cost-to-Collect Nearly .25% Lower for Hospitals and Health Systems That Leverage Automation in the Revenue Cycle | AKASA
+Press
+Survey: Cost-to-Collect Nearly .25% Lower for Hospitals and Health Systems That Leverage Automation in the Revenue Cycle
+Nearly 40% of organizations say their cost-to-collect has increased over past year
+South San Francisco, Calif. – September 15, 2022 – AKASA™, the leading developer of AI for healthcare operations, released findings from a new survey highlighting how hospitals and health systems that leverage automation in the revenue cycle have a lower cost-to-collect compared to those who don’t use automation.
+Healthcare financial leaders who use automation within the revenue cycle reported having an average cost-to-collect of 3.51% vs. an average cost-to-collect of 3.74% for those who don’t leverage automation in the revenue cycle—which can translate into millions of dollars saved. The average reported cost-to-collect overall for both groups is 3.68%.
+For a health system with $5 billion in revenue, a cost-to-collect of 3.74% amounts to $187 million for the revenue cycle alone. If that health system had the same average cost-to-collect as organizations that use automation in the revenue cycle (3.51%), this would total $175.5 million in spend – a savings of $11.5 million.
+Additionally, healthcare financial leaders were surveyed on any changes to their cost-to-collect compared to this time last year (2021):
+20.1% reported a decreased cost-to-collect by 0.1-0.3%+
+41.1% reported no change
+38.8% reported an increased cost-to-collect by 0.1-0.3%+
+The cost-to-collect is any cost used to drive revenue, which typically includes the revenue cycle holistically: staff, salaries, and sometimes technology, depending on how the organization operates. Cost-to-collect encompasses the time it takes to complete revenue cycle tasks like touching and re-working claims. CFOs and revenue cycle leaders at hospitals and health systems say the cost-to-collect is one of the most valuable key performance indicators in revenue cycle success.
+“Automation is the key differentiator when moving the needle on cost-to-collect and creating large-scale cost savings,” said Amy Raymond, VP of revenue cycle operations. “Although healthcare revenue cycle leaders have been trying to reduce the rates for years, studies show cost-to-collect has remained stagnant and this collides with significant financial pressures facing most healthcare organizations.”
+“With AI and automation, providers have a proactive, holistic way to improve the revenue cycle and reduce the cost-to-collect,” said Raymond. “Strategic organizations are implementing effective AI-powered automation to truly optimize revenue cycle processes, increase efficiencies, and focus their people on the work that returns the greatest value to the organization. Increasing the accuracy and efficiency of accounts receivable and reducing initial denials and final write-offs impact the cost-to-collect. With fewer people touching and re-working the claims, the more productive the revenue cycle team is, and the lower the cost-to-collect.”
+Commissioned by AKASA, the survey fielded responses from 556 chief financial officers and revenue cycle leaders at hospitals and health systems across the United States through the Healthcare Financial Management Association’s (HFMA) Pulse Survey program between July 8, 2022 and August 2, 2022. The national survey was designed to assess the adoption of automation in revenue cycle operations at hospitals and health systems across the U.S.
+About AKASA
+AKASA is the leading developer of AI for healthcare operations. AKASA scales human intelligence with leading-edge AI and ML securely trained on customer data to learn unique systems, continuously adapt to changing environments, and deliver comprehensive automation and analytics for complex workflows. The result is a seamlessly integrated, customized solution that reduces operating costs, frees up staff to do the work they love, and helps health systems allocate resources to where they matter most.
+AKASA has a work-from-anywhere attitude and we are hiring. Step into the future of healthcare with AKASA. Learn more at AKASA.com.
+You May Also Like
+Press
+Sep 26, 2023 Denials Management Emerges as Area of Focus For Revenue Cycle Automation
+South San Francisco, Calif. — Sept. 26, 2023 — AKASA, the leading developer of AI for healthcare operations, released...
+READ MORE
+Press
+Dec 16, 2022 Nearly 40% of Americans Confused by Medical Bills
+Survey finds uncertainty around what patients are being billed for as most frustrating; providers and insurers can take steps...
+READ MORE
+Press
+Nov 15, 2022 Limited Vendor Support, Lack of Best Practices Hamper ROI Measurement for RCM Automation
+New survey of more than 550 healthcare financial leaders finds wide variability in how, when, and what is measured...
+READ MORE
+Press
+Sep 15, 2022 Survey: Cost-to-Collect Nearly .25% Lower for Hospitals and Health Systems That Leverage Automation in the Revenue Cycle
+Nearly 40% of organizations say their cost-to-collect has increased over past year South San Francisco, Calif. – September 15,...
+READ MORE

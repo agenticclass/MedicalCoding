@@ -1,0 +1,111 @@
+URL: https://akasa.com/blog/the-future-of-ai-and-automation-in-healthcare/
+
+The Future of AI and Automation in Healthcare | AKASA
+Blog
+The Future of AI and Automation in HealthcareHealthcare operations is in desperate need of automation and support. Has the future arrived, or do healthcare organizations have to continue grinning and bearing it?
+AKASA August 07, 2022
+The Gist
+AI and machine learning are still in the early stages of adoption as automation solutions for healthcare revenue cycle management. What will the future hold? Compared to older approaches to automation, such as robotic process automation and EHR add-ons, AI-based platforms will enable providers to more efficiently solve a full range of use cases across the revenue cycle, from predicting denials to capturing and interpreting patient data.
+Blog Contents
+The Growth of AI in the Healthcare Revenue Cycle
+How Will AI vs. RPA Be Used for the Revenue Cycle?
+How AI Is Used in the Revenue Cycle
+Why Providers Need Purpose-Built, AI-Driven Automation
+Choosing a Future-Proof Healthcare RCM Automation Solution
+Artificial intelligence (AI) and machine learning (ML) are the newest frontiers in healthcare automation. This is especially true on the operational side, which has traditionally been underserved by AI and ML compared to other healthcare industry domains such as drug discovery and preliminary disease diagnosis.
+Given the explosion of technological growth in this area, what will the future hold? Here’s what innovation-focused organizations need to be aware of as they plan ahead for using AI and automation in healthcare.
+The Growth of AI in the Healthcare Revenue Cycle
+Accenture’s top 10 applications of AI in healthcare for 2021 included just one operations-related concept (“administrative workflow assistance”), even as the health AI market as a whole has grown tenfold from 2014 to 2021.
+Machine learning is reinventing the healthcare revenue cycle.
+~ Grant Messick, VP of Customer Success at AKASA
+The current usage of AI and automation in healthcare across the revenue cycle is well established. Organizations use it to automate transactional tasks such as payer follow-ups after learning from data and workflows within staff systems. But it is still relatively limited in total adoption.
+About 40% of healthcare systems aren’t currently using automation in their revenue cycle workflows, according to an AKASA survey. But more than 60% of that group plan to incorporate automation by the end of this year.
+As AI automation in healthcare expands and evolves through new technologies, it will take on even the most complex RCM activities for hospitals and health systems.
+An AI system applies human-like perception, interpretation, and decision-making to tasks via algorithms, while ML adapts to new information without human intervention.
+With these capabilities, AI and ML solutions will perform the manual processes that characterize the typical revenue cycle and those previously done by less advanced types of “automation,” like robotic process automation (RPA).
+How Will AI vs. RPA Be Used for the Revenue Cycle?
+“Automation” has often been a nebulous term when describing the long-term conversion of manual revenue cycle processes into more structured, automated workflows. Data-driven AI and ML automation get grouped with RPA, even though the two have very different technical architectures that determine what tasks they can perform.
+About 60% of health systems and hospital financial leaders mistakenly consider RPA to be a form of AI, according to an AKASA-commissioned survey.
+Here are some of the ways these technologies have been used in the revenue cycle — and opportunities for growth in the future.
+To see the gap, consider the activities most commonly assigned to a traditional RPA bot, which is the current form of automation many healthcare organizations rely on:
+Detecting page elements on a screen in order to click a specific button on a payer portal
+Trying to check prior authorizations and eligibility through a different macros-like script written for each payer
+Performing payment postings using a discrete RPA bot designed for a particular electronic health record (EHR) solution
+No AI- or ML-powered intelligent automation is involved in any of these basic, linear activities. That means there is no adaptive human-like intelligence to continuously adjust to and learn from events and then determine the right path forward when (not if) anything changes across the multiple platforms involved. Something as simple as a new page layout or software update can break an RPA bot and require expensive consulting to remediate.
+Learn why trying to build a rules-based engine to manage denials with RPA is like trying to map the stars.
+How AI Is Used in the Revenue Cycle
+In contrast, look at these four emerging use cases for AI-powered intelligent automation on the operational side:
+Learning payer requirements for prior authorization and staying up-to-date with them as they change — to reduce rework and overall administrative burdens
+Actively checking claim statuses on payer sites, integrating the latest information back into the EHR, and determining next steps based on the specific facts of each workflow
+Accurately predicting whether, when, and how much a payer will pay, using predictive AI and ML that take claims as inputs and then return denial code probabilities as outputs
+Getting patient eligibility information directly off of their insurance cards, using machine learning-powered vision to capture and interpret the data in question
+In addition to these new use cases, AI and ML can also take on various other tasks. That includes but is not limited to cash posting, charge reconciliation, and utilization. AI and ML, paired with RPA, results in automation that can do everything from the basic to the complex, with none of the linearity and fragility of traditional RPA.
+Moreover, AI and ML enable automation that’s purpose-built for the healthcare revenue cycle. This nuance is an essential differentiator from RPA, which is a form of automation ported from other sectors, with a one-size-fits-all approach that often breaks down when confronted with the particular complexities of RCM operations.
+Why Providers Need Purpose-Built, AI-Driven Automation
+Only such purpose-built intelligent automation, powered by AI and ML, can scale to the current and future challenges that a healthcare organization will face throughout the increasingly burdened revenue cycle.
+The traditional combination of manual processes, consultants, bolt-on additions to EHR systems, and — most recently — RPA bots has not yielded the performance that providers need, as benchmarked against their most important metrics:
+A July 2021 AKASA survey found that as healthcare organizations began evaluating automation options, the most important KPIs were net days in accounts receivable (A/R), aged A/R (90+ days), and initial denials rates. These objectives require a streamlined approach — all the way from patient access to back-office functions.
+But almost 80% of respondents to a 2020 InstaMed survey said they could not collect a bill of over $1,000 within 30 days using their existing tools and workflows.
+Similarly, per the American Medical Association, 88% of physicians saw prior authorization as a problem that worsened between 2015 and 2020.
+Health system leaders recently told KLAS that the revenue cycle was still the area most in need of innovation and disruption to overcome time-consuming challenges related to coding, medical billing, and ensuring easy data sharing and interoperability across systems.
+Many of KLAS’s respondents also cited the COVID-19 pandemic as a catalyst for considering AI and ML platforms because it had exerted new financial pressure on them while compounding existing problems.
+Going forward, automation via AI and ML can reduce initial denial rates and average days in accounts receivable in ways that other automation can’t, by:
+1. Proactively capturing and observing operational data
+With RPA, healthcare professionals and consultants must write strict instructions for each bot, often with only a limited amount of information about the overall operational environment. That’s a recipe for eventual breakdown.
+AI and ML automation, however, is much more flexible and robust, as it takes in current environmental data more efficiently than any documentation process could and then comprehensively analyzes it. Critical workflows get captured in full and connected to an AI algorithm.
+2. Learning from change and reoptimizing these workflows
+Instead of assuming that a script is still correct or that it can reliably scale to the sheer complexity of an RCM task, AI-driven automation is constantly learning and re-adapting.
+Using AI and ML, broken workflows can be fixed and fresh ones automatically constructed, with a level of sophistication that could not be scripted by hand. Retrospective and prospective user actions are analyzed to continually refine how workflows are completed so that they’re as accurate as possible for every plan and code.
+3. Applying statistical and scientific rigor
+For tasks such as predicting denials, deep learning (a subset of machine learning) within an RCM automation solution provides a level of statistical and scientific rigor beyond what older types of automation can deliver, opening up entirely new use cases. This technical ability to learn from large quantities of changing data makes an AI solution for automation both reliable and future-proof: It can estimate probabilities based on specific information and adjust to any changes in user behavior and system characteristics.
+Read about Deep Claim, an AKASA machine learning denials prediction model that predicts whether, when, and how much a payer will pay for a given hospital expense or claim. It was presented at the International Conference of Machine Learning in 2020.
+4. Working with humans in the loop
+Human experts are vital for properly training the AI and ensuring that it can handle the outliers that are an inevitable part of the revenue cycle. These humans in the loop can provide rapid resolution of unusual issues and also re-optimize the automation workflows in question so that next time they can adapt and handle the problem on their own. Eventually, AI and ML become capable of self-assigning accounts within RCM and billing systems and completing entire tasks once done by hand.
+When implemented, AI-driven automation solutions should not only reduce your overall costs but also improve the accuracy of the work completed and improve performance against your key performance indicators.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+Choosing a Future-Proof Healthcare RCM Automation Solution
+The healthcare industry has been on an automation journey for decades, but its pace has sharply accelerated in recent years.
+A 2021 Guidehouse Center for Health Insights survey of revenue cycle leaders found that 50% of them had deployed some form of automation to healthcare with operational and financial performance, up from only 15% in 2020. This significant increase, in only twelve months, illustrates the profound effects of COVID-19 on the healthcare industry and the newfound incentives to automate more manual processes previously assigned to short-staffed and often overburdened teams.
+Although the impetus for increased automation is there, healthcare executives must thoroughly evaluate the technical capabilities within related products. A future-focused AI automation solution and partner should have:
+Deep, accurate automation across core patient eligibility, prior authorization, payer follow-up, and denials management functions
+A revenue cycle-specific technology stack, not scripts and RPA bots that could be applied to virtually any task or industry
+Human expertise and subject matter expertise to train, fine-tune, and support automated workflows
+Straightforward implementation directly into the same RCM and billing systems that human staff already use
+In-house experts with academic and experiential backgrounds in the nuances of machine learning, who regularly publish in this field
+AKASA brings all of these components together under the banner of Unified Automation®, a purpose-built platform that unites AI and ML in the cloud with human expertise. We empower providers on their journey toward a more automated revenue cycle that helps teams focus on the most value-generating activities.
+Focusing teams in the most effective ways will have a broader impact on revenue cycle success. Learn more about how AI and Unified Automation can help your organization by scheduling a demo with AKASA.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

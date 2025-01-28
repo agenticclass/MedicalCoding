@@ -1,0 +1,96 @@
+URL: https://akasa.com/blog/how-automation-can-fix-hospital-bad-debt/
+
+How AI-Powered RCM Solutions Can Fix Hospital Bad Debt
+Blog
+How AI-Powered RCM Solutions Can Fix Hospital Bad DebtHospital bad debt is an increasing detractor for revenue cycle departments everywhere. But, a streamlined financial clearance process can combat this. And AI-powered RCM solutions are the key.
+AKASA December 05, 2024
+The Gist
+Hospital bad debt is on the rise. Studies show hospitals and health systems are struggling with increasing levels of bad debt — a result of patient financial burden. Most organizations have tried to change their internal processes or employ third-party vendors to recover the debt — albeit unsuccessfully. Instead of working to recover bad debt on the back end, which is costly and time-consuming, hospitals and healthcare systems should take a proactive approach to prevent bad debt. The better the financial clearance process before a patient ever walks in the door, the more likely the organization is to collect on what the patient owes. Through generative AI technology, organizations can prevent bad debt from affecting their revenue cycle operations and increase their revenue.
+Blog Contents
+What Is Bad Debt in Healthcare?
+How the Definition of Hospital Bad Debt Changed
+Why Is Hospital Bad Debt Increasing?
+What Is Considered “High” Bad Debt?
+Is Bad Debt Recoverable?
+How to Prevent Hospital Bad Debt Through AI
+With high health insurance premiums, deductibles, and cost of care, patients are shouldering more of the financial burden of healthcare. This has led to increasing rates of bad debt for hospitals and health systems. Of course, the COVID-19 pandemic has only made matters worse, with nearly half of hospitals reporting an increase in bad debt.
+Healthcare organizations have traditionally turned to third-party vendors or changed their internal processes to recover bad debt. Yet oftentimes, they’re not confident bad debt can be reduced or that their efforts will be successful.
+Here, we explore the new definition of bad debt in healthcare, the significant financial impact it can have on an organization, and how AI-powered RCM technology can prevent it from happening in the first place.
+What Is Bad Debt in Healthcare?
+Bad debt in healthcare refers to the amount of a patient’s bill that has been unpaid and is deemed by the hospital or healthcare system to be unrecoverable.
+Bad debt is part of the revenue cycle, and it temporarily increases days in accounts receivable (AR) until it is written off (impacting the balance sheet). This uncollected revenue is also a revenue loss that affects the income statement. A fundamental problem for CFOs and revenue cycle leaders.
+Once a service is rendered, the bill is coded, and the health insurance company processes the claim. Depending on the claim, they pay a portion, apply it to the patient’s deductible, or determine it’s a denial. The provider then sends a statement to the patient and tries to collect what they owe.
+After three or four attempts, the hospital or health system moves the account to an early out agency, an outsourcing company that’s sole purpose is to collect the money. The early out agency will start with a soft touch outreach, for example, asking the patient how they would like to pay their bill.
+If the attempt is unsuccessful, the account moves to a collection agency, which takes a more aggressive approach. They may tell the patient that the unpaid bill will affect their credit score or threaten legal action.
+The better the financial clearance process before a patient ever walks in the door, the more likely the organization is to collect on what the patient owes.
+~ Grant Messick, VP of customer success at AKASA
+How the Definition of Hospital Bad Debt Changed
+A few years ago, a new accounting standard changed the definition of bad debt and how hospitals and health systems report it, according to the Advisory Board.
+Revenue from Contracts With Customers, or Topic 606, as the standard is called, was required by most large health systems on December 15, 2017.
+Previously, bad debt was the difference between the amount hospitals billed to patients and the amount patients paid, even if the hospital never expected to receive the money.
+With the new standard, however, hospitals can only report bad debt if the patient is prevented from paying the bill under certain circumstances (such as job loss or bankruptcy).
+Why Is Hospital Bad Debt Increasing?
+Sky-high health insurance premiums and deductibles have forced patients to shoulder more of the cost of their healthcare.
+According to eHealth, in 2020, the average monthly health insurance premium for an ACA plan was $456 for an individual and $1,152 for a family. The average annual deductible for an individual was $4,364 and $8,439 for a family.
+When you consider that 69% of Americans have less than $1,000 in savings, it’s no surprise that bad debt in healthcare is a significant problem.
+According to a 2018 survey by Sage Growth Partners, 36% of hospital leaders say bad debt amounts to over $10 million annually.
+Of course, the economic effects of COVID-19 have further increased the amount of bad debt.
+An October 2020 report by Kaufman Hall reported that 48% of hospital executives have seen increases in bad debt and uncompensated care since the start of the pandemic.
+What Is Considered “High” Bad Debt?
+The benchmark for hospital bad debt is between 2% to 5% of an organization’s revenue. It may sound insignificant, but it’s compounded by the cost to collect, denials, and final write-offs.
+In some hospitals, there may also be a 1% revenue leakage due to missing charges. This is usually attributed to the billing process, which may sometimes miss or under-represent specific supplies and services rendered.
+Here’s an example of how revenue loss due to the revenue cycle can look:
+Take a hospital that has $5 billion in annual revenue. Then, they incur:
+2% cost to collect
+2% write-offs
+5% bad debt
+1% leakage
+That whopping 10% amounts to $500 million in lost revenue — all because of problems in the revenue cycle. What could a hospital do with an extra $500 million a year? Quite a lot.
+Is Bad Debt Recoverable?
+Despite the impact of bad debt on an organization’s bottom line, 21% of hospitals lack an in-house process or a third-party vendor to recover bad debt, the same survey by Sage Growth Partners found.
+What’s more, half of the hospitals surveyed estimate that only up to 10% of bad debt is recoverable.
+Some healthcare organizations have an upfront financial clearance process that calculates how much a patient will owe, but these are often inconsistent processes that can’t cover every patient. For other organizations, the process simply doesn’t exist.
+How to Prevent Hospital Bad Debt With AI
+Instead of working to recover bad debt on the back end, which is costly and time-consuming, hospitals and healthcare systems should take a proactive approach to prevent bad debt. The better the financial clearance process before a patient ever walks in the door, the more likely the organization is to collect on what the patient owes.
+Some health systems have financial clearance processes up-front, which calculate how much a patient will owe. But these are often inconsistent and cannot cover every patient. And oftentimes, this process may not exist at all.
+Through AI-powered technology, the upfront financial clearance work can be done instantly and accurately every time, facilitating a proactive and patient-friendly conversation to set expectations upfront. Organizations can calculate an estimate of the costs to better understand what a patient’s balance will be — and increase the likelihood that they will pay or get access to financial counseling if necessary.
+While advanced generative AI and large language models can take on the complexities of financial clearance, predict denials, and prevent bad debt, the integration of people is important to pause the process, make in-the-moment decisions, and teach the technology what to do next.
+This expert-in-the-loop process is essential to how the AKASA platform works.
+The AKASA platform builds on large language models with leading-edge generative AI, allowing it to improve with every task it completes. But, if a problem or edge case is encountered, our experts-in-the-loop step in.
+When a problem’s encountered, a team of AKASA revenue cycle experts step in and solve the issue. The work is completed and the AI-powered platform learns in the process. This combination of AI and humans allows the technology to get smarter, refine, and become more efficient — and ultimately improve your revenue cycle operations overall.
+Schedule a demo to learn how AKASA can help your organization today.
+You may also like
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Dec 5, 2024 How to Address the Challenges of Eligibility Denials
+Real-time eligibility (RTE), patient eligibility verification that allows medical staff to electronically verify patients’ insurance coverage for medical treatment,...
+READ MORE
+Blog
+Aug 16, 2023 Claims Automation AI: The Ticket to Cleaner Claims and a More Efficient Revenue Cycle
+Claims management has long been a concern for healthcare providers and revenue cycle teams. Denials, prior authorization requirements, and...
+READ MORE
+Blog
+Jan 13, 2025 What Is Denial Management in Healthcare?
+Increased complexity, delayed reimbursement timelines, and more work for staff are all common outcomes of denied claims in healthcare...
+READ MORE
+Blog
+Sep 23, 2022 A Blueprint for Modernizing Your Denial Management Strategy
+Denial management in the healthcare revenue cycle is an inherently complex task — one that, at first glance, might...
+READ MORE
+Blog
+Dec 5, 2024 How AI-Powered RCM Solutions Can Fix Hospital Bad Debt
+With high health insurance premiums, deductibles, and cost of care, patients are shouldering more of the financial burden of...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

@@ -1,0 +1,76 @@
+URL: https://akasa.com/blog/chatgpt-and-healthcare/
+
+ChatGPT and Healthcare: Exciting Potential That Needs To Be Channeled | AKASA
+Blog
+ChatGPT and Healthcare: Exciting Potential That Needs To Be Channeled
+Cory CostleyMay 01, 2023
+The Gist
+ChatGPT, Bard, Generative AI. New technologies are exploding on a seemingly daily basis. What do they mean for the healthcare industry? We need to balance pushing innovation and mitigating the risks in the very realities of healthcare. Large language models could be instrumental in our daily lives — if we take the time to utilize them correctly and create the proper guardrails.
+Blog Contents
+What Are Large Language Models?
+Applying Large Language Models to Healthcare
+The Risks of Large Language Models in Healthcare
+How To Mitigate the Risks of Large Language Models
+Recently I heard that as a fun exercise, the security officer at one of our healthcare clients tried asking ChatGPT to generate a security policy for their organization. What came back “wasn’t bad.”
+I think we’ve all heard similar stories at this point from colleagues or industry pundits. And while there should be a lot of excitement around what these new machine-learning tools could mean for healthcare, we also need to recognize the risks associated with them and mitigate these risks as we look to utilize them.
+What Are Large Language Models?
+To make sure that we’re all on the same page, ChatGPT from OpenAI and now Bard from Google are exciting new machine learning products, namely large language models (LLMs) based on neural networks.
+LLMs are a type of artificial intelligence designed to understand, generate, and interact with human language. They’ve been trained on publicly accessible data to not only read images and text, but also generate coherent text and realistic images — hence the term Generative AI.
+LLMs specialize in either taking a prompt of a few sentences and turning it into a robust document or, inversely, taking a large amount of text and distilling it into a few sentences of takeaways. Some common applications include writing documents or emails, summarizing content, answering questions, creating images, etc.
+Applying Large Language Models to Healthcare
+Obviously, within healthcare and its reams of data and the acute need for coordination and knowledge sharing across teams (clinical, revenue cycle, etc.) and stakeholders, it’s not hard to see the immense benefit a tool like this could have in making critical data more consumable and applicable. Whether it’s distilling a patient case into some key points or generating a letter of medical necessity for a prior authorization based on the patient’s context and some short directional prompts, the impact could be immense.
+However, what’s often not discussed are some of the critical considerations and risks with the technology and how best to manage these risks while integrating these tools into healthcare solutions.
+The Risks of Large Language Models in Healthcare
+LLMs are generative models, which means that they’re good at being creative but may need guardrails if we want the outputs to be grounded in reality or factually correct.
+LLM’s primary risk (outside of societal considerations, which are significant in their own right) when generating content from prompts is that they hallucinate or posit conclusions that are not accurate given the specific context within which they are being used.
+This usually happens when converting short prompts to larger text blobs because they are extrapolating from the prompt using other examples of text blobs that the model was trained on. Just like how digital imaging software can attempt to refine the detail of a grainy image by adding pixels that it thinks could have been there, LLMs will do the same to fill in the gaps in the larger “text image” they try to create.
+Although working inversely, the attempt to synthesize the details of clinical context into a few takeaways also has notable risks, specifically intent alignment. Namely, the risk is in what the model chooses to leave out in its attempt to summarize the broader set of text. In a medical context, there is a high sensitivity to what’s left out as a removed data point or point of context can have a life-impacting effect.
+How To Mitigate the Risks of Large Language Models
+Three approaches can help mitigate the aforementioned risks.
+The first is training the LLMs on clinical data. And not just any clinical data or training methodology. Both the data and training methodologies must be a tailored fit for the desired output. This is commonly referred to as domain adaptation or fine-tuning.
+In this way, the examples that the model uses to both extrapolate and synthesize are based on clinical expertise and context. For instance, if someone were preparing to join a financial clearance team within the revenue cycle, you’d recommend they get financial clearance-specific training versus general education training. The data and examples a model is trained on should closely match its intended use. It’s the same for LLMs.
+The second strategy to specifically mitigate the intent alignment risk when synthesizing large blobs of text is to develop additional instructions that can be added to the prompt to help it decide what is important or not.
+For example, the prompt could instruct the model to synthesize the patient record but also to include all surgical procedures performed in the last three years. This has the tradeoff of potentially increasing the size of the synthesis, but through testing with experts (more on this below), these could be developed to balance brevity and content criticality.
+The third method that can help to mitigate the risks with LLMs is by infusing experts into the process of reviewing the outputs of the models. And not just reviewing them to edit but reviewing them in such a way that it helps the models learn from the experts’ feedback.
+It’s similar to healthcare’s residency training model, where residents have an attending physician oversee and correct their patient treatment efforts. With LLMs, experts need to be involved in reviewing the models’ outputs. They can check and correct the models, which helps improve their performance over time. Initially, experts would likely need to be involved frequently, but based on our past model training experience at AKASA, this engagement level could be reduced significantly over time.
+As we look to incorporate LLMs into our healthcare revenue cycle solutions (e.g., generating medical necessity appeals letters based on patient context, synthesizing patient charts into key relevant points for a specific procedure’s prior authorization), we will be utilizing these risk mitigation tools, as well as others.
+All in all, this is an inspiring time in technology. LLMs have an incredible potential to impact healthcare functions and operations positively. They have a large role to play (pun intended) in this. Still, their risks need to be mitigated by being trained on groomed clinical data with tailored instructions and used in conjunction with human experts to review and — more importantly — further train and refine the models’ performance.
+Thank you to Varun Ganapathi (chief technology officer at AKASA) and Edward Tiong (senior software engineer, machine learning at AKASA) for their insights into this post.
+WRITTEN BY
+Cory Costley
+Cory Costley, chief product officer at AKASA, has led multiple teams to build products and businesses in the healthcare space. He cofounded Avizia, an enterprise telemedicine company that was acquired by Amwell. At Amwell he became SVP of hospital products, overseeing a multi-million dollar product portfolio comprised of enterprise software, devices, and services to more than 70 of the largest health systems. Costley started his career as a software engineer and spent time developing business frameworks at McKinsey and driving product development for Cisco. He is also an advisor for several investment firms and companies in the healthcare technology and solutions space. Costley holds a bachelor’s degree in management information systems from Brigham Young University and an MBA from the University of Michigan.
+You may also like
+Blog
+Feb 20, 2024 How the AKASA Engineering Team Created an Automation Solution for Database Migrations
+AKASA builds products and tools to improve the various components of revenue cycle management (medical billing) for hospital systems....
+READ MORE
+Blog
+May 1, 2023 ChatGPT and Healthcare: Exciting Potential That Needs To Be Channeled
+Recently I heard that as a fun exercise, the security officer at one of our healthcare clients tried asking...
+READ MORE
+Blog
+Jun 12, 2023 Overcoming the Top 3 Challenges Holding Back Healthcare Innovation
+Healthcare is notoriously slow at adapting and incorporating new technologies into day-to-day operations. Healthcare lags behind as one of...
+READ MORE
+Blog
+Jan 16, 2025 7 IT Mistakes You’re Making With Your RCM Automation Partner
+The right revenue cycle management (RCM) automation is capable of helping healthcare organizations overcome a litany of issues —...
+READ MORE
+Blog
+Jan 16, 2025 Questions Healthcare IT Teams Should Ask About Revenue Cycle Automation
+RCM leaders at your organization are discussing automation. Period. The healthcare revenue cycle is fighting non-stop battles. Staffing challenges...
+READ MORE
+Blog
+Jan 16, 2025 9 Healthcare Technology Trends To Watch
+Keeping track of the rapid changes in healthcare technology is no small task. The industry has seen numerous healthcare...
+READ MORE
+Blog
+Nov 30, 2022 The Gradient Podcast: An Interview on AI and Healthcare With AKASA CTO and Co-Founder Varun Ganapathi
+On a recent episode of the Gradient Podcast, host Daniel Bashir sat down with AKASA CTO and co-founder, Varun...
+READ MORE
+Blog
+Sep 1, 2022 Machine Learning in Medicine: Using AI to Predict Optimal Treatments
+At AKASA, we’re always thinking about how we can use machine learning (ML) and artificial intelligence (AI) to better...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

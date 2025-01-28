@@ -1,0 +1,74 @@
+URL: https://akasa.com/blog/automating-denials-is-like-mapping-the-stars/
+
+Overcoming the Challenges Around Automating Denials | AKASA
+Blog
+Overcoming the Challenges Around Automating DenialsWhy is automating denials like mapping the stars? Denials are a common cause of lost revenue and time in the healthcare revenue cycle. And they’re difficult to automate. But, is it impossible?
+AKASA October 19, 2022
+The Gist
+Denials are a common cause of lost revenue and time. Making matters worse, denials are notoriously difficult to automate. This is largely because of the near-infinite amount of reasons for denials, making it difficult to predict and automate solutions for denials. But, a modern approach to automation — one that includes human expertise and support — brings the hope of an automated future for denials.
+Blog Contents
+The Challenge of Automating Denials
+The Promise of Unified Automation
+The earliest Western catalog of the stars was created by the Greek astronomer Hipparchus, building on earlier work going back to the Babylonians. Automating denials is a bit like mapping the stars.
+Automation for the healthcare revenue cycle is still a relatively early and evolving field. Like those mapping stars so many years ago, solution developers face particular challenges when attempting to map the universe of denials in order to apply automation.
+To many, automating denials may feel more like an aspirational concept than a reality. It may feel like an effort similar to mapping the stars — one that takes generations and some of mankind’s greatest thinkers. However, if accomplished, the benefits of an automated denials solution could be substantial:
+Timely, accurate, and effective appeals
+Maximized overturn rate
+Lower cost to collect
+Time to focus on the most complex cases and a better patient experience
+This sounds great on paper. But, is automation of denials possible?
+The Challenge of Automating Denials
+Denials is a particularly challenging area of revenue cycle operations to automate because it involves processes with seemingly infinite scenarios.
+Payers change their rules and their use of codes on a regular basis.
+Staff investigate each denial and then take one of several different approaches to fight, fix, and/or overturn the denial.
+Many denials require rigorous appeal processes and coordination across multiple departments.
+Some may question if automation in this space is even possible.
+At AKASA, we’ve developed a new approach called Unified Automation®, which uses AI, machine learning (ML), and human expertise to address the dynamic nature of denials.
+We often get asked, “how is machine learning different from traditional automation solutions such as robotic process automation (RPA)?”  In the case of denials, the difference is a game-changer.
+Trying to build a rules-based engine to manage denials with RPA is like trying to map the stars. Between the complexity, the quantity, and the vast number of combinations, trying to tackle such a task in such a manual way may be impossible.
+While denials aren’t ideal for traditional RPA, this level of complexity is a perfect opportunity to apply an ML process. An ML process that can continuously watch and learn from human work to ‘train’ an algorithm to automate the responses to specific denial codes.
+In the short term, the algorithm can select certain codes and build a high confidence level around the next steps required for a certain scenario. Over time, the algorithm will continuously evolve and add new codes and new scenarios to its repertoire – taking on more tasks and more complex functions as it learns. These ML approaches have the ability to significantly accelerate our ability to automate denials. Just imagine what more Hipparchus may have achieved with the benefit of a modern telescope.
+For example, a finite set of about 12 denial codes could be classified as eligibility denials, typically stemming from one of approximately 10 different eligibility issues upstream, and typically requiring one of approximately 6 different responses.
+The manual process of mapping the rules in order to develop RPA in this scenario likely isn’t worth the investment of time and manpower (12 x 10 x 6 = 720 rules). However, this is exactly the kind of problem best solved by machine learning. Certainly, some clinical denials will likely always require involvement from a medical professional who can justify the care that was delivered, but others may be addressed with machine-learning-based solutions like Unified Automation™.
+The Promise of Unified Automation
+Unified Automation may be the breath of fresh air that we’ve been looking for to effectively automate denials. Recent digital transformation efforts and other investments in denials management have yielded mixed and often underwhelming results. While denials still consistently rank among finance executives’ top priorities, organizations across the industry have struggled to achieve meaningful improvement.
+To make a dent in denials, organizations must deploy a substantial combination of expertise, analytics, stakeholder coordination, technology, meetings, and leadership—all of which take additional time and investment. Many health systems are standing up dedicated denials teams and committees, as well.
+In spite of all of that, industry best practice overturn rates remain relatively stagnant around 60%, meaning we are still losing our appeals 40% of the time. And in some cases, denials quantities are so high that they cannot be worked before the denials age out and have to be written off as a complete loss.
+Denials have, and will continue to be, a pervasive hurdle that revenue cycle departments must address. Fortunately, ML approaches are enabling the development of a new generation of automation solutions that can do the heavy lifting for us, minimizing the human touches required, maximizing overturn rates, and allowing denials professionals to get laser-focused on the small subset of work that truly requires human intervention.
+New approaches, such as Unified Automation, allow us to efficiently connect “the stars” in a multitude of constellations—effectively mapping the universe of denials for automation that truly delivers on the aspirations of digital transformation.
+See for yourself how Unified Automation can make a difference in your revenue cycle and request a demo today.
+You may also like
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Dec 5, 2024 How to Address the Challenges of Eligibility Denials
+Real-time eligibility (RTE), patient eligibility verification that allows medical staff to electronically verify patients’ insurance coverage for medical treatment,...
+READ MORE
+Blog
+Aug 16, 2023 Claims Automation AI: The Ticket to Cleaner Claims and a More Efficient Revenue Cycle
+Claims management has long been a concern for healthcare providers and revenue cycle teams. Denials, prior authorization requirements, and...
+READ MORE
+Blog
+Jan 13, 2025 What Is Denial Management in Healthcare?
+Increased complexity, delayed reimbursement timelines, and more work for staff are all common outcomes of denied claims in healthcare...
+READ MORE
+Blog
+Sep 23, 2022 A Blueprint for Modernizing Your Denial Management Strategy
+Denial management in the healthcare revenue cycle is an inherently complex task — one that, at first glance, might...
+READ MORE
+Blog
+Dec 5, 2024 How AI-Powered RCM Solutions Can Fix Hospital Bad Debt
+With high health insurance premiums, deductibles, and cost of care, patients are shouldering more of the financial burden of...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

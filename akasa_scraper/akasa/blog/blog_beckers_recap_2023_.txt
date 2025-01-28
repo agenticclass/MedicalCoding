@@ -1,0 +1,118 @@
+URL: https://akasa.com/blog/beckers-recap-2023/
+
+How Top RCM Leaders Are Prepping for the Future | AKASA
+Blog
+How Top RCM Leaders Are Prepping for the Future: Becker’s Annual Meeting Panel RecapHear from revenue cycle leaders about how you can prepare for 2023 and beyond.
+AKASA January 16, 2025
+The Gist
+Every year, top leaders in healthcare meet to discuss the latest trends and challenges at the Becker’s Hospital Review Annual Meeting. At the 13th meeting in April, a co-founder of AKASA and two healthcare leaders tackled the challenges of the revenue cycle and how you can prepare for them. From staffing to payer relationships to ChatGPT, no stone was left unturned during this panel.
+Blog Contents
+4 Challenges RCM Leaders Will Face in 2023
+How To Thrive in RCM in 2023
+Automation: A Safe Bet for the Future
+At the 2023 13th Annual Meeting of Becker’s Hospital Review in Chicago, healthcare leaders met to discuss the industry’s most pressing challenges, solutions, and trends.
+One session focused on what’s to come in the revenue cycle: “What Top Performing Revenue Cycle Teams Are Planning for the Future.”
+It was moderated by assistant vice president of client content and strategy at Becker’s Healthcare, Brian Zimmerman, and included:
+Ben Beadle-Ryby, Co-founder of AKASA
+Jamie Davis, Executive Director of Revenue Cycle at Banner Health
+Charleeda Redman, VP of Strategy Integration at Children’s Hospital of Philadelphia
+These three leaders covered the most significant challenges facing RCM leaders and how providers can prepare for them. If you could not attend the session, read on to learn how to prepare for 2023 and beyond.
+4 Challenges RCM Leaders Will Face in 2023
+The session opened with a recap of the grim state of healthcare, with the panelists pointing out that a majority of hospitals finished in the red last year, staffing challenges continue to plague providers, and payers are increasingly complex.
+And it’s exhausting. As Davis said: “If I hear headwinds one more time, my head is going to explode.”
+While the challenges facing healthcare are plenty, a few stood out during the discussion.
+1. Shifts in service models
+The healthcare landscape isn’t what it used to be, with new players constantly entering the scene. Many of these new providers are disrupting old care models and quickly competing with established providers and health systems.
+CVS’ Minute Clinic, Walgreens, Amazon — everybody’s getting into the gig. We’re trying to compete with that. And those are referral sources into our key systems. That’s made a huge change in our financials, and also in the revenue cycle, because now we’re managing a high volume, lower reimbursement population. That’s driving a difference in the way that we react, manage, and respond.
+~ Jamie Davis, Executive Director of Revenue Cycle at Banner Health
+Davis also pointed out that this shift in service models isn’t just resulting in more and new competition — it’s changing how patients interact with healthcare. As a result, she predicts healthcare will continue to move into a higher volume, lower reimbursement space.
+2. Financial expertise is now a must
+Healthcare finances are a significant source of stress for most households, and for good reason — nearly 40% of Americans are confused by medical bills. As a result, many patients are beginning to educate themselves on medical bills. In fact, 36% of patients research pricing ahead of seeking care.
+This finance-oriented shift for healthcare didn’t go unnoticed during the panel, either. And it’s not only for patients.
+Clinicians (physicians, nurses, dieticians, surgical workers, etc.) really need to understand more of the financial side than they ever have. And being willing to say that this is part of what I need to do. We are absolutely here to take care of patients and families, yet we also need to understand the business side.
+~ Charleeda Redman, VP of Strategy Integration at Children’s Hospital of Philadelphia
+The need for better financial counseling is only going to increase, especially as Medicaid unwinding takes place. Help your team and community and read up on how you can prepare for Medicaid unwinding today.
+3. Increasingly complex and contentious payer/provider relationship
+The payer and provider relationship has been strained for quite a while. As payers and healthcare as a whole grow increasingly complex, so too does the relationship between insurance companies and healthcare providers.
+We’re divorced parents. Our patient is a kid who’s stuck in the middle and we’re dragging them through the mud. I want what’s best for my child. I want what’s best for my patient. But, on average, a large healthcare system spends $70–100 million dollars exchanging data about the same person. About the same person. There are multiple voices telling our clinicians how to care for that kid in the middle. We’ve got to figure this out, or it’s going to get figured out for us. Luckily, our payers are coming to the table to have more serious conversations about this.
+~ Jamie Davis, Executive Director of Revenue Cycle at Banner Health
+Davis pointed out that administrative costs are hurting providers more and more, making it more difficult for them to deliver quality care with the resources they have — and patients are stuck in the middle.
+Her solution? Unified data sets. If you want to consolidate the voices involved, you need to consolidate the systems you use to provide care. What might happen if we create unified data sets on members and patients as one record?
+What if our reimbursement is value-based and not adjudicated claim by claim? We can get to a place where we’re actually treating the patient holistically. Now we’re moving to a model where we can both manage the cost to deliver care and improve health outcomes.
+Payers are making provider organizations jump through additional hoops. That’s what we see and feel day in and day out. There is still a lot of strain between the two groups. It’s causing a lot of administrative waste and inefficiency, all based on the foundational structure and misaligned incentives. I believe there’s still a long way to go until we get to something frictionless between these two. But at least we’re making strides in this area and trying to form better relationships and bridge that gap.
+~ Ben Beadle-Ryby, Co-founder of AKASA
+Redman agreed, saying that we’re seeing more healthcare leaders move between jobs at providers and payers. They’re really trying to make changes and create more efficiencies for the healthcare industry.
+4. Prior authorization is an increasing burden on healthcare
+Prior auth is time-consuming, taking 12 minutes and 7 seconds on average. With 84% of physicians stating prior auth requests for prescriptions and medical services have increased over the past five years, healthcare has a serious challenge.
+We work with providers who have had prior auths more than double in a single year. Payers are making providers jump through additional hoops. That’s what healthcare is seeing and feeling day in and day out. And it’s part of the reason people are saying, ‘I have to keep throwing armies of people at these problems.’
+~ Ben Beadle-Ryby, Co-founder of AKASA
+But there may be hope. The federal government has proposed changes to make health plans speed up prior auth timelines and include reasons for denials. United Healthcare also recently announced that they’re eliminating nearly 20% of current prior authorizations moving forward to help simplify the healthcare experience for consumers and providers.
+Read this ebook to learn how to improve your prior auth workflows with automation.
+The challenges facing healthcare in 2023 aren’t limited to only those listed above. But hope is still possible.
+How To Thrive in RCM in 2023
+While all three speakers agreed that things in healthcare are challenging, they also agreed on a number of reasons to be optimistic about the future. Put into action the following tips and set your organization up for success.
+1. Leverage third-party technology
+Today, providers have access to RCM vendors and support across virtually every part of the revenue cycle. Davis says this is something providers should take advantage of — if they aren’t already.
+United, Humana, Aetna have all demonstrated interest in, ‘yeah, let’s come to an agreement.’ What’s really cool about our industry right now, especially on the administrative side, is we have tons of data. We have tons of new technology. We can use impartial third-party solutions that I can’t game as a provider. The payer can’t game it as a payer. For example, sharing billing edits is a thing that’s happening today versus having to recreate them and pricing transparency charge.
+~ Jamie Davis, Executive Director of Revenue Cycle at Banner Health
+Third parties or partnerships can serve as an arbiter of truth between payers and providers, shared Beadle-Ryby. They can help to evaluate what’s happening. Doing that while working through the existing infrastructure and rails of the payer-provider financial system can greatly help.
+2. Stay on top of advanced AI and automation
+Technology is advancing rapidly, especially where AI and automation are concerned. The speakers touched on ChatGPT and OpenAI as an example of this. This advancement is paving the way for equally impressive improvements and gains in healthcare RCM.
+For years, we have been hovering around the same cost to collect, struggling to bend that cost curve. All of a sudden, we are able to unlock significant efficiency gains. When I think about the industry’s need, it is at its highest point right now. But AI’s capabilities are rapidly increasing in order to address those needs. It’s at that cross-section where we can actually accomplish some really significant gains. All of the recent technological developments are truly going to be groundbreaking in terms of what they unleash for us — enabling our teams to do more in order to form better payer relationships, better serve our patients, and create a better financial experience.
+~ Ben Beadle-Ryby, Co-founder of AKASA
+The speakers went on to point out that in RCM specifically, there are solutions available for most of the revenue cycle: workflow automation, patient management dashboards, advanced analytics that provide insights on performance, and more. Technology is going to dramatically shift the way we are doing the revenue cycle and the way we’re delivering healthcare.
+Some worry that automation will replace people on revenue cycle teams. But the panelists all agreed that is not the case.
+Automation is not a replacement for existing people. It’s moving more complex work to humans. So instead of them querying BMI every single time, they’re now able to look at more complex cases that actually drive quality indicator changes and drive changes for both financial and quality outcomes. It will help us get to the stuff we’re not touching, nor should we be touching.
+​​ ~ Jamie Davis, Executive Director of Revenue Cycle at Banner Health
+“Can we help CDI specialists pull the needles out of the haystack and be querying the right charts and surfacing the right areas of opportunity in order to improve quality and improve revenue outcomes?” concluded Beadle-Ryby. “Automation can not only increase your team’s productivity but actually improve the outcomes of your revenue capture. That will shift how you and your teams can operate on a day-to-day basis.”
+3. Maximize ROI with existing investments first (when possible)
+Rapid technological advances and the number of vendors and solutions available make it tempting to jump at the first solution you come across. Davis feels this isn’t always the best option — especially where more financially-strained providers are concerned.
+Many people do not maximize what their prospective EMR can do for you. And if you have not partnered from a clinical standpoint with your IS and your revenue cycle leaders, that’s a good place to start…Really look at the suite of products you already have and maximize what you have there. And then when there are gaps, look for things that will solve those gaps.
+~ Jamie Davis, Executive Director of Revenue Cycle at Banner Health
+4. Collapse administrative burdens with technology
+Almost every piece of RCM technology exists to streamline workflows, increase productivity, and ease the burden on staff. Redman took things a step further and asked, “Why not use non-RCM technology, too?”
+When I think about ChatGPT, can’t that just be a scribe? Can’t that be a prompt that follows the doctor around and says, hey, you know what, when you’re visiting with that patient, I didn’t hear you capture BMI. I didn’t hear you capture any other comorbidities. When I normally see stuff like this, I also see these things. Can ChatGPT help reduce that administrative burden on the providers?
+~ Charleeda Redman, VP of Strategy Integration at Children’s Hospital of Philadelphia
+Davis agreed and pushed on healthcare technology vendors to do more. “If you’re trying to make what exists today better, don’t. Figure out how to break it and change it. Don’t make an ineffective system just a little bit better. That’s never going to get us out of this mess. Start thinking about solving bigger problems. We need our systems to stop being the roadblock to access to care.”
+Automation: A Safe Bet for the Future
+While the challenges facing RCM leaders are varied, a common thread appeared through most major takeaways: technology is key to success in 2023 and beyond.
+More emergent technologies, like ChatGPT and OpenAI, could change how parts of RCM function in the future. But, right now, advanced automation created with healthcare RCM in mind is capable of streamlining time-consuming pieces of the revenue cycle. And it’s only getting better.
+It’s a challenging time right now, but we really are on the cusp of being able to unlock some significant improvements. While it does require some thoughtful change management and some communications across your organization in order to bring that to bear, it can ultimately change how your teams work.
+~ Ben Beadle-Ryby, Co-founder of AKASA
+There’s no telling what next year will bring, but problems like staffing challenges and increasingly complex payer relationships and workflows are mainstays. If you want to thrive in 2023, you must do more with the team you have.
+AKASA goes beyond automation, with a platform built on generative AI (GenAI) and large language models (LLMs), backed by a team of RCM experts-in-the-loop. See how we can help your team escape the RCM hamster wheel and make a bigger impact on your organization today.
+You may also like
+Blog
+Jun 12, 2024 Waiting to Deploy RCM Automation Is Costing Your Health System
+About 78% of health systems are currently using or are in the process of implementing automation in their revenue...
+READ MORE
+Blog
+Jan 16, 2025 How Top RCM Leaders Are Prepping for the Future: Becker’s Annual Meeting Panel Recap
+At the 2023 13th Annual Meeting of Becker’s Hospital Review in Chicago, healthcare leaders met to discuss the industry’s...
+READ MORE
+Blog
+Jan 14, 2025 How Automation Drives RCM Employee Engagement
+Who are engaged employees in the revenue cycle? You know them when you see them — they’re the ones...
+READ MORE
+Blog
+Jan 14, 2025 Cross-Training in Healthcare RCM: The Secret to a More Productive, Engaged Team
+It’s a scene all healthcare RCM leaders have experienced: an overworked revenue cycle team, aging accounts, high employee turnover,...
+READ MORE
+Blog
+Dec 14, 2022 A Reason to Stay: Driving RCM Employee Engagement Through Purpose
+As revenue cycle leaders, we all know the telltale signs of a disengaged healthcare RCM employee: they do the...
+READ MORE
+Blog
+Aug 2, 2024 What Is Change Management in Healthcare?
+Although healthcare tends to lag behind other industries in embracing and adopting new technologies, processes, and perspectives, it continues...
+READ MORE
+Blog
+Nov 12, 2024 32 of the Best AI and Automation Quotes To Inspire Healthcare Leaders
+Automation technologies, including artificial intelligence (AI) and the newer generative AI (GenAI), are not novel ideas by any means,...
+READ MORE
+Blog
+Dec 5, 2024 Deploying AI-enabled Automation to Improve Operations and Patient Experience
+AKASA recently hosted a Brass Tacks roundtable at Health Evolution Summit, led by AKASA CEO and co-founder, Malinka Walaliyadde, with panelists Dr....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

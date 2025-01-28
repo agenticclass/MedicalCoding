@@ -1,0 +1,51 @@
+URL: https://akasa.com/blog/stanford-health-care-and-akasa/
+
+Generative AI and the Revenue Cycle: Best Practices From Stanford Health Care and AKASA | AKASA
+Blog
+Generative AI and the Revenue Cycle: Best Practices From Stanford Health Care and AKASA
+Becker's Hospital Review December 01, 2024
+The Gist
+In this Becker's webinar, revenue cycle experts from Stanford Health Care and AKASA discussed the ins and outs of generative AI. How are health systems leveraging it and what results are they seeing?
+Blog Contents
+1. Identify the problem statement before deploying GenAI solutions
+2. Start working with GenAI now
+3. Reconsider KPIs and measurement methodologies
+4. Adopt solutions, not just technology
+5. Find solutions that generate trust among users
+Generative AI, a subset of artificial intelligence, is used extensively in consumer-facing industries such as retail, travel, and hospitality.
+Now, hospitals and health systems are leveraging this technology to improve revenue cycle operations and the bottom line.
+During a recent Becker’s Healthcare webinar sponsored by AKASA, two experts shared insights and best practices for effective deployment of GenAI in healthcare settings:
+Cory Costley, Chief Product Officer, AKASA
+Noel Juaire, Vice President, Patient Financial Services, Stanford Health Care
+Five key takeaways were:
+1. Identify the problem statement before deploying GenAI solutions
+Clear identification of the problem statement is key to success. A narrow focus is needed for generative AI and large language models to work well.
+“Look at the data, provide the right level of focus, and define the problem statement clearly,” Mr. Juaire said. “If there’s a lot of nuance, it’s critical to have the right scope and data behind that.”
+2. Start working with GenAI now
+Healthcare organizations must bring tools like ChatGPT into their ecosystems and figure out how to use them safely.
+Stanford Health Care, for example, has implemented a secure ChatGPT tool that’s available to all employees via the intranet. This enables people to experiment with GenAI in a low-risk and HIPAA-safe way.
+“GenAI is being used by payers everywhere and it will affect our bottom line,” Mr. Juaire said. “If we can’t figure out how to operate at scale, other organizations will win more often.”
+3. Reconsider KPIs and measurement methodologies
+Today, the productivity of many revenue cycle employees is based on how many accounts they can resolve.
+“If GenAI takes over a lot of that work, that KPI may no longer be the right one,” Mr. Juaire said. “We need to measure and reward staff in different ways.”
+4. Adopt solutions, not just technology
+Don’t rush to implement cool technology like GenAI without a holistic strategy. Think about how it can best serve your revenue cycle staff to solve their challenges. Look for technology, solutions, and vendors that have a firm grasp of the revenue cycle, but also deliver it in a way that can be integrated into your workflows and provide value.
+“In addition to the software and solutions around the technology, other important factors to consider as critical parts of the solution are implementation, training, and support services to help staff get the most out of the tools,” Mr. Costley said.
+5. Find solutions that generate trust among users
+AKASA’s revenue cycle applications leverage GenAI to review patient records and the underlying clinical documentation. With its medical coding tool, AKASA then recommends appropriate codes along with AI-generated justifications and quotes for each one.
+“It shows supporting evidence to justify a particular code,” Mr. Costley said. “The user can select that direct evidence and reference the proof point.”
+With technology, Stanford Health Care recognizes that more can be done to improve efficiency and patient outcomes. “We have to ready our staff for that impact, so they can use new tools to dig deeper into A/R and resolve issues at a scale that we were never able to touch in the past,” Mr. Juaire said.
+Watch the webinar
+Select the graphic below.
+This post originally appeared on the Becker’s website.
+You may also like
+Blog
+Dec 1, 2024 Generative AI and the Revenue Cycle: Best Practices From Stanford Health Care and AKASA
+Generative AI, a subset of artificial intelligence, is used extensively in consumer-facing industries such as retail, travel, and hospitality....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

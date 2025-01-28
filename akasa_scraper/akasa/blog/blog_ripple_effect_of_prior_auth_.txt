@@ -1,0 +1,109 @@
+URL: https://akasa.com/blog/ripple-effect-of-prior-auth/
+
+The Ripple Effect of Inefficient Prior Authorization | AKASA
+Blog
+The Ripple Effect of Inefficient Prior AuthorizationPrior authorization impacts far more than revenue. If your prior auth process is inefficient, you could be hurting your organization and patient experience in a number of ways.
+Amy RaymondMay 11, 2023
+The Gist
+Prior authorization is necessary when it comes to ensuring patients have access to the right care, and receive the reimbursement they’re owed. But an inefficient prior auth process can have a ripple effect that extends well beyond your revenue cycle department. With prior auth on the rise, it’s time to make streamlining prior auth a top priority.
+Blog Contents
+Why Prior Auth Falls Apart
+How Inefficient Prior Auth Impacts Care
+Ensuring Prior Auth Success With Authorization Management
+Prior authorization is at the heart of the revenue cycle. It’s also at the heart of many headaches, for both providers and patients.
+In patient access, you and your team spend your days up against a clock: appointment day. How quickly can you get an authorization before that appointment approaches?
+I’ve been in the revenue cycle industry for more than twenty years. Prior auth just is not getting any better. In fact, it’s getting worse. Pulling at resources during a time when we can’t afford it.
+There was a time when patient access and prior auth weren’t even considered part of the revenue cycle. The emphasis was on the business office only. But now we know that everything hinges on what happens in the early stages. It all needs to be connected for the revenue cycle to work.
+It’s easy to think of prior authorization as primarily a billing issue. But an inefficient prior authorization process can have a large impact on your organization, your patients, your reputation, and beyond. Denials, delayed care, surprise medical bills — prior authorization can cause them all.
+Adding to the pile, 79% of providers say prior auth requirements have increased from 2021 to 2022, and prior auth is the second most time-consuming task in the rev cycle. Most organizations are struggling to maintain a fully-staffed RCM team, so a rise in prior auth requirements is the last thing you need.
+The ripple effect of prior authorization extends well beyond the walls of your organization. It’s time to take a closer look at where the problems lie, the impact prior auth has on care, and lastly — what you can do about it.
+Why Prior Auth Falls Apart
+While prior authorization is a core part of financial clearance, it’s also rife with challenges. The process itself should be simple, but with auth requests on the rise and staffing challenges impacting most organizations, there are a number of reasons prior authorization commonly falls apart.
+Inefficient queue prioritization
+Many organizations focus on the oldest accounts or those with an upcoming appointment. This makes sense on the surface but falls apart whenever complications arise.
+Say your team is focusing on accounts 0–7 days out. Some payers take longer to respond than others. If someone is working an account two days from the appointment date, and the payer happens to be one that takes weeks to respond, you’re unlikely to get that auth in time.
+To prevent this, you should ideally have a team dedicated to submitting prior auth, some dedicated to working payers that take longer, and others focusing on pending authorizations.
+Rescheduled procedures
+It’s not uncommon for patients to reschedule their appointment — life happens. This on its own isn’t a problem. But prior authorization only lasts 90 days in most cases. Therein lies the potential issue.
+If the rescheduled appointment and any tests or procedures take place outside of 90 days, and you never received a reauthorization, you’re looking at two less-than-ideal outcomes.
+The best-case scenario is running a retro authorization and getting approval. Unfortunately, retro auths are often more time consuming and complicated than a typical prior auth. Retro authorizations also come with a short turnaround time, which forces your team to scramble.
+And of course, there’s the worst case scenario: You receive a denial for an appointment or procedure that already took place.
+Lack of timely clinicals and notes
+Ideally, your staff is trying to submit prior auths as soon as possible. In most cases, this means attempting prior auth submission shortly after a patient’s visit. Without clinicals or notes from the physician, prior auth is either destined for denial or your team is left waiting on notes.
+A typical prior authorization submission and status check already take 12 minutes and 7 seconds on average. Whenever your staff has to reach out to physicians and clinical staff for missing notes, that time increases. Meanwhile, other prior auths are waiting on your team while claims and other queues build.
+Missing codes
+Clinical teams typically do their best to include codes, but even the most well-intentioned people make mistakes. These mistakes sometimes include failing to immediately add codes after a patient visit.
+Missing codes delay the entire financial clearance process and often entail patient access having to reach out to the clinical team. This back and forth eats up precious time for the patient access and clinical teams — all the while, the patient’s authorization and bill are delayed.
+Registration issues
+Registration should serve as a catch-all for patient information. This isn’t always the case.
+If a patient is seen on short notice, for an urgent matter or otherwise, there’s a chance they don’t complete the full registration process. It’s also possible the patient has new insurance and doesn’t bring their card, or forgets to mention new insurance or a change of address, and so on.
+Any of the above issues delay prior auth and require your team to either hunt down the information or contact the patient for the new information — both scenarios cost precious time and delay auth and a final bill.
+How Inefficient Prior Auth Impacts Care
+While prior authorization serves as a kick-off for much of the billing process, an inefficient prior auth process has implications extending well beyond the revenue cycle. The consequences of inefficient prior auth, or failing to get prior auth at all, touch nearly every aspect of care.
+The patient experience suffers
+Patients count on your organization for care. Unfortunately, prior authorization is essentially a gatekeeper to care in many cases. As a result, a lack of prior auth translates to numerous pain points for the patient.
+Patients don’t get the care they need when prior auth falls the wayside. Some patients may still choose to have their appointment or procedure, but the financial burden lands on the patient. This prevents those without the financial means to do so, from getting the care they need.
+Patient care is delayed when prior auth isn’t efficient. In fact, 91% of providers say prior auth negatively impacts patient outcomes. The longer it takes to receive prior auth for a treatment, procedure, or care, the longer the patient has to wait to receive the care itself. In some cases, this could lead to medical complications or a worsening of an illness or condition.
+Patients can lose money spent on accommodations. If a patient has to travel to see a specialist, it’s possible they already purchased plane tickets, a rental car, arranged childcare, and so on. If prior auth is delayed and then denied too close to the appointment, the patient is on the hook for expenses related to travel.
+Revenue falls
+Inefficient prior authorization ties directly to your organization’s revenue. When you’re failing to get prior authorization, you’re either losing patients who can’t get the care they need, or you’re facing more denials.
+Denials cost time, hit you financially, and keep your staff from working on other tasks. Denials also slow down RCM, which often leads to other accounts getting ignored and other money getting left on the table.
+Staff morale takes a hit
+Healthcare is stressful, for both providers and patients alike. The last thing a patient wants to hear is that they’re either not getting the care they need, or their care is going to cost them more than planned. These frustrations can fall right on patient access, since they’re typically the ones most readily available.
+The revenue cycle is already high stress. Patients who are understandably upset will only add more stress to your team, which can lead to burnout and employee churn.
+Remember: Staffing challenges are hitting most organizations. You can’t afford to lose staff, especially to something as preventable as prior auth issues.
+Download this ebook on staffing challenges in the healthcare revenue cycle to learn how to set your team up for success.
+Community trust in your organization is tarnished
+Failure to get prior auth will eventually hurt the reputation of your organization, especially if you’re in a rural area with a smaller community. When patients go to a provider, they expect care and fair billing. Inefficient prior auth impacts both of those things.
+Ensuring Prior Auth Success With Authorization Management
+As healthcare leaders, we do everything we can to ensure our patients and staff have the best experience possible. Inefficient prior authorization can throw a wrench in the gears for both parties. But, it doesn’t have to.
+Healthcare RCM automation is capable of streamlining prior auth, giving your team back valuable time, ensuring accuracy, and allowing you to place a greater emphasis on the patient experience.
+Payer changes around preauthorization requirements and increased demand to schedule diagnostic procedures as soon as possible is driving significant volumes for financial clearance. Hiring to handle these volumes can be challenging and isn’t always the most strategic solution. Machine-learning-based technologies such as AKASA have been critical to ensuring our teams can provide rapid turnaround for verifying eligibility, covered benefits, and securing an authorization.
+~Cynde McCall, Director of Patient Access and Health Information at Methodist Health System
+Our Authorization Management solution, powered by AI, machine learning, and a dedicated team of revenue cycle experts, is capable of:
+Identifying payer requirements
+Submitting auth requests with required docs + common supplemental codes
+Checking statuses
+Navigating any portal or workflow
+Unlike traditional robotic process automation (RPA), our automation is capable of learning as it goes. If it runs into an edge case, our team of RCM experts steps in and completes the work while the AI watches.
+Prior authorization, like it or not, isn’t going away anytime soon. Don’t let this task be the reason your patients or organization suffer. Automate this task off your team’s plate and let there be a ripple effect of an improved patient experience, more revenue for your organization, and time to focus on what matters most.
+To learn more about AKASA Authorization Management and see it in action, watch our two-minute demo video.
+WRITTEN BY
+Amy Raymond
+Amy Raymond serves as the senior vice president of revenue cycle operations and deployments at AKASA, where she maintains operational responsibility for the production and performance of the firm’s AI-driven automation platform. Across her 25-year career in revenue cycle, Raymond has held several leadership, consulting, and implementation roles. Her industry experience includes tenures at national and regional health systems, as well as numerous care settings and specialties.
+Most recently, Raymond served as a senior leader in the revenue cycle technology vertical at Advisory Board. Her extensive professional expertise includes: end-to-end revenue cycle operations, process redesign/optimization, patient financial experience improvement, technology deployment/adoption, change management, and employee engagement. As a military spouse, Raymond is a passionate advocate for mil-spouse hiring and community support.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

@@ -1,0 +1,78 @@
+URL: https://akasa.com/blog/armaghan-behlum-why-i-joined-akasa/
+
+Sr. Software Engineer Armaghan Behlum on Why He Joined AKASA
+Blog
+Senior Software Engineer Armaghan Behlum on Why He Joined AKASAOne of AKASA’s talented engineers talks life after Google, the culture at AKASA, and why he can’t imagine working anywhere else.
+Armaghan BehlumAugust 09, 2024
+The Gist
+Armaghan Behlum, a senior software engineering manager at AKASA, has a breadth of engineering experience. Previously at Verily and Google, he was drawn to AKASA for a number of reasons — the talent, the culture, the mission. Has the company met his expectations and delivered? Behlum tells it all, including reasons why engineers looking for a change of pace and a great challenge should join AKASA.
+Blog Contents
+Strong Engineering Talent and Culture
+AKASA’s Mission
+Successful Sales Team
+Life as an Engineer at AKASA
+Your Next Engineering Challenge Awaits
+It’s been nearly two years since I left Verily, an Alphabet company focused on using advanced technology to improve health diagnoses and delivery. It’s difficult for many to imagine leaving a company like Alphabet, but here I am. So, what drew me to AKASA, maker of healthcare revenue cycle solutions powered by generative artificial intelligence (GenAI) and machine learning (ML)?
+Strong Engineering Talent and Culture
+Any time you’re job hunting, you wonder who you’re going to be working with. How will these people change and improve me? What will it be like to work with them? Will they like me and will I like them?
+When I came across AKASA and saw the type of work the company was doing, I knew it was a talented team. This was confirmed during my interviews with some of the co-founders and leadership.
+During these interviews, I was asked really great, difficult questions that only come from a place of knowledge. On top of that, the conversations themselves were really interesting and exciting. Since starting here, I’ve had four referrals get hired, and each of them agrees — this is an incredibly talented, supportive group.
+It was also made clear that Sanjay Siddhanti, the director of engineering and my boss, is really focused on building a great culture. We spoke at length about the hackathons — something I saw on the company’s blog before applying. Hackathons aren’t new to me, but the fact that AKASA actually turns much of what they build at hackathons into useable products was incredible. And, as luck would have it, we held a hackathon shortly after I joined the company.
+In that hackathon, I built out a service that then became a part of our platform the following quarter!
+Read more about how AKASA runs (virtual) hackathons.
+AKASA’s Mission
+It’s not every day that engineers get to work for a company with a noble purpose. AKASA’s mission — to tackle difficult problems causing inefficiencies in healthcare — is something I, and most people in this country, can relate to. We’re trying to reduce healthcare operating costs and help health systems allocate resources where they matter most.
+This mission resonated with me and was a big draw for me when looking at AKASA. The founders all talk about the inefficiencies in the U.S. healthcare system, and it was immediately apparent to me that they mean what they say. AKASA has clear evidence that they’re reducing inefficiencies and saving time through their automation. Seeing a company with a worthy mission, and seeing them back that mission, is a rarity.
+Successful Sales Team
+As an engineer, few things are more disheartening than building something great, only for it to never get used. I’ve experienced this in my career, and I know other engineers have as well. Fortunately, the sales team at AKASA delivers.
+Both during interviews and immediately after joining, it was clear that the sales team at AKASA does a great job pitching our solutions to the top health systems around the country. We have no shortage of work, which means we’re always getting to tackle new challenges, deploy our GenAI-powered technology in new workflows, and see what we build to make life better for thousands of healthcare specialists and patients. If anything, they push us to be even better and faster because we need to keep up with the critical partnerships they bring.
+Life as an Engineer at AKASA
+AKASA did a great job selling me on the company. I can safely say they’ve delivered on those selling points and beyond.
+During my first year with the company, I felt as if I tackled two to three years’ worth of projects. People often talk about the pace of startups being different from that of larger companies, and they’re right.
+At larger companies, things are much slower, so you’re challenged less frequently and learn less as a result. At AKASA, there’s always a fresh challenge, new client, or emerging product or platform to take on. There’s no shortage of critical problems and no shortage of learning.
+In slower roles, I’d find myself wondering, “When can I start working on this important thing? What can I work on that’s not blocked?” Here, the question becomes, “This is all important and ready to go. Where can I make the most impact right now?” It’s incredibly exciting.
+On top of this, there’s a great knowledge-swapping culture here. We have regular learning sessions, during which internal and external specialists share presentations on different topics. We’ve had doctorates discuss their use of automation to improve cancer treatment, lectures on healthcare economics, and everything in between.
+Here’s what Andy Atwal, vice president of engineering and co-founder of AKASA, thinks makes our engineering team so successful.
+Your Next Engineering Challenge Awaits
+Most engineers want to be challenged, learn, and grow. Growing at bigger tech companies is difficult. Opportunities are limited, the pace is slower, challenges are fewer, and chances to build something great are scarce.
+At AKASA, I’ve learned, grown, and built more one year than I would in years at larger companies. This company provides the perfect environment for learning and collaboration, setting you up for success and growth — here and beyond.
+It can be scary to leave a larger company and the comfort that provides. But between the caliber of people I get to work with and the opportunities I have to solve important problems, I don’t miss a thing.
+We’re always looking for talented engineers with an insatiable curiosity and a drive to take on difficult challenges. AKASA has provided me with the learning opportunity of a lifetime, and I know it can do the same for you.
+WRITTEN BY
+Armaghan Behlum
+Armaghan Behlum is a senior software engineer at AKASA. An experienced engineer of multiple styles (backend, full-stack, Android/mobile, etc.), he has worked for companies such as Verily Life Sciences, Google, and Audible. Behlum has a degree in computer science from Harvard University.
+You may also like
+Blog
+Feb 20, 2024 How the AKASA Engineering Team Created an Automation Solution for Database Migrations
+AKASA builds products and tools to improve the various components of revenue cycle management (medical billing) for hospital systems....
+READ MORE
+Blog
+May 1, 2023 ChatGPT and Healthcare: Exciting Potential That Needs To Be Channeled
+Recently I heard that as a fun exercise, the security officer at one of our healthcare clients tried asking...
+READ MORE
+Blog
+Jun 12, 2023 Overcoming the Top 3 Challenges Holding Back Healthcare Innovation
+Healthcare is notoriously slow at adapting and incorporating new technologies into day-to-day operations. Healthcare lags behind as one of...
+READ MORE
+Blog
+Jan 16, 2025 7 IT Mistakes You’re Making With Your RCM Automation Partner
+The right revenue cycle management (RCM) automation is capable of helping healthcare organizations overcome a litany of issues —...
+READ MORE
+Blog
+Jan 16, 2025 Questions Healthcare IT Teams Should Ask About Revenue Cycle Automation
+RCM leaders at your organization are discussing automation. Period. The healthcare revenue cycle is fighting non-stop battles. Staffing challenges...
+READ MORE
+Blog
+Jan 16, 2025 9 Healthcare Technology Trends To Watch
+Keeping track of the rapid changes in healthcare technology is no small task. The industry has seen numerous healthcare...
+READ MORE
+Blog
+Nov 30, 2022 The Gradient Podcast: An Interview on AI and Healthcare With AKASA CTO and Co-Founder Varun Ganapathi
+On a recent episode of the Gradient Podcast, host Daniel Bashir sat down with AKASA CTO and co-founder, Varun...
+READ MORE
+Blog
+Nov 29, 2022 A Facial Focus on Health: My Movember Experience and Commitment to Making a Difference in Men’s Health
+Nearly 20 years ago, two gentlemen and a small group of their friends in Australia decided to bring awareness...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

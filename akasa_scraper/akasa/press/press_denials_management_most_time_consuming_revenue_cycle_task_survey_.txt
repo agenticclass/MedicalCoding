@@ -1,0 +1,17 @@
+URL: https://akasa.com/press/denials-management-most-time-consuming-revenue-cycle-task-survey/
+
+Denials Management Is the Most Time-Consuming Revenue Cycle Task, Followed by Prior Authorization, According to Healthcare Financial Leaders | AKASA
+Press
+Denials Management Is the Most Time-Consuming Revenue Cycle Task, Followed by Prior Authorization, According to Healthcare Financial Leaders
+South San Francisco, Calif. — April 19, 2023 — AKASA, the leading developer of AI for healthcare operations, released a new survey highlighting denials management, prior authorization, and insurance follow-up as the most time-consuming tasks in the healthcare revenue cycle.
+More than 550 healthcare financial and revenue cycle leaders were asked: What are the most time-consuming revenue cycle tasks for your organization? They were able to select up to five out of a list of 15 different revenue cycle tasks.
+76% said denials management
+60% said prior authorization
+58.6% said insurance follow-up
+Denials management is an inherently complex task — one that not only costs providers precious time and revenue, but also impacts the patient experience. As denial rates continue to increase, establishing a streamlined denials management strategy is key for healthcare organizations to reduce complexity and workload for staff, and avoid reimbursement delays.
+“When thinking about the biggest bang for your buck as a revenue cycle leader, few things are as effective as focusing on denials management,” said Amy Raymond, VP of revenue cycle operations at AKASA. “But it’s important to avoid the common mistake of only focusing on working denials, and instead address the root causes. Leveraging robust, AI-driven automation can help overcome shortcomings of a typical denial management strategy — improving processes holistically to reduce denials in the first place and better address them when they occur.”
+In the past, basic automation wasn’t capable of assisting with denials management. Recent advancements in AI have expanded the capabilities of technology and its use cases within the revenue cycle. Today, advanced automation using AI and machine learning (ML) is more capable of helping curb denials and streamline this time-consuming process than it ever has been before.
+“These results emphasize that there is an immense opportunity for revenue cycle leaders to reduce the time their teams spend on manual tasks,” said Raymond. “With AI and ML-driven automation taking over the time-consuming work, staff is able to focus on more complex, revenue-driving, and rewarding tasks, such as improving the patient experience.”
+Commissioned by AKASA, the survey fielded responses from 556 chief financial officers and revenue cycle leaders at hospitals and health systems across the United States through the Healthcare Financial Management Association’s (HFMA) Pulse Survey program between July 8, 2022, and August 2, 2022. The national survey was designed to assess revenue cycle challenges at hospitals and health systems across the U.S.
+About AKASA
+AKASA is the leading developer of AI for healthcare operations. AKASA scales human intelligence with leading-edge AI and ML to continuously adapt to changing environments and deliver comprehensive automation for complex workflows. The result is an integrated solution that reduces operating costs, frees up staff to do the work they love, and helps health systems allocate resources to where they matter most.

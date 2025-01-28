@@ -1,0 +1,83 @@
+URL: https://akasa.com/blog/cerner-akasa-what-to-expect/
+
+Cerner Customers: What To Expect From the New AKASA Collaboration | AKASA
+Blog
+Cerner Customers: What To Expect From the New AKASA CollaborationAKASA and Cerner are working together to provide Cerner customers with advanced revenue cycle technology. Get started — and see results — today.
+AKASA September 23, 2022
+The Gist
+Steven Colucci, vice president, revenue cycle, at Oracle Cerner, and Ben Beadle-Ryby, co-founder of AKASA, recently sat down to discuss their new collaboration, what Cerner customers can expect, and how to take advantage of this revenue cycle solution.
+Blog Contents
+1. Cerner Customers Can Get Started Today, Regardless of Platform
+2. Automation Delivers Consistency and Reliability
+3. Automation Enables Revenue Cycle Staff to Shift to High-Value Work
+4. Start Small, But Think About Future Potential
+AKASA recently announced a new collaboration with Cerner, a global healthcare technology company. Cerner customers now have access to AKASA’s advanced, AI-driven automation that’s purpose-built for healthcare.
+When we looked across the market landscape, there are few folks that are really innovating in that middle space around driving automation as a service. Not the tool piece of using things like machine learning and RPA tools to do it yourself. And not the full-services side where you’re turning over control. But somewhere in the middle: really driving productized automation that’s repeatable in the market. AKASA really fit that niche.
+Steven Colucci, Vice President of Revenue Cycle at Oracle Cerner
+On the heels of the announcement, Steven Colucci, vice president of revenue cycle at Oracle Cerner, and Ben Beadle-Ryby, SVP and co-founder of AKASA, sat down to talk about the role automation plays in the revenue cycle, how to leverage the technology to increase efficiency and drive revenue, and what Cerner customers can expect from automation — today and in the future.
+Here are a few key takeaways from the discussion:
+1. Cerner Customers Can Get Started Today, Regardless of Platform
+Our revenue cycle experts have a deep understanding of all EMRs, including Cerner. We created our technology to be both flexible and system-agnostic. With extensive knowledge of Cerner’s solutions, AKASA is uniquely equipped to advise on how to improve your current workflows. That means a faster time to value for you.
+Cerner customers can immediately start to implement AKASA’s revenue cycle automation solution — whether you’re on Soarian or Millennium, or switching over to the new Cerner RevElate platform.
+You can also continue to use the solution with future platforms that Cerner may release. AKASA will work hand-in-hand with Cerner and its customers as these new releases occur, making sure the automation evolves as well.
+2. Automation Delivers Consistency and Reliability
+AKASA’s Unified Automation® platform is a vertically-integrated technology stack that has the ability to learn your revenue cycle team’s activities.
+By using the same advanced technology that powers self-driving cars, the data is ingested by a machine learning algorithm that teaches itself how to autonomously do the same work, in the same environment, and in a repeatable way.
+Our Worklogger™ tool remotely observes how your team completes tasks. The data feeds our automation to provide a view of current workflows and processes. The end result is visibility into staff performance, with foundational data on your workflows to power our automation.
+If a change is made in a payer portal, website, Cerner workflow, or other third-party application, the technology flags it to an AKASA revenue cycle expert. The expert simultaneously fixes the problem and trains the machine how to solve it the next time, allowing the technology to continuously grow and learn.
+We created the most sophisticated machine learning-powered, human-in-the-loop approach that allows us to continually adapt to the ever-changing dynamic environment that is healthcare — and that is essential for delivering a consistent, reliable automation for our clients.
+Ben Beadle-Ryby, SVP and Co-founder of AKASA
+3. Automation Enables Revenue Cycle Staff to Shift to High-Value Work
+During the conversation, Beadle-Ryby emphasized that AKASA is focused on driving efficiency for Cerner clients. He cited a customer success story: Methodist Health System (MHS), a mid-size, multi-state health system based in Nebraska with $1B in annual net patient revenue.
+Starting with claim status, AKASA automated 19,000 activities a month for this Cerner customer, the equivalent of 19 FTEs worth of work. Thanks to automation, their claim status checks decreased from more than seven minutes to less than a minute.
+We enabled MHS to shift some of their resources to higher-value tasks and more patient-facing activities
+Ben Beadle-Ryby, SVP and Co-founder of AKASA
+MHS then moved to implementing automation for eligibility, authorization, and price estimation, and is currently automating 25,000 activities a month, which has enabled their front-line staff to focus on providing even more high-quality care. This resulted in a $30M gross yield increase for the health system.
+Read this Healthcare Finance article to learn more about the results MHS has experienced with revenue cycle automation.
+4. Start Small, But Think About Future Potential
+One of the things that excites me most about our collaboration is that not only can we deliver a lot of value now, it doesn’t matter where you are — using any of our patient accounting solutions or registration systems — there’s an opportunity to provide value now. But we’re going to work together and say, as we move forward, how do we improve that experience? How do we integrate it more into the model experience? How do we automate more of the steps? How do we connect in a technological way that doesn’t require as many bots and scripts?
+Steven Colucci, Vice President of Revenue Cycle at Cerner
+While AKASA provides end-to-end revenue cycle automation, the following four workflows enable Cerner clients with an easy path to begin their automation journeys and achieve the speediest deployments:
+Comprehensive Eligibility
+Authorization Management
+Comprehensive Claim Status
+Complete Denials Resolution
+We’re also working hand-in-hand with Cerner and their clients to identify additional areas that will drive higher efficiencies and reduce cost to collect.
+By working with Cerner clients, we can have faster speed to value and can ensure we’re enhancing the overall ROI that each and every group achieves through automation.
+Ben Beadle-Ryby, SVP and Co-founder of AKASA
+Together, we’re building the revenue cycle of the future.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

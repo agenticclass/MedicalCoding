@@ -1,0 +1,85 @@
+URL: https://akasa.com/blog/medicaid-unwinding/
+
+Medicaid Unwinding: What RCM Leaders Need To Know | AKASA
+Blog
+Medicaid Unwinding: What Hospitals and RCM Leaders Need To KnowMedicaid eligibility redetermination is a major issue right now. No-shows and eligibility denials are likely to lead to bad debt for healthcare organizations. But automation can fill the void.
+AKASA September 21, 2023
+The Gist
+As of April 1, 2023, millions of Americans will be uninsured due to Medicaid unwinding. Medicaid eligibility redetermination needs to be at the forefront of your strategic conversations. For hospitals and health systems, the redetermination process will lead to reduced revenue (these newly ineligible people are no longer seeking services and Medicaid is offering lower reimbursements), additional burdens placed on the teams responsible for ensuring eligibility and coverage, and increased denials leading to more write-offs. The solution? AI-powered automation, which can improve efficiency and prevent revenue loss through even the toughest of times.
+Blog Contents
+The Effects of Medicaid Eligibility Redetermination
+Medicaid Administrative Churning Will Exasperate Loss of Eligibility
+AKASA Eligibility Denials Resolution
+As the pandemic public health emergency (PHE) comes to a close, hospitals and health systems will be forced to grapple with the end of many flexibilities, including Medicaid eligibility — leaving millions of Americans uninsured.
+On April 1, 2023, states will be forced to return to pre-pandemic policies and determine who is eligible for Medicaid and who is not. The Robert Wood Johnson Foundation estimates this has the potential to leave up to 18 million people without healthcare coverage.
+In Q1 2022, the national uninsured rate reached an all-time low of 8%. Yet, with the revert back to redetermination, rates could increase.
+Estimates from the U.S. Department of Health and Human Services show approximately 9.5% of Medicaid enrollees, or about 8.2 million, will lose Medicaid coverage due to loss of eligibility. KFF estimates are even higher: between 8 million and 24 million people.
+For hospitals, redetermination will lead to no-shows, failed eligibility checks, eligibility denials, reduced revenue, and bad debt. On top of this, already overwhelmed revenue cycle staff will have to contend with the increased administrative burden for ensuring eligibility and coverage and dealing with denials.
+Hospitals must quickly prepare to address the inevitable effects of Medicaid unwinding. With margins already low and many hospitals at risk for consolidation, they simply can’t afford an additional negative impact to their bottom line.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+The Effects of Medicaid Eligibility Redetermination
+Since early 2020, Medicaid and Children’s Health Insurance Program (CHIP) enrollment has seen a significant uptick. A recent report from KFF found that enrollment increased to 91.3 million — up 28.5% since February 2020.
+The Medicaid unwinding was originally slated to occur with the end of the PHE on May 11, 2023. Yet in December 2022, the Consolidated Appropriations Act, 2023 decoupled the Medicaid continuous enrollment provision from the PHE, and allowed states to begin Medicaid disenrollments starting April 1.
+States now have up to 12 months to complete the redetermination process.
+Additionally, the federal government will decrease the Medicaid matching rate — the federal medical assistance percentage (FMAP) — from 6.2 percentage points due to the PHE to:
+5.0 in April-June
+2.5 in July-September
+1.5 in October-December
+By January 1, 2024, the FMAP will be completely phased out.
+Hospitals that rely on Medicaid funding to serve low-income populations, particularly those in rural areas, will have to brace for the impact on already lagging operating margins.
+More than 600 rural hospitals, nearly 30% of all rural hospitals in the United States, are at risk of closing in the near future, a report Center for Healthcare Quality and Payment Reform found.
+Medicaid Administrative Churning Will Exasperate Loss of Eligibility
+In addition to patients who will lose Medicaid due to eligibility, 7.9%, or 6.2 million enrollees, will also lose coverage due to administrative churning.
+Administrative churning is the loss of coverage despite ongoing eligibility due to:
+challenges navigating the renewal process
+states unable to contact enrollees due to change of address
+other administrative issues
+While it seems straightforward enough for enrollees to quickly regain coverage, experts say it’s likely that hospital caseworkers will be overwhelmed by re-enrollments and retro-enrollments, which will increase the administrative burden and lead to bad debt.
+As hospitals continue to struggle with lean revenue cycle teams and staffing issues, coping with redetermination will prove challenging.  Those that deploy AI-powered automation, however, will have extra resources, experience greater efficiency and prevent revenue loss.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+AKASA Eligibility Denials Resolution
+When Medicaid unwinding goes into effect, there’s no doubt hospitals and health systems will experience an increase in no-shows, failed eligibility checks, and eligibility denials.
+Patient access teams will need to check eligibility upfront to verify coverage, and business office teams will need to track eligibility denials that can be addressed retroactively after patients re-enroll in Medicaid.
+These processes are time-consuming — almost 10 minutes per encounter — and the administrative load will tax already overburdened revenue cycle staff.
+AKASA Eligibility Denials Resolution uses advanced machine learning and revenue cycle experts-in-the-loop to optimize the management of coverage- and eligibility-related denials and improve claims resubmissions for providers. Our automation automatically analyzes in-scope denied claims based on specific CARC codes and takes action by checking insurance, verifying eligibility, and determining how best to resolve the denial. It determines and updates the filing order for coverages and then rebills the payer for the denied claim.
+With AKASA, providers can:
+Accelerate denials resolution: Ensure coverage and eligibility denied claims are resolved in a timely manner
+Lower A/R days and cost to collect: Reduce aged accounts and improve time to payment
+Increase recovery: Rebill and resubmit corrected claims in a timely manner, so you can get paid the appropriate amount faster
+The result: less rework, fewer denials.
+To learn more about how AKASA can help you improve efficiency for your revenue cycle team, schedule a free consultation today.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

@@ -1,0 +1,81 @@
+URL: https://akasa.com/blog/why-prior-auth-needs-generative-ai/
+
+Why Prior Auth Needs Generative AI | AKASA
+Blog
+Why Prior Auth Needs Generative AIYou’ve probably used RPA and AI in your prior authorization workflows before. GenAI is different. It’s a new world. And it’s the future of the revenue cycle.
+Amy RaymondApril 10, 2024
+The Gist
+Technology — and technology vendors — are constantly touting new products and innovations that will revolutionize healthcare. We've all heard it before. But with generative AI (GenAI) that claim is actually true. Unlike RPA and previous forms of AI, GenAI offers unprecedented capabilities. Powered by large language models (LLMs), it is going to have a massive impact on the the revenue cycle and prior authorization. In addition to countless use cases, this technology enables comprehensive analysis of clinical documents for efficient authorization submissions. At AKASA, we're using it to empower prior authorization specialists.
+Blog Contents
+The nitty gritty truth of GenAI
+Why GenAI and why prior auth?
+Why now?
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care has to be administered, bills have to be generated promptly — if anything is late, the whole process falls apart.
+Until now, the timing for generative AI (GenAI) hasn’t been quite right either.
+GenAI is powered by large language models (LLMs), a type of AI that uses deep learning to ingest and learn from immense datasets and then “generate” coherent text and realistic images based on what it’s seen.
+A few years ago — even one year ago — GenAI wasn’t ready for prime time in any industry, including healthcare. But several months ago, I found myself at a conference and overheard a chief product officer at a large tech company say, “LLMs aren’t real. They can’t deliver on any promises yet.” I didn’t want to be the one non-engineer in the room to say, “Actually…”
+Yes, with technology timing is everything. So let me say right here, right now:
+The timing has never been better for GenAI and prior auth.
+The nitty gritty truth of GenAI
+First things first, it’s important to get something clear: GenAI and LLMs are not robotic process automation (RPA).
+It’s common for people to mix up AI and RPA. It’s okay if you have. They both perform tasks — but in drastically distinct ways.
+Think of AI as the tracks, capable of going anywhere. RPA is your simple train cart. It can go forward and backward, whichever direction you program it to go. If there’s a change in plans, if it hits a bump, it’s probably derailing.
+GenAI would be your conductor — but with superpowers. It’s trained on every single book, video, and guide regarding trains available. It knows how to navigate every bump and what tools it needs along the way. If there’s an issue with the engine, it knows what to do. If it doesn’t know what to do, it learns and grows.
+If you’re used to thinking in terms of macros in Excel and are now trying to absorb how your models are suddenly going to start pulling the right patient records and adding evidence-based justifications, there’s no way it seems believable. But it’s true.
+Just because you’ve already integrated rudimentary RPA or even early AI into your workflows doesn’t mean you’ve experienced the magic that is this new wave of advanced GenAI.
+Why GenAI and why prior auth?
+So, where does prior auth fit in to all of this? At AKASA, we’ve prioritized authorization (see what we did there?) for GenAI to make the biggest and most immediate impact on revenue cycle management.
+LLMs and GenAI bring a long-awaited connection across the clinical world of records and patient care to the financial world of auths, outcomes, and claims. They enable software to rapidly and accurately understand large, complex clinical documents (such as chart records) and use the data meaningfully.
+Auth initiation is a workflow that has medical records at its core. Your staff has to review tons of records before determining which ones to submit to a payer. Sending too many may slow down the payer and result in delays. Sending too few may mean missing a critical document and getting a denial or triggering peer-to-peer interactions. Both cause delays in patient care and increased labor costs to resolve.
+We’re currently working with top health systems on GenAI-powered technology for prior auth, demonstrating that it’s incredibly effective at analyzing clinical documents. Our GenAI ingests clinical records and surfaces relevant documents to support the auth.
+Previous solutions didn’t live up to the hype because prior auth has needed something smarter and more flexible. This is the technology that you’ve been waiting for. It helps your staff work both faster and better.
+Everyone agrees you need to use automation to improve auth processes — that’s a given. But why on Earth would you use rule-based document selection when you could instead take advantage of a solution driven by powerful GenAI?
+On average, each prior auth takes 12–20 minutes and involves large chunks of written documentation and medical records. Missing or incorrect records are a leading cause of denials, requiring additional time for staff that don’t have time to spare.
+Why now?
+GenAI isn’t just another technology hidden away on servers, out of sight from prior auth teams. In the same way that you’ve probably used ChatGPT to write an email or churn out a funny poem, prior auth teams can now use GenAI to help with auth submissions.
+Yes, we’re giving your team GenAI superpowers.
+Authorization AdvisorTM is a new tool powered by GenAI that helps prior authorization specialists efficiently and comprehensively complete authorization submissions. It provides an interactive sidebar view of patient details and curated clinical documentation from the EHR, all directly in their workflow on a payer portal.
+Using this technology, we’ve been able to cut the time specialists spend on prior auth by 50% and empower them to find 15% more relevant clinical documents to include in auth requests.
+(Learn 3 Ways AKASA Authorization Advisor Can Help Your RCM Team)
+Like the person at that tech conference some months back, you might be thinking all of this sounds too good to be true. “LLMs aren’t capable of fulfilling their promise yet.”
+Timing is everything in healthcare. And now is the time to embrace GenAI in your prior auth processes. This technology is real. It’s live in health systems. And it’s the future of the revenue cycle.
+Intrigued? See Authorization Advisor in action.
+WRITTEN BY
+Amy Raymond
+Amy Raymond serves as the senior vice president of revenue cycle operations and deployments at AKASA, where she maintains operational responsibility for the production and performance of the firm’s AI-driven automation platform. Across her 25-year career in revenue cycle, Raymond has held several leadership, consulting, and implementation roles. Her industry experience includes tenures at national and regional health systems, as well as numerous care settings and specialties.
+Most recently, Raymond served as a senior leader in the revenue cycle technology vertical at Advisory Board. Her extensive professional expertise includes: end-to-end revenue cycle operations, process redesign/optimization, patient financial experience improvement, technology deployment/adoption, change management, and employee engagement. As a military spouse, Raymond is a passionate advocate for mil-spouse hiring and community support.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

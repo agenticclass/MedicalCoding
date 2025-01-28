@@ -1,0 +1,91 @@
+URL: https://akasa.com/blog/achieving-price-transparency/
+
+Achieving Hospital Price Transparency | AKASA
+Blog
+The Importance of Achieving Hospital Price TransparencyThe CMS Hospital Price Transparency rule aims to help patients, but failure to comply can cost hospitals. Is AI-powered tech the key to achieving compliance?
+AKASA January 16, 2025
+The Gist
+Achieving price transparency in healthcare is a daunting task. Providers struggle with an inability to predict reimbursement amounts for consumers. Patients experience frustration and stress from surprise medical costs. Reputation and ratings tied to client experience are limiting business potential. Penalties resulting from a lack of regulatory compliance are increasing, leaving providers searching for a solution. Advanced AI-powered technology may hold the key to organizing the portals and files necessary to improve price transparency.
+Blog Contents
+The Challenges Clouding Hospital Price Transparency
+Why Price Transparency Is Mission Critical for Healthcare Providers
+The Answer to Price Transparency
+Saving Time with AKASA
+Price transparency is a growing concern for hospitals and healthcare systems.
+The Centers for Medicare & Medicaid Services (CMS) Hospital Price Transparency Rule requires that all United States hospitals publish clear pricing information for all items and services provided. Per the ruling, hospitals must also publish the de-identified minimum and de-identified maximum — the lowest and highest amounts agreed upon between the provider and payer following negotiations. While patients and businesses alike praise the intention behind the rule, compliance is complex and challenging. As a result, many providers are struggling to comply.
+The latest Semi-Annual Hospital Price Transparency Report, released in August 2022, reveals that only 16% of hospitals surveyed met the price transparency requirements of the rule, an incremental increase over the previous period’s 14.3%. These low compliance rates come amidst news that the 2022 maximum noncompliance fines could total more than $2M per provider.
+As technology allows providers to do more with less, the focus needs to shift to patient engagement. Price transparency is a core part of that. Beyond the financial penalties for noncompliance, providers need to think about how providing transparent pricing can reduce stress for patients, drive patient retention, improve patient satisfaction scores, and help attract new patients as well. Not to mention, an improved experience will result in a more pleasant experience for patient access teams, which is critical when it’s so hard to find RCM staff.
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+In the face of hefty penalties, why are healthcare providers struggling to achieve regulatory compliance? This post will examine the challenges hindering hospital price transparency and highlight how the power of automation and AI-powered technology may hold the key to relieving costs across multiple providers.
+The Challenges Clouding Hospital Price Transparency
+Healthcare systems are under constant pressure to provide effective patient care amidst ever-evolving regulatory compliance requirements. Although additional governance has attempted to facilitate the process, providing accurate and transparent healthcare prices to patients remains a complex undertaking.
+Furthering the 2021 implementation of the Hospital Price Transparency Rule, the Transparency in Coverage Rule, effective July 2022, requires health insurers to make public the rates they negotiate with healthcare providers, among other disclosures.
+Between the Hospital Price Transparency Rule and the Transparency in Coverage Rule, the aim to unite regulatory mandates between providers and insurers seemed to be a step in the right direction.
+However, despite regulatory pressure on both providers and payers, the required expertise in EDI data, chargemaster and discounted price data, managed care contracts, and complex software engineering is leaving many providers overwhelmed when trying to drill down to the correct cost of their services.
+Only 37.9% of hospitals assessed in a recent study had posted a sufficient amount of negotiated rates in accordance with the rule. Over half of the surveyed providers were non-compliant with other criteria, such as listing rates by health insurance company and named plan.
+The multi-step price discovery process is hampering transparency. Providers are required to collect information from patients, submit coverage requests, and bill their services, while assuming that the coverage amounts are accurate and honorable by the insurer.
+Other significant barriers to surprise medical bills and hospital price transparency that contribute to a poor patient experience include:
+The inability to predict reimbursement for various providers of contracted clinical services who participate in procedures (i.e., anesthesiology)
+Limited resources and staffing to support patient financial counseling
+Delayed or erroneous responses from payers on eligibility inquiries
+Inaccurate or insufficient information collected during the patient registration process
+Compounding the pressure on providers, CMS doubled down on the Price Transparency rule in 2022, upping the maximum fine to $5,500 per day (or $10 per bed per day) for each noncompliant hospital. The amount marks an increase that is 18.33x higher than 2021’s penalties.
+Last summer, CMS issued penalties to two hospitals in Atlanta’s Northside Hospital system that failed to update their websites or reply to warning letters from the agency.
+While financial penalties exist for providers, there’s also the patient experience at stake where price transparency is concerned.
+Why Price Transparency Is Mission Critical for Healthcare Providers
+Holding hospitals and healthcare providers accountable means providing access to the information patients need to make informed decisions regarding their healthcare. The financial security and low-hassle resolution of a price-transparency model could go a long way toward rebuilding trust in any health provider for the payer.
+KFF reports that 67% of American adults are worried about surprise medical bills. Fear of the unknown — sizeable copays, hospital charges, and other out-of-pocket costs — keeps patients from seeking medical attention and could potentially impact the quality of care someone receives. The study notes that 18% of emergency room visits result in at least one surprise bill, although rates vary across states.
+Plus, 35% of people would forgo seeking medical care for themselves if they didn’t have pricing information. And this avoidance of care spreads to others, as well — another 18% said a lack of pricing information would deter them from seeking care for dependents.
+Delaying care impacts the well-being of the patient and their dependents, prevents your organization from generating revenue, and can result in more complicated and costly medical scenarios down the road for those avoiding care. With self-pay patients less likely to pay after $7,500, higher medical bills are a loss for patients, providers, and payers alike.
+But barebones price transparency isn’t always enough, either. Pricing can still confuse patients, making it important that organizations provide additional support to help patients fully understand pricing before a procedure or service.
+A new AKASA-commissioned study found that nearly 40% of Americans are confused by medical bills. They are frustrated by trying to understand what they’re being billed for, the uncertainty if they can pay the bill, not getting billed until weeks after they receive service, and more.
+Providers need to raise awareness about their offerings among consumers. A shocking 80% of uninsured Americans said they don’t know about financial resources such as payment plans or financial assistance for medical bills. And only 36% of adults have even researched prices for healthcare services.
+These results show that medical billing is still a black box to patients. The onus is on healthcare organizations — both providers and insurers — to make medical billing less painful for patients, who may fear going into debt and avoid seeking care.”
+~ Amy Raymond, VP of Revenue Cycle Operations at AKASA
+The Answer to Price Transparency
+For hospitals and healthcare providers, investment into digital tools that remove the fog associated with price transparency can help engage patients, improve relationships, and ultimately attract more business. For example, 12% of consumers said an online calculator would be helpful in determining cost ranges for care.
+And payers need to do their part as well to take proactive price transparency measures and support the patient financial experience. A recent study commissioned by AKASA found that out of the patients who have researched healthcare service prices, 60% would look to health insurance companies for pricing.
+The Healthcare Price Transparency rule requires providers list prices in a clear, accessible manner for patients. This requires both a machine-readable file, as well as a consumer-friendly, shoppable online services portal. An online portal requires more lift, but some providers will assist with machine-readable files.
+For example, Blue Cross Blue Shield offers access to state-specific machine-readable files to download, aiding healthcare services in their efforts to improve price transparency. But, payer-specific files like these are large and could be difficult for some providers to manage.
+Even with payer assistance, there’s still the matter of providing an online portal. This requires extensive developer work, along with the task of maintaining up-to-date pricing information in the portal. Both tasks eat up a sizable chunk of time and effort.
+Fortunately, the right healthcare technology can streamline other efforts, freeing your team up to tackle price transparency.
+Saving Time with AKASA
+Focusing on price transparency takes time. Time your team likely doesn’t have. Fortunately, the generative AI-powered platform from AKASA can help you streamline countless RCM tasks, from prior auth to claims to medical coding. This can free up valuable time and enable your team to focus on price transparency, for the good of your organization and your patients.
+Price transparency should be a focus for providers everywhere. Not only because it prevents costly fines, but because it provides peace of mind for patients and makes your organization more attractive and trustworthy to prospective patients. And by providing price transparency, you’re enabling patients to apply for financial assistance ahead of time if necessary, and ultimately increase the chances your organization gets timely payment. Everyone wins.
+~ Amy Raymond, SVP of Revenue Cycle Operations and Deployments
+To learn more about how we can help your RCM team find more time, schedule a free consultation today.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

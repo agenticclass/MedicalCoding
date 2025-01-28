@@ -1,0 +1,115 @@
+URL: https://akasa.com/blog/cost-of-doing-nothing/
+
+Waiting to Deploy RCM Automation Is Costing Your Health System | AKASA
+Blog
+Waiting to Deploy RCM Automation Is Costing Your Health SystemWhat is the cost of doing nothing?
+AKASA June 12, 2024
+The Gist
+The majority of hospitals and health systems have deployed RCM automation, but some remain uncertain. However, with staffing shortages, rising costs, and an increase in denials, waiting is no longer an option. Organizations must consider the real cost of doing nothing, re-think their strategies, and look to innovative generative AI-powered solutions today.
+Blog Contents
+1. Lost Revenue
+2. Increased Denial Rates
+3. Inferior Patient Experience
+4. Workforce Challenges
+5. Growing Complexity
+6. Inexperience With AI
+AI Automation Adoption: Here and Now
+About 78% of health systems are currently using or are in the process of implementing automation in their revenue cycle operations — up 12% from the previous year, our survey found. AI-powered automation is the future.
+What’s holding the rest of the industry back?
+Operating costs are high, and although margins are rebounding, they’re still at historic lows. Add to that ever-changing payer rules, increasing complexity, workforce challenges, and a greater emphasis on the patient experience and innovation — and automation is a must.
+We’re having to pull every lever we can think of…right now. My big concern is that what we’re seeing is never going to fully go away. Going forward, we’ve got to be able to do more with less in the revenue cycle.
+~ George Ann Phillips, Administrative Director for Revenue Cycle at University Health Care System
+Healthcare organizations that aren’t yet on board with generative AI (GenAI) tools may not understand the real cost of doing nothing — and the effects that inaction has on the revenue cycle and the patient journey. Many see technology as a short-term solution with a narrow focus on specific revenue cycle processes — rather than a holistic solution with the potential to add innovation and efficiency to day-to-day work and drive significant improvements in the patient financial experience, all while enhancing the organization’s bottom line.
+The reality is that automation is a long-term investment that pays dividends for years to come. Organizations can’t afford not to go all-in.
+~ Amy Raymond, SVP of Deployments and Revenue Cycle Operations at AKASA
+For organizations not yet on board with these innovations, or those taking a wait-and-see approach, inertia is no longer an option. The challenges facing the revenue cycle aren’t going away. We can’t ignore them.
+If you haven’t gone all-in on automating your revenue cycle, here’s what it’s costing your organization. This is the cost of doing nothing.
+1. Lost Revenue
+Between inflation, labor costs, and rising drug expenses, hospitals and health systems are up against financial challenges at every turn — and the revenue cycle is no exception.
+Cost-to-collect is an ongoing challenge, with more than 38% of healthcare financial leaders reporting an increase of 0.1-0.3%+, our research found.
+Prior authorizations, which  most physicians say have increased in the past five years, are another cost driver. Our research shows prior authorizations take more than 12 minutes on average to complete, making them the second most time-consuming RCM task cited by healthcare financial leaders.
+Additionally, 37% of receivables are aged over 90 days, directly affecting the cost of care and the time it takes for staff to process claims.
+AI-powered automation can streamline prior authorization processes, including identifying requirements and submitting and tracking prior authorization requests.
+Plus, it saves you money in the long run. Research has found that deploying automation and analytics (particularly in RCM) could eliminate $200 billion to $360 billion of healthcare spending in this country.
+Nebraska Methodist Health System worked with AKASA to automate claim status, contributing to a $30 million gross yield increase for the organization.
+What could your organization accomplish with extra revenue?
+2. Increased Denial Rates
+Claim denial rates are one of the most significant challenges of the revenue cycle, leading to lost revenue and increased time for rework.
+In fact, 89% of hospital and health systems have seen an increase in claim denials over the past three years, and 51% said the increase was “significant,” a 2020 report by the AHA found.
+The loss from denial write-offs is substantial: between 1% and 4% of NPR, according to the Advisory Board.
+Fortunately, 82% of denials are potentially avoidable. Automation reduces variability and increases the robustness of front-end workflows, resulting in cleaner claims and fewer denials. It also reduces costs associated with rework and increases denials overturn rates. Less time spent on denials management frees up staff to focus on high-value work.
+Automation brings consistency, accuracy, and timeliness to RCM, enabling hospitals and health systems to improve the efficiency of their operations.
+~ Amy Raymond, VP of Deployments and Revenue Cycle Operations at AKASA
+What would your organization look like with fewer denials?
+3. Inferior Patient Experience
+With the continued shift to healthcare consumerism and value-based care, hospitals and health systems are focusing on improving the patient experience — an indication of quality that impacts outcomes, patient retention, and referrals.
+The patient financial experience, however, is one area that is often overlooked.
+Inaccurate medical bills are responsible for $88 billion a year in consumer medical debt, according to a report from the Consumer Financial Protection Bureau. And more than 40% of consumers are unsatisfied with their provider billing experiences — so much so that nearly the same number (37%) won’t pay their bills if they can’t understand the administrative experience, one survey found.
+Financial leaders must re-think the revenue cycle as a front-end function rather than a back-end process. Automation helps prevent surprise medical bills and eliminates much of the tedious work, freeing up revenue cycle specialists to become patient advocates, provide financial counseling, and improve the overall patient financial experience.
+~ Amy Raymond, VP of Deployments and Revenue Cycle Operations at AKASA
+Would your patients appreciate a better experience?
+4. Workforce Challenges
+Competition for talent, employee burnout, and rapid turnover are among the most significant — and costly — challenges healthcare financial leaders face today, our research found.
+Plus, replacing a senior-level revenue cycle employee costs more than $5,000. And the time it takes to fill a senior-level role is 207 days, on average.
+With GenAI-powered solutions, repetitive, manual, and time-consuming tasks are eliminated, allowing revenue cycle staff to focus on more complex, high-value work. Automation empowers staff to work at the top of their skill sets, gain additional skills, and be more productive, engaged, and happier in their roles.
+Providing opportunities that allow employees to grow and advance in their careers and help them feel that they’re contributing to the organization as a whole can make recruitment efforts easier, reduce turnover, and improve engagement and retention.
+How could your workforce be transformed?
+5. Growing Complexity
+With ever-changing payer rules, reimbursement processes, compliance protocols, and portals, healthcare operations are becoming increasingly difficult for revenue cycle teams to navigate.
+Increased prior authorizations, denials, and cost-to-collect are impacting organizations financially and burdening staff with growing workloads.
+Something needs to change. Take a look at your workflows and organization. Where can you streamline processes? What are you doing because “that’s how it has always been done?” How could your people be using GenAI-powered tools? Improved processes mean greater efficiency, less waste, and increased revenue. It can allow organizations to stay on top of payer rules and compliance demands.
+Revenue cycle challenges haven’t changed in decades. How do we reduce churn, increase productivity, and drive down denials? What we’ve been doing isn’t working anymore. It’s clear that we can’t do everything by shuffling the same processes around or by hiring more people. The answer has to be automation. We must slot automation everywhere we can to make us all stronger. We need to think about all those same decades-old conversations and how automation fits into them.
+~ Amy Raymond, VP of Deployments and Revenue Cycle Operations at AKASA
+If you’re not using AI in your revenue cycle, you’re costing your organization valuable resources. AI-powered automation is an effective solution for driving efficiency, streamlining processes, curbing costs, and addressing staffing challenges.
+But leaders can’t wait.
+Now, with the emergence of gen AI technologies, health systems are at risk of missing an early window to set the stage to realize value from it in administrative processes unless they reconsider their approach.”
+~ McKinsey
+How might your operations be improved?
+6. Inexperience With AI
+About 75% of healthcare leaders believe generative AI has reached a turning point in its ability to reshape this industry.
+Artificial intelligence is here for good. It’s the new normal. All industries must strategize how to use this technology to create efficiency and reprioritize people and processes. Especially healthcare.
+Read more about the future of AI and automation in healthcare.
+It takes time to build internal competency and understanding of how AI-based automation works and how to integrate it into your revenue cycle teams — and throughout your entire system. If you haven’t started yet, you risk falling behind in the long term. The sooner you start, the sooner you’ll see results. These advanced technological skills will be required for your workforce, so help your team by training them on these skills now and reaping the many benefits.
+Healthcare organizations that lack competency with AI will continue to struggle with rising costs, increased complexity, staffing challenges, and inefficiencies. Without AI, efforts to improve the quality of care and the patient experience will suffer, and long-term profitability will be at stake.
+How could AI help your team be more efficient?
+AI Automation Adoption: Here and Now
+The challenges facing the revenue cycle aren’t going away anytime soon. Financial leaders can no longer look the other way and simply stay the course. Doing nothing will have long-term effects on an organization’s economic performance.
+Health systems truly committed to improving outdated processes, reducing costs, and providing a better patient experience must reconsider their strategies and look to AI-powered automation solutions. While GenAI applications in RCM are emerging, considering these solutions now will enable organizations to have an advantage when they become available.
+As with any business decision, moving forward with automation requires commitment and investment. It’s a bold decision. But a crucial one for leaders. Automation is no longer a matter of ‘if” but ‘when.’ The quicker healthcare organizations get on board with automating their revenue cycle, the quicker they’ll realize the value.
+~Amy Raymond, VP of Deployments and Revenue Cycle Operations at AKASA
+AKASA leverages the latest GenAI technology to deliver revenue cycle solutions that bring efficiency and revenue opportunities to your organization. We can help you do more with less. And avoid the cost of doing nothing. Want to learn more? Let’s chat.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

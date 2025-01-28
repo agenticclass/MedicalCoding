@@ -1,0 +1,44 @@
+URL: https://akasa.com/press/roi-measurement-for-rcm-automation/
+
+Limited Vendor Support, Lack of Best Practices Hamper ROI Measurement for RCM Automation | AKASA
+Press
+Limited Vendor Support, Lack of Best Practices Hamper ROI Measurement for RCM Automation
+New survey of more than 550 healthcare financial leaders finds wide variability in how, when, and what is measured for ROI; current approaches fail to capture the full scope of RCM automation impact
+South San Francisco, Calif. – November 15, 2022 – AKASA™, the leading developer of AI for healthcare operations, released a new survey highlighting inconsistency across healthcare providers when it comes to who is responsible for ROI measurement on automation in the revenue cycle and for how often ROI is measured.  The findings highlight limited involvement from vendors and a lack of industry best practices on ROI measurement for RCM automation.
+Of healthcare financial leaders who use automation, they were asked, “Do you actively calculate your return on investment (ROI) on the tools you use to automate the revenue cycle?”
+32.7% said they calculate ROI on RCM automation in-house
+7.4% said their RCM automation vendor calculates ROI
+51.9% said they don’t calculate ROI, but instead focus on other KPIs (i.e. days in AR)
+8% said they don’t measure for ROI on RCM automation
+Healthcare financial leaders were also asked about how often ROI on RCM automation is measured: “How often is ROI calculated on RCM automation?”
+34.7% said they measure RCM automation ROI monthly
+26.4% said they measure RCM automation ROI quarterly
+6.6% said they measure RCM automation ROI semi-annually
+14% said they measure RCM automation ROI annually
+18% chose the “Other – Write-in” option on the frequency of ROI measurement
+Responses for the “Other – Write-in” option include the frequency of ROI measurement will be determined once automation is fully implemented within the revenue cycle and also on an as-needed basis.
+“One key finding that stood out to me is how little vendors seem to be involved in ROI measurement for revenue cycle automation,” said Amy Raymond, VP of revenue cycle operation at AKASA. “The status quo is unacceptable. Measuring ROI is a team sport — vendors should be an extension of whatever hospital or health system they’re working with and take an active role in ROI measurement to help providers capture the impact of RCM automation.”
+​​”This survey really highlights that healthcare financial leaders are struggling with who or where to turn on ROI measurement,” said Raymond. “There’s a significant gap in the market for guidance and frameworks on how to get ROI right. As health systems mature in their automation journey, the current understanding of ROI falls short as a sole measure of success. Part of this is that not all metrics are easy to measure upon implementation — specifically those that examine the impact on the workforce or patient financial experience. There is a clear need for a new form of assessment — one that holistically looks at Total Value.”
+Health systems are at a turning point and need a new measurement strategy — one that assesses the full impact of automation. As it’s measured today, ROI is a cost replacement metric that either includes too many metrics to be meaningful or fails to account for the full impact of revenue cycle automation and AI.
+In research commissioned by AKASA, the Healthcare Management Academy created a framework for unlocking the Total Value of revenue cycle automation and capturing the full scope of ROI. The Total Value approach provides a holistic roadmap for leaders to capture both hard ROI and harder-to-measure soft ROI metrics on productivity, patient financial experience, and the workforce.
+To learn more, download the new report, “The Right ROI: Measuring Total Value of Automation in Revenue Cycle Management.”
+Commissioned by AKASA, the survey fielded responses from 556 chief financial officers and revenue cycle leaders at hospitals and health systems across the United States through the Healthcare Financial Management Association’s (HFMA) Pulse Survey program between July 8, 2022 and August 2, 2022. The national survey was designed to assess the adoption of automation in revenue cycle operations at hospitals and health systems across the U.S.
+About AKASA
+AKASA is the leading developer of AI for healthcare operations. AKASA scales human intelligence with leading-edge AI and ML securely trained on customer data to learn unique systems, continuously adapt to changing environments, and deliver comprehensive automation and analytics for complex workflows. The result is a seamlessly integrated, customized solution that reduces operating costs, frees up staff to do the work they love, and helps health systems allocate resources to where they matter most. AKASA has a work-from-anywhere attitude and we are hiring. Step into the future of healthcare with AKASA. Learn more at AKASA.com.
+You May Also Like
+Press
+Sep 26, 2023 Denials Management Emerges as Area of Focus For Revenue Cycle Automation
+South San Francisco, Calif. — Sept. 26, 2023 — AKASA, the leading developer of AI for healthcare operations, released...
+READ MORE
+Press
+Dec 16, 2022 Nearly 40% of Americans Confused by Medical Bills
+Survey finds uncertainty around what patients are being billed for as most frustrating; providers and insurers can take steps...
+READ MORE
+Press
+Nov 15, 2022 Limited Vendor Support, Lack of Best Practices Hamper ROI Measurement for RCM Automation
+New survey of more than 550 healthcare financial leaders finds wide variability in how, when, and what is measured...
+READ MORE
+Press
+Sep 15, 2022 Survey: Cost-to-Collect Nearly .25% Lower for Hospitals and Health Systems That Leverage Automation in the Revenue Cycle
+Nearly 40% of organizations say their cost-to-collect has increased over past year South San Francisco, Calif. – September 15,...
+READ MORE

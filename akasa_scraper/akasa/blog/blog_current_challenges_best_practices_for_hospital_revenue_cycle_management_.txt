@@ -1,0 +1,96 @@
+URL: https://akasa.com/blog/current-challenges-best-practices-for-hospital-revenue-cycle-management/
+
+Hospital Revenue Cycle Management | AKASA
+Blog
+Current Challenges and Best Practices for Hospital Revenue Cycle ManagementMuch of healthcare revenue cycle management remains unchanged. But new technologies are paving the way toward a more streamlined RCM approach.
+AKASA August 07, 2022
+The Gist
+Hospital revenue cycle management is continuously being transformed through new technologies, especially ones that enable the automation of key RCM processes like denials management and payer follow-up. AI and machine learning are at the leading edge of this RCM automation, offering substantial advantages over RPA.
+Blog Contents
+The Current State of the Hospital Revenue Cycle
+The Hospital Revenue Cycle: 3 Opportunities for Improvement
+Rethinking Approaches to Hospital Revenue Cycle Management
+AI and Machine Learning in Hospital Revenue Cycle Management
+Hospital revenue cycle management (RCM) is a fundamental pillar of how every hospital operates. RCM consists of interdependent functions between financial, clinical, and technology disciplines to support all patient intake, claims processing, and reimbursement, and is critical to the long-term stability of the hospital and its ability to deliver care to the community.
+The Current State of the Hospital Revenue Cycle
+Today’s healthcare revenue cycle has shifted significantly, as regulations have been updated, patients’ share of cost and financial responsibility has risen, and events like the COVID-19 pandemic have increased the urgency of revitalizing revenue cycle management with deeper, more scalable automation.
+To see why such advanced revenue cycle automation is increasingly needed, consider the long-term rise in claims denials.
+A June 2021 survey of hospital executives from research firm Harmony Healthcare found that the rate of these denials had risen 20% since 2016. One-third of hospitals also reported a denial rate of at least 10%. This survey underscores how a set of antiquated revenue cycle management practices are still impeding efficient revenue generation.
+Read more about why claims denials are on the rise.
+Automation is the present and future of the revenue cycle. Strategic organizations are implementing effective automation in order to truly optimize RCM processes, increase efficiencies, and lower the cost to collect through consistent and optimal execution of workflows.
+~ Amy Raymond, VP of revenue cycle operations at AKASA
+But where can automation have the most significant impact on hospital revenue cycle management? Let’s explore some specific weak points in the revenue cycle and what can be done to address them.
+The Hospital Revenue Cycle: 3 Opportunities for Improvement
+Even as the healthcare revenue cycle itself has changed, the tools and practices for managing it haven’t always been implemented or optimized accordingly.
+For instance, an AKASA-commissioned report revealed that a third of hospitals and health systems did not use any revenue cycle automation. No automation — or insufficient automation — means that revenue leaders continue to incur the costly and age-old limitations of manual hospital revenue cycle management when trying to:
+1. Predict claims denials and curb rework
+Each denial represents not only lost revenue but lost time, too. In addition to the initial work preparing a claim — only for a payer to then deny it — there’s the prospect of costly and time-consuming rework as well. This rework costs hospitals an average of $118 per claim. This duplicative administration drains dollars and energy from a healthcare organization.
+On the bright side, over 85% of denials are avoidable in theory. And even for denied claims, more than 60% of them are reworkable with the right tools, despite only a minority of all denied claims ever getting reworked. More automated and intelligent denial management is the key.
+Best Practice: Integrate artificial intelligence (AI) and machine learning (ML) solutions for automatically predicting denials beforehand, sparing healthcare organizations from onerous rework.
+Learn about AKASA’s ​​deep learning-based system that successfully predicts whether, when, and how much a payer will pay for a given hospital expense or claim.
+2. Streamline the front end of the revenue cycle
+Many denials stem from issues with front-end revenue cycle processes, like patient registration and eligibility. These problems account for over one-quarter of denials, and it is easy to see why.
+Front-end staff has to complete repetitive manual tasks (like recording a patient’s name) for relatively low pay — all while managing the disruption from a steady stream of patient interactions. Errors are frequent.
+One long-term study of front-end processes in a hospital emergency department traced many errors back to registration, including wrong addresses and medical record numbers. Intelligent automation, supported by human experts as needed, can perform these RCM system tasks more accurately.
+Best Practice: Drive patient eligibility directly off of insurance cards through automated capture and management of the information involved using AI and ML solutions.
+3. Follow up with the payer
+Over time, denied and otherwise unpaid claims — whether they originate from front-end or back-end processes within hospital revenue cycle management — pile up and stifle cash flow. Escaping this cycle requires efficient A/R processes for:
+Appealing and resubmitting claims, e.g. claims denied for technical reasons or claims not on file with payers
+Following up on accepted but no-response claims and intelligently determining next steps
+Pulling relevant, accurate information from EHR and medical billing systems along the way
+Best Practice: Automated resubmission and checking of the payer portal — powered by AI and ML processes that observe RCM system workflows, learn from them and defer to human experts in the loop as necessary.
+Rethinking Approaches to Hospital Revenue Cycle Management
+Overall, implementing the above best practices requires automation that can systematically handle tasks across the front, middle, and backend of the revenue cycle. Such automation can replace the numerous hospital revenue cycle management activities that are still manual, as well as those that are only nominally automated through robotic process automation (RPA).
+The problem with RPA in healthcare revenue cycle management
+Consider the case of a hospital that has moved on from its previous exclusive reliance on a revenue collection team, which would constantly follow up with a payer via phone. Instead, it has implemented RPA in hopes of automating parts of its revenue cycle.
+An RPA bot is set up for each payer and corresponding workflow. This bot can perform some basic actions, like clicking on a field on a payer portal. But if anything changes in that path, even something as minor as the spacing of website components, the bot can break and require costly maintenance to correct.
+In other words, basic RPA doesn’t scale, nor does it adapt to dynamic revenue environments, since it doesn’t use AI, ML, and human experts to learn and complete complex workflows for billing and claims management.
+Relying on it to remake the revenue cycle often brings hospitals back to square one, with a high cost to collect and difficulty adapting to changes in regulations and payer operations.
+How can a healthcare organization reduce its cost to collect?
+Collecting revenue more efficiently necessitates a move beyond both staff-intensive workflows and costly RPA implementations. The Advisory Board has estimated that the average provider still has ample room to reduce its cost to collect from the industry median of 3% of net patient revenue.
+Capitalizing on this opportunity is straightforward, with automation built on AI and ML and designed to adapt and scale. Automation enables effective revenue cycle management that isn’t fragile or a maintenance burden like RPA.
+AI and Machine Learning in Hospital Revenue Cycle Management
+AI and machine learning are how AKASA built Unified Automation®, its platform for proactively and autonomously navigating medical reimbursement. It helps optimize hospital revenue cycle management through a more intelligent and robust approach to tasks at every stage of the revenue cycle process. Unified Automation can:
+Comprehensively observe existing revenue cycle workflows
+Learn from those workflows, fixing any broken ones and building others that couldn’t be scripted by hand
+Perform tasks directly within the same medical billing systems as staff
+Defer to human judgment to handle outliers, and then learn from those incidents
+Do all of the above without requiring numerous consultants
+Our tool takes the noise out of the revenue cycle for your staff, so they can focus their attention on the claims and workload that needs a human touch.
+~ Amy Raymond, VP of revenue cycle operations at AKASA
+Set up a demo to see how AKASA and Unified Automation can improve your healthcare revenue cycle management process.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

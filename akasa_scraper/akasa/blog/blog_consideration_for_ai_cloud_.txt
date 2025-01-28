@@ -1,0 +1,95 @@
+URL: https://akasa.com/blog/consideration-for-ai-cloud/
+
+Considerations for Machine Learning and Cloud in Healthcare | AKASA
+Blog
+Considerations for Successfully Leveraging AI and the Cloud: AKASA and AWS WebinarCloud computing's given organizations access to powerful computing without the cost and maintenance of on-site equipment. Coupled with AI and virtually anything's possible.
+Varun Ganapathi, Ph.D.January 22, 2025
+The Gist
+Cloud computing allows businesses to utilize virtually limitless computing power without the cost and maintenance of on-location equipment. Artificial intelligence (AI) also allows for businesses to grow in capability, doing more with less as AI and large language models (LLMs) increase worker productivity. Now, the two technologies are converging, and AKASA is here to break down what this looks like and what it means for both cloud computing and AI.
+Blog Contents
+Where to Start With Automation, Machine Learning, and the Cloud
+Machine Learning for the Healthcare Revenue Cycle
+Cloud Infrastructure: Moving Healthcare Technology Forward
+The following content first appeared on October 20, 2020 when AKASA hosted a discussion with AWS exploring the benefits of machine learning and cloud computing for health care revenue cycle teams.
+There are few technologies that have been so quickly adopted as cloud computing and artificial intelligence (AI) in recent years. The sudden need for remote work across so many industries in 2020 has only amplified the role of these technologies. Against that backdrop, AKASA hosted a webinar discussing the confluence of these technologies on October 20 entitled “Extending the Benefits of the Cloud to Healthcare Revenue Cycle Operations: Considerations for successfully leveraging AI and the Cloud.”
+Amy Raymond, SVP of revenue cycle operations and deployments at AKASA, and Varun Ganapathi, CTO and co-founder of AKASA, joined Dr. Jared Saul, Amazon Web Services (AWS) Global Head of Healthcare + Life Sciences Startups and Investors. The three held a conversation around how a cloud-based approach to revenue cycle automation can help healthcare systems create a more resilient and nimble business office.
+Businesses of all sizes and from every industry, including healthcare, have come to understand the benefits of embracing a cloud approach to computing, from immediate access to massive computing power to IT infrastructure costs that scale in alignment with business activity.
+We know denials are a top issue, but what is the root cause of most denials? Registration and Authorization related denials. Therefore, we start up front: Let’s focus on fixing the problem at its root by implementing technology that gets it right up front and avoids denials.
+~ Amy Raymond – VP of Revenue Cycle Operations at AKASA
+Where to Start With Automation, Machine Learning, and the Cloud
+As revenue cycle stakeholders come to understand AI and machine learning (ML), questions inevitably arise regarding certain types of automation technologies and how they can apply across the revenue cycle.
+Those questions can be addressed by a topic she frequently discusses: the top priorities for revenue cycle automation, and automation in healthcare.
+Knowing where to start is often the most difficult part and, taking into account the complexity of each revenue cycle task, the current resources dedicated to it, and the role it plays in supporting the reimbursement process, she cited four main areas:
+Eligibility driven off insurance cards
+Prior authorization Initiation and status checking
+Follow up to no response claims
+Denials management: technical rebills, appeals, and write offs
+“We know denials are a top issue, but what is the root cause of most denials? Registration and Authorization related denials,” Raymond said. “Therefore, we start up front: Let’s focus on fixing the problem at its root by implementing technology that gets it right up front and avoids denials.”
+Following denials, the next bucket of issues is claim status. While claim status processes are typically routine and quick, issues still arise, making this frequent task a time-consuming one for revenue cycle teams.
+Working follow up to no response claims quickly and efficiently allows your team to more appropriately focus their efforts on claims remediation requiring higher skill levels and more quickly direct their focus to correcting payer information, resubmitting claims that are not on file, or providing necessary requested information to payers, to avoid timely filing denials.
+~ Amy Raymond, VP of revenue cycle operations at AKASA
+Denials still need to be addressed depending on which processes are employed up front, so it’s important to use a technology that can understand denials by payer requirements, and make determinations on next steps for the claim, whether that be a technical rebill, appeal, or write off.
+Automation, when done well, can increase productivity and efficiency, while providing higher quality and consistency, Raymond said. It can also yield overall improvement in performance metrics, decreased cost to collect, and increased job satisfaction and engagement by allowing staff to focus on more challenging work needing their level of skill sets.
+“At AKASA we developed Unified Automation®, to do just that,” Raymond said. “Bringing together the best of AI and ML together with our team of revenue cycle experts, to ensure hospitals and health systems of all sizes are realizing the benefits of automation across the revenue cycle.”
+Machine Learning for the Healthcare Revenue Cycle
+Ganapathi began the next portion of the Webinar with a breakdown of AKASA’s  Unified Automation.
+“Our approach unifies proprietary machine-learning technologies with human judgment and expertise in healthcare revenue cycle operations,” Ganapathi said. “It starts with observation: we start by seeing what the staff is doing and the steps they’re taking according to the company’s processes.”
+Then the AKASA system discretizes this data to train its machine-learning algorithm in the “Learn” phase. “Our algorithms then automatically construct complex flows that would be impossible to script by hand,” Ganapathi noted. “Our model also identifies broken workflows and corrects them, often eliminating unnecessary work.”
+Lastly, the system autonomously performs tasks within the revenue cycle function 24/7. “It automates full functions and quickly takes on new tasks over time.  If complexities or exceptions arise, AKASA’s teleops team of revenue cycle management (RCM) experts are notified to triage the problem and resolve it in real-time while the system learns from their actions,” Ganapathi said. Continuous learning and human judgement are built in.
+“Our automation and business model match the benefits of Cloud in many ways,” he added.
+Increasing staff productivity by eight to 14 times decreases the cost to collect.
+Cost restructuring enables business to move from capital expenses to operational expenses, automatically scaling costs to match actual demand.
+Business continuity is facilitated by resources that can perform continuously regardless of eternal variables “such as the current pandemic we’re all facing,” Ganapathi noted.
+To punctuate his point, Ganapathi presented some numbers to demonstrate the ability to rapidly scale up or down. “In early March, we saw a 56% increase in work demand at one of our customers,” he noted. “AKASA’s Unified Automation immediately scaled up to absorb and complete this additional work. Replicating this rapid and low-cost response without automation would have been impossible.”
+That will continue to be an important consideration, Ganapathi added, as unpredictable work volumes persist over the next 12 to 18 months due to the effects of COVID on census and volumes for outpatient care.
+“Patients and procedures will likely return in waves,” Ganapathi said. “These surges will likely be interrupted by localized outbreaks of the virus as social distancing guidelines ease. In an environment that is more volatile than usual, traditional staffing approaches will leave organizations either understaffed or overstaffed”
+In Ganapathi’s view, Unified Automation is the only solution that can plug in and fill these sudden gaps as they materialize. To support his perspective, he provided an example where staff output fell by ~40% during the onset of COVID-19, but the bot output saw minimal variance. “In fact, in the last week of March, the Unified Automation performed the work of greater than 14 highly productive FTEs,” he said. “The takeaway is that true automation– not brittle robotic process automation (RPA) bots– will provide an operational fail-safe during a crisis, enabling leaders to focus precious attention on the bigger picture.”
+Cloud Infrastructure: Moving Healthcare Technology Forward
+Dr. Saul carried over the themes of resilience and flexibility to ensure business continuity. “Growth feels great but you need to have elasticity to scale up and down as needed,” Dr. Saul explained. “There are all kinds of capacity and economical implications of scalability– and the cloud provides that scalability.”
+AWS is a cloud-providing platform with different layers of computing, storage, database services, networking, and baked-in security and compliance. It’s also scaled across the globe with redundancy built-in. And a key characteristic for healthcare organizations is the certifications AWS has with virtually every regulatory agency across the globe, including being HIPAA compliant.
+“In terms of regulatory compliance, security and privacy are priority zero,” Dr. Saul said. “Everything is built with that top of mind. Healthcare thinking has changed where there used to be apprehension for putting data on the cloud, but that’s given way as physical controls like CD ROMs and printouts have become obsolete.”
+That sets the table for healthcare organizations to employ AWS’s substantial set of capabilities.
+“We have a really sophisticated set of services; if you want to tinker you can do that,” Dr Saul said. “You can also get benefits of machine learning without all of the expertise needed. The result is that you can ingest larger volumes of data and the cloud is uniquely suited for that task.
+“Once you’ve trained a model and are deploying it there are tools and processes to make it nice and seamless,” he added.
+On-demand elasticity is a key feature of the cloud. “In the past, in data center models, you had to think about capacity needs and provision more to handle spikes and surges,” Dr. Saul explained. “It was brittle, didn’t allow for experimentation, and new hardware took time to install. In the cloud, it’s part of the deal. You can scale up and down to smooth spikes and troughs in needs.”
+When asked about the financial benefits of the cloud during the Q&A portion of the presentation, Dr. Saul immediately referenced economies of scale. “With that elasticity we talked about, you only pay for what you use,” he explained. “Early on, you operate for almost no cost. As you grow, the costs correlate.”
+There were similar themes in Ganapathi’s reply. “There are essentially the same benefits to our system: you can scale up and down as needed,” he said. “We can provide access to experts as you scale. We manage it behind the scenes and provide automation at the same time. The customer gets good cost-value as well as good latency as you scale. Our capacity size is exactly to your need.”
+When asked which fields in healthcare stand out as particularly well-suited for the cloud, Dr. Saul replied that “anybody that is using computer data is well-suited to the cloud. The alternative is hosting it on servers. And there are workloads suited to cloud-only capabilities like massive parallel computing and massive data analysis. Claims, genomics, or trying to find the signal in all that data along with actionable insights. That was largely not accessible to people until cloud computing came to be.”
+WRITTEN BY
+Varun Ganapathi, Ph.D.
+Varun Ganapathi, Ph.D., is the chief technology officer and co-founder of AKASA. His passion is developing novel algorithms to power great products, with a focus on healthcare and improving the patient experience. Ganapathi has a bachelor’s in physics and an M.S. and Ph.D. in computer science from Stanford University. During his time at Stanford, he focused on machine learning and computer vision. His doctoral thesis was the basis of his first company, Numovis, which was acquired by Google. After his time at Google as a research scientist, Ganapathi went on to create Terminal.com, which was acquired by Udacity.
+You may also like
+Blog
+Feb 20, 2024 How the AKASA Engineering Team Created an Automation Solution for Database Migrations
+AKASA builds products and tools to improve the various components of revenue cycle management (medical billing) for hospital systems....
+READ MORE
+Blog
+May 1, 2023 ChatGPT and Healthcare: Exciting Potential That Needs To Be Channeled
+Recently I heard that as a fun exercise, the security officer at one of our healthcare clients tried asking...
+READ MORE
+Blog
+Jun 12, 2023 Overcoming the Top 3 Challenges Holding Back Healthcare Innovation
+Healthcare is notoriously slow at adapting and incorporating new technologies into day-to-day operations. Healthcare lags behind as one of...
+READ MORE
+Blog
+Jan 16, 2025 7 IT Mistakes You’re Making With Your RCM Automation Partner
+The right revenue cycle management (RCM) automation is capable of helping healthcare organizations overcome a litany of issues —...
+READ MORE
+Blog
+Jan 16, 2025 Questions Healthcare IT Teams Should Ask About Revenue Cycle Automation
+RCM leaders at your organization are discussing automation. Period. The healthcare revenue cycle is fighting non-stop battles. Staffing challenges...
+READ MORE
+Blog
+Jan 16, 2025 9 Healthcare Technology Trends To Watch
+Keeping track of the rapid changes in healthcare technology is no small task. The industry has seen numerous healthcare...
+READ MORE
+Blog
+Nov 30, 2022 The Gradient Podcast: An Interview on AI and Healthcare With AKASA CTO and Co-Founder Varun Ganapathi
+On a recent episode of the Gradient Podcast, host Daniel Bashir sat down with AKASA CTO and co-founder, Varun...
+READ MORE
+Blog
+Sep 1, 2022 Machine Learning in Medicine: Using AI to Predict Optimal Treatments
+At AKASA, we’re always thinking about how we can use machine learning (ML) and artificial intelligence (AI) to better...
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US

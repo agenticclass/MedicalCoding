@@ -1,0 +1,198 @@
+URL: https://akasa.com/blog/your-healthcare-revenue-cycle-dictionary/
+
+Your Healthcare Revenue Cycle Dictionary | AKASA
+Blog
+Your Healthcare Revenue Cycle DictionaryAll the terms you need to know about revenue cycle management.
+AKASA October 04, 2023
+The Gist
+From A/R days to clean claims to upcoding, this revenue cycle dictionary will help decode the intricacies of RCM.
+Blog Contents
+A
+B
+C
+D
+E
+F
+G
+H
+I
+M
+N
+O
+P
+R
+S
+T
+U
+V
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember. Here are some of the phrases commonly used in the medical billing/revenue cycle management industry.
+Keep in mind: This list is constantly evolving. And many healthcare providers and payers have specific terms, unique to their specialties, processes, and platforms.
+A
+Accountable care organization (ACO): Healthcare organizations comprised of doctors, hospitals, and other types of healthcare professionals that share responsibility for providing value-based care to a population of patients. ACOs are characterized by the coordinated care that they deliver. Coordinated care efforts can lead to a reduction in unnecessary medical care, improved health outcomes for patients, and savings for providers. ACOs are incentivized to administer quality and cost-effective healthcare through value-based payment models tied to quality metrics. Medicare offers several ACO programs, including the Medicare Shared Savings Program, Advanced Payment ACO Model, and Pioneer ACO Model. There are currently 483 ACOs, according to the Centers for Medicare & Medicaid Services (CMS)
+Accounts receivable days (A/R Days/Days in A/R): Measurement of how many days it takes to receive payment — from when the claim is billed or the service rendered. It’s essentially a measurement of how long things are sitting on your books without payment.
+Adjudication: Final determination of the issues involving settling an insurance claim.
+Admission notification: Notification to a payer when a patient is admitted, which assists with timely and correct billing.
+Advance beneficiary notice: Written notice from Medicare that the services being provided will not be covered.
+Aging: Claims or unpaid insurance that are overdue.
+Allowed amount: The amount an insurance company will write off when working with a contracted payer. The difference between the billed amount and the allowed is written off, and the difference between the allowed amount and the paid is what the patient pays as their co-insurance, deductible, or copay.
+Alternative payment model: Traditionally, healthcare providers have been paid through a fee-for-service (FFS) model. Under this model, every time a provider delivered service, they were paid a negotiated price for each activity. This incentivized some providers to administer as many tests as possible so they could collect as much reimbursement as possible. Sometimes, patients receive tests and services they may not have needed. Because the FFS model continued to drain the industry financially, healthcare reformers created alternative payment models, incentivizing service quality over volume. Some of these models include ACOs, bundled payments, and reimbursements tied to quality reporting bonuses and penalties.
+Allowed amount: The amount an insurance company will pay to reimburse a healthcare service or procedure. The patient typically pays the balance if there’s any remainder.
+Ambulatory: Care not requiring a hospital stay and generally performed outside of a hospital setting (though not always). There are different ways that this can be billed. The revenue cycle may use CMS form 1500, whereas hospital billing may use CMS form UB-04.
+Appeal: The process by which a patient or provider attempts to persuade an insurance payer to pay for more (or even any) of a medical claim. An appeal on a claim only occurs after a claim has either been denied or rejected.
+Applied to deductible (ATD): The amount of money a patient owes a healthcare provider that goes to paying their annual deductible. A patient’s deductible varies and depends on that patient’s insurance policy.
+Assignment of benefits (AOB): Insurance payments paid directly to the healthcare provider for medical services administered to the patient, when an agreement with that payer is in place. The assignment of benefits occurs after a claim has been successfully processed.
+B
+Bundled payments: Flat pricing structure that covers a full episode of care for patients with certain acute conditions. With this model, providers are compensated with a single payment for an episode of care. Various providers share a single payment for their services to the patient. Bundled payments are supposed to encourage more dynamic relationships among healthcare providers. Insurers are paying providers with bundled payments more often for various procedures, including knee and hip replacement and organ transplants.
+Business/back office: The business office or back office is the final stage of the healthcare revenue cycle, which focuses on billing, insurance follow-up, collecting payment, denials appeals, financial reporting, credit balances, and other aspects of cash collections.
+C
+Capitation: A fixed payment paid to providers, per patient over a defined period — regardless of whether or not the patient receives care. Capitated arrangements typically occur within HMOs, which pay providers a specific amount based on the patient’s health risks, age, history, race, etc.
+Charity care: No-cost or low-cost care to patients who can’t afford services. Application is necessary to complete with the assistance of a financial counselor.
+Claim: A request by a patient (or their provider) to that individual’s insurance company to pay for services obtained from a healthcare professional. Or an itemized statement of healthcare services and their costs provided by a hospital, physician’s office, or another provider facility. Claims are submitted to the insurer by either the patient or the provider for payment of the costs incurred, using 1500/UB forms.
+Claim adjustment reason codes (CARC): Explains why a particular line item(s)/ charge(s) was adjusted on the electronic remittance advice (ERA).
+Claim denial: When an insurance company refuses to pay a claim. Denials often occur when a patient is deemed ineligible for a service rendered. This frequently happens when an eligibility check isn’t performed. Failure to get prior authorization, as well as coding errors or lack of documentation, are additional common causes of denials.
+Claim form HCFA/CMS-1500: Claim form used to bill under non-institutional providers such as physicians, nurse practitioners, etc.
+Claim form UB-04: Claim form used to bill under hospitals and inpatient and outpatient services.
+Claim rejection: Different from a denial, in that the claim is rejected by the payer and returned for further review and follow-up by the provider. Typically this means a piece of information was inaccurate or more details are needed before the payer can provide a definitive answer. A claim rejection is allowed to be resubmitted, unlike a denial.
+Claim status: When a submitted claim is in the process of being adjudicated by the payer.
+Claim status check: When a provider checks with a payer to see the status of a healthcare claim. This allows the provider to estimate if and when they may receive accurate billing or payment or determine that intervention is needed by them to receive payment on the claim.
+Clean claim: A claim received by an insurance payer that is free from errors and includes all required information. Payers will reject claims that aren’t clean and typically don’t consider them as submitted. Many providers send their claims to third parties, like clearinghouses, that specialize in creating clean claims. Any claim that isn’t clean will slow down the adjudication process.
+Clearinghouse: A third-party organization in the billing process, separate from the healthcare provider and the insurance payer. Clearinghouses review, edit, and format claims before sending them to insurance payers. This process is sometimes called “scrubbing.”
+CMS 1500: A paper form used to submit medical claims to Medicare and Medicaid. Many commercial insurance payers also require providers to submit their claims using a CMS 1500, making this one of the most common and important tools in the medical billing process.
+Coding: Part of the mid-cycle portion of the revenue cycle. Every medical condition or item on a clinician’s statement corresponds with a current procedural terminology (CPT) code. These codes are entered by clinical coders/medical coders/clinical coding officers and are essential to ensuring patients receive accurate bills.
+Co-insurance: A type of insurance arrangement between the payer and the patient that divides the payment for medical services by percentage. While this is sometimes used synonymously with a co-pay, the arrangements are different. A co-pay is a fixed amount the patient owes. With co-insurance, the patient owes a fixed percentage of the bill or allowable charges. These percentages are always listed with the payer’s percentage first (e.g., a 70-30 co-insurance).
+Coordination of benefits: Part of the insurance payment process that arises when more than one insurance plan can cover the patient’s service. During this process, correct liability is determined for primary and secondary coverage, depending on the patient’s benefits or coverage rules.
+Concierge medicine (retainer medicine): Patients usually pay physicians for a yearly membership or retainer fee for access to services their insurance company doesn’t cover. It has gained popularity among family physicians because it allows them to reduce their patient loads and provide more one-on-one attention to patients. Under this model, providers get to focus more on preventative care, while getting an increase in pay. Patients are also able to spend much more time asking physicians questions about their health.
+Copayment (co-pay): Fixed amount owed for a healthcare service, due at the time services are provided. Failure to pay the copay will not hold up payments owed by the payer, but will show up on the remit as a patient responsibility.
+Current procedural terminology (CPT) codes: Federal codes maintained by the American Medical Association (AMA) that classify all medical items and services, allowing for proper billing. They change often, which makes it challenging for revenue cycle management.
+There are four types of codes: Category I corresponds to a common procedure or service. Category II are optional supplemental codes used for performance measurement. Category III are temporary codes for new technology, procedures, and services to help with data collection and assessment. Proprietary Laboratory Analyses (PLA) codes are newer codes that describe proprietary clinical laboratory analyses.
+D
+Date of service (DOS): The date a patient receives care.
+Days out: The measurement of time between a patient’s scheduled appointment and any required eligibility, prior auth, etc. The longer the days out an organization is able to work, the better, as it allows for more buffer and time to take care of any unexpected variables (eligibility issues, prior auth taking longer from a payer, etc.).
+Deductible: The amount owed by the patient for healthcare services before an insurance plan begins to pay. Depending on the plan, some services may be covered before the deductible is met, and after many plans require patients to share in the cost via coinsurance.
+Denial: Any claim or charge that’s not being considered for payment by the payer. It could be a member/patient or provider responsibility. Denials can be individual line level or the entire claim.
+Denial appeal: In the event of a denial, the provider (and patient in some instances) can appeal the denial and make the case for why the procedure was necessary/why it should be covered.
+Denial overturned: Any previously denied claim or charge that, after further review by the payer, has been reconsidered or allowed for payment.
+Denial rate: Percentage of billing that’s denied when sent to the payer. Denial rate is a common KPI for healthcare operations, as a high rate often points to organizational issues and incurs heavy costs for providers.
+Discharge: The process of sending the patient home after the care is complete. Includes discussing and scheduling follow-up if needed, reviewing post-care medications or steps the patient should follow, and finalizing financial matters not yet resolved.
+Discharged not final billed (DNFB): Metric that tracks when a patient is discharged from a facility without submission of the bill. Oftentimes, this results from incomplete coding, inaccurate coding, or missing documentation.
+Division of financial responsibility (DOFR): Provision in a contract to determine who is financially responsible for providing a specific service.
+Down-coding: When a claim is submitted without supporting documents/information, the insurance company will reduce the code to the closest matching code, which reduces the payment.
+Diagnosis-related group (DRG) code: A system determining reimbursement from payers by classifying cases based on similar diagnoses that typically have similar costs. They are determined by the ICD diagnoses, severity of illness, length of stay, age, sex, complications, etc.
+E
+Electronic data interchange: ANSI-specified files for business data communication. Used in several industries, including healthcare.
+Electronic health record (EHR): Electronic health records have replaced paper records and act as a digital record of a patient. An EHR contains basic patient info, as well as any medical history, medications, allergies, treatments, test results, and more. This software is used by healthcare providers to submit claims to insurance companies. Epic and Oracle Health are two of the largest EHR vendors.
+Electronic medical record (EMR): Another name for an electronic health record
+Electronic remittance advice (ERA/remit): A digital version of the explanation of benefits (EOB) that goes to the provider. This document details allowed amounts, patient and provider responsibilities, and denials with the reason for denial.
+Eligibility check/insurance verification: Before anything is done, providers typically run an eligibility check/insurance verification and ensure a patient has active insurance coverage for that location or network.
+Episode of care: Services delivered over a specific period of time.
+Explanation of benefits (EOB): A document following a processed claim that is sent to the patient and details the same items as the electronic remittance advice (ERA) in easily understood terms.
+F
+Fee-for-service (FFS): A method in which doctors and other healthcare providers are paid for each service performed, such as tests and office visits.
+Financial counseling: Helping patients understand their bills, estimated costs, insurance, and payment options. Financial counselors act as the liaison between a patient and the payer, and aim to better the patient experience and ensure payment is handled properly.
+Financial policy: Written policy developed by a healthcare organization that outlines its revenue cycle management process and sets expectations for patients about their financial responsibility for services rendered. This should be clear and concise, and reviewed with every patient before providing care.
+Fiscal intermediary: A Medicare representative who processes Medicare claims.
+Formulary: A list of the costs of prescription medicines that a payer reimburses.
+G
+Group codes: Identifies specific types of adjustments on an electronic remittance advice (ERA).
+H
+Healthcare revenue cycle: All administrative and clinical functions that contribute to the capture, management, and collection of patient service revenue. This process begins the moment a referral or appointment is scheduled and ends only when the full balance of the claim is paid or resolved. Within the revenue cycle, various processes and roles are categorized into three large departments or areas: patient access, mid-cycle, and business office.
+Read more: What Is Healthcare Revenue Cycle Management?
+Health plan: Financial coverage that can be purchased from a health insurance provider. The health plan determines deductible, coinsurance, max out-of-pocket amounts, and other rules/conditions governing when the payer will pay for what health services.
+Health Insurance Portability and Accountability Act (HIPAA): A federal privacy law designed to protect a category of patient health data known as protected health information (PHI) from theft, loss, or wrongful access. Developed by the Department of Health and Human Services, these standards provide patients with access to their medical records and more control over how their personal health information is used and disclosed.
+I
+International statistical classification of diseases and related health problems (ICD) codes: International diagnostic codes run by the World Health Organization (WHO) that detail what a patient is being seen for. The current system is ICD-11, which contains about 17,000 unique codes and more than 120,000 codeable terms.
+Independent practice association (IPA): Physicians contracted with an HMO.
+Inpatient: Care provided in a hospital, where a patient is admitted and spends at least one night in the hospital.
+M
+Managed care organizations (MCO): Health plan focused on managed care with the goal of providing cost-effective medical care.
+Managed care plans: An insurance plan that requires patients to see doctors and hospitals that have a contract with the managed care company, except in the case of a medical emergency that occurs outside of the patient’s plan service area.
+Medical necessity: Part of patient access in which it’s determined if a process or procedure for a patient is deemed necessary to protect life, prevent significant illness or disability, or alleviate severe pain through treatment of a disease, illness, or ailment. If a procedure or treatment isn’t deemed medically necessary, the financial responsibility falls on the patient, not the payer.
+Medicaid: An insurance program provided by the United States government, providing coverage for low-income families and others who are eligible.
+Medicare Shared Savings Program: Voluntary program that encourages doctors, hospitals, and other providers to form an ACO to better coordinate and deliver high-quality care to Medicare patients.
+Medical loss ratio (MLR): The measure of the percentage of premium dollars that a health plan spends on medical claims and quality improvements, versus administrative costs. Obamacare requires health insurance carriers to spend the bulk of the premiums they collect on medical expenses for their insureds.
+Mid-cycle: In between patient access and the business office is the mid-cycle. This section of the revenue cycle involves physician notes, coding, and ultimately documenting any treatments, care, or diagnosis before moving on to billing.
+N
+National provider identifier (NPI): 10-digit numeric identifier attached to individual healthcare providers.
+Non-covered charge (N/C): Medical service that a patient’s insurance plan does not cover.
+Not elsewhere classifiable (NEC): Terminology used in coding if there isn’t an applicable category in ICD codes.
+Not otherwise specified (NOS): Term used for an unspecified diagnosis in ICD.
+O
+Out-of-pocket costs: Expenses for medical care that are not reimbursed by insurance. These costs include deductibles, coinsurance, and copayments for covered services, plus all costs for services that are not covered.
+Out-of-pocket maximum: The maximum amount of money a patient (or their guarantor) may be required to pay for care. It is at least the amount of the deductible according to the health plan, usually greater than.
+P
+Patient: The party receiving care/attending the provider.
+Patient access: The part of the revenue cycle that involves every process and function in the front-end of healthcare revenue cycle management, all of which pertain to onboarding and the pre-service experience. It includes registration, scheduling, eligibility/insurance verification, prior authorization, the input of patient information into the electronic health record, medical necessity, financial counseling, price estimation, and more.
+Patient-generated health data (PGHD): Data shared with clinicians from the patient themselves or family.
+Patient responsibility: The out-of-pocket costs not covered by a third-party payer, or the amount owed by the patient for services not covered by their insurance plan. This is the amount of the bill the patient is responsible for after an insurance determination has been made.
+Payer: The party paying for the medical bill/services rendered for a patient. This is typically the health insurance company, such as Aetna, Blue Cross Blue Shield, Medicare, etc. It can also be called a payor.
+Payer mix: The percentage of revenue coming from private insurance vs. government insurance vs. self-pay.
+Pre-determination: Before treatment begins, the insurer determines the maximum amount they will pay toward care.
+Pre-registration: The process of gathering all of the demographic and insurance information needed from the patient before they arrive for services.
+Price transparency: Allows consumers to know the price and out-of-pocket expense of items and services prior to receiving care.
+Read more: The Importance of Achieving Hospital Price Transparency
+Prior authorization (prior auth): Before a procedure or service is rendered or a patient sees a specialist, payers typically require prior authorization. During this process, the provider checks with the patient’s insurance to see if they’re authorized to get a procedure or see a specialist, ensuring it’s covered by insurance. This is not the same as medical necessity, where the procedure is deemed necessary or not.
+Read more: What Is Prior Authorization and How Can It Be More Efficient?
+Protected Health Information (PHI): Any identifying information that can be used to recognize a patient — whether living or deceased — that relates to: the patient’s past, present, or future physical or mental health condition, the provision of healthcare to an individual, or the past, present, or future payment for the provision of healthcare to an individual.There are 18 identifiers defined by HIPAA: name, postal address, all elements of dates except year, telephone number, fax number, email address, URL address, IP address, Social Security number, account numbers, license numbers, medical record number, health plan beneficiary number, device identifiers and their serial numbers, vehicle identifiers and serial number, biometric identifiers (finger and voice prints), full-face photos and other comparable images, and any other unique identifying number, code, or characteristic.
+Provider: The provider is the party administering care or providing service. This is typically a healthcare organization, hospital, physician group, specialty group, etc.
+Physician group: A group of physicians operating a care center together. While these can be smaller facilities, there are typically dozens, if not 50+, physicians making up a physician group facility.
+R
+Reason adjustment codes (RARC): Provides additional information related to the CARC in the Electronic Remittance Advice (ERA).
+Real-time eligibility check (RTE): Electronically checking a patient’s insurance status (actively insured or not) in real-time. This is usually paired with benefits verification (that the health plan will cover the type of services to be provided).
+Registration: The process of gathering all of the demographic and insurance information needed from the patient to provide care, either when they arrive for services or beforehand.
+Retro auth: In some cases, an authorization is submitted after the provider sees the patient. A retro auth can be the result of simply being behind, but it also happens in instances where a specialist sees a patient and determines the patient needs a procedure same-day or shortly after (before an auth can be submitted).
+Revenue code: A billing code used to name a specific room, service, or sum.
+S
+Self-pay: Balance owed by patients from either having no insurance or having a balance due after insurance pays due to coinsurance, deductibles, or uncovered services.
+Scheduling: Booking appropriate hospital/clinic resources (for example, rooms,  physicians, and equipment) with a patient at a particular location on a certain date/time. It is also determining when and where the patient will arrive for services. This is either performed in the office, over the phone, or online.
+Schedistration: Scheduling and registration combined. This describes performing registration activities while scheduling the patient.
+Specialty provider: Providers that offer a specialized service outside the realm of a general physician. These include cardiologists, dermatologists, ophthalmologists, allergists, urologists, etc.
+Supply chain management: The series of steps it takes to acquire resources, track and manage supplies, and deliver goods and services to the final consumer. Supply chain management is one of the most complex aspects of the revenue cycle, as it deals with a number of factors, including hospital supplies, data management, healthcare, and payments.
+T
+Taxonomy code: Codes used to identify a provider’s field or specialty, sometimes required to process a claim.
+Treatment authorization request (TAR): Authorization number from insurance companies provided before the treatment, with approval for patient to be treated.
+TRICARE: Federal health insurance for active duty military, reserve, veterans, and their families, previously known as CHAMPUS.
+U
+UB: Form used by hospitals to file insurance claims for medical services.
+Underpayments: When the amount collected doesn’t cover the cost of care, it’s an underpayment. They are often the result of incorrect billing, claims inaccurately priced, documents missing, reimbursement miscalculations, etc.
+Read more: How To Improve Healthcare Underpayments
+Upcoding: Illegal practice of using an ICD diagnosis code that does not match with the patient records. Often done as an attempt to increase the reimbursement from the insurance payer.
+Usual customary and reasonable: Insurer determines a coverage limit to control the maximum amount they will pay for the services administered.
+Utilization limit: Medicare sets limits on the number of times a patient can be provided a certain service annually. The claim can be rejected if the service exceeds this limit.
+V
+Value-based care: Healthcare delivery model where providers are paid based on patient outcomes — helping patients to be healthier overall through preventative care.
+Value-based reimbursement: A form of reimbursement where provider payments from payers are linked to quality and total.
+You may also like
+Blog
+Jan 13, 2025 Coding Check-Up: Is Your Medical Coding as Comprehensive as It Could Be?
+One of my favorite unspoken secrets about this industry is that no one touches everything in the revenue cycle....
+READ MORE
+Blog
+Nov 18, 2024 Future-Proofing Your RCM Team
+To improve efficiency, save costs and elevate staff productivity and satisfaction, hospitals and health systems are automating parts of...
+READ MORE
+Blog
+Apr 10, 2024 Why Prior Auth Needs Generative AI
+Timing is everything in healthcare. Patients have to arrive at the right time, auths have to be approved, care...
+READ MORE
+Blog
+Jan 16, 2025 Why Start Revenue Cycle Automation With Claim Status
+When I talk about revenue cycle automation with any healthcare leader, it’s not uncommon for their eyes to light...
+READ MORE
+Blog
+Nov 28, 2023 Top 8 Healthcare Revenue Cycle Trends for 2024
+2023 was a pivotal year in healthcare. The COVID-19 federal public health emergency came to a close, marking the...
+READ MORE
+Blog
+Jan 16, 2025 How To Improve Revenue Cycle A/R Days
+The revenue cycle is full of key performance indicators (KPIs), with every organization tracking and reporting success differently. Many...
+READ MORE
+Blog
+Nov 12, 2024 9 Ways To Work Medical Billing Denials More Effectively
+Denials aren’t getting any better. Claims are getting more complicated. Volumes are fluctuating. Payer rules are changing. We’ve tried...
+READ MORE
+Blog
+Oct 4, 2023 Your Healthcare Revenue Cycle Dictionary
+The healthcare revenue cycle in the United States is incredibly complex. There are numerous terms and acronyms to remember....
+READ MORE
+Find out how AKASA's GenAI-driven revenue cycle solutions can help you.
+Let's chatCONTACT US
